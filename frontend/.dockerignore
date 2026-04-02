@@ -1,0 +1,33 @@
+# Abhängigkeiten — werden im Container installiert
+node_modules/
+
+# Next.js Build-Cache
+.next/
+out/
+build/
+
+# Git
+.git/
+.gitignore
+
+# Secrets & Env-Dateien
+.env*
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Testing
+coverage/
+
+# Sonstiges
+.vercel/
+.DS_Store
+*.tsbuildinfo
+README.md
+
+CLAUDE.md
+AGENTS.md
