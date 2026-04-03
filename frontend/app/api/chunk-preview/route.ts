@@ -11,29 +11,24 @@ const ALLOWED_MIME_TYPES = new Set([
   "text/markdown",
 ])
 
-const MAX_BYTES = 50 * 1024 * 1024 // 50 MB
-
-function sseError(message: string): Response {
-  const event = `data: ${JSON.stringify({ stage: "error", message, error: true, progress: 0, elapsed: 0 })}\n\n`
-  return new Response(event, {
-    headers: { "Content-Type": "text/event-stream", "Cache-Control": "no-cache" },
-  })
-}
+const MAX_BYTES = 50 * 1024 * 1024
 
 export async function POST(req: NextRequest) {
   const formData = await req.formData()
   const file = formData.get("file")
 
-  if (!(file instanceof File)) return sseError("Keine Datei übermittelt.")
-  if (file.size > MAX_BYTES) return sseError("Datei überschreitet die maximale Größe von 50 MB.")
-  if (!ALLOWED_MIME_TYPES.has(file.type)) return sseError(`Dateityp '${file.type}' wird nicht unterstützt.`)
+  if (!(file instanceof File))
+    return Response.json({ error: "Keine Datei übermittelt." }, { status: 400 })
+  if (file.size > MAX_BYTES)
+    return Response.json({ error: "Datei überschreitet 50 MB." }, { status: 400 })
+  if (!ALLOWED_MIME_TYPES.has(file.type))
+    return Response.json({ error: `Dateityp '${file.type}' wird nicht unterstützt.` }, { status: 400 })
 
-  // Read file bytes once
   const fileBytes = Buffer.from(await file.arrayBuffer())
-  // Sanitise filename to prevent header injection
   const safeName = file.name.replace(/[\r\n"]/g, "_")
   const boundary = "----FormBoundary" + Date.now().toString(36)
 
+  // Build multipart body with file + all text fields
   const parts: Buffer[] = []
 
   // File part
@@ -45,7 +40,7 @@ export async function POST(req: NextRequest) {
   parts.push(fileBytes)
   parts.push(Buffer.from("\r\n"))
 
-  // Forward chunking config fields
+  // Text fields forwarded from formData
   const textFields = [
     "method", "chunk_size", "chunk_overlap",
     "sentences_per_chunk", "paragraphs_per_chunk",
@@ -72,7 +67,7 @@ export async function POST(req: NextRequest) {
     const options: http.RequestOptions = {
       hostname: parsed.hostname,
       port: parsed.port || "8000",
-      path: "/api/v1/ingest",
+      path: "/api/v1/chunk-preview",
       method: "POST",
       headers: {
         "Content-Type": `multipart/form-data; boundary=${boundary}`,
@@ -81,28 +76,25 @@ export async function POST(req: NextRequest) {
     }
 
     const backendReq = http.request(options, (backendRes) => {
-      // Stream SSE response back to the browser with no timeout
-      const readable = new ReadableStream<Uint8Array>({
-        start(controller) {
-          backendRes.on("data", (chunk: Buffer) => controller.enqueue(new Uint8Array(chunk)))
-          backendRes.on("end", () => controller.close())
-          backendRes.on("error", (err) => controller.error(err))
-        },
+      let raw = ""
+      backendRes.setEncoding("utf8")
+      backendRes.on("data", (chunk: string) => { raw += chunk })
+      backendRes.on("end", () => {
+        try {
+          const data = JSON.parse(raw)
+          resolve(Response.json(data, { status: backendRes.statusCode ?? 200 }))
+        } catch {
+          resolve(Response.json({ error: "Ungültige Antwort vom Backend." }, { status: 502 }))
+        }
       })
-
-      resolve(
-        new Response(readable, {
-          status: 200,
-          headers: {
-            "Content-Type": "text/event-stream",
-            "Cache-Control": "no-cache",
-            "X-Accel-Buffering": "no",
-          },
-        })
+      backendRes.on("error", () =>
+        resolve(Response.json({ error: "Fehler beim Lesen der Backend-Antwort." }, { status: 502 }))
       )
     })
 
-    backendReq.on("error", () => resolve(sseError("Backend nicht erreichbar.")))
+    backendReq.on("error", () =>
+      resolve(Response.json({ error: "Backend nicht erreichbar." }, { status: 502 }))
+    )
     backendReq.write(body)
     backendReq.end()
   })

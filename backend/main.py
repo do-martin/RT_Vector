@@ -9,9 +9,11 @@ from fastapi.middleware.cors import CORSMiddleware
 from docling.chunking import HybridChunker
 from docling.document_converter import DocumentConverter
 
+import nltk
+
 import db
 import embeddings
-from api.v1 import agent, chat, conversations, documents, ingest, settings
+from api.v1 import agent, chat, chunk_preview, conversations, documents, ingest, settings
 
 logging.basicConfig(
     level=logging.INFO,
@@ -42,6 +44,10 @@ async def lifespan(app: FastAPI):
     logger.info("Loading reranker model (~280 MB)...")
     embeddings.get_reranker()
     logger.info("Reranker ready.")
+
+    logger.info("Downloading NLTK sentence tokenizer data...")
+    nltk.download("punkt_tab", quiet=True)
+    logger.info("NLTK ready.")
 
     logger.info("Backend fully ready.")
     yield
@@ -84,6 +90,7 @@ async def root():
 
 app.include_router(agent.router,         prefix="/api/v1")
 app.include_router(chat.router,          prefix="/api/v1")
+app.include_router(chunk_preview.router, prefix="/api/v1")
 app.include_router(conversations.router, prefix="/api/v1")
 app.include_router(documents.router,     prefix="/api/v1")
 app.include_router(ingest.router,        prefix="/api/v1")

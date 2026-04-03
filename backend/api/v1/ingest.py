@@ -6,9 +6,10 @@ import tempfile
 import time
 from pathlib import Path
 
-from fastapi import APIRouter, File, Request, UploadFile
+from fastapi import APIRouter, File, Form, Request, UploadFile
 from fastapi.responses import StreamingResponse
 
+import chunkers
 import db
 import embeddings
 
@@ -44,7 +45,19 @@ def _contextual_texts(chunk_texts: list[str]) -> list[str]:
 
 
 @router.post("/ingest")
-async def ingest_doc(request: Request, file: UploadFile = File(...)):
+async def ingest_doc(
+    request: Request,
+    file: UploadFile = File(...),
+    method: str = Form("hybrid"),
+    chunk_size: int = Form(1000),
+    chunk_overlap: int = Form(150),
+    sentences_per_chunk: int = Form(5),
+    paragraphs_per_chunk: int = Form(3),
+    window_size: int = Form(800),
+    step_size: int = Form(400),
+    token_size: int = Form(256),
+    token_overlap: int = Form(32),
+):
     contents = await file.read()
     filename = file.filename or "unknown"
     content_hash = hashlib.md5(contents).hexdigest()
@@ -52,8 +65,20 @@ async def ingest_doc(request: Request, file: UploadFile = File(...)):
     suffix = Path(filename).suffix or ".pdf"
 
     converter = request.app.state.converter
-    chunker = request.app.state.chunker
+    docling_chunker = request.app.state.chunker
     pool = request.app.state.db_pool
+
+    cfg = chunkers.ChunkingConfig(
+        method=method,
+        chunk_size=chunk_size,
+        chunk_overlap=chunk_overlap,
+        sentences_per_chunk=sentences_per_chunk,
+        paragraphs_per_chunk=paragraphs_per_chunk,
+        window_size=window_size,
+        step_size=step_size,
+        token_size=token_size,
+        token_overlap=token_overlap,
+    )
 
     async def generate():
         start = time.monotonic()
@@ -96,18 +121,20 @@ async def ingest_doc(request: Request, file: UploadFile = File(...)):
 
             # ── Chunk ──────────────────────────────────────────────────────────
             yield _sse("chunking", "Text wird in Abschnitte aufgeteilt…", 60, elapsed())
-            doc_chunks = list(chunker.chunk(result.document))
+            chunk_list, _ = await loop.run_in_executor(
+                None, chunkers.apply_chunker, method, result.document, docling_chunker, cfg
+            )
 
-            if not doc_chunks:
+            if not chunk_list:
                 yield _sse("error", "Dokument enthält keine verarbeitbaren Inhalte.", 0, elapsed(), error=True)
                 return
 
-            chunk_texts = [chunk.text for chunk in doc_chunks]
+            chunk_texts = [c["text"] for c in chunk_list]
 
             # ── Embed (with contextual overlap) ────────────────────────────────
             yield _sse(
                 "embedding",
-                f"Embeddings werden berechnet ({len(doc_chunks)} Chunks, mit Kontext-Overlap)…",
+                f"Embeddings werden berechnet ({len(chunk_texts)} Chunks, mit Kontext-Overlap)…",
                 70,
                 elapsed(),
             )

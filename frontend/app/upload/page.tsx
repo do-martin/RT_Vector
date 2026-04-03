@@ -1,11 +1,14 @@
 "use client"
 
 import { useState, useCallback, useRef, useEffect } from "react"
-import { Upload, FileText, CheckCircle, AlertCircle, X, Loader2, Trash2 } from "lucide-react"
+import { Upload, FileText, CheckCircle, AlertCircle, X, Loader2, Trash2, Eye } from "lucide-react"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { Badge } from "@/components/ui/badge"
-import { useIngest } from "@/lib/ingest-context"
+import { Input } from "@/components/ui/input"
+import { Label } from "@/components/ui/label"
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select"
+import { useIngest, type ChunkingConfig } from "@/lib/ingest-context"
 import { cn } from "@/lib/utils"
 
 // ── Types ─────────────────────────────────────────────────────────────────────
@@ -17,7 +20,53 @@ interface Document {
   chunk_count: number
 }
 
+interface PreviewChunk {
+  index: number
+  text: string
+  char_start: number  // -1 when unavailable
+  char_end: number
+}
+
+interface MethodResult {
+  method_label: string
+  chunk_count: number
+  full_text: string
+  chunks: PreviewChunk[]
+  error?: string
+}
+
+interface PreviewResult {
+  filename: string
+  results: Record<string, MethodResult>
+}
+
 const ACCEPTED = [".pdf", ".docx", ".doc", ".txt", ".md"]
+
+const CHUNKING_METHODS = [
+  // ── Built-in ────────────────────────────────────────────────────────────────
+  { value: "hybrid",        label: "Hybrid (Docling)",         description: "Strukturbewusst – empfohlen für PDFs/DOCX" },
+  { value: "fixed",         label: "Feste Größe",              description: "Feste Zeichenanzahl mit Überlapp" },
+  { value: "sentence",      label: "Satzbasiert (Regex)",      description: "Einfache Satztrennung per Regex" },
+  { value: "paragraph",     label: "Absatzbasiert",            description: "Gruppiert Absätze zu Chunks" },
+  { value: "sliding",       label: "Gleitendes Fenster",       description: "Überlappende Fenster fixer Größe" },
+  // ── LangChain ───────────────────────────────────────────────────────────────
+  { value: "recursive",     label: "Recursive Character",      description: "Standard – trennt an Absatz → Satz → Wort → Zeichen" },
+  { value: "token",         label: "Token Splitter",           description: "Nach echten LLM-Tokens (tiktoken)" },
+  { value: "markdown",      label: "Markdown Header",          description: "Teilt an # / ## / ### Überschriften" },
+  { value: "sentence_nltk", label: "Satzbasiert (NLTK)",       description: "Präzise Satzgrenzen via NLTK" },
+]
+
+const DEFAULT_CONFIG: ChunkingConfig = {
+  method: "hybrid",
+  chunkSize: 1000,
+  chunkOverlap: 150,
+  sentencesPerChunk: 5,
+  paragraphsPerChunk: 3,
+  windowSize: 800,
+  stepSize: 400,
+  tokenSize: 256,
+  tokenOverlap: 32,
+}
 
 function sizeEstimate(bytes: number): string {
   const mb = bytes / 1024 / 1024
@@ -43,6 +92,312 @@ function formatDate(iso: string): string {
     day: "2-digit", month: "2-digit", year: "numeric",
     hour: "2-digit", minute: "2-digit",
   })
+}
+
+// ── helpers ───────────────────────────────────────────────────────────────────
+
+async function requestPreview(file: File, cfg: ChunkingConfig): Promise<PreviewResult> {
+  const form = new FormData()
+  form.append("file", file)
+  form.append("chunk_size",           String(cfg.chunkSize))
+  form.append("chunk_overlap",        String(cfg.chunkOverlap))
+  form.append("sentences_per_chunk",  String(cfg.sentencesPerChunk))
+  form.append("paragraphs_per_chunk", String(cfg.paragraphsPerChunk))
+  form.append("window_size",          String(cfg.windowSize))
+  form.append("step_size",            String(cfg.stepSize))
+  form.append("token_size",           String(cfg.tokenSize))
+  form.append("token_overlap",        String(cfg.tokenOverlap))
+  const res = await fetch("/api/chunk-preview", { method: "POST", body: form })
+  const data = await res.json()
+  if (data.error) throw new Error(data.error)
+  return data as PreviewResult
+}
+
+// ── Chunking params (inline, no collapse) ────────────────────────────────────
+
+function ChunkingParams({
+  config,
+  onChange,
+}: {
+  config: ChunkingConfig
+  onChange: (c: ChunkingConfig) => void
+}) {
+  const set = (p: Partial<ChunkingConfig>) => onChange({ ...config, ...p })
+
+  return (
+    <div className="space-y-3">
+      <div className="space-y-1.5">
+        <Label className="text-xs text-muted-foreground">Chunking-Methode</Label>
+        <Select value={config.method} onValueChange={(v) => set({ method: v })}>
+          <SelectTrigger className="h-8 text-sm">
+            <SelectValue />
+          </SelectTrigger>
+          <SelectContent>
+            {CHUNKING_METHODS.map((m) => (
+              <SelectItem key={m.value} value={m.value}>
+                <span className="font-medium">{m.label}</span>
+                <span className="ml-2 text-xs text-muted-foreground">{m.description}</span>
+              </SelectItem>
+            ))}
+          </SelectContent>
+        </Select>
+      </div>
+
+      {/* Char-size methods: fixed, recursive, sentence_nltk */}
+      {["fixed", "recursive", "sentence_nltk"].includes(config.method) && (
+        <div className="grid grid-cols-2 gap-2">
+          <div className="space-y-1">
+            <Label className="text-xs text-muted-foreground">Chunk-Größe (Zeichen)</Label>
+            <Input type="number" min={100} max={10000} className="h-8 text-sm"
+              value={config.chunkSize} onChange={(e) => set({ chunkSize: Number(e.target.value) })} />
+          </div>
+          <div className="space-y-1">
+            <Label className="text-xs text-muted-foreground">Überlappung (Zeichen)</Label>
+            <Input type="number" min={0} max={2000} className="h-8 text-sm"
+              value={config.chunkOverlap} onChange={(e) => set({ chunkOverlap: Number(e.target.value) })} />
+          </div>
+        </div>
+      )}
+
+      {config.method === "sliding" && (
+        <div className="grid grid-cols-2 gap-2">
+          <div className="space-y-1">
+            <Label className="text-xs text-muted-foreground">Fenstergröße (Zeichen)</Label>
+            <Input type="number" min={100} max={10000} className="h-8 text-sm"
+              value={config.windowSize} onChange={(e) => set({ windowSize: Number(e.target.value) })} />
+          </div>
+          <div className="space-y-1">
+            <Label className="text-xs text-muted-foreground">Schrittweite (Zeichen)</Label>
+            <Input type="number" min={50} max={5000} className="h-8 text-sm"
+              value={config.stepSize} onChange={(e) => set({ stepSize: Number(e.target.value) })} />
+          </div>
+        </div>
+      )}
+
+      {config.method === "token" && (
+        <div className="grid grid-cols-2 gap-2">
+          <div className="space-y-1">
+            <Label className="text-xs text-muted-foreground">Chunk-Größe (Tokens)</Label>
+            <Input type="number" min={32} max={4096} className="h-8 text-sm"
+              value={config.tokenSize} onChange={(e) => set({ tokenSize: Number(e.target.value) })} />
+          </div>
+          <div className="space-y-1">
+            <Label className="text-xs text-muted-foreground">Überlappung (Tokens)</Label>
+            <Input type="number" min={0} max={512} className="h-8 text-sm"
+              value={config.tokenOverlap} onChange={(e) => set({ tokenOverlap: Number(e.target.value) })} />
+          </div>
+        </div>
+      )}
+
+      {config.method === "sentence" && (
+        <div className="space-y-1">
+          <Label className="text-xs text-muted-foreground">Sätze pro Chunk</Label>
+          <Input type="number" min={1} max={50} className="h-8 text-sm w-32"
+            value={config.sentencesPerChunk} onChange={(e) => set({ sentencesPerChunk: Number(e.target.value) })} />
+        </div>
+      )}
+
+      {config.method === "paragraph" && (
+        <div className="space-y-1">
+          <Label className="text-xs text-muted-foreground">Absätze pro Chunk</Label>
+          <Input type="number" min={1} max={20} className="h-8 text-sm w-32"
+            value={config.paragraphsPerChunk} onChange={(e) => set({ paragraphsPerChunk: Number(e.target.value) })} />
+        </div>
+      )}
+
+      {["hybrid", "markdown"].includes(config.method) && (
+        <p className="text-xs text-muted-foreground">
+          {config.method === "hybrid"
+            ? "Docling erkennt die Dokumentstruktur automatisch."
+            : "Teilt an Markdown-Überschriften (# / ## / ###). Ideal für strukturierte Dokumente."}
+        </p>
+      )}
+    </div>
+  )
+}
+
+// ── Preview Dialog ────────────────────────────────────────────────────────────
+// All methods are pre-computed — switching is instant, no extra requests.
+
+function ChunkPreviewDialog({
+  result,
+  initialMethod,
+  onClose,
+}: {
+  result: PreviewResult
+  initialMethod: string
+  onClose: () => void
+}) {
+  const [method, setMethod]     = useState(initialMethod)
+  const [selected, setSelected] = useState<number | null>(null)
+  const chunkRefs = useRef<(HTMLDivElement | null)[]>([])
+
+  const current = result.results[method]
+
+  // Close on Escape
+  useEffect(() => {
+    const handler = (e: KeyboardEvent) => { if (e.key === "Escape") onClose() }
+    window.addEventListener("keydown", handler)
+    return () => window.removeEventListener("keydown", handler)
+  }, [onClose])
+
+  const selectChunk = (idx: number) => {
+    setSelected(idx)
+    chunkRefs.current[idx]?.scrollIntoView({ behavior: "smooth", block: "nearest" })
+  }
+
+  const segments = current && !current.error
+    ? buildSegments(current.full_text, current.chunks)
+    : []
+
+  return (
+    <div
+      className="fixed inset-0 z-50 flex items-center justify-center bg-black/60 backdrop-blur-sm p-4"
+      onClick={(e) => { if (e.target === e.currentTarget) onClose() }}
+    >
+      <div className="bg-background border rounded-xl shadow-2xl flex flex-col w-full max-w-6xl h-[90vh]">
+
+        {/* Header */}
+        <div className="flex items-center gap-3 px-5 py-3 border-b shrink-0">
+          <FileText className="size-4 shrink-0 text-muted-foreground" />
+          <span className="font-medium text-sm truncate min-w-0 flex-1">{result.filename}</span>
+
+          {/* Method switcher — instant, no loading */}
+          <Select value={method} onValueChange={(v) => { setMethod(v); setSelected(null) }}>
+            <SelectTrigger className="h-7 text-xs w-52 shrink-0">
+              <SelectValue />
+            </SelectTrigger>
+            <SelectContent>
+              {CHUNKING_METHODS.map((m) => {
+                const r = result.results[m.value]
+                return (
+                  <SelectItem key={m.value} value={m.value} className="text-xs">
+                    <span>{m.label}</span>
+                    {r && !r.error && (
+                      <span className="ml-2 text-muted-foreground">{r.chunk_count} Chunks</span>
+                    )}
+                  </SelectItem>
+                )
+              })}
+            </SelectContent>
+          </Select>
+
+          {current && !current.error && (
+            <Badge variant="outline" className="shrink-0 text-xs">{current.chunk_count} Chunks</Badge>
+          )}
+
+          <Button variant="ghost" size="icon-sm" onClick={onClose} className="shrink-0">
+            <X className="size-4" />
+          </Button>
+        </div>
+
+        {/* Body */}
+        {!current || current.error ? (
+          <div className="flex-1 flex items-center justify-center text-sm text-destructive">
+            {current?.error ?? "Keine Daten für diese Methode."}
+          </div>
+        ) : (
+          <div className="flex flex-1 min-h-0 divide-x">
+            {/* Left: original text with highlights */}
+            <div className="flex flex-col flex-1 min-w-0">
+              <div className="px-4 py-2 text-xs font-medium text-muted-foreground border-b bg-muted/20 shrink-0">
+                Originaltext
+              </div>
+              <div className="flex-1 overflow-y-auto px-5 py-4 text-sm leading-relaxed font-mono whitespace-pre-wrap break-words">
+                {segments.map((seg, i) =>
+                  seg.chunkIndex !== null ? (
+                    <mark
+                      key={i}
+                      onClick={() => selectChunk(seg.chunkIndex!)}
+                      className={cn(
+                        "cursor-pointer rounded-sm transition-colors",
+                        seg.chunkIndex % 2 === 0
+                          ? "bg-blue-500/10 hover:bg-blue-500/20"
+                          : "bg-violet-500/10 hover:bg-violet-500/20",
+                        selected === seg.chunkIndex && "ring-1 ring-primary bg-primary/25",
+                      )}
+                    >
+                      {seg.text}
+                    </mark>
+                  ) : (
+                    <span key={i} className="text-muted-foreground/50">{seg.text}</span>
+                  )
+                )}
+              </div>
+            </div>
+
+            {/* Right: chunk list */}
+            <div className="flex flex-col w-[380px] shrink-0">
+              <div className="px-4 py-2 text-xs font-medium text-muted-foreground border-b bg-muted/20 shrink-0">
+                Chunks ({current.chunk_count})
+              </div>
+              <div className="flex-1 overflow-y-auto px-3 py-3 space-y-2">
+                {current.chunks.map((chunk) => (
+                  <div
+                    key={chunk.index}
+                    ref={(el) => { chunkRefs.current[chunk.index] = el }}
+                    onClick={() => setSelected(chunk.index === selected ? null : chunk.index)}
+                    className={cn(
+                      "rounded-lg border p-3 cursor-pointer transition-colors text-xs",
+                      selected === chunk.index
+                        ? "border-primary bg-primary/5"
+                        : "hover:border-primary/40 hover:bg-muted/30"
+                    )}
+                  >
+                    <div className="flex items-center gap-2 mb-1.5">
+                      <Badge variant="outline" className="text-[10px] px-1.5 py-0 h-4">#{chunk.index + 1}</Badge>
+                      <span className="text-muted-foreground">{chunk.text.length} Zeichen</span>
+                    </div>
+                    <p className="text-foreground/80 line-clamp-4 leading-relaxed">{chunk.text}</p>
+                  </div>
+                ))}
+              </div>
+            </div>
+          </div>
+        )}
+      </div>
+    </div>
+  )
+}
+
+// Build highlighted segments from full_text + chunk list
+interface Segment { text: string; chunkIndex: number | null }
+
+function buildSegments(fullText: string, chunks: PreviewChunk[]): Segment[] {
+  const segments: Segment[] = []
+
+  // Use exact char positions when available (backend provides them)
+  const positioned = chunks.filter(c => c.char_start >= 0)
+  if (positioned.length === chunks.length && chunks.length > 0) {
+    const sorted = [...chunks].sort((a, b) => a.char_start - b.char_start)
+    let pos = 0
+    for (const chunk of sorted) {
+      if (chunk.char_start > pos)
+        segments.push({ text: fullText.slice(pos, chunk.char_start), chunkIndex: null })
+      segments.push({ text: fullText.slice(chunk.char_start, chunk.char_end), chunkIndex: chunk.index })
+      pos = Math.max(pos, chunk.char_end)
+    }
+    if (pos < fullText.length)
+      segments.push({ text: fullText.slice(pos), chunkIndex: null })
+    return segments
+  }
+
+  // Fallback: indexOf for hybrid / markdown (no positions)
+  let pos = 0
+  for (const chunk of chunks) {
+    const needle = chunk.text.trim()
+    if (!needle) continue
+    const idx = fullText.indexOf(needle, pos)
+    if (idx === -1) {
+      segments.push({ text: needle + " ", chunkIndex: chunk.index })
+      continue
+    }
+    if (idx > pos) segments.push({ text: fullText.slice(pos, idx), chunkIndex: null })
+    segments.push({ text: fullText.slice(idx, idx + needle.length), chunkIndex: chunk.index })
+    pos = idx + needle.length
+  }
+  if (pos < fullText.length) segments.push({ text: fullText.slice(pos), chunkIndex: null })
+  return segments
 }
 
 // ── Documents table ───────────────────────────────────────────────────────────
@@ -113,32 +468,16 @@ function DocumentsTable({
                       {confirmId === doc.id ? (
                         <div className="flex items-center justify-end gap-1">
                           <span className="text-xs text-muted-foreground mr-1">Löschen?</span>
-                          <Button
-                            size="icon-sm"
-                            variant="destructive"
-                            onClick={() => handleDelete(doc.id)}
-                            disabled={deletingId === doc.id}
-                          >
-                            {deletingId === doc.id
-                              ? <Loader2 className="size-3 animate-spin" />
-                              : <CheckCircle className="size-3" />}
+                          <Button size="icon-sm" variant="destructive" onClick={() => handleDelete(doc.id)} disabled={deletingId === doc.id}>
+                            {deletingId === doc.id ? <Loader2 className="size-3 animate-spin" /> : <CheckCircle className="size-3" />}
                           </Button>
-                          <Button
-                            size="icon-sm"
-                            variant="ghost"
-                            onClick={() => setConfirmId(null)}
-                          >
+                          <Button size="icon-sm" variant="ghost" onClick={() => setConfirmId(null)}>
                             <X className="size-3" />
                           </Button>
                         </div>
                       ) : (
-                        <Button
-                          size="icon-sm"
-                          variant="ghost"
-                          className="text-muted-foreground hover:text-destructive"
-                          onClick={() => setConfirmId(doc.id)}
-                          disabled={deletingId === doc.id}
-                        >
+                        <Button size="icon-sm" variant="ghost" className="text-muted-foreground hover:text-destructive"
+                          onClick={() => setConfirmId(doc.id)} disabled={deletingId === doc.id}>
                           <Trash2 className="size-3.5" />
                         </Button>
                       )}
@@ -159,10 +498,13 @@ function DocumentsTable({
 export default function UploadPage() {
   const { status, file: activeFile, progress, error, elapsed, startUpload, reset } = useIngest()
 
-  const [pendingFile, setPendingFile] = useState<File | null>(null)
-  const [dragging, setDragging] = useState(false)
-  const [docs, setDocs] = useState<Document[]>([])
-  const [docsLoading, setDocsLoading] = useState(true)
+  const [pendingFile, setPendingFile]     = useState<File | null>(null)
+  const [dragging, setDragging]           = useState(false)
+  const [docs, setDocs]                   = useState<Document[]>([])
+  const [docsLoading, setDocsLoading]     = useState(true)
+  const [config, setConfig]               = useState<ChunkingConfig>(DEFAULT_CONFIG)
+  const [previewResult, setPreviewResult] = useState<PreviewResult | null>(null)
+  const [previewing, setPreviewing]       = useState(false)
   const inputRef = useRef<HTMLInputElement>(null)
 
   const fetchDocs = useCallback(async () => {
@@ -176,11 +518,7 @@ export default function UploadPage() {
   }, [])
 
   useEffect(() => { fetchDocs() }, [fetchDocs])
-
-  // Refresh list after successful upload
-  useEffect(() => {
-    if (status === "success") fetchDocs()
-  }, [status, fetchDocs])
+  useEffect(() => { if (status === "success") fetchDocs() }, [status, fetchDocs])
 
   const selectFile = useCallback((f: File) => setPendingFile(f), [])
 
@@ -196,12 +534,11 @@ export default function UploadPage() {
 
   const handleUpload = () => {
     if (!pendingFile) return
-    startUpload(pendingFile)
+    startUpload(pendingFile, config)
     setPendingFile(null)
   }
 
   const handleReset = () => { reset(); clearPending() }
-
   const handleDelete = async (id: number) => {
     await fetch(`/api/documents/${id}`, { method: "DELETE" })
     setDocs((prev) => prev.filter((d) => d.id !== id))
@@ -224,6 +561,7 @@ export default function UploadPage() {
 
         {/* ── Left: Upload ── */}
         <div className="space-y-4">
+
           {/* Drop zone */}
           <Card>
             <CardContent className="p-0">
@@ -233,14 +571,15 @@ export default function UploadPage() {
                 onDrop={!isProcessing ? onDrop : undefined}
                 onClick={() => !displayFile && !isProcessing && inputRef.current?.click()}
                 className={cn(
-                  "flex flex-col items-center justify-center gap-4 rounded-xl p-10 text-center transition-colors",
+                  "flex flex-col items-center justify-center gap-4 rounded-t-xl p-10 text-center transition-colors",
                   !displayFile && !isProcessing && "cursor-pointer",
                   dragging
                     ? "border-2 border-dashed border-primary bg-primary/5"
                     : "border-2 border-dashed border-border hover:border-primary/40 hover:bg-muted/30"
                 )}
               >
-                <input ref={inputRef} type="file" accept={ACCEPTED.join(",")} className="hidden" onChange={(e) => { const f = e.target.files?.[0]; if (f) selectFile(f) }} />
+                <input ref={inputRef} type="file" accept={ACCEPTED.join(",")} className="hidden"
+                  onChange={(e) => { const f = e.target.files?.[0]; if (f) selectFile(f) }} />
 
                 {!displayFile ? (
                   <>
@@ -277,15 +616,37 @@ export default function UploadPage() {
                   </div>
                 )}
               </div>
+
+              {/* Chunking config — always visible once file selected */}
+              {pendingFile && !isProcessing && (
+                <div className="px-5 py-4 border-t space-y-3">
+                  <ChunkingParams config={config} onChange={setConfig} />
+                </div>
+              )}
             </CardContent>
           </Card>
 
-          {/* Upload button */}
-          {pendingFile && status !== "uploading" && (
-            <Button onClick={handleUpload} className="w-full">
-              <Upload className="size-4" />
-              Hochladen &amp; verarbeiten
-            </Button>
+          {/* Action buttons */}
+          {pendingFile && !isProcessing && (
+            <div className="flex gap-2">
+              <Button variant="outline" disabled={previewing} onClick={async () => {
+                setPreviewing(true)
+                try {
+                  const r = await requestPreview(pendingFile, config)
+                  setPreviewResult(r)
+                } catch (e) {
+                  alert(e instanceof Error ? e.message : "Vorschau fehlgeschlagen.")
+                } finally {
+                  setPreviewing(false)
+                }
+              }} className="flex-1">
+                {previewing ? <><Loader2 className="size-4 animate-spin" /> Wird analysiert…</> : <><Eye className="size-4" /> Chunk-Vorschau</>}
+              </Button>
+              <Button onClick={handleUpload} className="flex-1">
+                <Upload className="size-4" />
+                Hochladen &amp; verarbeiten
+              </Button>
+            </div>
           )}
 
           {/* Progress */}
@@ -367,6 +728,15 @@ export default function UploadPage() {
         {/* ── Right: Documents table ── */}
         <DocumentsTable docs={docs} loading={docsLoading} onDelete={handleDelete} />
       </div>
+
+      {/* Preview dialog */}
+      {previewResult && (
+        <ChunkPreviewDialog
+          result={previewResult}
+          initialMethod={config.method}
+          onClose={() => setPreviewResult(null)}
+        />
+      )}
     </div>
   )
 }

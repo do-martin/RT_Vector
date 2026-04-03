@@ -13,6 +13,18 @@ import {
 export type UploadStatus = "idle" | "uploading" | "success" | "error"
 export type Stage = "received" | "converting" | "chunking" | "embedding" | "storing" | "done"
 
+export interface ChunkingConfig {
+  method: string
+  chunkSize: number
+  chunkOverlap: number
+  sentencesPerChunk: number
+  paragraphsPerChunk: number
+  windowSize: number
+  stepSize: number
+  tokenSize: number
+  tokenOverlap: number
+}
+
 export interface ProgressEvent {
   stage: Stage | "error"
   message: string
@@ -35,7 +47,7 @@ interface IngestContextType {
   progress: ProgressEvent | null
   error: string | null
   elapsed: number
-  startUpload: (file: File) => void
+  startUpload: (file: File, config?: ChunkingConfig) => void
   reset: () => void
 }
 
@@ -67,11 +79,22 @@ export function IngestProvider({ children }: { children: ReactNode }) {
     setFile(null); setStatus("idle"); setProgress(null); setError(null); setElapsed(0)
   }, [])
 
-  const startUpload = useCallback((f: File) => {
+  const startUpload = useCallback((f: File, config?: ChunkingConfig) => {
     setFile(f); setStatus("uploading"); setError(null); setProgress(null)
 
     const form = new FormData()
     form.append("file", f)
+    if (config) {
+      form.append("method",               config.method)
+      form.append("chunk_size",           String(config.chunkSize))
+      form.append("chunk_overlap",        String(config.chunkOverlap))
+      form.append("sentences_per_chunk",  String(config.sentencesPerChunk))
+      form.append("paragraphs_per_chunk", String(config.paragraphsPerChunk))
+      form.append("window_size",          String(config.windowSize))
+      form.append("step_size",            String(config.stepSize))
+      form.append("token_size",           String(config.tokenSize))
+      form.append("token_overlap",        String(config.tokenOverlap))
+    }
 
     fetch("/api/ingest", { method: "POST", body: form })
       .then((res) => {
