@@ -1,0 +1,29 @@
+# Virtual environment — wird im Container neu erstellt
+.venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ML-Modelle & Cache (können mehrere GB groß sein)
+.cache/
+models/
+*.bin
+*.pt
+*.onnx
+
+# Git
+.git/
+.gitignore
+
+# Secrets
+.env
+.env.*
+
+# Sonstiges
+README.md
+*.md
+
+CLAUDE.md
+AGENTS.md

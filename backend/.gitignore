@@ -1,0 +1,26 @@
+# --- Python & uv ---
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.python-version
+
+# --- AI / Machine Learning (Extrem wichtig!) ---
+# Docling und Torch laden Modelle oft hierher oder in Unterordner
+.cache/
+models/
+*.bin
+*.pt
+*.onnx
+
+# --- Secrets & Config ---
+.env
+.env.local
+.vscode/
+
+# --- Daten (Falls du Test-PDFs im Projekt hast) ---
+data/
+outputs/
+
+CLAUDE.md
+AGENTS.md

@@ -30,10 +30,10 @@ export default function RootLayout({
       lang="de"
       className={`${inter.variable} ${jetbrainsMono.variable} h-full antialiased`}
     >
-      <body className="min-h-full flex flex-col bg-background text-foreground">
+      <body className="h-full flex flex-col bg-background text-foreground">
         <IngestProvider>
           <Header />
-          <main className="flex-1">{children}</main>
+          <main className="flex-1 overflow-y-auto">{children}</main>
           <IngestProgress />
         </IngestProvider>
       </body>
