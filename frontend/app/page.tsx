@@ -22,10 +22,12 @@ export default function Home() {
             </CardDescription>
           </CardHeader>
           <CardContent>
-            <div className="flex flex-col items-center gap-3 rounded-lg border border-dashed border-border p-10 text-center">
-              <MessageSquare className="size-8 text-muted-foreground/50" />
-              <p className="text-sm text-muted-foreground">Chat-Bereich kommt bald</p>
-            </div>
+            <Button asChild className="w-full">
+              <Link href="/chat">
+                <MessageSquare className="mr-2 size-4" />
+                Chat öffnen
+              </Link>
+            </Button>
           </CardContent>
         </Card>
 
