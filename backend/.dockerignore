@@ -27,3 +27,7 @@ README.md
 
 CLAUDE.md
 AGENTS.md
+
+*.pdf
+*.json
+*.parquet
