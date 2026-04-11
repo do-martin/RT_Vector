@@ -1,0 +1,5652 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "2410.11399v2",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 4977330828438413678,
+    "filename": "2410.11399v2.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/109"
+      },
+      {
+        "$ref": "#/texts/110"
+      },
+      {
+        "$ref": "#/texts/111"
+      },
+      {
+        "$ref": "#/texts/112"
+      },
+      {
+        "$ref": "#/texts/113"
+      },
+      {
+        "$ref": "#/texts/114"
+      },
+      {
+        "$ref": "#/texts/115"
+      },
+      {
+        "$ref": "#/texts/116"
+      },
+      {
+        "$ref": "#/texts/117"
+      },
+      {
+        "$ref": "#/texts/118"
+      },
+      {
+        "$ref": "#/texts/119"
+      },
+      {
+        "$ref": "#/texts/120"
+      },
+      {
+        "$ref": "#/texts/121"
+      },
+      {
+        "$ref": "#/texts/122"
+      },
+      {
+        "$ref": "#/texts/123"
+      },
+      {
+        "$ref": "#/texts/124"
+      },
+      {
+        "$ref": "#/texts/125"
+      },
+      {
+        "$ref": "#/texts/126"
+      },
+      {
+        "$ref": "#/texts/127"
+      },
+      {
+        "$ref": "#/texts/128"
+      },
+      {
+        "$ref": "#/texts/129"
+      },
+      {
+        "$ref": "#/texts/130"
+      },
+      {
+        "$ref": "#/texts/131"
+      },
+      {
+        "$ref": "#/texts/132"
+      },
+      {
+        "$ref": "#/texts/133"
+      },
+      {
+        "$ref": "#/texts/134"
+      },
+      {
+        "$ref": "#/texts/135"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/139"
+      },
+      {
+        "$ref": "#/texts/140"
+      },
+      {
+        "$ref": "#/texts/141"
+      },
+      {
+        "$ref": "#/texts/142"
+      },
+      {
+        "$ref": "#/texts/143"
+      },
+      {
+        "$ref": "#/texts/144"
+      },
+      {
+        "$ref": "#/texts/145"
+      },
+      {
+        "$ref": "#/texts/146"
+      },
+      {
+        "$ref": "#/texts/147"
+      },
+      {
+        "$ref": "#/texts/148"
+      },
+      {
+        "$ref": "#/texts/149"
+      },
+      {
+        "$ref": "#/texts/150"
+      },
+      {
+        "$ref": "#/texts/151"
+      },
+      {
+        "$ref": "#/texts/152"
+      },
+      {
+        "$ref": "#/texts/153"
+      },
+      {
+        "$ref": "#/texts/154"
+      },
+      {
+        "$ref": "#/texts/155"
+      },
+      {
+        "$ref": "#/texts/156"
+      },
+      {
+        "$ref": "#/texts/157"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/167"
+      },
+      {
+        "$ref": "#/texts/168"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/177"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/136"
+        },
+        {
+          "$ref": "#/texts/137"
+        },
+        {
+          "$ref": "#/texts/138"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/158"
+        },
+        {
+          "$ref": "#/texts/159"
+        },
+        {
+          "$ref": "#/texts/160"
+        },
+        {
+          "$ref": "#/texts/161"
+        },
+        {
+          "$ref": "#/texts/162"
+        },
+        {
+          "$ref": "#/texts/163"
+        },
+        {
+          "$ref": "#/texts/164"
+        },
+        {
+          "$ref": "#/texts/165"
+        },
+        {
+          "$ref": "#/texts/166"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/169"
+        },
+        {
+          "$ref": "#/texts/170"
+        },
+        {
+          "$ref": "#/texts/171"
+        },
+        {
+          "$ref": "#/texts/172"
+        },
+        {
+          "$ref": "#/texts/173"
+        },
+        {
+          "$ref": "#/texts/174"
+        },
+        {
+          "$ref": "#/texts/175"
+        },
+        {
+          "$ref": "#/texts/176"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 580.8599999999999,
+            "r": 36.206559297218156,
+            "b": 222.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "arXiv:2410.11399v2  [stat.OT]  25 Feb 2025",
+      "text": "arXiv:2410.11399v2  [stat.OT]  25 Feb 2025"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 199.302,
+            "t": 653.4364875,
+            "r": 412.69810125,
+            "b": 635.3586757024495,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Convergence to the Truth",
+      "text": "Convergence to the Truth",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 276.251,
+            "t": 609.3094546,
+            "r": 335.74756063999996,
+            "b": 596.7719507314121,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Hanti Lin",
+      "text": "Hanti Lin"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 212.57099999999997,
+            "t": 564.8004546,
+            "r": 399.42738575999994,
+            "b": 530.007950731412,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "University of California, Davis ika@ucdavis.edu",
+      "text": "University of California, Davis ika@ucdavis.edu"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 111.19899999999996,
+            "t": 506.2444546,
+            "r": 476.93681523999993,
+            "b": 471.45195073141207,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            109
+          ]
+        }
+      ],
+      "orig": "Forthcoming in The Blackwell Companion to Epistemology Edited by Sylvan, K., Sosa, E, Dancy, J. and Steup, M.",
+      "text": "Forthcoming in The Blackwell Companion to Epistemology Edited by Sylvan, K., Sosa, E, Dancy, J. and Steup, M."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 256.74099999999993,
+            "t": 461.73545459999997,
+            "r": 355.2620938799998,
+            "b": 449.19795073141205,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Wiley Blackwell",
+      "text": "Wiley Blackwell"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 281.9989999999999,
+            "t": 418.0326426,
+            "r": 329.99903999999987,
+            "b": 408.4570307429395,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Abstract",
+      "text": "Abstract",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 115.6649999999999,
+            "t": 398.8789153,
+            "r": 496.34022631999954,
+            "b": 204.38517929654176,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            892
+          ]
+        }
+      ],
+      "orig": "This article reviews and develops an epistemological tradition in the philosophy of science, known as convergentism, which holds that inference methods should be assessed based on their ability to converge to the truth across a range of possible scenarios. Emphasis is placed on its historical origins in the work of C. S. Peirce and its recent developments in formal epistemology and data science (including statistics and machine learning). Comparisons are made with three other traditions: (1) explanationism, which holds that theory choice should be guided by a theory's overall balance of explanatory virtues, such as simplicity and fit with data; (2) instrumentalism, which maintains that scientific inference should be driven by the goal of obtaining useful models rather than true theories; and (3) Bayesianism, which shifts the focus from all-or-nothing beliefs to degrees of belief.",
+      "text": "This article reviews and develops an epistemological tradition in the philosophy of science, known as convergentism, which holds that inference methods should be assessed based on their ability to converge to the truth across a range of possible scenarios. Emphasis is placed on its historical origins in the work of C. S. Peirce and its recent developments in formal epistemology and data science (including statistics and machine learning). Comparisons are made with three other traditions: (1) explanationism, which holds that theory choice should be guided by a theory's overall balance of explanatory virtues, such as simplicity and fit with data; (2) instrumentalism, which maintains that scientific inference should be driven by the goal of obtaining useful models rather than true theories; and (3) Bayesianism, which shifts the focus from all-or-nothing beliefs to degrees of belief."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 115.6649999999999,
+            "t": 186.19491529999993,
+            "r": 466.24152686999923,
+            "b": 176.66117929654172,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "Keywords : Scientific Inference, Truth, Convergence, Peirce, Data Science.",
+      "text": "Keywords : Scientific Inference, Truth, Convergence, Peirce, Data Science."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 86.39999999999989,
+            "t": 145.90276440000002,
+            "r": 222.03152889999984,
+            "b": 130.79171139250718,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "1 Introduction",
+      "text": "1 Introduction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 86.39999999999986,
+            "t": 112.4924016,
+            "r": 525.6018048000004,
+            "b": 84.11745257867437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            167
+          ]
+        }
+      ],
+      "orig": "The epistemology of scientific inference has a rich history. According to the explanationist tradition, theory choice should be guided by a theory's overall balance of",
+      "text": "The epistemology of scientific inference has a rich history. According to the explanationist tradition, theory choice should be guided by a theory's overall balance of"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 476.6089999999999,
+            "t": 506.2444546,
+            "r": 500.8024316799999,
+            "b": 493.70695073141206,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "(3e)",
+      "text": "(3e)"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 303.07299999999987,
+            "t": 64.67740159999994,
+            "r": 308.9262659199999,
+            "b": 54.22945257867434,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 86.4,
+            "t": 701.8104016,
+            "r": 525.6053555200002,
+            "b": 601.7264525786743,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            520
+          ]
+        }
+      ],
+      "orig": "explanatory virtues, such as simplicity and fit with data (Russell 1912). The instrumentalist tradition urges, instead, that scientific inference should be driven by the goal of obtaining useful models, rather than true theories or even approximately true ones (Duhem 1906). A third tradition is Bayesianism , which features a shift of focus from all-or-nothing beliefs to degrees of belief (Bayes 1763). It may be fair to say that these traditions are the big three in contemporary epistemology of scientific inference.",
+      "text": "explanatory virtues, such as simplicity and fit with data (Russell 1912). The instrumentalist tradition urges, instead, that scientific inference should be driven by the goal of obtaining useful models, rather than true theories or even approximately true ones (Duhem 1906). A third tradition is Bayesianism , which features a shift of focus from all-or-nothing beliefs to degrees of belief (Bayes 1763). It may be fair to say that these traditions are the big three in contemporary epistemology of scientific inference."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 86.40000000000009,
+            "t": 594.2474015999999,
+            "r": 525.6029644800002,
+            "b": 422.4544525786741,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            844
+          ]
+        }
+      ],
+      "orig": "In fact, there is a fourth tradition. I am tempted to call it convergentism , although it does not yet have a widely recognized name, as this tradition is nearly lost in contemporary philosophy despite its prominence in data science (including statistics and machine learning). The central idea, traceable to the work of Peirce in the late 19th century (Peirce 1994), is that the concept of convergence to the truth should play a significant role in evaluating inference methods. This idea was further developed by Reichenbach (1938) and Putnam (1965), together with more recent contributors from statistics, machine learning, and formal epistemology. That is the story I will unfold below. Toward the end, the convergentist tradition will be briefly compared with the big three-you can expect to see not just competition, but also cooperation.",
+      "text": "In fact, there is a fourth tradition. I am tempted to call it convergentism , although it does not yet have a widely recognized name, as this tradition is nearly lost in contemporary philosophy despite its prominence in data science (including statistics and machine learning). The central idea, traceable to the work of Peirce in the late 19th century (Peirce 1994), is that the concept of convergence to the truth should play a significant role in evaluating inference methods. This idea was further developed by Reichenbach (1938) and Putnam (1965), together with more recent contributors from statistics, machine learning, and formal epistemology. That is the story I will unfold below. Toward the end, the convergentist tradition will be briefly compared with the big three-you can expect to see not just competition, but also cooperation."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 86.40000000000009,
+            "t": 391.33076439999974,
+            "r": 396.4028724200002,
+            "b": 376.21971139250695,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "2 Peirce on Enumerative Induction",
+      "text": "2 Peirce on Enumerative Induction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 86.40000000000009,
+            "t": 357.9204015999997,
+            "r": 525.5993779200002,
+            "b": 329.54445257867405,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            139
+          ]
+        }
+      ],
+      "orig": "Peirce imagined a Greek tackling a certain empirical problem-testing the hypothesis that the tide would never cease to rise every half-day:",
+      "text": "Peirce imagined a Greek tackling a certain empirical problem-testing the hypothesis that the tide would never cease to rise every half-day:"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 115.66500000000009,
+            "t": 312.1034015999997,
+            "r": 496.34128288000005,
+            "b": 229.9464525786741,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            345
+          ]
+        }
+      ],
+      "orig": "[The Greek] had seen the tide rise just often enough to suggest to him that it would rise every half-day forever, and had proposed then to make observations to test this hypothesis, had done so, and finding the predictions successful, had provisionally accepted the theory that the tide would never cease to rise every half-day, ... . (CP 7.215)",
+      "text": "[The Greek] had seen the tide rise just often enough to suggest to him that it would rise every half-day forever, and had proposed then to make observations to test this hypothesis, had done so, and finding the predictions successful, had provisionally accepted the theory that the tide would never cease to rise every half-day, ... . (CP 7.215)"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 86.40000000000009,
+            "t": 212.5044015999997,
+            "r": 525.5945958400005,
+            "b": 184.1294525786741,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            169
+          ]
+        }
+      ],
+      "orig": "But what justifies the Greek's acceptance of the inductive hypothesis? Peirce's answer is that the inference method in use, enumerative induction, meets a nice standard:",
+      "text": "But what justifies the Greek's acceptance of the inductive hypothesis? Peirce's answer is that the inference method in use, enumerative induction, meets a nice standard:"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 115.66500000000009,
+            "t": 166.6874015999997,
+            "r": 496.34008736000015,
+            "b": 120.38445257867409,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            162
+          ]
+        }
+      ],
+      "orig": "The only justification for this would be that it is the result of a method that, persisted in, must eventually correct any error that it leads us into. (CP 7.215)",
+      "text": "The only justification for this would be that it is the result of a method that, persisted in, must eventually correct any error that it leads us into. (CP 7.215)"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 86.40000000000009,
+            "t": 102.9424015999997,
+            "r": 525.59926496,
+            "b": 92.4944525786741,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            85
+          ]
+        }
+      ],
+      "orig": "This evaluative standard requires a guarantee of eventual correction of errors . Some",
+      "text": "This evaluative standard requires a guarantee of eventual correction of errors . Some"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 303.07400000000007,
+            "t": 64.67740159999971,
+            "r": 308.9272659200001,
+            "b": 54.22945257867411,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 86.4,
+            "t": 701.8104016,
+            "r": 525.5957913600002,
+            "b": 673.4354525786744,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            105
+          ]
+        }
+      ],
+      "orig": "important Peircean elements may not be immediately apparent from those quotes. Let me make them explicit.",
+      "text": "important Peircean elements may not be immediately apparent from those quotes. Let me make them explicit."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 86.39999999999998,
+            "t": 665.9564015999999,
+            "r": 525.6051849600002,
+            "b": 476.23545257867414,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            950
+          ]
+        }
+      ],
+      "orig": "A key Peircean element is, in a sense, internalist . That is, when inference methods are evaluated, the kind of evaluation in question can, in principle, be carried out from a first-person perspective, by the very agent tackling the empirical problem in question, such as the Greek in Peirce's example. Indeed, Peirce was not interested in an inference method that happens to converge to the truth in the actual world; he employed the modality 'must' to set an evaluative standard. By 'must', he had in mind a guarantee from the agent's first-person perspective, one that quantifies over the possible worlds compatible with the background assumptions or beliefs that the agent does not doubt when pursuing an empirical problem. This internalist stance is central to Peirce's objection to Cartesian skepticism (CP 5.438-52) and Peirce's praise of self-controlled, rational evaluation of one's own acts, thoughts, and reasoning (CP 1.591-611, 5.333-7).",
+      "text": "A key Peircean element is, in a sense, internalist . That is, when inference methods are evaluated, the kind of evaluation in question can, in principle, be carried out from a first-person perspective, by the very agent tackling the empirical problem in question, such as the Greek in Peirce's example. Indeed, Peirce was not interested in an inference method that happens to converge to the truth in the actual world; he employed the modality 'must' to set an evaluative standard. By 'must', he had in mind a guarantee from the agent's first-person perspective, one that quantifies over the possible worlds compatible with the background assumptions or beliefs that the agent does not doubt when pursuing an empirical problem. This internalist stance is central to Peirce's objection to Cartesian skepticism (CP 5.438-52) and Peirce's praise of self-controlled, rational evaluation of one's own acts, thoughts, and reasoning (CP 1.591-611, 5.333-7)."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 86.39999999999998,
+            "t": 468.7564015999998,
+            "r": 525.6001820800001,
+            "b": 422.4544525786741,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            257
+          ]
+        }
+      ],
+      "orig": "Another Peircean element is nicely captured by a slogan from James (1896): Believe truth! Shun error! The idea is that an inference method should be evaluated on the basis of its connection to the correction of error or, better yet, the attainment of truth:",
+      "text": "Another Peircean element is nicely captured by a slogan from James (1896): Believe truth! Shun error! The idea is that an inference method should be evaluated on the basis of its connection to the correction of error or, better yet, the attainment of truth:"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 115.66499999999999,
+            "t": 405.01240159999975,
+            "r": 496.33769632000013,
+            "b": 358.7094525786741,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            176
+          ]
+        }
+      ],
+      "orig": "The ... warrant for [induction] is that this method, persistently applied to the problem, must in the long run produce a convergence (though irregular) to the truth. (CP 2.775)",
+      "text": "The ... warrant for [induction] is that this method, persistently applied to the problem, must in the long run produce a convergence (though irregular) to the truth. (CP 2.775)"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 86.39999999999999,
+            "t": 341.26740159999974,
+            "r": 525.6040358400003,
+            "b": 294.96545257867405,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            225
+          ]
+        }
+      ],
+      "orig": "Thus, Peirce's view is a combination rarely seen in today's epistemology: that inference methods should be evaluated in an internalist way that makes explicit their connections to truth-finding (cf. [ add cross references ]).",
+      "text": "Thus, Peirce's view is a combination rarely seen in today's epistemology: that inference methods should be evaluated in an internalist way that makes explicit their connections to truth-finding (cf. [ add cross references ])."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 86.39999999999998,
+            "t": 287.4864015999997,
+            "r": 525.6053555200001,
+            "b": 187.40145257867403,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            439
+          ]
+        }
+      ],
+      "orig": "To clarify: It is often said that Peirce defines truth as whatever the scientific method converges to; however, if that definition were correct, it would trivialize Peirce's use of convergence to the truth in epistemology. There is strong textual evidence, though, that Peirce actually embraces a realist account of truth instead (Hookway 2000, ch. 2). Anyway, my focus will be on Peirce's epistemology, separate from his account of truth.",
+      "text": "To clarify: It is often said that Peirce defines truth as whatever the scientific method converges to; however, if that definition were correct, it would trivialize Peirce's use of convergence to the truth in epistemology. There is strong textual evidence, though, that Peirce actually embraces a realist account of truth instead (Hookway 2000, ch. 2). Anyway, my focus will be on Peirce's epistemology, separate from his account of truth."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 86.39999999999998,
+            "t": 179.92240159999972,
+            "r": 525.6045577600004,
+            "b": 97.76545257867406,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            377
+          ]
+        }
+      ],
+      "orig": "The emphasis on the long run, however, raises an obvious concern: the long run might be too long. Or, in Carnap's (1945) terms, even if there are norms that correctly govern the long run, they are unhelpful as they say nothing about what we actually care about: norms governing the short run. Peirce's followers have developed a systematic reply to Carnap, to which I now turn.",
+      "text": "The emphasis on the long run, however, raises an obvious concern: the long run might be too long. Or, in Carnap's (1945) terms, even if there are norms that correctly govern the long run, they are unhelpful as they say nothing about what we actually care about: norms governing the short run. Peirce's followers have developed a systematic reply to Carnap, to which I now turn."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 303.07399999999996,
+            "t": 64.67740159999971,
+            "r": 308.92726591999997,
+            "b": 54.22945257867411,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 86.4,
+            "t": 705.4547643999999,
+            "r": 405.6509853000001,
+            "b": 690.3437113925072,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "3 The Long Run and the Short Run",
+      "text": "3 The Long Run and the Short Run",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 86.4,
+            "t": 672.0444016,
+            "r": 525.6029644800003,
+            "b": 643.6694525786744,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            132
+          ]
+        }
+      ],
+      "orig": "For concreteness, I will walk you through a case study on a more precisely defined empirical problem, specified by three components:",
+      "text": "For concreteness, I will walk you through a case study on a more precisely defined empirical problem, specified by three components:"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 97.45500000000001,
+            "t": 626.5844016,
+            "r": 511.78013984000023,
+            "b": 616.1364525786744,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "(i) The competing hypotheses are 'Yes, all ravens are black' and 'No, not all are'.",
+      "text": "(i) The competing hypotheses are 'Yes, all ravens are black' and 'No, not all are'.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 94.20400000000001,
+            "t": 598.8144016,
+            "r": 525.5981049600005,
+            "b": 570.4384525786744,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            96
+          ]
+        }
+      ],
+      "orig": "(ii) Pieces of evidence are obtained by collecting ravens and observing their colors one by one.",
+      "text": "(ii) Pieces of evidence are obtained by collecting ravens and observing their colors one by one.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 90.95200000000003,
+            "t": 553.1164016,
+            "r": 525.5973046400001,
+            "b": 524.7404525786744,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            165
+          ]
+        }
+      ],
+      "orig": "(iii) The background assumption is that either all ravens are black or a counterexample would be observed sooner or later if the inquiry were to unfold indefinitely.",
+      "text": "(iii) The background assumption is that either all ravens are black or a counterexample would be observed sooner or later if the inquiry were to unfold indefinitely.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 86.40000000000003,
+            "t": 507.65640160000004,
+            "r": 525.6062108800003,
+            "b": 425.4994525786743,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            423
+          ]
+        }
+      ],
+      "orig": "Call this the raven problem . The point I want to make can be equally illustrated with a different empirical problem that alters any one of the three elements (i)-(iii), such as weakening the background assumption (Lin 2022); but then the mathematics involved would be much more complex. So, for simplicity, let me continue with the raven problem, which can be represented by the tree in Figure 1. The inquiry starts at the",
+      "text": "Call this the raven problem . The point I want to make can be equally illustrated with a different empirical problem that alters any one of the three elements (i)-(iii), such as weakening the background assumption (Lin 2022); but then the mathematics involved would be much more complex. So, for simplicity, let me continue with the raven problem, which can be represented by the tree in Figure 1. The inquiry starts at the"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 179.077,
+            "t": 163.0819153,
+            "r": 432.9263024500002,
+            "b": 153.54817929654178,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "Figure 1: The raven problem is represented by a tree.",
+      "text": "Figure 1: The raven problem is represented by a tree."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 144.0,
+            "t": 408.0,
+            "r": 194.66666666666669,
+            "b": 399.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "The truth =",
+      "text": "The truth ="
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 143.66666666666666,
+            "t": 398.0,
+            "r": 253.0,
+            "b": 387.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "\"Yes, all ravens are black.\"",
+      "text": "\"Yes, all ravens are black.\""
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 315.66666666666663,
+            "t": 385.0,
+            "r": 367.6666666666667,
+            "b": 373.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "The truth =",
+      "text": "The truth ="
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 315.66666666666663,
+            "t": 373.0,
+            "r": 400.6666666666667,
+            "b": 361.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "\"No, not all are so.\"",
+      "text": "\"No, not all are so.\""
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 112.33333333333333,
+            "t": 223.0,
+            "r": 257.0,
+            "b": 213.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "The available evidence = \u201cWe have",
+      "text": "The available evidence = \u201cWe have"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 111.66666666666667,
+            "t": 211.33333333333337,
+            "r": 243.66666666666666,
+            "b": 201.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "made two observations without",
+      "text": "made two observations without"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 111.33333333333333,
+            "t": 199.33333333333337,
+            "r": 221.33333333333331,
+            "b": 190.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "seeing a counterexample.\"",
+      "text": "seeing a counterexample.\""
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 86.39999999999999,
+            "t": 130.41940160000001,
+            "r": 525.5981824000003,
+            "b": 84.11745257867437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            256
+          ]
+        }
+      ],
+      "orig": "bottom, the root of the tree. Moving upward to the right signifies observing a nonblack raven (i.e. a counterexample); moving upward to the left, a black raven (or anything other than a counterexample). So, each node represents a possible body of evidence.",
+      "text": "bottom, the root of the tree. Moving upward to the right signifies observing a nonblack raven (i.e. a counterexample); moving upward to the left, a black raven (or anything other than a counterexample). So, each node represents a possible body of evidence."
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 303.074,
+            "t": 64.67740159999994,
+            "r": 308.92726592,
+            "b": 54.22945257867434,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 86.39999999999992,
+            "t": 701.8104016,
+            "r": 525.6053555200002,
+            "b": 583.7994525786743,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            594
+          ]
+        }
+      ],
+      "orig": "Each branch represents a possible world, with the tip marked by the hypothesis true in that world. To clarify: although every branch is depicted as an infinite sequence, it does not represent a world in which the agent is immortal and will observe an infinite number of ravens. For example, the branch that always grows to the left only represents a world in which all ravens are black, and thus every raven observed would be black if the inquiry were to extend indefinitely. Some possible worlds are not depicted at all, as they are ruled out by the background assumption of the raven problem.",
+      "text": "Each branch represents a possible world, with the tip marked by the hypothesis true in that world. To clarify: although every branch is depicted as an infinite sequence, it does not represent a world in which the agent is immortal and will observe an infinite number of ravens. For example, the branch that always grows to the left only represents a world in which all ravens are black, and thus every raven observed would be black if the inquiry were to extend indefinitely. Some possible worlds are not depicted at all, as they are ruled out by the background assumption of the raven problem."
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 86.39999999999992,
+            "t": 576.3194015999999,
+            "r": 525.6025808,
+            "b": 512.0904525786742,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            289
+          ]
+        }
+      ],
+      "orig": "An inference method is a function such that, whenever it receives a possible body of evidence (i.e. a node), it outputs one of the competing hypotheses or a question mark ' ? ' to represent judgment suspension. The task at hand is to formulate some standards to evaluate inference methods.",
+      "text": "An inference method is a function such that, whenever it receives a possible body of evidence (i.e. a node), it outputs one of the competing hypotheses or a question mark ' ? ' to represent judgment suspension. The task at hand is to formulate some standards to evaluate inference methods."
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 86.39999999999992,
+            "t": 504.6104015999998,
+            "r": 525.6053555200006,
+            "b": 440.3814525786741,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            255
+          ]
+        }
+      ],
+      "orig": "It would be ideal if we could have an inference method that guarantees when we would obtain the truth-a guarantee of a specific amount of evidence n that would yield the truth. This is a mode of convergence, which can be defined more precisely as follows:",
+      "text": "It would be ideal if we could have an inference method that guarantees when we would obtain the truth-a guarantee of a specific amount of evidence n that would yield the truth. This is a mode of convergence, which can be defined more precisely as follows:"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 115.6649999999999,
+            "t": 424.54426719999975,
+            "r": 496.3388070400002,
+            "b": 324.424452578674,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            374
+          ]
+        }
+      ],
+      "orig": "Definition (Uniform Convergence). An inference method M for an empirical problem P is said to achieve uniform convergence to the truth iff there exists an amount of evidence n such that, in every possible world compatible with the background assumption of problem P (i.e. in every branch of the tree), M would output the truth if the number of observations were n or larger.",
+      "text": "Definition (Uniform Convergence). An inference method M for an empirical problem P is said to achieve uniform convergence to the truth iff there exists an amount of evidence n such that, in every possible world compatible with the background assumption of problem P (i.e. in every branch of the tree), M would output the truth if the number of observations were n or larger."
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 86.39999999999995,
+            "t": 308.5514015999996,
+            "r": 525.6053555200002,
+            "b": 262.249452578674,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            234
+          ]
+        }
+      ],
+      "orig": "This mode of convergence sets an admirably high standard-an epistemic ideal that we should strive for whenever it is achievable. Unfortunately, this standard is provably too high to be met by any inference method in the raven problem.",
+      "text": "This mode of convergence sets an admirably high standard-an epistemic ideal that we should strive for whenever it is achievable. Unfortunately, this standard is provably too high to be met by any inference method in the raven problem."
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 86.39999999999992,
+            "t": 254.77040159999956,
+            "r": 525.6008143999999,
+            "b": 208.46745257867394,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            257
+          ]
+        }
+      ],
+      "orig": "A natural reaction is to try lowering the bar and look for what can be achieved . So, let's swap the two quantifiers 'there exists' and 'every' to define a weaker mode of convergence (and, for brevity, allow me to drop the relativity to empirical problems):",
+      "text": "A natural reaction is to try lowering the bar and look for what can be achieved . So, let's swap the two quantifiers 'there exists' and 'every' to define a weaker mode of convergence (and, for brevity, allow me to drop the relativity to empirical problems):"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 115.66499999999985,
+            "t": 192.6302671999996,
+            "r": 496.3415472,
+            "b": 128.36545257867397,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            265
+          ]
+        }
+      ],
+      "orig": "Definition (Pointwise Convergence). An inference method M is said to achieve pointwise convergence to the truth iff, in every branch of the tree, there exists an amount of evidence n such that M would output the truth if the number of observations were n or larger.",
+      "text": "Definition (Pointwise Convergence). An inference method M is said to achieve pointwise convergence to the truth iff, in every branch of the tree, there exists an amount of evidence n such that M would output the truth if the number of observations were n or larger."
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 86.3999999999998,
+            "t": 112.49240159999965,
+            "r": 525.6053555199999,
+            "b": 84.11745257867403,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            168
+          ]
+        }
+      ],
+      "orig": "The idea is that the amount of evidence needed to find the truth is allowed to vary from world to world-hence the lack of uniformity, in contrast to uniform convergence",
+      "text": "The idea is that the amount of evidence needed to find the truth is allowed to vary from world to world-hence the lack of uniformity, in contrast to uniform convergence"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 303.07399999999984,
+            "t": 64.6774015999996,
+            "r": 308.92726591999985,
+            "b": 54.229452578674,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 86.39999999999998,
+            "t": 701.8104016,
+            "r": 525.6029644800002,
+            "b": 601.7264525786743,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            443
+          ]
+        }
+      ],
+      "orig": "as defined above. This is exactly the mode of convergence that figures in the quotes from Peirce (whether or not he had the same motivation as presented here). This lower standard is provably achievable in the raven problem. It is achieved by, for example, the method of ordinary induction depicted in the upper left corner of Figure 2, where a ' Y ' denotes an output of 'Yes, all ravens are black', and an ' N ' stands for 'No, not all are'.",
+      "text": "as defined above. This is exactly the mode of convergence that figures in the quotes from Peirce (whether or not he had the same motivation as presented here). This lower standard is provably achievable in the raven problem. It is achieved by, for example, the method of ordinary induction depicted in the upper left corner of Figure 2, where a ' Y ' denotes an output of 'Yes, all ravens are black', and an ' N ' stands for 'No, not all are'."
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 152.795,
+            "t": 246.09291529999996,
+            "r": 459.20434625000024,
+            "b": 236.55917929654174,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "Figure 2: Four kinds of inference methods for the raven problem",
+      "text": "Figure 2: Four kinds of inference methods for the raven problem"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 379.3333333333333,
+            "t": 587.3333333333334,
+            "r": 430.6666666666667,
+            "b": 578.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Truth =\u201cNo\"",
+      "text": "Truth =\u201cNo\""
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 376.3333333333333,
+            "t": 559.6666666666666,
+            "r": 379.6666666666667,
+            "b": 556.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "N",
+      "text": "N"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 170.0,
+            "t": 544.6666666666666,
+            "r": 174.66666666666669,
+            "b": 540.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "Y",
+      "text": "Y"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 197.0,
+            "t": 546.0,
+            "r": 204.33333333333331,
+            "b": 539.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "N",
+      "text": "N"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 368.0,
+            "t": 545.6666666666666,
+            "r": 374.0,
+            "b": 539.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "Y",
+      "text": "Y"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 394.3333333333333,
+            "t": 546.6666666666666,
+            "r": 403.3333333333333,
+            "b": 538.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "N",
+      "text": "N"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 321.0,
+            "t": 529.0,
+            "r": 361.0,
+            "b": 519.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Stability is",
+      "text": "Stability is"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 184.33333333333331,
+            "t": 520.6666666666667,
+            "r": 189.0,
+            "b": 516.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "Y",
+      "text": "Y"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 239.66666666666666,
+            "t": 522.0,
+            "r": 248.0,
+            "b": 514.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "N",
+      "text": "N"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 320.33333333333337,
+            "t": 519.6666666666667,
+            "r": 375.0,
+            "b": 509.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "violated in the",
+      "text": "violated in the"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 380.6666666666667,
+            "t": 522.3333333333333,
+            "r": 389.6666666666667,
+            "b": 514.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "N",
+      "text": "N"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 437.3333333333333,
+            "t": 522.3333333333333,
+            "r": 447.3333333333333,
+            "b": 514.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "N",
+      "text": "N"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 320.66666666666663,
+            "t": 509.3333333333333,
+            "r": 367.6666666666667,
+            "b": 499.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "bold branch.",
+      "text": "bold branch."
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 212.66666666666669,
+            "t": 484.0,
+            "r": 219.33333333333334,
+            "b": 475.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "\uff1f",
+      "text": "\uff1f"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 292.0,
+            "t": 484.0,
+            "r": 301.66666666666663,
+            "b": 475.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "N",
+      "text": "N"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 411.6666666666667,
+            "t": 483.3333333333333,
+            "r": 417.3333333333333,
+            "b": 476.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "\uff1f",
+      "text": "\uff1f"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 490.3333333333333,
+            "t": 484.3333333333333,
+            "r": 501.0,
+            "b": 474.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "N",
+      "text": "N"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 157.33333333333331,
+            "t": 458.66666666666663,
+            "r": 201.0,
+            "b": 445.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Ordinary",
+      "text": "Ordinary"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 351.0,
+            "t": 457.0,
+            "r": 405.0,
+            "b": 447.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Occasional",
+      "text": "Occasional"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 251.66666666666666,
+            "t": 451.33333333333337,
+            "r": 259.0,
+            "b": 442.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "\uff1f",
+      "text": "\uff1f"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 450.3333333333333,
+            "t": 451.33333333333337,
+            "r": 457.3333333333333,
+            "b": 442.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "\uff1f",
+      "text": "\uff1f"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 155.0,
+            "t": 448.0,
+            "r": 203.0,
+            "b": 436.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Induction",
+      "text": "Induction"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 335.66666666666663,
+            "t": 447.0,
+            "r": 420.3333333333333,
+            "b": 437.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Counterinduction",
+      "text": "Counterinduction"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 113.0,
+            "t": 417.66666666666663,
+            "r": 166.33333333333331,
+            "b": 409.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Truth = \u201cYes\"",
+      "text": "Truth = \u201cYes\""
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 338.0,
+            "t": 418.66666666666663,
+            "r": 391.0,
+            "b": 408.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Truth = \u201cYes\"",
+      "text": "Truth = \u201cYes\""
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 361.6666666666667,
+            "t": 391.0,
+            "r": 366.3333333333333,
+            "b": 387.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "\uff1f",
+      "text": "\uff1f"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 105.66666666666667,
+            "t": 387.66666666666663,
+            "r": 154.66666666666669,
+            "b": 376.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Convergence",
+      "text": "Convergence"
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 304.33333333333337,
+            "t": 387.66666666666663,
+            "r": 354.0,
+            "b": 376.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Convergence",
+      "text": "Convergence"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 105.66666666666667,
+            "t": 377.33333333333337,
+            "r": 158.0,
+            "b": 369.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "to the truth is",
+      "text": "to the truth is"
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 168.33333333333331,
+            "t": 376.66666666666663,
+            "r": 176.66666666666669,
+            "b": 369.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "N",
+      "text": "N"
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 196.66666666666669,
+            "t": 377.0,
+            "r": 204.66666666666669,
+            "b": 369.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "N",
+      "text": "N"
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 305.0,
+            "t": 376.66666666666663,
+            "r": 356.0,
+            "b": 368.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "to the truth is",
+      "text": "to the truth is"
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 368.3333333333333,
+            "t": 377.0,
+            "r": 374.0,
+            "b": 370.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "\uff1f",
+      "text": "\uff1f"
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 395.0,
+            "t": 377.0,
+            "r": 403.0,
+            "b": 369.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "N",
+      "text": "N"
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 105.33333333333333,
+            "t": 368.66666666666663,
+            "r": 159.66666666666669,
+            "b": 358.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "violated in the",
+      "text": "violated in the"
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 303.66666666666663,
+            "t": 368.66666666666663,
+            "r": 358.0,
+            "b": 358.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "violated in the",
+      "text": "violated in the"
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 105.66666666666667,
+            "t": 358.0,
+            "r": 152.33333333333331,
+            "b": 349.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "bold branch.",
+      "text": "bold branch."
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 304.0,
+            "t": 358.0,
+            "r": 350.6666666666667,
+            "b": 348.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "bold branch.",
+      "text": "bold branch."
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 182.0,
+            "t": 352.66666666666663,
+            "r": 191.0,
+            "b": 344.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "N",
+      "text": "N"
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 239.33333333333334,
+            "t": 353.0,
+            "r": 248.33333333333334,
+            "b": 344.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "N",
+      "text": "N"
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 382.6666666666667,
+            "t": 352.0,
+            "r": 387.6666666666667,
+            "b": 345.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "\uff1f",
+      "text": "\uff1f"
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 437.3333333333333,
+            "t": 353.0,
+            "r": 447.3333333333333,
+            "b": 344.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "N",
+      "text": "N"
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 213.0,
+            "t": 313.6666666666667,
+            "r": 219.0,
+            "b": 306.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "\uff1f",
+      "text": "\uff1f"
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 291.66666666666663,
+            "t": 314.6666666666667,
+            "r": 302.0,
+            "b": 305.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "N",
+      "text": "N"
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 411.6666666666667,
+            "t": 313.6666666666667,
+            "r": 417.6666666666667,
+            "b": 306.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "\uff1f",
+      "text": "\uff1f"
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 490.3333333333333,
+            "t": 314.6666666666667,
+            "r": 501.0,
+            "b": 305.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "N",
+      "text": "N"
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 154.66666666666669,
+            "t": 286.6666666666667,
+            "r": 204.33333333333331,
+            "b": 278.66666666666674,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Persistent",
+      "text": "Persistent"
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 357.3333333333333,
+            "t": 287.6666666666667,
+            "r": 403.3333333333333,
+            "b": 277.33333333333326,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Skeptical",
+      "text": "Skeptical"
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 137.33333333333334,
+            "t": 277.66666666666674,
+            "r": 221.66666666666666,
+            "b": 267.66666666666674,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Counterinduction",
+      "text": "Counterinduction"
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 251.66666666666666,
+            "t": 282.3333333333333,
+            "r": 259.66666666666663,
+            "b": 272.66666666666674,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "\uff1f",
+      "text": "\uff1f"
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 364.0,
+            "t": 279.66666666666674,
+            "r": 395.3333333333333,
+            "b": 265.66666666666674,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Policy",
+      "text": "Policy"
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 450.3333333333333,
+            "t": 282.0,
+            "r": 457.6666666666667,
+            "b": 273.33333333333326,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "\uff1f",
+      "text": "\uff1f"
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 86.39999999999999,
+            "t": 210.86840159999997,
+            "r": 525.6053555200004,
+            "b": 92.8564525786744,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            600
+          ]
+        }
+      ],
+      "orig": "Unfortunately, pointwise convergence only concerns the long run and thus imposes no constraint on the short run. It allows an inference method to engage in all sorts of erratic behavior (such as counterinduction) for the first few data points, before its eventual attainment of the truth. Indeed, it does not rule out the method of occasional counterinduction depicted in the upper right corner of figure 2. This is essentially Carnap's (1945) worry, originally formulated for Reichenbach's (1938) convergentist justification of induction, but it applies equally well to many convergentist justifica-",
+      "text": "Unfortunately, pointwise convergence only concerns the long run and thus imposes no constraint on the short run. It allows an inference method to engage in all sorts of erratic behavior (such as counterinduction) for the first few data points, before its eventual attainment of the truth. Indeed, it does not rule out the method of occasional counterinduction depicted in the upper right corner of figure 2. This is essentially Carnap's (1945) worry, originally formulated for Reichenbach's (1938) convergentist justification of induction, but it applies equally well to many convergentist justifica-"
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 303.074,
+            "t": 64.67740160000005,
+            "r": 308.92726592,
+            "b": 54.22945257867434,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "6",
+      "text": "6"
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 86.4,
+            "t": 701.8104016,
+            "r": 235.61285120000005,
+            "b": 691.3624525786744,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "tions, including Peirce's own.",
+      "text": "tions, including Peirce's own."
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 86.39999999999996,
+            "t": 683.8834016,
+            "r": 525.6065878400003,
+            "b": 601.7264525786743,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            352
+          ]
+        }
+      ],
+      "orig": "A reply strategy began to emerge in the convergentist tradition since Putnam's (1965) seminal work. The idea is simple: there is no need to settle for a merely achievable standard such as pointwise convergence; we should, instead, strive for the highest achievable . So, let's try raising the bar by adding the following ideal to pointwise convergence:",
+      "text": "A reply strategy began to emerge in the convergentist tradition since Putnam's (1965) seminal work. The idea is simple: there is no need to settle for a merely achievable standard such as pointwise convergence; we should, instead, strive for the highest achievable . So, let's try raising the bar by adding the following ideal to pointwise convergence:"
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 115.66499999999996,
+            "t": 587.4992671999998,
+            "r": 496.3383673600001,
+            "b": 541.1604525786743,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            219
+          ]
+        }
+      ],
+      "orig": "Definition (Stability). An inference method M is said to achieve stability iff, in every branch of the tree, whenever M gets the truth, M would never let it go if the number of observations were to increase any further.",
+      "text": "Definition (Stability). An inference method M is said to achieve stability iff, in every branch of the tree, whenever M gets the truth, M would never let it go if the number of observations were to increase any further."
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 86.4,
+            "t": 526.8974015999999,
+            "r": 525.6008467200004,
+            "b": 444.74045257867414,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            430
+          ]
+        }
+      ],
+      "orig": "This concept simplifies Putnam's original proposal and formalizes a truth-directed ideal that Plato admires in Meno . Now, the combination of convergence and stability hits a sweet spot. It is weak enough to be achievable-achieved by the method of ordinary induction in the upper left corner of Figure 2-yet strong enough to rule out the other three inference methods in the same figure, such as counterinductions. More generally:",
+      "text": "This concept simplifies Putnam's original proposal and formalizes a truth-directed ideal that Plato admires in Meno . Now, the combination of convergence and stability hits a sweet spot. It is weak enough to be achievable-achieved by the method of ordinary induction in the upper left corner of Figure 2-yet strong enough to rule out the other three inference methods in the same figure, such as counterinductions. More generally:"
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 115.665,
+            "t": 430.5132671999998,
+            "r": 496.3404576000003,
+            "b": 366.2474525786741,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            234
+          ]
+        }
+      ],
+      "orig": "Theorem. In the raven problem, the combined mode of convergence to the truth plus stability is weak enough to be achievable and strong enough to rule out any inference methods that involve at least one application of counterinduction.",
+      "text": "Theorem. In the raven problem, the combined mode of convergence to the truth plus stability is weak enough to be achievable and strong enough to rule out any inference methods that involve at least one application of counterinduction."
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 86.40000000000003,
+            "t": 351.98340159999975,
+            "r": 306.4354560000001,
+            "b": 341.5354525786741,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "See Figure 2 for a pictorial sketch of proof.",
+      "text": "See Figure 2 for a pictorial sketch of proof."
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 86.40000000000003,
+            "t": 334.05640159999973,
+            "r": 525.6045577600004,
+            "b": 305.68145257867405,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            128
+          ]
+        }
+      ],
+      "orig": "To recap: We have considered three modes of convergence to the truth. Listed as evaluative standards from high to low, they are:",
+      "text": "To recap: We have considered three modes of convergence to the truth. Listed as evaluative standards from high to low, they are:"
+    },
+    {
+      "self_ref": "#/texts/118",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 211.84700000000004,
+            "t": 285.4234015999997,
+            "r": 400.15215968000007,
+            "b": 221.363882786133,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": "Uniform Convergence | Pointwise Convergence with Stability |",
+      "text": "Uniform Convergence | Pointwise Convergence with Stability |"
+    },
+    {
+      "self_ref": "#/texts/119",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 211.84700000000004,
+            "t": 213.71440159999975,
+            "r": 329.01871967999995,
+            "b": 203.26645257867403,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "Pointwise Convergence",
+      "text": "Pointwise Convergence"
+    },
+    {
+      "self_ref": "#/texts/120",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 86.40000000000003,
+            "t": 184.2014015999997,
+            "r": 525.6053555200003,
+            "b": 119.97145257867408,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            267
+          ]
+        }
+      ],
+      "orig": "In the raven problem, the normative requirement to achieve the highest achievable standard selects the middle mode of convergence, which in turn implies a norm that governs the short run: never infer counterinductively in the raven problem-never, ever, including now.",
+      "text": "In the raven problem, the normative requirement to achieve the highest achievable standard selects the middle mode of convergence, which in turn implies a norm that governs the short run: never infer counterinductively in the raven problem-never, ever, including now."
+    },
+    {
+      "self_ref": "#/texts/121",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 86.40000000000003,
+            "t": 112.49240159999977,
+            "r": 525.6005734400002,
+            "b": 84.11745257867403,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            169
+          ]
+        }
+      ],
+      "orig": "A short-run rabbit is thus pulled out of a long-run hat. The trick has been mostly buried in technical works, so let me try to reveal it in intuitive terms. Imagine that",
+      "text": "A short-run rabbit is thus pulled out of a long-run hat. The trick has been mostly buried in technical works, so let me try to reveal it in intuitive terms. Imagine that"
+    },
+    {
+      "self_ref": "#/texts/122",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 303.07400000000007,
+            "t": 64.67740159999971,
+            "r": 308.9272659200001,
+            "b": 54.22945257867411,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "7",
+      "text": "7"
+    },
+    {
+      "self_ref": "#/texts/123",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 86.4,
+            "t": 701.8104016,
+            "r": 525.6029644800001,
+            "b": 673.4354525786744,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            93
+          ]
+        }
+      ],
+      "orig": "someone in a party is deciding whether to drink and whether to drive. She reasons as follows:",
+      "text": "someone in a party is deciding whether to drink and whether to drive. She reasons as follows:"
+    },
+    {
+      "self_ref": "#/texts/124",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 115.665,
+            "t": 655.9934016,
+            "r": 299.38055840000004,
+            "b": 645.5454525786744,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "I may drink, or drive, but not both.",
+      "text": "I may drink, or drive, but not both."
+    },
+    {
+      "self_ref": "#/texts/125",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 115.665,
+            "t": 638.0664016,
+            "r": 223.35505056000005,
+            "b": 609.6904525786744,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "I must drive. So, I must not drink.",
+      "text": "I must drive. So, I must not drink."
+    },
+    {
+      "self_ref": "#/texts/126",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 86.39999999999995,
+            "t": 592.2494015999999,
+            "r": 525.6059104000002,
+            "b": 438.38345257867417,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            761
+          ]
+        }
+      ],
+      "orig": "This reasoning illustrates a pattern: Once a constraint is placed jointly on two things (whether-to-drink, and whether-to-drive), a constraint imposed directly on one of the two might generate a constraint on the other. Similarly, if there is a normative constraint X placed jointly on two things-the long run and the short run-then a convergentist constraint on the long run might generate a nontrivial constraint on the short run. Such an X must then be a diachronic constraint, and that is the trick in reply to Carnap. The mode of stable convergence defined above is indeed diachronic, for it concerns the retention of truth as evidence accumulates. Convergentists have explored other diachronic candidates for X , which will be presented below when needed.",
+      "text": "This reasoning illustrates a pattern: Once a constraint is placed jointly on two things (whether-to-drink, and whether-to-drive), a constraint imposed directly on one of the two might generate a constraint on the other. Similarly, if there is a normative constraint X placed jointly on two things-the long run and the short run-then a convergentist constraint on the long run might generate a nontrivial constraint on the short run. Such an X must then be a diachronic constraint, and that is the trick in reply to Carnap. The mode of stable convergence defined above is indeed diachronic, for it concerns the retention of truth as evidence accumulates. Convergentists have explored other diachronic candidates for X , which will be presented below when needed."
+    },
+    {
+      "self_ref": "#/texts/127",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 86.39999999999992,
+            "t": 407.2597643999998,
+            "r": 392.83584154000005,
+            "b": 392.14871139250704,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "4 A Framework for Convergentism",
+      "text": "4 A Framework for Convergentism",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/128",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 86.39999999999992,
+            "t": 373.8494015999998,
+            "r": 525.6029644800002,
+            "b": 309.6194525786741,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            302
+          ]
+        }
+      ],
+      "orig": "The above case study on the raven problem actually illustrates a framework, first adumbrated in Putnam (1965) and later practiced by Kelly (1996) and Schulte (1999) in a wider domain. A very general statement of the core thesis was articulated by Lin (2022) and I propose to make it clearer as follows:",
+      "text": "The above case study on the raven problem actually illustrates a framework, first adumbrated in Putnam (1965) and later practiced by Kelly (1996) and Schulte (1999) in a wider domain. A very general statement of the core thesis was articulated by Lin (2022) and I propose to make it clearer as follows:"
+    },
+    {
+      "self_ref": "#/texts/129",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 115.6649999999999,
+            "t": 292.2132671999998,
+            "r": 496.3353052800001,
+            "b": 210.02045257867417,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            308
+          ]
+        }
+      ],
+      "orig": "The Core Thesis of Achievabilist Convergentism. In any empirical problem, a necessary condition for an inference method to be justified is that it achieves the highest achievable mode of convergence to the truthpending a specification of the correct hierarchy of modes of convergence as evaluative standards.",
+      "text": "The Core Thesis of Achievabilist Convergentism. In any empirical problem, a necessary condition for an inference method to be justified is that it achieves the highest achievable mode of convergence to the truthpending a specification of the correct hierarchy of modes of convergence as evaluative standards."
+    },
+    {
+      "self_ref": "#/texts/130",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 86.3999999999999,
+            "t": 192.57840159999978,
+            "r": 525.6029644800002,
+            "b": 128.34945257867412,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            262
+          ]
+        }
+      ],
+      "orig": "This thesis sets up what may be called the achievabilist framework for convergentism, for lack of a standard name. This framework encourages the exploration of modes of convergence, such as the mode of stable convergence, which is used to address Carnap's worry.",
+      "text": "This thesis sets up what may be called the achievabilist framework for convergentism, for lack of a standard name. This framework encourages the exploration of modes of convergence, such as the mode of stable convergence, which is used to address Carnap's worry."
+    },
+    {
+      "self_ref": "#/texts/131",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 86.39999999999992,
+            "t": 120.86940159999983,
+            "r": 525.5973846400001,
+            "b": 92.49445257867421,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            174
+          ]
+        }
+      ],
+      "orig": "This framework also features a kind of context-sensitivity: the appropriate standard for assessing inference methods should be the highest achievable, which is sensitive to a",
+      "text": "This framework also features a kind of context-sensitivity: the appropriate standard for assessing inference methods should be the highest achievable, which is sensitive to a"
+    },
+    {
+      "self_ref": "#/texts/132",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 303.07399999999996,
+            "t": 64.67740159999983,
+            "r": 308.92726591999997,
+            "b": 54.22945257867423,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "8",
+      "text": "8"
+    },
+    {
+      "self_ref": "#/texts/133",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 86.4,
+            "t": 701.8104016,
+            "r": 525.6053555200003,
+            "b": 619.6534525786743,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            403
+          ]
+        }
+      ],
+      "orig": "contextual factor: the empirical problem that one tackles in one's context of inquiry. In fact, when one switches to the context of a statistical problem, the epistemic standards presented above all become unachievable, which requires convergentists to explore lower standards-weaker modes of convergence. To illustrate how that may be done, let's think about statistics, which brings us back to Peirce.",
+      "text": "contextual factor: the empirical problem that one tackles in one's context of inquiry. In fact, when one switches to the context of a statistical problem, the epistemic standards presented above all become unachievable, which requires convergentists to explore lower standards-weaker modes of convergence. To illustrate how that may be done, let's think about statistics, which brings us back to Peirce."
+    },
+    {
+      "self_ref": "#/texts/134",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 86.4,
+            "t": 588.5297643999999,
+            "r": 278.49115474,
+            "b": 573.4187113925071,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "5 Peirce on Statistics",
+      "text": "5 Peirce on Statistics",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/135",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 86.4,
+            "t": 555.1194016,
+            "r": 525.6053555200003,
+            "b": 508.81745257867425,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            228
+          ]
+        }
+      ],
+      "orig": "Peirce once studied a classic problem in statistics. An urn contains an unknown number of black and white balls. We ask: What is the true proportion of white balls in the urn? The three components of this problem are as follows:",
+      "text": "Peirce once studied a classic problem in statistics. An urn contains an unknown number of black and white balls. We ask: What is the true proportion of white balls in the urn? The three components of this problem are as follows:"
+    },
+    {
+      "self_ref": "#/texts/136",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 103.96000000000001,
+            "t": 494.4717983999999,
+            "r": 525.60578464,
+            "b": 463.00045257867424,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            105
+          ]
+        }
+      ],
+      "orig": "\u00b7 The competing hypotheses are the rational numbers in the unit interval (i.e. the possible proportions).",
+      "text": "The competing hypotheses are the rational numbers in the unit interval (i.e. the possible proportions).",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/137",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 103.96000000000002,
+            "t": 448.6547983999999,
+            "r": 486.6043955200003,
+            "b": 433.5673359999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "\u00b7 Evidence is to be collected by randomly drawing balls with replacement.",
+      "text": "Evidence is to be collected by randomly drawing balls with replacement.",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/138",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 103.96000000000004,
+            "t": 420.7647983999999,
+            "r": 525.59832768,
+            "b": 389.29345257867425,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            86
+          ]
+        }
+      ],
+      "orig": "\u00b7 The background assumption is that different draws are probabilistically independent.",
+      "text": "The background assumption is that different draws are probabilistically independent.",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/139",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 86.39999999999999,
+            "t": 371.8514015999999,
+            "r": 525.6053555200003,
+            "b": 325.54845257867424,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            192
+          ]
+        }
+      ],
+      "orig": "Call this the white ball problem . To evaluate inference methods for this problem, Peirce proposed to employ the following mode of convergence, where, by probability, he meant physical chance:",
+      "text": "Call this the white ball problem . To evaluate inference methods for this problem, Peirce proposed to employ the following mode of convergence, where, by probability, he meant physical chance:"
+    },
+    {
+      "self_ref": "#/texts/140",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 115.665,
+            "t": 308.14226719999994,
+            "r": 496.33581440000006,
+            "b": 190.0954525786742,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            493
+          ]
+        }
+      ],
+      "orig": "Definition (Statistical Consistency). An inference method M for an empirical problem is said to achieve statistical consistency iff (i) in any possible world compatible with the background assumption, there exists n such that inference method M would highly probably produce a guess that gets close to the truth if the sample size were n or larger, and (ii) inference method M has the above property for any threshold of high probability less than 1 and for any nonzero threshold of closeness.",
+      "text": "Definition (Statistical Consistency). An inference method M for an empirical problem is said to achieve statistical consistency iff (i) in any possible world compatible with the background assumption, there exists n such that inference method M would highly probably produce a guess that gets close to the truth if the sample size were n or larger, and (ii) inference method M has the above property for any threshold of high probability less than 1 and for any nonzero threshold of closeness."
+    },
+    {
+      "self_ref": "#/texts/141",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 86.4000000000001,
+            "t": 172.65340159999982,
+            "r": 525.6029644800002,
+            "b": 90.49645257867428,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            424
+          ]
+        }
+      ],
+      "orig": "Peirce studied this mode of convergence as an evaluative standard in an 1878 paper titled 'The Probability of Induction' (CP 2.669-93). It is unclear whether Peirce influenced any statisticians of his time, but this stochastic mode of convergence was popularized by statistician Fisher (1925: sec. I.3). It is now generally regarded in frequentist statistics as a minimum qualification for any justified statistical methods,",
+      "text": "Peirce studied this mode of convergence as an evaluative standard in an 1878 paper titled 'The Probability of Induction' (CP 2.669-93). It is unclear whether Peirce influenced any statisticians of his time, but this stochastic mode of convergence was popularized by statistician Fisher (1925: sec. I.3). It is now generally regarded in frequentist statistics as a minimum qualification for any justified statistical methods,"
+    },
+    {
+      "self_ref": "#/texts/142",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 303.0740000000001,
+            "t": 64.67740159999994,
+            "r": 308.92726592000014,
+            "b": 54.22945257867423,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "9",
+      "text": "9"
+    },
+    {
+      "self_ref": "#/texts/143",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 86.4,
+            "t": 701.8104016,
+            "r": 525.6029644800003,
+            "b": 673.4354525786744,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            138
+          ]
+        }
+      ],
+      "orig": "with different versions for different statistical problems, including estimation, hypothesis testing, and regression (i.e. curve fitting).",
+      "text": "with different versions for different statistical problems, including estimation, hypothesis testing, and regression (i.e. curve fitting)."
+    },
+    {
+      "self_ref": "#/texts/144",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 86.4,
+            "t": 665.9564015999999,
+            "r": 525.6053555200004,
+            "b": 476.23545257867414,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            913
+          ]
+        }
+      ],
+      "orig": "Peirce never explained why he employed different evaluative standards in two different empirical problems, the white ball problem and the Greek's tide problem (which is equivalent to the raven problem). From an achievabilist hindsight, he had to employ different standards. The Greek's tide problem is easy enough to allow for a guarantee of getting exactly the true answer at least when the amount of evidence is arbitrarily large. But this standard is too high to be achievable in the white ball problem. So, let's try lowering the bar for that problem: 'getting exactly the truth' can be downgraded to ' highly probably getting exactly the truth', which can be further downgraded to 'highly probably getting close to the truth'. This line of thought motivates statistical consistency as a lower standard, and Peirce did show how it can be achieved in the white ball problem (by using the law of large numbers).",
+      "text": "Peirce never explained why he employed different evaluative standards in two different empirical problems, the white ball problem and the Greek's tide problem (which is equivalent to the raven problem). From an achievabilist hindsight, he had to employ different standards. The Greek's tide problem is easy enough to allow for a guarantee of getting exactly the true answer at least when the amount of evidence is arbitrarily large. But this standard is too high to be achievable in the white ball problem. So, let's try lowering the bar for that problem: 'getting exactly the truth' can be downgraded to ' highly probably getting exactly the truth', which can be further downgraded to 'highly probably getting close to the truth'. This line of thought motivates statistical consistency as a lower standard, and Peirce did show how it can be achieved in the white ball problem (by using the law of large numbers)."
+    },
+    {
+      "self_ref": "#/texts/145",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 86.4,
+            "t": 468.7564015999998,
+            "r": 525.6029644800002,
+            "b": 422.4544525786741,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            185
+          ]
+        }
+      ],
+      "orig": "Carnap's worry still needs to be addressed for statistical problems. The diachronic trick presented above still applies; an example will be provided in a broader context when I wrap up.",
+      "text": "Carnap's worry still needs to be addressed for statistical problems. The diachronic trick presented above still applies; an example will be provided in a broader context when I wrap up."
+    },
+    {
+      "self_ref": "#/texts/146",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 86.4,
+            "t": 391.33076439999974,
+            "r": 462.5668192400003,
+            "b": 376.21971139250695,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "6 Closing: Comparison with the Big Three",
+      "text": "6 Closing: Comparison with the Big Three",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/147",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 86.4,
+            "t": 357.9204015999997,
+            "r": 525.6005734400001,
+            "b": 329.54445257867405,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            94
+          ]
+        }
+      ],
+      "orig": "How does the convergentist tradition fare against the big three mentioned in the introduction?",
+      "text": "How does the convergentist tradition fare against the big three mentioned in the introduction?"
+    },
+    {
+      "self_ref": "#/texts/148",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 86.4,
+            "t": 322.0654015999997,
+            "r": 525.6054483200003,
+            "b": 239.90845257867397,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            373
+          ]
+        }
+      ],
+      "orig": "First of all, the Bayesian tradition need not be a rival to convergentism. An alliance has been proposed in statistics as a partial solution to Bayesians' perennial problem of the priors-the problem of identifying the correct norms that govern prior credences (see [ add cross references ]). Here is a convergentist constraint on priors due to statistician Freedman (1963):",
+      "text": "First of all, the Bayesian tradition need not be a rival to convergentism. An alliance has been proposed in statistics as a partial solution to Bayesians' perennial problem of the priors-the problem of identifying the correct norms that govern prior credences (see [ add cross references ]). Here is a convergentist constraint on priors due to statistician Freedman (1963):"
+    },
+    {
+      "self_ref": "#/texts/149",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 115.66499999999995,
+            "t": 222.50226719999966,
+            "r": 496.34143999999986,
+            "b": 104.455452578674,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            479
+          ]
+        }
+      ],
+      "orig": "Definition (Bayesian Consistency). A prior is said to achieve Bayesian consistency in an empirical problem iff it is guaranteed (under just the background assumption of that problem) that this prior, when guided by the diachronic rule of conditionalization, would have a high chance of leading to posterior credences that converge to the truth among the considered hypotheses if the amount of evidence were to accumulate indefinitely-for any threshold of high chance less than 1.",
+      "text": "Definition (Bayesian Consistency). A prior is said to achieve Bayesian consistency in an empirical problem iff it is guaranteed (under just the background assumption of that problem) that this prior, when guided by the diachronic rule of conditionalization, would have a high chance of leading to posterior credences that converge to the truth among the considered hypotheses if the amount of evidence were to accumulate indefinitely-for any threshold of high chance less than 1."
+    },
+    {
+      "self_ref": "#/texts/150",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 300.14699999999993,
+            "t": 64.67740159999971,
+            "r": 311.85353183999996,
+            "b": 54.229452578674,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "10",
+      "text": "10"
+    },
+    {
+      "self_ref": "#/texts/151",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 86.4,
+            "t": 701.8104016,
+            "r": 525.6053555200002,
+            "b": 530.0174525786742,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            840
+          ]
+        }
+      ],
+      "orig": "Freedman did not recognize that this is another implementation of the diachronic trick that replies to Carnap: a combination of long-run convergence with a diachronic constraint, which in this case is conditionalization. The resulting constraint on the priors-and hence on the short run-turns out to be surprisingly strong in some interesting empirical problems, stronger than what traditional Bayesians have to offer. In particular, Bayesian consistency implies a version of Ockham's razor in statistical problems of curve-fitting (Diaconis & Freedman 1998). Similarly, a chance-free counterpart of Bayesian consistency implies another version of Ockham's razor in problems of testing deterministic hypotheses (Lin 2022). It remains to be seen whether convergentist Bayesianism is better than the more traditional varieties of Bayesianism.",
+      "text": "Freedman did not recognize that this is another implementation of the diachronic trick that replies to Carnap: a combination of long-run convergence with a diachronic constraint, which in this case is conditionalization. The resulting constraint on the priors-and hence on the short run-turns out to be surprisingly strong in some interesting empirical problems, stronger than what traditional Bayesians have to offer. In particular, Bayesian consistency implies a version of Ockham's razor in statistical problems of curve-fitting (Diaconis & Freedman 1998). Similarly, a chance-free counterpart of Bayesian consistency implies another version of Ockham's razor in problems of testing deterministic hypotheses (Lin 2022). It remains to be seen whether convergentist Bayesianism is better than the more traditional varieties of Bayesianism."
+    },
+    {
+      "self_ref": "#/texts/152",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 86.4,
+            "t": 522.5384015999998,
+            "r": 525.6053555200002,
+            "b": 225.25445257867398,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1363
+          ]
+        }
+      ],
+      "orig": "The explanationist tradition can benefit from convergentism, too. According to explanationism, theory choice should be based on a theory's overall balance of explanatory virtues, so it should be based on Ockham's razor if simplicity is among these virtues. But which version of Ockham's razor? That is, which particular trade-off between simplicity and other virtues such as fit with data? Under which conception of simplicity? And under which conception of fit? Explanationists often think that the choice is to be justified by appeal to intuition (Swinburne 1997). However, in complex empirical problems, working scientists often find that they lack the intuition needed to justify one version of Ockham's razor over another-and this is where convergentists can assist. The previous paragraph already referred to two examples of convergentist justifications of particular versions of Ockham's razor, in curve-fitting problems and in problems of testing deterministic hypotheses. Let me add one more example: in problems of testing statistical hypotheses, Genin (2018) justifies another version of Ockham's razor by combining a mode of convergence with a stochastic version of stability (which he calls progressiveness , a guarantee that the chance of finding the truth would never drop too much if the sample size were increased by any arbitrary finite amount).",
+      "text": "The explanationist tradition can benefit from convergentism, too. According to explanationism, theory choice should be based on a theory's overall balance of explanatory virtues, so it should be based on Ockham's razor if simplicity is among these virtues. But which version of Ockham's razor? That is, which particular trade-off between simplicity and other virtues such as fit with data? Under which conception of simplicity? And under which conception of fit? Explanationists often think that the choice is to be justified by appeal to intuition (Swinburne 1997). However, in complex empirical problems, working scientists often find that they lack the intuition needed to justify one version of Ockham's razor over another-and this is where convergentists can assist. The previous paragraph already referred to two examples of convergentist justifications of particular versions of Ockham's razor, in curve-fitting problems and in problems of testing deterministic hypotheses. Let me add one more example: in problems of testing statistical hypotheses, Genin (2018) justifies another version of Ockham's razor by combining a mode of convergence with a stochastic version of stability (which he calls progressiveness , a guarantee that the chance of finding the truth would never drop too much if the sample size were increased by any arbitrary finite amount)."
+    },
+    {
+      "self_ref": "#/texts/153",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 86.40000000000006,
+            "t": 217.77540159999967,
+            "r": 525.6030112000001,
+            "b": 99.76345257867399,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            614
+          ]
+        }
+      ],
+      "orig": "Now, let's turn to the instrumentalist tradition. Due to their emphasis on the pursuit of usefulness instead of truth, instrumentalists might appear to have to dismiss the significance of convergence to the truth . However, this is merely an appearance, I submit. The usefulness of a scientific model is often taken to include at least predictive accuracy, but predictive accuracy is a contingent matter, depending on what the actual world is like. Thus, choosing a useful model is no trivial task. This issue is addressed in a foundational branch of machine learning, known as statistical learning theory (Shalev-",
+      "text": "Now, let's turn to the instrumentalist tradition. Due to their emphasis on the pursuit of usefulness instead of truth, instrumentalists might appear to have to dismiss the significance of convergence to the truth . However, this is merely an appearance, I submit. The usefulness of a scientific model is often taken to include at least predictive accuracy, but predictive accuracy is a contingent matter, depending on what the actual world is like. Thus, choosing a useful model is no trivial task. This issue is addressed in a foundational branch of machine learning, known as statistical learning theory (Shalev-"
+    },
+    {
+      "self_ref": "#/texts/154",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 300.1470000000001,
+            "t": 64.67740159999971,
+            "r": 311.85353184000013,
+            "b": 54.229452578674,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "11",
+      "text": "11"
+    },
+    {
+      "self_ref": "#/texts/155",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 86.39999999999998,
+            "t": 701.8104016,
+            "r": 525.6053555200006,
+            "b": 583.7994525786743,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            605
+          ]
+        }
+      ],
+      "orig": "Shwartz & Ben-David 2014, part I). It assesses learning algorithms based on some modes of convergence, such as a guarantee to have a high chance of converging to the most useful of the predictive devices under consideration, where usefulness is identified with the chance of accurate prediction. To be sure, this does not sound like convergence to the truth. But let's be careful: convergence to the most useful one is still convergence to a certain truth, the true answer to this practical question: Which one is the most useful? Instrumentalists can find a home in machine learning-a convergentist home.",
+      "text": "Shwartz & Ben-David 2014, part I). It assesses learning algorithms based on some modes of convergence, such as a guarantee to have a high chance of converging to the most useful of the predictive devices under consideration, where usefulness is identified with the chance of accurate prediction. To be sure, this does not sound like convergence to the truth. But let's be careful: convergence to the most useful one is still convergence to a certain truth, the true answer to this practical question: Which one is the most useful? Instrumentalists can find a home in machine learning-a convergentist home."
+    },
+    {
+      "self_ref": "#/texts/156",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 86.39999999999998,
+            "t": 576.3194015999999,
+            "r": 525.6053555200004,
+            "b": 512.0904525786742,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            259
+          ]
+        }
+      ],
+      "orig": "The comparisons just made are quite rudimentary due to the lack of established literature. Much work is still needed to adjudicate the competition between convergentism and the other three traditions, as well as to explore opportunities for their cooperation.",
+      "text": "The comparisons just made are quite rudimentary due to the lack of established literature. Much work is still needed to adjudicate the competition between convergentism and the other three traditions, as well as to explore opportunities for their cooperation."
+    },
+    {
+      "self_ref": "#/texts/157",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 86.39999999999998,
+            "t": 480.9667643999998,
+            "r": 177.02703021999997,
+            "b": 465.85571139250703,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/158",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 92.25299999999997,
+            "t": 447.5564015999998,
+            "r": 525.6026985600004,
+            "b": 401.2534525786741,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            225
+          ]
+        }
+      ],
+      "orig": "Bayes, T. (1763) 'An Essay towards Solving a Problem in the Doctrine of Chances', Philosophical Transactions of the Royal Society : 330-418. Reprinted with Biographical Note by Barnard, G.A., in (1958) Biometrika 45: 293-315.",
+      "text": "Bayes, T. (1763) 'An Essay towards Solving a Problem in the Doctrine of Chances', Philosophical Transactions of the Royal Society : 330-418. Reprinted with Biographical Note by Barnard, G.A., in (1958) Biometrika 45: 293-315.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/159",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 92.25300000000004,
+            "t": 383.8114015999998,
+            "r": 490.13546944000007,
+            "b": 373.3634525786741,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "Carnap, R. (1945) 'On Inductive Logic', Philosophy of Science , 12(2): 72-97.",
+      "text": "Carnap, R. (1945) 'On Inductive Logic', Philosophy of Science , 12(2): 72-97.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/160",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 92.25300000000004,
+            "t": 355.9224015999998,
+            "r": 525.5955254400003,
+            "b": 327.5464525786741,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            139
+          ]
+        }
+      ],
+      "orig": "Diaconis, P. & Freedman, D. (1998) 'Consistency of Bayes Estimates for Nonparametric Regression: Normal Theory', Bernoulli , 4(4): 411-444.",
+      "text": "Diaconis, P. & Freedman, D. (1998) 'Consistency of Bayes Estimates for Nonparametric Regression: Normal Theory', Bernoulli , 4(4): 411-444.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/161",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 92.25300000000004,
+            "t": 310.1044015999998,
+            "r": 525.60029664,
+            "b": 281.7294525786741,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            92
+          ]
+        }
+      ],
+      "orig": "Duhem, P. (1906/1954) The Aim and Structure of Physical Theory , Princeton University Press.",
+      "text": "Duhem, P. (1906/1954) The Aim and Structure of Physical Theory , Princeton University Press.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/162",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 92.25300000000001,
+            "t": 264.28740159999984,
+            "r": 491.0399465600001,
+            "b": 253.83945257867413,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "Fisher, R.A. (1925) Statistical Methods for Research Workers , Oliver & Boyd.",
+      "text": "Fisher, R.A. (1925) Statistical Methods for Research Workers , Oliver & Boyd.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/163",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 92.25299999999999,
+            "t": 236.39740159999974,
+            "r": 525.6026985600004,
+            "b": 208.02245257867412,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            148
+          ]
+        }
+      ],
+      "orig": "Freedman, D. (1963) 'On the Asymptotic Behavior of Bayes' Estimates in the Discrete Case', The Annals of Mathematical Statistics , 34(4): 1386-1403.",
+      "text": "Freedman, D. (1963) 'On the Asymptotic Behavior of Bayes' Estimates in the Discrete Case', The Annals of Mathematical Statistics , 34(4): 1386-1403.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/164",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 92.25299999999999,
+            "t": 190.58040159999973,
+            "r": 525.6026563199999,
+            "b": 162.2054525786741,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            100
+          ]
+        }
+      ],
+      "orig": "Genin, K. (2018) The Topology of Statistical Inquiry , PhD Dissertation, Carnegie Mellon University.",
+      "text": "Genin, K. (2018) The Topology of Statistical Inquiry , PhD Dissertation, Carnegie Mellon University.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/165",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 92.25299999999999,
+            "t": 144.76340159999972,
+            "r": 525.6017968000001,
+            "b": 116.3884525786741,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            100
+          ]
+        }
+      ],
+      "orig": "Hookway, C. (2000) Truth, Rationality, and Pragmatism: Themes from Peirce , Oxford University Press.",
+      "text": "Hookway, C. (2000) Truth, Rationality, and Pragmatism: Themes from Peirce , Oxford University Press.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/166",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 92.25300000000001,
+            "t": 98.94640159999983,
+            "r": 450.83238912000013,
+            "b": 88.49845257867412,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            67
+          ]
+        }
+      ],
+      "orig": "James, W. (1896) 'The Will to Believe', The New World , 5: 327-347.",
+      "text": "James, W. (1896) 'The Will to Believe', The New World , 5: 327-347.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/167",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 300.14700000000005,
+            "t": 64.67740159999983,
+            "r": 311.8535318400001,
+            "b": 54.22945257867411,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "12",
+      "text": "12"
+    },
+    {
+      "self_ref": "#/texts/168",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 92.253,
+            "t": 701.8104016,
+            "r": 472.18169184000004,
+            "b": 691.3624525786744,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "Kelly, K.T. (1996) The Logic of Reliable Inquiry , Oxford University Press.",
+      "text": "Kelly, K.T. (1996) The Logic of Reliable Inquiry , Oxford University Press."
+    },
+    {
+      "self_ref": "#/texts/169",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 92.25300000000001,
+            "t": 673.9204016,
+            "r": 525.5955254400002,
+            "b": 645.5454525786744,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            147
+          ]
+        }
+      ],
+      "orig": "Lin, H. (2022) 'Modes of Convergence to the Truth: Steps toward a Better Epistemology of Induction', The Review of Symbolic Logic , 15(2), 277-310.",
+      "text": "Lin, H. (2022) 'Modes of Convergence to the Truth: Steps toward a Better Epistemology of Induction', The Review of Symbolic Logic , 15(2), 277-310.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/170",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 92.25299999999999,
+            "t": 628.1034016,
+            "r": 525.60052128,
+            "b": 599.7284525786744,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            94
+          ]
+        }
+      ],
+      "orig": "Peirce, C.S. (1994) Collected Papers of Charles Sanders Peirce (Volumes I-VIII), InteLex Corp.",
+      "text": "Peirce, C.S. (1994) Collected Papers of Charles Sanders Peirce (Volumes I-VIII), InteLex Corp.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/171",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 92.25300000000001,
+            "t": 582.2864016,
+            "r": 525.6003075200001,
+            "b": 553.9114525786744,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            134
+          ]
+        }
+      ],
+      "orig": "Putnam, H. (1965) 'Trial and Error Predicates and a Solution to a Problem of Mostowski', The Journal of Symbolic Logic , 30(1): 49-57.",
+      "text": "Putnam, H. (1965) 'Trial and Error Predicates and a Solution to a Problem of Mostowski', The Journal of Symbolic Logic , 30(1): 49-57.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/172",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 92.25300000000004,
+            "t": 536.4694016,
+            "r": 525.6037600000003,
+            "b": 508.0944525786743,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            141
+          ]
+        }
+      ],
+      "orig": "Reichenbach, H. (1938) Experience and Prediction: An Analysis of the Foundation and the Structure of Knowledge , University of Chicago Press.",
+      "text": "Reichenbach, H. (1938) Experience and Prediction: An Analysis of the Foundation and the Structure of Knowledge , University of Chicago Press.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/173",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 92.25300000000007,
+            "t": 490.65240159999996,
+            "r": 453.33518720000006,
+            "b": 480.2044525786743,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "Russell, B. (1912) The Problems of Philosophy , Williams and Norgate.",
+      "text": "Russell, B. (1912) The Problems of Philosophy , Williams and Norgate.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/174",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 92.25300000000004,
+            "t": 462.7624016,
+            "r": 525.60436544,
+            "b": 434.3874525786743,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            108
+          ]
+        }
+      ],
+      "orig": "Schulte, O. (1999) 'Means-Ends Epistemology', The British Journal for the Philosophy of Science 79(1), 1-32.",
+      "text": "Schulte, O. (1999) 'Means-Ends Epistemology', The British Journal for the Philosophy of Science 79(1), 1-32.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/175",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 92.25300000000004,
+            "t": 416.94540159999997,
+            "r": 525.60496032,
+            "b": 388.5704525786743,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            129
+          ]
+        }
+      ],
+      "orig": "Shalev-Shwartz, S. & Ben-David, S. (2014) Understanding Machine Learning: From Theory to Algorithms , Cambridge University Press.",
+      "text": "Shalev-Shwartz, S. & Ben-David, S. (2014) Understanding Machine Learning: From Theory to Algorithms , Cambridge University Press.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/176",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 92.25300000000004,
+            "t": 371.12840159999996,
+            "r": 517.55870752,
+            "b": 360.6804525786743,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            82
+          ]
+        }
+      ],
+      "orig": "Swinburne, R. (1997) Simplicity as Evidence of Truth , Marquette University Press.",
+      "text": "Swinburne, R. (1997) Simplicity as Evidence of Truth , Marquette University Press.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/177",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 300.14700000000005,
+            "t": 64.67740159999994,
+            "r": 311.8535318400001,
+            "b": 54.22945257867434,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "13",
+      "text": "13"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        },
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 111.3471450805664,
+            "t": 410.15704345703125,
+            "r": 500.08221435546875,
+            "b": 178.54888916015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/36"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        },
+        {
+          "$ref": "#/texts/72"
+        },
+        {
+          "$ref": "#/texts/73"
+        },
+        {
+          "$ref": "#/texts/74"
+        },
+        {
+          "$ref": "#/texts/75"
+        },
+        {
+          "$ref": "#/texts/76"
+        },
+        {
+          "$ref": "#/texts/77"
+        },
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        },
+        {
+          "$ref": "#/texts/86"
+        },
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        },
+        {
+          "$ref": "#/texts/90"
+        },
+        {
+          "$ref": "#/texts/91"
+        },
+        {
+          "$ref": "#/texts/92"
+        },
+        {
+          "$ref": "#/texts/93"
+        },
+        {
+          "$ref": "#/texts/94"
+        },
+        {
+          "$ref": "#/texts/95"
+        },
+        {
+          "$ref": "#/texts/96"
+        },
+        {
+          "$ref": "#/texts/97"
+        },
+        {
+          "$ref": "#/texts/98"
+        },
+        {
+          "$ref": "#/texts/99"
+        },
+        {
+          "$ref": "#/texts/100"
+        },
+        {
+          "$ref": "#/texts/101"
+        },
+        {
+          "$ref": "#/texts/102"
+        },
+        {
+          "$ref": "#/texts/103"
+        },
+        {
+          "$ref": "#/texts/104"
+        },
+        {
+          "$ref": "#/texts/105"
+        },
+        {
+          "$ref": "#/texts/106"
+        },
+        {
+          "$ref": "#/texts/107"
+        },
+        {
+          "$ref": "#/texts/108"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 105.77694702148438,
+            "t": 588.5697937011719,
+            "r": 507.2044677734375,
+            "b": 262.9090576171875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/56"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 7
+    },
+    "8": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 8
+    },
+    "9": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 9
+    },
+    "10": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 10
+    },
+    "11": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 11
+    },
+    "12": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 12
+    },
+    "13": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 13
+    }
+  }
+}

@@ -1,0 +1,5417 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "2412.18501v3",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 18021449060252431878,
+    "filename": "2412.18501v3.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/109"
+      },
+      {
+        "$ref": "#/texts/110"
+      },
+      {
+        "$ref": "#/texts/111"
+      },
+      {
+        "$ref": "#/texts/112"
+      },
+      {
+        "$ref": "#/texts/113"
+      },
+      {
+        "$ref": "#/texts/114"
+      },
+      {
+        "$ref": "#/texts/115"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/124"
+      },
+      {
+        "$ref": "#/texts/125"
+      },
+      {
+        "$ref": "#/texts/126"
+      },
+      {
+        "$ref": "#/texts/127"
+      },
+      {
+        "$ref": "#/texts/128"
+      },
+      {
+        "$ref": "#/texts/129"
+      },
+      {
+        "$ref": "#/texts/130"
+      },
+      {
+        "$ref": "#/texts/131"
+      },
+      {
+        "$ref": "#/texts/132"
+      },
+      {
+        "$ref": "#/texts/133"
+      },
+      {
+        "$ref": "#/texts/134"
+      },
+      {
+        "$ref": "#/texts/135"
+      },
+      {
+        "$ref": "#/texts/136"
+      },
+      {
+        "$ref": "#/texts/137"
+      },
+      {
+        "$ref": "#/texts/138"
+      },
+      {
+        "$ref": "#/groups/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/139"
+        },
+        {
+          "$ref": "#/texts/140"
+        },
+        {
+          "$ref": "#/texts/141"
+        },
+        {
+          "$ref": "#/texts/142"
+        },
+        {
+          "$ref": "#/texts/143"
+        },
+        {
+          "$ref": "#/texts/144"
+        },
+        {
+          "$ref": "#/texts/145"
+        },
+        {
+          "$ref": "#/texts/146"
+        },
+        {
+          "$ref": "#/texts/147"
+        },
+        {
+          "$ref": "#/texts/148"
+        },
+        {
+          "$ref": "#/texts/149"
+        },
+        {
+          "$ref": "#/texts/150"
+        },
+        {
+          "$ref": "#/texts/151"
+        },
+        {
+          "$ref": "#/texts/152"
+        },
+        {
+          "$ref": "#/texts/153"
+        },
+        {
+          "$ref": "#/texts/154"
+        },
+        {
+          "$ref": "#/texts/155"
+        },
+        {
+          "$ref": "#/texts/156"
+        },
+        {
+          "$ref": "#/texts/157"
+        },
+        {
+          "$ref": "#/texts/158"
+        },
+        {
+          "$ref": "#/texts/159"
+        },
+        {
+          "$ref": "#/texts/160"
+        },
+        {
+          "$ref": "#/texts/161"
+        },
+        {
+          "$ref": "#/texts/162"
+        },
+        {
+          "$ref": "#/texts/163"
+        },
+        {
+          "$ref": "#/texts/164"
+        },
+        {
+          "$ref": "#/texts/165"
+        },
+        {
+          "$ref": "#/texts/166"
+        },
+        {
+          "$ref": "#/texts/167"
+        },
+        {
+          "$ref": "#/texts/168"
+        },
+        {
+          "$ref": "#/texts/169"
+        },
+        {
+          "$ref": "#/texts/170"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 578.08,
+            "r": 36.206559297218156,
+            "b": 227.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "arXiv:2412.18501v3  [eess.SP]  9 Apr 2025",
+      "text": "arXiv:2412.18501v3  [eess.SP]  9 Apr 2025"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.964,
+            "t": 765.3189437999999,
+            "r": 273.8272072,
+            "b": 759.3326462230089,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "ACCEPTED TO IEEE SIGNAL PROCESSING LETTERS (SPL-42226-2025)",
+      "text": "ACCEPTED TO IEEE SIGNAL PROCESSING LETTERS (SPL-42226-2025)"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 559.549,
+            "t": 765.3189437999999,
+            "r": 563.0359,
+            "b": 759.3326462230089,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 58.00399999999996,
+            "t": 730.8056053,
+            "r": 553.9992632,
+            "b": 710.2810460991151,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "Hilbert Transform on Graphs: Let There Be Phase",
+      "text": "Hilbert Transform on Graphs: Let There Be Phase",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 97.20099999999996,
+            "t": 699.2485452,
+            "r": 514.7989743,
+            "b": 689.6551435362832,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            84
+          ]
+        }
+      ],
+      "orig": "Chun Hei Michael Chan, Student Member, IEEE, Alexandre Cionca, Student Member, IEEE,",
+      "text": "Chun Hei Michael Chan, Student Member, IEEE, Alexandre Cionca, Student Member, IEEE,"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 225.595,
+            "t": 685.8985452,
+            "r": 386.15326550000003,
+            "b": 676.3051435362831,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "Dimitri Van De Ville, Fellow, IEEE",
+      "text": "Dimitri Van De Ville, Fellow, IEEE"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.963999999999956,
+            "t": 638.106816,
+            "r": 300.02338240000006,
+            "b": 420.83102240000017,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1317
+          ]
+        }
+      ],
+      "orig": "Abstract -In the past years, many signal processing operations have been successfully adapted to the graph setting. One elegant and effective approach is to exploit the eigendecomposition of a graph shift operator (GSO), such as the adjacency or Laplacian operator, to define a graph Fourier transform for projecting graph signals on the corresponding basis. However, the extension of this scheme to directed graphs is challenging since the associated GSO is non-symmetric and, in general, not diagonalizable. Here, we build upon a recent framework that adds a minimal number of edges to allow diagonalization of the GSO and thus provide a proper graph Fourier transform. Furthermore, we show that such minimal addition of edges creates a cycle cover and that it is essential for the phase analysis of a signal throughout the graph. Concurrently, we propose a generalization of the Hilbert transform interpreted over the newfound cycle cover, which re-establishes intuitions from traditional Hilbert transform, equivalent to the generalized Hilbert transform on a single cycle. This generalization leads to a number of simple and elegant recipes to effectively exploit the phase information of graph signals provided by the graph Fourier transform. The feasibility of the approach is demonstrated on several examples.",
+      "text": "Abstract -In the past years, many signal processing operations have been successfully adapted to the graph setting. One elegant and effective approach is to exploit the eigendecomposition of a graph shift operator (GSO), such as the adjacency or Laplacian operator, to define a graph Fourier transform for projecting graph signals on the corresponding basis. However, the extension of this scheme to directed graphs is challenging since the associated GSO is non-symmetric and, in general, not diagonalizable. Here, we build upon a recent framework that adds a minimal number of edges to allow diagonalization of the GSO and thus provide a proper graph Fourier transform. Furthermore, we show that such minimal addition of edges creates a cycle cover and that it is essential for the phase analysis of a signal throughout the graph. Concurrently, we propose a generalization of the Hilbert transform interpreted over the newfound cycle cover, which re-establishes intuitions from traditional Hilbert transform, equivalent to the generalized Hilbert transform on a single cycle. This generalization leads to a number of simple and elegant recipes to effectively exploit the phase information of graph signals provided by the graph Fourier transform. The feasibility of the approach is demonstrated on several examples."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.96399999999996,
+            "t": 412.89981600000016,
+            "r": 300.0251952000001,
+            "b": 394.8760224000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            91
+          ]
+        }
+      ],
+      "orig": "Index Terms -Graph signal processing, Harmonic analysis, Hilbert transform, Directed graph.",
+      "text": "Index Terms -Graph signal processing, Harmonic analysis, Hilbert transform, Directed graph."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 135.61899999999997,
+            "t": 370.8936526000001,
+            "r": 213.3718397999998,
+            "b": 362.34177439292046,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "I. INTRODUCTION",
+      "text": "I. INTRODUCTION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.96399999999996,
+            "t": 353.05501500000014,
+            "r": 300.02705560000004,
+            "b": 224.75477439292058,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            632
+          ]
+        }
+      ],
+      "orig": "G RAPH signal processing (GSP) has emerged as an attractive new methodology for analyzing structured data [1]-[3]. In most cases, an undirected graph is considered, which implies a symmetric adjacency matrix. The definition of the graph Fourier transform (GFT) by the eigendecomposition of a graph shift operator (GSO) [4], commonly the adjacency or Laplacian matrix, leads then to real-valued eigenvalues and eigenvectors, and constitutes a unitary transform suitable for the analysis and synthesis of graph signals. Different operations, such as filtering, can then be defined and implemented in the spectral graph domain [5]-[7].",
+      "text": "G RAPH signal processing (GSP) has emerged as an attractive new methodology for analyzing structured data [1]-[3]. In most cases, an undirected graph is considered, which implies a symmetric adjacency matrix. The definition of the graph Fourier transform (GFT) by the eigendecomposition of a graph shift operator (GSO) [4], commonly the adjacency or Laplacian matrix, leads then to real-valued eigenvalues and eigenvectors, and constitutes a unitary transform suitable for the analysis and synthesis of graph signals. Different operations, such as filtering, can then be defined and implemented in the spectral graph domain [5]-[7]."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.96399999999996,
+            "t": 220.8616526000003,
+            "r": 300.0219199999999,
+            "b": 128.62277439292052,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            470
+          ]
+        }
+      ],
+      "orig": "For directed graphs, however, the eigendecomposition of the GSO leads to complex-valued eigenvalues and eigenvectors. Moreover the GSO itself becomes non-symmetric and is in general non-diagonalizable. While the Jordan normal form (JNF) has been suggested for providing the spectral decomposition of the GSO [8], this comes with several complications. First, the JNF is numerically unstable [9], especially for larger graphs. Second, non-trivial Jordan blocks correspond",
+      "text": "For directed graphs, however, the eigendecomposition of the GSO leads to complex-valued eigenvalues and eigenvectors. Moreover the GSO itself becomes non-symmetric and is in general non-diagonalizable. While the Jordan normal form (JNF) has been suggested for providing the spectral decomposition of the GSO [8], this comes with several complications. First, the JNF is numerically unstable [9], especially for larger graphs. Second, non-trivial Jordan blocks correspond"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.963999999999956,
+            "t": 114.06953510000017,
+            "r": 300.02215000000024,
+            "b": 80.32901536637189,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            245
+          ]
+        }
+      ],
+      "orig": "CHM. Chan, A. Cionca and D. Van De Ville are with the Neuro-X Institute, Ecole polytechnique f\u00b4 ed\u00b4 erale de Lausanne, and the Department of Radiology and Medical Informatics, University of Geneva, Switzerland. Email: chunheimichael.chan@epfl.ch",
+      "text": "CHM. Chan, A. Cionca and D. Van De Ville are with the Neuro-X Institute, Ecole polytechnique f\u00b4 ed\u00b4 erale de Lausanne, and the Department of Radiology and Medical Informatics, University of Geneva, Switzerland. Email: chunheimichael.chan@epfl.ch"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.963999999999956,
+            "t": 78.20453510000016,
+            "r": 300.02215000000007,
+            "b": 53.43001536637189,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            198
+          ]
+        }
+      ],
+      "orig": "This work was supported in part by the Swiss National Science Foundation, Sinergia project 'Precision mapping of electrical brain network dynamics with application to epilepsy', Grant number 209470.",
+      "text": "This work was supported in part by the Swiss National Science Foundation, Sinergia project 'Precision mapping of electrical brain network dynamics with application to epilepsy', Grant number 209470."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.933999999999955,
+            "t": 51.30553510000027,
+            "r": 192.6249525,
+            "b": 44.46401536637188,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "Manuscript received XXX; revised XXX.",
+      "text": "Manuscript received XXX; revised XXX."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 311.97799999999995,
+            "t": 638.4056526000002,
+            "r": 563.0355199999996,
+            "b": 617.8987743929205,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            119
+          ]
+        }
+      ],
+      "orig": "to spectral components with dimension larger than one, which impede GSP operations such as filtering and sampling [10].",
+      "text": "to spectral components with dimension larger than one, which impede GSP operations such as filtering and sampling [10]."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 311.97799999999995,
+            "t": 614.4956526000001,
+            "r": 563.03552,
+            "b": 438.5707743929202,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            874
+          ]
+        }
+      ],
+      "orig": "Following these two main problems in the numerical application of the JNF in GSP, alternatives have been developed to ensure orthogonality through optimized bases [11], [12]. Both these works introduce directed total variation measures and yield real bases. Moreover, [12] finds bases with uniformly sampled frequency. However, both methods only work on real signals and bypass the GSO, meaning that only spectral operations would be allowed. Another approach proposed is to once again bypass the standard GSO and instead use the diagonalizable Hermitian Laplacian [13], which leads to a basis that satisfies Parseval property. These alternatives would fulfill properties such as orthogonality, evenly spread frequencies, and most importantly, diagonizability, but turn out to yield real eigenvalues, preventing the immediate definition of phase defined from complex values.",
+      "text": "Following these two main problems in the numerical application of the JNF in GSP, alternatives have been developed to ensure orthogonality through optimized bases [11], [12]. Both these works introduce directed total variation measures and yield real bases. Moreover, [12] finds bases with uniformly sampled frequency. However, both methods only work on real signals and bypass the GSO, meaning that only spectral operations would be allowed. Another approach proposed is to once again bypass the standard GSO and instead use the diagonalizable Hermitian Laplacian [13], which leads to a basis that satisfies Parseval property. These alternatives would fulfill properties such as orthogonality, evenly spread frequencies, and most importantly, diagonizability, but turn out to yield real eigenvalues, preventing the immediate definition of phase defined from complex values."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 311.97799999999995,
+            "t": 435.1676525999999,
+            "r": 563.0355199999999,
+            "b": 211.42277439292036,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1083
+          ]
+        }
+      ],
+      "orig": "Recent work allows to obtain both properties of diagonalizability and complex-valued eigendecomposition [14]. Specifically, by leveraging perturbation theory [15], [16] on the Jordan blocks, they propose to dismantle non-trivial Jordan blocks that are rank-2 or above, by adding a minimal number of edges to the directed graph. This method enables conventional diagonalization of the modified graph adjacency and thus permits the definition of the GFT as the projection on the dual basis derived from the GSO eigendecomposition. This method also yields a minimally different (spectrally) approximation of the original adjacency matrix [14]. The new adjacency remains a real-valued matrix that has an eigendecomposition with eigenvalues that are either real-valued or pairs of complex conjugates [17]. A parallel can thus be drawn between traditional discrete Fourier transform's (DFT) pairs of conjugate frequencies and the pairs of conjugate eigenvalues found in the presented eigendecomposition of the directed graph. A direct application of this property is the Hilbert transform.",
+      "text": "Recent work allows to obtain both properties of diagonalizability and complex-valued eigendecomposition [14]. Specifically, by leveraging perturbation theory [15], [16] on the Jordan blocks, they propose to dismantle non-trivial Jordan blocks that are rank-2 or above, by adding a minimal number of edges to the directed graph. This method enables conventional diagonalization of the modified graph adjacency and thus permits the definition of the GFT as the projection on the dual basis derived from the GSO eigendecomposition. This method also yields a minimally different (spectrally) approximation of the original adjacency matrix [14]. The new adjacency remains a real-valued matrix that has an eigendecomposition with eigenvalues that are either real-valued or pairs of complex conjugates [17]. A parallel can thus be drawn between traditional discrete Fourier transform's (DFT) pairs of conjugate frequencies and the pairs of conjugate eigenvalues found in the presented eigendecomposition of the directed graph. A direct application of this property is the Hilbert transform."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 311.97799999999995,
+            "t": 208.01965259999997,
+            "r": 563.0355199999998,
+            "b": 115.78177439292028,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            429
+          ]
+        }
+      ],
+      "orig": "Prior work from [18] defines the graph Hilbert transform (GHT) through JNF, and while they show its equivalence to the traditional Hilbert transform, the authors revert to examples where diagonalizability and invertibility are satisfied, thus not giving a method to apply GHT on general graphs. On a nondiagonalizable graph, as we will see, the GHT through JNF does not provide phase information on all parts of the graph signal.",
+      "text": "Prior work from [18] defines the graph Hilbert transform (GHT) through JNF, and while they show its equivalence to the traditional Hilbert transform, the authors revert to examples where diagonalizability and invertibility are satisfied, thus not giving a method to apply GHT on general graphs. On a nondiagonalizable graph, as we will see, the GHT through JNF does not provide phase information on all parts of the graph signal."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 311.97799999999995,
+            "t": 112.37765259999992,
+            "r": 563.0355199999999,
+            "b": 44.05077439292029,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            355
+          ]
+        }
+      ],
+      "orig": "Instead, here we propose using the mentioned minimal graph perturbation to render the GSO diagonalizable and invertible. While [14] only states that this minimal perturbation add cyclicity in the graph, we prove that it creates a cycle cover. Furthermore, we show through a simple example that such a cycle cover is essential for phase analysis throughout",
+      "text": "Instead, here we propose using the mentioned minimal graph perturbation to render the GSO diagonalizable and invertible. While [14] only states that this minimal perturbation add cyclicity in the graph, we prove that it creates a cycle cover. Furthermore, we show through a simple example that such a cycle cover is essential for phase analysis throughout"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.964,
+            "t": 765.3189437999999,
+            "r": 273.8272072,
+            "b": 759.3326462230089,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "ACCEPTED TO IEEE SIGNAL PROCESSING LETTERS (SPL-42226-2025)",
+      "text": "ACCEPTED TO IEEE SIGNAL PROCESSING LETTERS (SPL-42226-2025)"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 559.549,
+            "t": 765.3189437999999,
+            "r": 563.0359,
+            "b": 759.3326462230089,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.964,
+            "t": 734.0476526,
+            "r": 300.02152,
+            "b": 665.7197743929202,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            331
+          ]
+        }
+      ],
+      "orig": "the graph. Leveraging this newfound cycle cover, we introduce a more intuitive and familiar definition of the GHT, providing interpretation for instantaneous phase and amplitude on cycles as in traditional HT. Finally we highlight its properties and specifically the extension to the graph analytical signal by insightful examples.",
+      "text": "the graph. Leveraging this newfound cycle cover, we introduce a more intuitive and familiar definition of the GHT, providing interpretation for instantaneous phase and amplitude on cycles as in traditional HT. Finally we highlight its properties and specifically the extension to the graph analytical signal by insightful examples."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 136.172,
+            "t": 649.0076525999998,
+            "r": 212.82062019999984,
+            "b": 640.4557743929201,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "II. BACKGROUND",
+      "text": "II. BACKGROUND",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.96399999999997,
+            "t": 634.2713435999998,
+            "r": 300.02713759999995,
+            "b": 589.50577439292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            243
+          ]
+        }
+      ],
+      "orig": "In what follows, we denote a matrix X as bold uppercase and a vector x as bold lowercase. An element k of a vector will be indicated as x [ k ] and a series of vectors x m will be indexed using subscript. The conjugate will be written as \u00b7 \u22c6 .",
+      "text": "In what follows, we denote a matrix X as bold uppercase and a vector x as bold lowercase. An element k of a vector will be indicated as x [ k ] and a series of vectors x m will be indexed using subscript. The conjugate will be written as \u00b7 \u22c6 ."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 174.46272508000007,
+            "t": 478.83345579999957,
+            "r": 174.46272508000007,
+            "b": 470.26891409973285,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "\u0338",
+      "text": "\u0338"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.964,
+            "t": 586.4294557999997,
+            "r": 300.0273642000001,
+            "b": 410.1867743929199,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            902
+          ]
+        }
+      ],
+      "orig": "Let us consider a directed graph G = ( V, E ) , with V being the set of nodes and E the set of edges. The directed graph G has N nodes and is also characterized by the (nonsymmetric) adjacency matrix A . In [14], the perturbed GSO is obtained by adding iteratively rank-1 matrices (i.e., single edges) to A . On each iteration, the largest Jordan block is identified by considering the group of the largest number of collinear Jordan eigenvectors. Using [14, Th. 4, Lem. 12] a candidate edge to dismantle a Jordan block is an edge ( n, m ) such that | t [ n ] | | q [ m ] | = 0 , with t and q one of the left and right eigenvectors associated to the largest Jordan block, respectively. The same criterion is used on eigenvectors associated to the eigenvalue 0. At the end, the process yields a graph G \u2032 = ( V, E \u2032 ) with associated adjacency A \u2032 that is guaranteed to be diagonalizable and invertible.",
+      "text": "Let us consider a directed graph G = ( V, E ) , with V being the set of nodes and E the set of edges. The directed graph G has N nodes and is also characterized by the (nonsymmetric) adjacency matrix A . In [14], the perturbed GSO is obtained by adding iteratively rank-1 matrices (i.e., single edges) to A . On each iteration, the largest Jordan block is identified by considering the group of the largest number of collinear Jordan eigenvectors. Using [14, Th. 4, Lem. 12] a candidate edge to dismantle a Jordan block is an edge ( n, m ) such that | t [ n ] | | q [ m ] | = 0 , with t and q one of the left and right eigenvectors associated to the largest Jordan block, respectively. The same criterion is used on eigenvectors associated to the eigenvalue 0. At the end, the process yields a graph G \u2032 = ( V, E \u2032 ) with associated adjacency A \u2032 that is guaranteed to be diagonalizable and invertible."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 64.323,
+            "t": 393.47465259999956,
+            "r": 284.6686032999999,
+            "b": 384.9227743929199,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "III. FROM GRAPH PHASE TO HILBERT TRANSFORM",
+      "text": "III. FROM GRAPH PHASE TO HILBERT TRANSFORM",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.964,
+            "t": 378.5590167999996,
+            "r": 212.14142540000006,
+            "b": 369.9812181999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "A. Phase in the Graph Fourier Domain",
+      "text": "A. Phase in the Graph Fourier Domain",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.964,
+            "t": 363.3046525999996,
+            "r": 300.02192,
+            "b": 342.79777439291996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            66
+          ]
+        }
+      ],
+      "orig": "Let us consider the eigendecomposition of the perturbed adjacency:",
+      "text": "Let us consider the eigendecomposition of the perturbed adjacency:"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 142.564,
+            "t": 341.78610539999966,
+            "r": 206.42261028,
+            "b": 330.99853507435125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "A \u2032 = U\u039bU -1 ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.96399999999994,
+            "t": 321.10234359999964,
+            "r": 300.0266708,
+            "b": 215.80052673256444,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            572
+          ]
+        }
+      ],
+      "orig": "where the eigenvalues \u039b [ k, k ] = \u03bb k are either real-valued with corresponding real-valued eigenvectors u k , k = 1 , . . . , N , that are the columns of U ; or complex-valued, and then come in pairs of complex conjugate eigenvalues and eigenvectors [17]. For instance, for a pair of complex-valued eigenvalues with indexes ( k 1 , k 2 ) , we have \u03bb k 1 = \u03bb k 2 \u22c6 with eigenvectors u k 1 = u k 2 \u22c6 . Consequently, the GFT \u02c6 x = U -1 x of a realvalued graph signal x \u2208 R N will also have complex conjugate coefficients for these pairs; i.e., \u02c6 x [ k 1 ] = \u02c6 x [ k 2 ] \u22c6 .",
+      "text": "where the eigenvalues \u039b [ k, k ] = \u03bb k are either real-valued with corresponding real-valued eigenvectors u k , k = 1 , . . . , N , that are the columns of U ; or complex-valued, and then come in pairs of complex conjugate eigenvalues and eigenvectors [17]. For instance, for a pair of complex-valued eigenvalues with indexes ( k 1 , k 2 ) , we have \u03bb k 1 = \u03bb k 2 \u22c6 with eigenvectors u k 1 = u k 2 \u22c6 . Consequently, the GFT \u02c6 x = U -1 x of a realvalued graph signal x \u2208 R N will also have complex conjugate coefficients for these pairs; i.e., \u02c6 x [ k 1 ] = \u02c6 x [ k 2 ] \u22c6 ."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.96399999999997,
+            "t": 197.77601679999952,
+            "r": 286.6915611999999,
+            "b": 189.1982181999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "B. Graph Hilbert Transform and Analytical Graph Signal",
+      "text": "B. Graph Hilbert Transform and Analytical Graph Signal",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.96399999999997,
+            "t": 182.52165259999958,
+            "r": 300.0219200000001,
+            "b": 162.0147743929199,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            105
+          ]
+        }
+      ],
+      "orig": "We introduce the GHT by defining the following filter in the spectral domain by the diagonal matrix \u02c6 H :",
+      "text": "We introduce the GHT by defining the following filter in the spectral domain by the diagonal matrix \u02c6 H :"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 100.87100000000001,
+            "t": 155.63750399999958,
+            "r": 300.02239159999993,
+            "b": 120.1335267325644,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            94
+          ]
+        }
+      ],
+      "orig": "\u02c6 H [ k, k ] = \uf8f1 \uf8f2 \uf8f3 -j, imag ( \u03bb k ) > 0 , + j, imag ( \u03bb k ) < 0 , 0 , imag ( \u03bb k ) = 0 . (1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.96399999999994,
+            "t": 112.37865259999955,
+            "r": 300.02253179999985,
+            "b": 44.05077439291995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            346
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.97799999999995,
+            "t": 734.0466525999996,
+            "r": 563.03665,
+            "b": 641.8087743929196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            347,
+            788
+          ]
+        }
+      ],
+      "orig": "Thus GFT coefficients corresponding to complex-valued adjacency eigenvalues are multiplied with -j and + j according to the sign of the imaginary part of the eigenvalues. A positive/negative imaginary part of the eigenvalue can be interpreted as a positive/negative frequency. As aforementioned, GFT coefficients of a real-valued graph signal are complex conjugate for the pairs of complex eigenvalues. Pairs of conjugate coefficients, when multiplied by -j and + j , preserve conjugate relationship leading to a real synthesized signal. Therefore, the Hilbert transform H ( x ) = U \u02c6 HU -1 x of such a graph signal is also real-valued. Subsequently, we can define the equivalent of the analytical signal in traditional Hilbert transform [19] to graph, namely the analytical graph signal:",
+      "text": "Thus GFT coefficients corresponding to complex-valued adjacency eigenvalues are multiplied with -j and + j according to the sign of the imaginary part of the eigenvalues. A positive/negative imaginary part of the eigenvalue can be interpreted as a positive/negative frequency. As aforementioned, GFT coefficients of a real-valued graph signal are complex conjugate for the pairs of complex eigenvalues. Pairs of conjugate coefficients, when multiplied by -j and + j , preserve conjugate relationship leading to a real synthesized signal. Therefore, the Hilbert transform H ( x ) = U \u02c6 HU -1 x of such a graph signal is also real-valued. Subsequently, we can define the equivalent of the analytical signal in traditional Hilbert transform [19] to graph, namely the analytical graph signal:"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 370.83100000000013,
+            "t": 638.7824557999994,
+            "r": 563.0363916000002,
+            "b": 627.3657743929197,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "\u02dc x = x + j H ( x ) = U ( I + j \u02c6 H )\u02c6 x , (2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.9780000000003,
+            "t": 614.7496525999993,
+            "r": 563.0355199999999,
+            "b": 594.2427743929196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "which can be represented in terms of instantaneous amplitudes and phases:",
+      "text": "which can be represented in terms of instantaneous amplitudes and phases:"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 348.3950000000003,
+            "t": 582.0834557999993,
+            "r": 526.6186102800002,
+            "b": 558.1307743929196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            89
+          ]
+        }
+      ],
+      "orig": "A ( x )[ k ] = \u2225 \u02dc x [ k ] \u2225 , \u03c6 ( x )[ k ] = arctan ( Im (\u02dc x [ k ]) , Re (\u02dc x [ k ])) .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.97800000000024,
+            "t": 545.5146525999993,
+            "r": 563.0355199999999,
+            "b": 501.0967743929196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            202
+          ]
+        }
+      ],
+      "orig": "The analytical signal is employed in amplitude and frequency modulation (AM/FM) [20]. In a similar fashion, the analytical graph signal sets the ground for graph-wide amplitude and frequency modulation.",
+      "text": "The analytical signal is employed in amplitude and frequency modulation (AM/FM) [20]. In a similar fashion, the analytical graph signal sets the ground for graph-wide amplitude and frequency modulation."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.97800000000024,
+            "t": 477.4140167999993,
+            "r": 499.3446181999996,
+            "b": 468.8362181999993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "C. Interpretation of Graph Hilbert Transform",
+      "text": "C. Interpretation of Graph Hilbert Transform",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.97800000000024,
+            "t": 460.19165259999926,
+            "r": 563.0355200000001,
+            "b": 332.0877743929197,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            661
+          ]
+        }
+      ],
+      "orig": "In traditional signal processing, the Hilbert transform of a signal provides the magnitude of its envelope and phase of its oscillatory pattern. This interpretation directly applies to a directed cycle graph, which is a model for a 1-D discrete signal with periodic boundary conditions. For a more general graph, we need to acknowledge its structure in terms of subcycles. The described method of minimal perturbation allows us to infer the existence of these subcycles, where each one satisfies periodic boundary conditions. With the following Proposition and Corollary, we put forward a generalized interpretation of the GHT instantaneous amplitude and phase.",
+      "text": "In traditional signal processing, the Hilbert transform of a signal provides the magnitude of its envelope and phase of its oscillatory pattern. This interpretation directly applies to a directed cycle graph, which is a model for a 1-D discrete signal with periodic boundary conditions. For a more general graph, we need to acknowledge its structure in terms of subcycles. The described method of minimal perturbation allows us to infer the existence of these subcycles, where each one satisfies periodic boundary conditions. With the following Proposition and Corollary, we put forward a generalized interpretation of the GHT instantaneous amplitude and phase."
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.9780000000002,
+            "t": 328.4434557999994,
+            "r": 563.0406758000001,
+            "b": 283.70777439291976,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            254
+          ]
+        }
+      ],
+      "orig": "Let us recall that a graph G is r -acyclic if any collection of vertex-disjoint cycles of G covers at most N -r nodes. A cycle cover is a collection of cycles of G that includes all nodes of G . We also bring up the following definition and theorem [21].",
+      "text": "Let us recall that a graph G is r -acyclic if any collection of vertex-disjoint cycles of G covers at most N -r nodes. A cycle cover is a collection of cycles of G that includes all nodes of G . We also bring up the following definition and theorem [21]."
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.9780000000002,
+            "t": 274.1551939999995,
+            "r": 563.0369102800003,
+            "b": 241.30477439291974,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            130
+          ]
+        }
+      ],
+      "orig": "Definition 1. [21] The set S G of matrices associated to subgraphs of G : S G = { A sub s.t G sub = ( V, E sub ) and E sub \u2286 E } .",
+      "text": "Definition 1. [21] The set S G of matrices associated to subgraphs of G : S G = { A sub s.t G sub = ( V, E sub ) and E sub \u2286 E } ."
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.97800000000024,
+            "t": 231.75219399999946,
+            "r": 563.0379888000006,
+            "b": 210.09752673256423,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            121
+          ]
+        }
+      ],
+      "orig": "Theorem 1. [21, Th. 4.4] A graph G is r -acyclic if and only if every matrix A sub \u2208 S G has at least r zero eigenvalues.",
+      "text": "Theorem 1. [21, Th. 4.4] A graph G is r -acyclic if and only if every matrix A sub \u2208 S G has at least r zero eigenvalues."
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.9780000000002,
+            "t": 202.80910539999945,
+            "r": 563.0399764000002,
+            "b": 178.15552673256434,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            131
+          ]
+        }
+      ],
+      "orig": "Proposition 1. G \u2032 admits a cycle cover; i.e., it can be decomposed into M subcycles C 1 , . . . , C M such that \u22c3 M m =1 C m = V .",
+      "text": "Proposition 1. G \u2032 admits a cycle cover; i.e., it can be decomposed into M subcycles C 1 , . . . , C M such that \u22c3 M m =1 C m = V ."
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 348.1490000000001,
+            "t": 146.87645579999946,
+            "r": 348.1490000000001,
+            "b": 138.3119140997328,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "\u0338",
+      "text": "\u0338"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.97800000000007,
+            "t": 172.36110539999947,
+            "r": 563.0365458,
+            "b": 78.23077439291978,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            464
+          ]
+        }
+      ],
+      "orig": "Proof. Let us first show that the graph G \u2032 is 0 -acyclic. By contradiction, let us assume that our graph G \u2032 is r -acyclic with r = 0 . By using Theorem. 1 in the direct sense, we have that every matrix A sub \u2208 S G \u2032 has at least one zero eigenvalue. However, the associated adjacency matrix A \u2032 \u2208 S G \u2032 has no zero eigenvalues due to invertibility. This leads to a contradiction and, therefore, G \u2032 can only be 0 -acyclic, consequently, G \u2032 admits a cycle cover.",
+      "text": "Proof. Let us first show that the graph G \u2032 is 0 -acyclic. By contradiction, let us assume that our graph G \u2032 is r -acyclic with r = 0 . By using Theorem. 1 in the direct sense, we have that every matrix A sub \u2208 S G \u2032 has at least one zero eigenvalue. However, the associated adjacency matrix A \u2032 \u2208 S G \u2032 has no zero eigenvalues due to invertibility. This leads to a contradiction and, therefore, G \u2032 can only be 0 -acyclic, consequently, G \u2032 admits a cycle cover."
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.978,
+            "t": 66.45110539999996,
+            "r": 563.0379750000004,
+            "b": 43.291526732564876,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            131
+          ]
+        }
+      ],
+      "orig": "Corollary 1.1. Given graph signals x m \u2208 R N supported on subcycles C m , m = 1 , . . . , M , (i.e., x m [ k ] = 0 for k / \u2208 C m ),",
+      "text": "Corollary 1.1. Given graph signals x m \u2208 R N supported on subcycles C m , m = 1 , . . . , M , (i.e., x m [ k ] = 0 for k / \u2208 C m ),"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.964,
+            "t": 765.3189437999999,
+            "r": 273.8272072,
+            "b": 759.3326462230089,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "ACCEPTED TO IEEE SIGNAL PROCESSING LETTERS (SPL-42226-2025)",
+      "text": "ACCEPTED TO IEEE SIGNAL PROCESSING LETTERS (SPL-42226-2025)"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 559.549,
+            "t": 765.3189437999999,
+            "r": 563.0359,
+            "b": 759.3326462230089,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.964,
+            "t": 489.2955351,
+            "r": 300.0221500000003,
+            "b": 446.58901536637165,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            367
+          ]
+        }
+      ],
+      "orig": "Fig. 1. (a) Schematic of synthetic graph. The green edges indicate those that are added to render the graph's adjacency matrix diagonalizable and invertible. (b) Synthetic graph and graph signal. Again, the green edges are the ones of the modified graph. (c) Proposed GHT applied to the graph signal of (b). (d) GHT using JNF applied to the graph without green edges.",
+      "text": "Fig. 1. (a) Schematic of synthetic graph. The green edges indicate those that are added to render the graph's adjacency matrix diagonalizable and invertible. (b) Synthetic graph and graph signal. Again, the green edges are the ones of the modified graph. (c) Proposed GHT applied to the graph signal of (b). (d) GHT using JNF applied to the graph without green edges."
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 121.113,
+            "t": 623.6035350999999,
+            "r": 129.959811,
+            "b": 616.7620153663717,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "(a)",
+      "text": "(a)"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 218.803,
+            "t": 623.6035350999999,
+            "r": 228.09613660000002,
+            "b": 616.7620153663717,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "(b)",
+      "text": "(b)"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 121.113,
+            "t": 503.3985351,
+            "r": 129.959811,
+            "b": 496.5570153663717,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "(c)",
+      "text": "(c)"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 218.803,
+            "t": 503.3985351,
+            "r": 228.09613660000002,
+            "b": 496.5570153663717,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "(d)",
+      "text": "(d)"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.964,
+            "t": 424.99801679999996,
+            "r": 300.02152,
+            "b": 402.0675267325648,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            113
+          ]
+        }
+      ],
+      "orig": "the following properties of the Hilbert amplitude and phase of the aggregated graph signal x = \u2211 M m =1 x m hold:",
+      "text": "the following properties of the Hilbert amplitude and phase of the aggregated graph signal x = \u2211 M m =1 x m hold:"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 124.678,
+            "t": 338.3681054,
+            "r": 124.678,
+            "b": 332.37294340319994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "\u0338",
+      "text": "\u0338"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 66.982,
+            "t": 396.63910539999995,
+            "r": 282.00461027999995,
+            "b": 297.0835267325648,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            181
+          ]
+        }
+      ],
+      "orig": "A ( x )[ k ] 2 = M \u2211 m =1 A ( x m )[ k ] 2 + M \u2211 m = n x m [ k ] x n [ k ] + H ( x m )[ k ] H ( x n )[ k ] , \u03c6 ( x )[ k ] = arctan ( M \u2211 m =1 H ( x m )[ k ] , M \u2211 m =1 x m [ k ] ) .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.96399999999991,
+            "t": 291.71001679999995,
+            "r": 300.02108419999996,
+            "b": 271.03377439292035,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "Proof. The proof of this Corollary can be found in the Supplementary Material.",
+      "text": "Proof. The proof of this Corollary can be found in the Supplementary Material."
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.964,
+            "t": 261.8696526,
+            "r": 300.02192000000014,
+            "b": 169.6317743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            453
+          ]
+        }
+      ],
+      "orig": "These properties explain how the signals from different cycles combine for overlapping nodes; i.e., nodes of overlapping subcycles. For a node k that exclusively belongs to one subcycle C m , we have x [ k ] = x m [ k ] and thus the equations revert to the conventional interpretation of instantaneous amplitude and phase in that cycle. For nodes of overlapping subcycles, the strengths of the contributing signals x m will determine their contribution.",
+      "text": "These properties explain how the signals from different cycles combine for overlapping nodes; i.e., nodes of overlapping subcycles. For a node k that exclusively belongs to one subcycle C m , we have x [ k ] = x m [ k ] and thus the equations revert to the conventional interpretation of instantaneous amplitude and phase in that cycle. For nodes of overlapping subcycles, the strengths of the contributing signals x m will determine their contribution."
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 111.36600000000003,
+            "t": 156.24765259999992,
+            "r": 237.62489829999996,
+            "b": 147.69577439292027,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "IV. EXPERIMENTAL RESULTS",
+      "text": "IV. EXPERIMENTAL RESULTS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.96400000000003,
+            "t": 141.54001679999988,
+            "r": 84.65999580000005,
+            "b": 132.96221819999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "A. Setup",
+      "text": "A. Setup",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.96399999999997,
+            "t": 126.66301679999992,
+            "r": 300.0273809999999,
+            "b": 69.3615267325647,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            315
+          ]
+        }
+      ],
+      "orig": "1) Synthetic Data: The structure of our first graph is illustrated in Fig. 1a consisting of a central directed cycle graph with N C nodes that each have an outgoing fan containing N F nodes, for a the total number of nodes of N C N F . We associate to each outgoing fan C m , m = 1 , . . . , N F sinusoidal signals:",
+      "text": "1) Synthetic Data: The structure of our first graph is illustrated in Fig. 1a consisting of a central directed cycle graph with N C nodes that each have an outgoing fan containing N F nodes, for a the total number of nodes of N C N F . We associate to each outgoing fan C m , m = 1 , . . . , N F sinusoidal signals:"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 62.210999999999984,
+            "t": 64.26950399999998,
+            "r": 286.77561028,
+            "b": 40.16452673256481,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "x m [ k ] = (2 m +1)sin ( m +1 2 N f 2 \u03c0k + 5 N c +4 20 N c 2 \u03c0m ) ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 311.978,
+            "t": 489.71657830000004,
+            "r": 563.0342942,
+            "b": 464.6880153663717,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            200
+          ]
+        }
+      ],
+      "orig": "Fig. 2. (a) Instantaneous amplitude distribution across fans C m . (b) Instantaneous frequency distribution across fans C m . (c) Graph signal, instantaneous amplitude, and phase on the central cycle.",
+      "text": "Fig. 2. (a) Instantaneous amplitude distribution across fans C m . (b) Instantaneous frequency distribution across fans C m . (c) Graph signal, instantaneous amplitude, and phase on the central cycle."
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 345.492,
+            "t": 638.8735350999999,
+            "r": 431.60893050000004,
+            "b": 632.0320153663716,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "(a) Per fan inst. amplitude",
+      "text": "(a) Per fan inst. amplitude"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 444.504,
+            "t": 638.8735350999999,
+            "r": 530.9317644,
+            "b": 632.0320153663716,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "(b) Per fan inst. frequency",
+      "text": "(b) Per fan inst. frequency"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 410.213,
+            "t": 503.5755351,
+            "r": 464.80021489999996,
+            "b": 496.7340153663717,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "(c) Central cycle",
+      "text": "(c) Central cycle"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 348.0,
+            "t": 724.6666666666666,
+            "r": 355.0,
+            "b": 719.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "40",
+      "text": "40"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 376.3333333333333,
+            "t": 720.0,
+            "r": 418.0,
+            "b": 713.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "trueamplitudes",
+      "text": "trueamplitudes"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 474.33333333333337,
+            "t": 719.6666666666666,
+            "r": 517.6666666666666,
+            "b": 714.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "truefrequencies",
+      "text": "truefrequencies"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 339.3333333333333,
+            "t": 716.0,
+            "r": 346.0,
+            "b": 709.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "C",
+      "text": "C"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 376.0,
+            "t": 711.6666666666666,
+            "r": 410.0,
+            "b": 704.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "fan avg.+std",
+      "text": "fan avg.+std"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 439.6666666666667,
+            "t": 715.0,
+            "r": 446.6666666666667,
+            "b": 709.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "C",
+      "text": "C"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 474.0,
+            "t": 712.0,
+            "r": 508.33333333333337,
+            "b": 705.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "fan avg.+std",
+      "text": "fan avg.+std"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 442.3333333333333,
+            "t": 704.6666666666666,
+            "r": 446.3333333333333,
+            "b": 693.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "Xk",
+      "text": "Xk"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 448.6666666666667,
+            "t": 703.0,
+            "r": 452.3333333333333,
+            "b": 698.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 339.3333333333333,
+            "t": 695.3333333333334,
+            "r": 346.0,
+            "b": 683.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "for",
+      "text": "for"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 347.6666666666667,
+            "t": 693.6666666666666,
+            "r": 355.0,
+            "b": 688.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "20",
+      "text": "20"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 439.6666666666667,
+            "t": 695.0,
+            "r": 446.6666666666667,
+            "b": 682.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "for",
+      "text": "for"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 441.6666666666667,
+            "t": 669.3333333333334,
+            "r": 446.3333333333333,
+            "b": 663.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 351.3333333333333,
+            "t": 662.3333333333333,
+            "r": 355.0,
+            "b": 658.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 448.6666666666667,
+            "t": 663.6666666666667,
+            "r": 452.0,
+            "b": 659.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 353.3333333333333,
+            "t": 657.6666666666667,
+            "r": 357.0,
+            "b": 653.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 373.0,
+            "t": 658.3333333333333,
+            "r": 377.3333333333333,
+            "b": 652.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 391.3333333333333,
+            "t": 658.3333333333333,
+            "r": 398.3333333333333,
+            "b": 652.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "10",
+      "text": "10"
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 410.6666666666667,
+            "t": 658.6666666666667,
+            "r": 418.3333333333333,
+            "b": 652.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "15",
+      "text": "15"
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 430.3333333333333,
+            "t": 658.3333333333333,
+            "r": 438.0,
+            "b": 652.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "20",
+      "text": "20"
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 451.3333333333333,
+            "t": 658.0,
+            "r": 454.6666666666667,
+            "b": 653.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 470.66666666666663,
+            "t": 658.0,
+            "r": 474.66666666666663,
+            "b": 653.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 489.0,
+            "t": 658.3333333333333,
+            "r": 496.33333333333337,
+            "b": 652.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "10",
+      "text": "10"
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 508.66666666666663,
+            "t": 658.6666666666667,
+            "r": 516.3333333333334,
+            "b": 652.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "15",
+      "text": "15"
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 528.3333333333334,
+            "t": 658.3333333333333,
+            "r": 536.0,
+            "b": 652.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "20",
+      "text": "20"
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 339.6666666666667,
+            "t": 620.3333333333334,
+            "r": 347.3333333333333,
+            "b": 613.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "40",
+      "text": "40"
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 370.3333333333333,
+            "t": 615.3333333333334,
+            "r": 391.6666666666667,
+            "b": 607.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "signal",
+      "text": "signal"
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 370.3333333333333,
+            "t": 604.6666666666666,
+            "r": 427.3333333333333,
+            "b": 597.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "instantamplitude",
+      "text": "instantamplitude"
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 339.3333333333333,
+            "t": 597.6666666666666,
+            "r": 347.3333333333333,
+            "b": 590.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "20",
+      "text": "20"
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 371.0,
+            "t": 596.0,
+            "r": 392.3333333333333,
+            "b": 588.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "phase",
+      "text": "phase"
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 324.6666666666667,
+            "t": 589.6666666666666,
+            "r": 335.3333333333333,
+            "b": 562.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "A(x)[]",
+      "text": "A(x)[]"
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 540.0,
+            "t": 584.3333333333334,
+            "r": 550.0,
+            "b": 559.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "[y](x)o",
+      "text": "[y](x)o"
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 343.3333333333333,
+            "t": 574.0,
+            "r": 347.0,
+            "b": 569.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 330.6666666666667,
+            "t": 552.0,
+            "r": 347.6666666666667,
+            "b": 545.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "-20",
+      "text": "-20"
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 335.6666666666667,
+            "t": 529.3333333333333,
+            "r": 347.3333333333333,
+            "b": 522.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "-40",
+      "text": "-40"
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 354.3333333333333,
+            "t": 525.0,
+            "r": 358.3333333333333,
+            "b": 519.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 398.0,
+            "t": 525.0,
+            "r": 402.0,
+            "b": 520.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 439.3333333333333,
+            "t": 525.6666666666667,
+            "r": 447.66666666666663,
+            "b": 519.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "10",
+      "text": "10"
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 483.33333333333337,
+            "t": 525.6666666666667,
+            "r": 491.33333333333337,
+            "b": 519.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "15",
+      "text": "15"
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 526.6666666666666,
+            "t": 525.6666666666667,
+            "r": 535.6666666666666,
+            "b": 519.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "20",
+      "text": "20"
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 436.3333333333333,
+            "t": 518.3333333333333,
+            "r": 443.0,
+            "b": 510.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "k",
+      "text": "k"
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 311.9780000000001,
+            "t": 441.1116526,
+            "r": 563.0355199999999,
+            "b": 408.6497743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            135
+          ]
+        }
+      ],
+      "orig": "which manifest increasing frequency and amplitude on the fans, and at the same time a signal with fixed frequency on the central cycle.",
+      "text": "which manifest increasing frequency and amplitude on the fans, and at the same time a signal with fixed frequency on the central cycle."
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 311.97800000000007,
+            "t": 405.50801680000006,
+            "r": 563.03552,
+            "b": 193.54877439292056,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1048
+          ]
+        }
+      ],
+      "orig": "2) Experimental Data: From the Manhattan graph [22], we take the midtown subgraph composed of many one-way avenues and streets (in both directions), see Fig. 3a. We also created a graph from a regular 2D grid of similar size where the nodes are connected from top-to-bottom and leftto-right with periodic boundary conditions, see Fig. 3b. As a graph signal, we created a planar wave pattern along the direction of the avenues (i.e., approximately north-south). The wave is that of a sinusoid and the frequency of the wave is chosen such that one period covers the midtown area, this yields a sinusoidal plane wave. The graph signal is illustrated in Fig. 3c, 3e on the regular 2D grid and midtown Manhattan graph, respectively. The chosen graphs and signals reflect domains and monogenic signals where traditional HT is commonly applied: Fig. 1a evokes temporal applications with overlapping nodes, Fig. 3b recalls image-based uses via a lattice structure, and the Manhattan graph Fig. 3a combines grid-like topology with real graph directionality.",
+      "text": "2) Experimental Data: From the Manhattan graph [22], we take the midtown subgraph composed of many one-way avenues and streets (in both directions), see Fig. 3a. We also created a graph from a regular 2D grid of similar size where the nodes are connected from top-to-bottom and leftto-right with periodic boundary conditions, see Fig. 3b. As a graph signal, we created a planar wave pattern along the direction of the avenues (i.e., approximately north-south). The wave is that of a sinusoid and the frequency of the wave is chosen such that one period covers the midtown area, this yields a sinusoidal plane wave. The graph signal is illustrated in Fig. 3c, 3e on the regular 2D grid and midtown Manhattan graph, respectively. The chosen graphs and signals reflect domains and monogenic signals where traditional HT is commonly applied: Fig. 1a evokes temporal applications with overlapping nodes, Fig. 3b recalls image-based uses via a lattice structure, and the Manhattan graph Fig. 3a combines grid-like topology with real graph directionality."
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 311.97800000000007,
+            "t": 175.36901680000017,
+            "r": 354.3190499999999,
+            "b": 166.79121820000023,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "B. Results",
+      "text": "B. Results",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 311.97800000000007,
+            "t": 160.32201680000014,
+            "r": 563.0409113999999,
+            "b": 79.86977439292048,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            399
+          ]
+        }
+      ],
+      "orig": "1) Synthetic Data: We instantiate the graph of Fig. 1a for N C = 20 fans of length N F = 20 . The adjacency matrix is neither diagonizable nor invertible, with the Jordan block decomposition providing N C blocks with eigenvalues zero. Removing the non-trivial Jordan blocks leads to the directed rosace graph as shown schematically in Fig. 1b, turning fans into subcycles linked to the central part.",
+      "text": "1) Synthetic Data: We instantiate the graph of Fig. 1a for N C = 20 fans of length N F = 20 . The adjacency matrix is neither diagonizable nor invertible, with the Jordan block decomposition providing N C blocks with eigenvalues zero. Removing the non-trivial Jordan blocks leads to the directed rosace graph as shown schematically in Fig. 1b, turning fans into subcycles linked to the central part."
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 311.97800000000007,
+            "t": 76.51265260000014,
+            "r": 563.0355199999998,
+            "b": 44.050774392920516,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            181
+          ]
+        }
+      ],
+      "orig": "Now diagonalizable, we can apply the proposed GHT to the signal in Fig. 1b. This leads to the expected phase shift on the fans (Fig. 1c). However, when applying the GHT based on the",
+      "text": "Now diagonalizable, we can apply the proposed GHT to the signal in Fig. 1b. This leads to the expected phase shift on the fans (Fig. 1c). However, when applying the GHT based on the"
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 48.964,
+            "t": 765.3189437999999,
+            "r": 273.8272072,
+            "b": 759.3326462230089,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "ACCEPTED TO IEEE SIGNAL PROCESSING LETTERS (SPL-42226-2025)",
+      "text": "ACCEPTED TO IEEE SIGNAL PROCESSING LETTERS (SPL-42226-2025)"
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 559.549,
+            "t": 765.3189437999999,
+            "r": 563.0359,
+            "b": 759.3326462230089,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 48.963999999999984,
+            "t": 623.8775351,
+            "r": 563.0354500000002,
+            "b": 590.1370153663718,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            513
+          ]
+        }
+      ],
+      "orig": "Fig. 3. (a) Manhattan graph. The green edges indicate those that are added by the perturbation. (b) Regular 2D grid with periodic boundary conditions along obliques. (c,e) Graph signal is a planar wave oriented along the same direction as avenues in Fig. 3e. (d) On the regular 2D grid, the GHT of the graph signal shows a clear \u03c0/ 2 phase shift along the propagation direction. (f) On the Manhattan midtown graph, the GHT of the graph signal reveals the effect of the underlying directed graph in phase shifting.",
+      "text": "Fig. 3. (a) Manhattan graph. The green edges indicate those that are added by the perturbation. (b) Regular 2D grid with periodic boundary conditions along obliques. (c,e) Graph signal is a planar wave oriented along the same direction as avenues in Fig. 3e. (d) On the regular 2D grid, the GHT of the graph signal shows a clear \u03c0/ 2 phase shift along the propagation direction. (f) On the Manhattan midtown graph, the GHT of the graph signal reveals the effect of the underlying directed graph in phase shifting."
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 63.072,
+            "t": 637.9805351,
+            "r": 129.73391640000003,
+            "b": 631.1390153663717,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "(a) Manhattan graph",
+      "text": "(a) Manhattan graph"
+    },
+    {
+      "self_ref": "#/texts/118",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 152.511,
+            "t": 637.9805351,
+            "r": 217.86582000000007,
+            "b": 631.1390153663717,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "(b) Regular 2D grid",
+      "text": "(b) Regular 2D grid"
+    },
+    {
+      "self_ref": "#/texts/119",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 230.503,
+            "t": 637.9805351,
+            "r": 306.72903640000004,
+            "b": 631.1390153663717,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "(c) Graph signal on (b)",
+      "text": "(c) Graph signal on (b)"
+    },
+    {
+      "self_ref": "#/texts/120",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 326.107,
+            "t": 637.9805351,
+            "r": 375.6332014000001,
+            "b": 631.1390153663717,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "(d) GHT of (c)",
+      "text": "(d) GHT of (c)"
+    },
+    {
+      "self_ref": "#/texts/121",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 396.628,
+            "t": 637.9805351,
+            "r": 472.40771079999996,
+            "b": 631.1390153663717,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "(e) Graph signal on (a)",
+      "text": "(e) Graph signal on (a)"
+    },
+    {
+      "self_ref": "#/texts/122",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 492.674,
+            "t": 637.9805351,
+            "r": 540.8691947,
+            "b": 631.1390153663717,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "(f) GHT of (e)",
+      "text": "(f) GHT of (e)"
+    },
+    {
+      "self_ref": "#/texts/123",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 489.6666666666667,
+            "t": 684.6666666666666,
+            "r": 505.6666666666667,
+            "b": 654.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "liln",
+      "text": "liln"
+    },
+    {
+      "self_ref": "#/texts/124",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 48.963999999999984,
+            "t": 566.0646526,
+            "r": 300.02152,
+            "b": 533.6027743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            155
+          ]
+        }
+      ],
+      "orig": "JNF of the original graph [18], we notice that the operation cancels the signal on the fans and only provides a phase shift on the central cycle (Fig. 1d).",
+      "text": "JNF of the original graph [18], we notice that the operation cancels the signal on the fans and only provides a phase shift on the central cycle (Fig. 1d)."
+    },
+    {
+      "self_ref": "#/texts/125",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 48.963999999999984,
+            "t": 530.1026525999999,
+            "r": 300.02192,
+            "b": 485.6847743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            230
+          ]
+        }
+      ],
+      "orig": "We further computed the instantaneous amplitude and phase using the proposed GHT. In addition, the instantaneous phase was converted into instantaneous frequency by computing the phase-unwrapped derivative along the fan as follows",
+      "text": "We further computed the instantaneous amplitude and phase using the proposed GHT. In addition, the instantaneous phase was converted into instantaneous frequency by computing the phase-unwrapped derivative along the fan as follows"
+    },
+    {
+      "self_ref": "#/texts/126",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 91.14499999999998,
+            "t": 475.4753436,
+            "r": 300.02239159999993,
+            "b": 465.81552673256476,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "\u03c9 ( x )[ k ] = ( \u03c6 ( x )[ k ] -\u03c6 ( x )[ k +1 ]) + 2 l\u03c0, (3)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/127",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 48.96399999999991,
+            "t": 456.3354558,
+            "r": 300.0233291999998,
+            "b": 351.82277439292034,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            522
+          ]
+        }
+      ],
+      "orig": "where k +1 indicates the next node on the fan and l is the integer that turns \u03c9 in the interval ] -\u03c0, \u03c0 ] following Itoh's unwrapping method [23]. As shown in Figs. 2a and 2b, the average amplitude and frequency per fan are accurate estimates of the ground truth expressed in the synthetic graph signal. In addition, the instantaneous amplitude on the central cycle recovers the envelope of the oscillating and increasing signal, and the phase varies constantly since the frequency is fixed on the central cycle (Fig. 2c).",
+      "text": "where k +1 indicates the next node on the fan and l is the integer that turns \u03c9 in the interval ] -\u03c0, \u03c0 ] following Itoh's unwrapping method [23]. As shown in Figs. 2a and 2b, the average amplitude and frequency per fan are accurate estimates of the ground truth expressed in the synthetic graph signal. In addition, the instantaneous amplitude on the central cycle recovers the envelope of the oscillating and increasing signal, and the phase varies constantly since the frequency is fixed on the central cycle (Fig. 2c)."
+    },
+    {
+      "self_ref": "#/texts/128",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 48.96399999999991,
+            "t": 348.32265259999997,
+            "r": 300.02191999999997,
+            "b": 232.17477439292043,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            590
+          ]
+        }
+      ],
+      "orig": "This example perfectly illustrates Proposition 1. First, the GHT is fully in line with the classical Hilbert transform on the fans that form non-overlapping cycles, and thus amplitude, phase, and frequency are perfectly recovered. Second, the GHT has the capability to provide similar properties for an overlapping cycle (i.e., the central cycle of this graph). It is clear that the graph signal expressed on the central cycle is 'compatible' with the one on the fans. Nevertheless, instantaneous amplitude and phase are in accordance with the meaning of the conventional Hilbert transform.",
+      "text": "This example perfectly illustrates Proposition 1. First, the GHT is fully in line with the classical Hilbert transform on the fans that form non-overlapping cycles, and thus amplitude, phase, and frequency are perfectly recovered. Second, the GHT has the capability to provide similar properties for an overlapping cycle (i.e., the central cycle of this graph). It is clear that the graph signal expressed on the central cycle is 'compatible' with the one on the fans. Nevertheless, instantaneous amplitude and phase are in accordance with the meaning of the conventional Hilbert transform."
+    },
+    {
+      "self_ref": "#/texts/129",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 48.96399999999991,
+            "t": 228.79501679999998,
+            "r": 300.02279839999994,
+            "b": 64.6567743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            827
+          ]
+        }
+      ],
+      "orig": "2) Experimental Data: The adjustment of the adjacency matrix of the Manhattan midtown graph leads to 252 extra edges (compared to the 1970 original ones), indicated in green in Fig. 3a. The graph based on the regular 2D grid does not require any adjustment (Fig. 3b). First, we look at the effect of the GHT on the planar wave graph signal expressed on the regular grid (Fig. 3d). We observe a phase shift of \u03c0/ 2 along the propagation direction, turning the sine into a cosine. Second, the GHT of the same signal expressed on the Manhattan midtown graph produces a complicated scattering of wave (Fig. 3f) due to the intricate pattern of directed edges (by one-way streets and avenues crossing, see Fig. 3a). We can recognize different patterns in the east and west of the midtown. The implementation is publicly available 1 .",
+      "text": "2) Experimental Data: The adjustment of the adjacency matrix of the Manhattan midtown graph leads to 252 extra edges (compared to the 1970 original ones), indicated in green in Fig. 3a. The graph based on the regular 2D grid does not require any adjustment (Fig. 3b). First, we look at the effect of the GHT on the planar wave graph signal expressed on the regular grid (Fig. 3d). We observe a phase shift of \u03c0/ 2 along the propagation direction, turning the sine into a cosine. Second, the GHT of the same signal expressed on the Manhattan midtown graph produces a complicated scattering of wave (Fig. 3f) due to the intricate pattern of directed edges (by one-way streets and avenues crossing, see Fig. 3a). We can recognize different patterns in the east and west of the midtown. The implementation is publicly available 1 ."
+    },
+    {
+      "self_ref": "#/texts/130",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 56.93399999999997,
+            "t": 52.82141760000002,
+            "r": 282.55565710000013,
+            "b": 44.464015366371655,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "1 Repository: https://github.com/MIPLabCH/Graph-Hilbert-Transform",
+      "text": "1 Repository: https://github.com/MIPLabCH/Graph-Hilbert-Transform",
+      "hyperlink": "https://github.com/MIPLabCH/Graph-Hilbert-Transform"
+    },
+    {
+      "self_ref": "#/texts/131",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 375.605,
+            "t": 566.0646525999999,
+            "r": 499.4139018,
+            "b": 557.5127743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "V. DISCUSSION & OUTLOOK",
+      "text": "V. DISCUSSION & OUTLOOK",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/132",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 311.978,
+            "t": 537.5296526,
+            "r": 563.03552,
+            "b": 301.82977439292046,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1200
+          ]
+        }
+      ],
+      "orig": "While the Hilbert transform has been extended previously to the directed graph setting [18] through the JNF, we highlight here that it is key to first have the eigendecomposition of the GSO to be well-defined; i.e., diagonalizable and invertible, and, consequently, to have a cycle cover in order to enable phase analysis across the graph. In addition, we provide an interpretation of the GHT by constructing the graph signal from contributions on subcycles. This leads to a useful intuition on how the GHT combines information from different cycles. Our first example illustrates how the GHT matches the conventional Hilbert transform on non-overlapping cycles, and can remain interpretable on overlapping ones. On a graph that corresponds to a regular 2-D grid, the GHT behaves as expected from monogenic signal analysis [24], [25]; that is, the phase shift of the Hilbert transform occurs along the propagation direction of the planar wave. However, when applying the GHT on the more general Manhattan midtown graph where the distribution of directions is non-uniform, the complexity of the graph structure is reflected in an intricate pattern that is phase-shifted differently in different parts.",
+      "text": "While the Hilbert transform has been extended previously to the directed graph setting [18] through the JNF, we highlight here that it is key to first have the eigendecomposition of the GSO to be well-defined; i.e., diagonalizable and invertible, and, consequently, to have a cycle cover in order to enable phase analysis across the graph. In addition, we provide an interpretation of the GHT by constructing the graph signal from contributions on subcycles. This leads to a useful intuition on how the GHT combines information from different cycles. Our first example illustrates how the GHT matches the conventional Hilbert transform on non-overlapping cycles, and can remain interpretable on overlapping ones. On a graph that corresponds to a regular 2-D grid, the GHT behaves as expected from monogenic signal analysis [24], [25]; that is, the phase shift of the Hilbert transform occurs along the propagation direction of the planar wave. However, when applying the GHT on the more general Manhattan midtown graph where the distribution of directions is non-uniform, the complexity of the graph structure is reflected in an intricate pattern that is phase-shifted differently in different parts."
+    },
+    {
+      "self_ref": "#/texts/133",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 311.978,
+            "t": 296.1856526000001,
+            "r": 563.0355199999998,
+            "b": 191.9927743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            505
+          ]
+        }
+      ],
+      "orig": "In terms of signal representation for GHT, if priors on subcycles' signal are unavailable, we propose that representation is best achieved through decomposition into a weighted sum of GSO eigenvectors, with cycle decompositions ensuring near-linear instantaneous phase for each eigenvectors, akin to all Fourier bases being of linear phase [26]. While such decomposition is natural, further study is needed and we believe this merits separate work along a focused investigation on real-world applications.",
+      "text": "In terms of signal representation for GHT, if priors on subcycles' signal are unavailable, we propose that representation is best achieved through decomposition into a weighted sum of GSO eigenvectors, with cycle decompositions ensuring near-linear instantaneous phase for each eigenvectors, akin to all Fourier bases being of linear phase [26]. While such decomposition is natural, further study is needed and we believe this merits separate work along a focused investigation on real-world applications."
+    },
+    {
+      "self_ref": "#/texts/134",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 311.978,
+            "t": 186.34965260000013,
+            "r": 563.0371772000001,
+            "b": 106.06677439292048,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            409
+          ]
+        }
+      ],
+      "orig": "In this work, we used the adjacency matrix as the GSO. However, the directed Laplacian [27] is also a valid choice and in particular other novel decomposition could allow for phase definitions, such as the use of the polar decomposition, by looking into the introduced unitary matrix Q [28] and the Schur decomposition which exhibits real and imaginary valued blocks in its upper quasi-triangular matrix [29].",
+      "text": "In this work, we used the adjacency matrix as the GSO. However, the directed Laplacian [27] is also a valid choice and in particular other novel decomposition could allow for phase definitions, such as the use of the polar decomposition, by looking into the introduced unitary matrix Q [28] and the Schur decomposition which exhibits real and imaginary valued blocks in its upper quasi-triangular matrix [29]."
+    },
+    {
+      "self_ref": "#/texts/135",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 311.978,
+            "t": 100.4226526000001,
+            "r": 563.0355199999998,
+            "b": 44.0507743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            288
+          ]
+        }
+      ],
+      "orig": "Future work includes extending the known applications of the HT [20], [30], [31] to directed graphs. In particular the GHT can analyze amplitude or frequency modulation in graph signals, such as synchrony of wave-like patterns encountered in neuronal recordings on irregular domains [32].",
+      "text": "Future work includes extending the known applications of the HT [20], [30], [31] to directed graphs. In particular the GHT can analyze amplitude or frequency modulation in graph signals, such as synchrony of wave-like patterns encountered in neuronal recordings on irregular domains [32]."
+    },
+    {
+      "self_ref": "#/texts/136",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.964,
+            "t": 765.3189437999999,
+            "r": 273.8272072,
+            "b": 759.3326462230089,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "ACCEPTED TO IEEE SIGNAL PROCESSING LETTERS (SPL-42226-2025)",
+      "text": "ACCEPTED TO IEEE SIGNAL PROCESSING LETTERS (SPL-42226-2025)"
+    },
+    {
+      "self_ref": "#/texts/137",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 559.549,
+            "t": 765.3189437999999,
+            "r": 563.0359,
+            "b": 759.3326462230089,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/138",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 146.59799999999996,
+            "t": 734.0476526,
+            "r": 202.39846049999983,
+            "b": 725.4957743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "REFERENCES",
+      "text": "REFERENCES",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/139",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 52.948999999999955,
+            "t": 716.9225351,
+            "r": 300.0221000000001,
+            "b": 674.2150153663717,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            276
+          ]
+        }
+      ],
+      "orig": "[1] D. I. Shuman, S. K. Narang, P. Frossard, A. Ortega, and P. Vandergheynst, 'The emerging field of signal processing on graphs: Extending high-dimensional data analysis to networks and other irregular domains,' IEEE Signal Processing Magazine , vol. 30, pp. 83-98, May 2013.",
+      "text": "D. I. Shuman, S. K. Narang, P. Frossard, A. Ortega, and P. Vandergheynst, 'The emerging field of signal processing on graphs: Extending high-dimensional data analysis to networks and other irregular domains,' IEEE Signal Processing Magazine , vol. 30, pp. 83-98, May 2013.",
+      "enumerated": true,
+      "marker": "[1]"
+    },
+    {
+      "self_ref": "#/texts/140",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 52.948999999999955,
+            "t": 672.0345351,
+            "r": 300.0254065999999,
+            "b": 647.2200153663717,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            209
+          ]
+        }
+      ],
+      "orig": "[2] A. Ortega, P. Frossard, J. Kova\u02c7 cevi\u00b4 c, J. M. F. Moura, and P. Vandergheynst, 'Graph Signal Processing: Overview, Challenges, and Applications,' Proceedings of the IEEE , vol. 106, pp. 808-828, May 2018.",
+      "text": "A. Ortega, P. Frossard, J. Kova\u02c7 cevi\u00b4 c, J. M. F. Moura, and P. Vandergheynst, 'Graph Signal Processing: Overview, Challenges, and Applications,' Proceedings of the IEEE , vol. 106, pp. 808-828, May 2018.",
+      "enumerated": true,
+      "marker": "[2]"
+    },
+    {
+      "self_ref": "#/texts/141",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 52.948999999999955,
+            "t": 644.9995351,
+            "r": 300.022525,
+            "b": 611.2590153663717,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            231
+          ]
+        }
+      ],
+      "orig": "[3] A. G. Marques, S. Segarra, and G. Mateos, 'Signal Processing on Directed Graphs: The Role of Edge Directionality When Processing and Learning From Network Data,' IEEE Signal Processing Magazine , vol. 37, pp. 99-116, Nov. 2020.",
+      "text": "A. G. Marques, S. Segarra, and G. Mateos, 'Signal Processing on Directed Graphs: The Role of Edge Directionality When Processing and Learning From Network Data,' IEEE Signal Processing Magazine , vol. 37, pp. 99-116, Nov. 2020.",
+      "enumerated": true,
+      "marker": "[3]"
+    },
+    {
+      "self_ref": "#/texts/142",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 52.948999999999984,
+            "t": 609.0385351,
+            "r": 300.02222869999997,
+            "b": 584.2640153663717,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            153
+          ]
+        }
+      ],
+      "orig": "[4] A. Sandryhaila and J. M. F. Moura, 'Discrete Signal Processing on Graphs,' IEEE Transactions on Signal Processing , vol. 61, pp. 16441656, Apr. 2013.",
+      "text": "A. Sandryhaila and J. M. F. Moura, 'Discrete Signal Processing on Graphs,' IEEE Transactions on Signal Processing , vol. 61, pp. 16441656, Apr. 2013.",
+      "enumerated": true,
+      "marker": "[4]"
+    },
+    {
+      "self_ref": "#/texts/143",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 52.948999999999984,
+            "t": 582.0435351,
+            "r": 300.0226623,
+            "b": 548.3030153663717,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            232
+          ]
+        }
+      ],
+      "orig": "[5] A. Sandryhaila and J. M. Moura, 'Big Data Analysis with Signal Processing on Graphs: Representation and processing of massive data sets with irregular structure,' IEEE Signal Processing Magazine , vol. 31, pp. 80-90, Sept. 2014.",
+      "text": "A. Sandryhaila and J. M. Moura, 'Big Data Analysis with Signal Processing on Graphs: Representation and processing of massive data sets with irregular structure,' IEEE Signal Processing Magazine , vol. 31, pp. 80-90, Sept. 2014.",
+      "enumerated": true,
+      "marker": "[5]"
+    },
+    {
+      "self_ref": "#/texts/144",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 52.948999999999955,
+            "t": 546.0825351,
+            "r": 300.0221000000001,
+            "b": 512.3420153663717,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            244
+          ]
+        }
+      ],
+      "orig": "[6] S. Chen, A. Sandryhaila, J. M. F. Moura, and J. Kovacevic, 'Signal denoising on graphs via graph filtering,' in 2014 IEEE Global Conference on Signal and Information Processing (GlobalSIP) , (Atlanta, GA, USA), pp. 872-876, IEEE, Dec. 2014.",
+      "text": "S. Chen, A. Sandryhaila, J. M. F. Moura, and J. Kovacevic, 'Signal denoising on graphs via graph filtering,' in 2014 IEEE Global Conference on Signal and Information Processing (GlobalSIP) , (Atlanta, GA, USA), pp. 872-876, IEEE, Dec. 2014.",
+      "enumerated": true,
+      "marker": "[6]"
+    },
+    {
+      "self_ref": "#/texts/145",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 52.948999999999955,
+            "t": 510.1215351,
+            "r": 300.02223660000004,
+            "b": 485.3470153663717,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            199
+          ]
+        }
+      ],
+      "orig": "[7] Xuesong Shi, Hui Feng, Muyuan Zhai, Tao Yang, and Bo Hu, 'Infinite Impulse Response Graph Filters in Wireless Sensor Networks,' IEEE Signal Processing Letters , vol. 22, pp. 1113-1117, Aug. 2015.",
+      "text": "Xuesong Shi, Hui Feng, Muyuan Zhai, Tao Yang, and Bo Hu, 'Infinite Impulse Response Graph Filters in Wireless Sensor Networks,' IEEE Signal Processing Letters , vol. 22, pp. 1113-1117, Aug. 2015.",
+      "enumerated": true,
+      "marker": "[7]"
+    },
+    {
+      "self_ref": "#/texts/146",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 52.948999999999955,
+            "t": 483.1265351,
+            "r": 300.022525,
+            "b": 458.35301536637166,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            174
+          ]
+        }
+      ],
+      "orig": "[8] A. Sandryhaila and J. M. F. Moura, 'Discrete Signal Processing on Graphs: Frequency Analysis,' IEEE Transactions on Signal Processing , vol. 62, pp. 3042-3054, June 2014.",
+      "text": "A. Sandryhaila and J. M. F. Moura, 'Discrete Signal Processing on Graphs: Frequency Analysis,' IEEE Transactions on Signal Processing , vol. 62, pp. 3042-3054, June 2014.",
+      "enumerated": true,
+      "marker": "[8]"
+    },
+    {
+      "self_ref": "#/texts/147",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 52.948999999999984,
+            "t": 456.1325351,
+            "r": 300.0222447,
+            "b": 422.3910153663717,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            211
+          ]
+        }
+      ],
+      "orig": "[9] T. Beelen and P. V. Dooren, 'Computational aspects of the Jordan canonical form,' in Reliable Numerical Commputation (M. G. Cox and S. Hammarling, eds.), pp. 57-72, Oxford University PressOxford, Sept. 1990.",
+      "text": "T. Beelen and P. V. Dooren, 'Computational aspects of the Jordan canonical form,' in Reliable Numerical Commputation (M. G. Cox and S. Hammarling, eds.), pp. 57-72, Oxford University PressOxford, Sept. 1990.",
+      "enumerated": true,
+      "marker": "[9]"
+    },
+    {
+      "self_ref": "#/texts/148",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.963999999999984,
+            "t": 420.1705351,
+            "r": 300.0221500000001,
+            "b": 404.36301536637166,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            133
+          ]
+        }
+      ],
+      "orig": "[10] J. Shi and J. M. F. Moura, 'Graph Signal Processing: Modulation, Convolution, and Sampling,' Dec. 2019. arXiv:1912.06762 [eess].",
+      "text": "J. Shi and J. M. F. Moura, 'Graph Signal Processing: Modulation, Convolution, and Sampling,' Dec. 2019. arXiv:1912.06762 [eess].",
+      "enumerated": true,
+      "marker": "[10]"
+    },
+    {
+      "self_ref": "#/texts/149",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.963999999999984,
+            "t": 402.1425351,
+            "r": 300.0243457000001,
+            "b": 359.43501536637166,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            283
+          ]
+        }
+      ],
+      "orig": "[11] S. Sardellitti, S. Barbarossa, and P. Di Lorenzo, 'Graph Fourier Transform for directed graphs based on Lov\u00b4 asz extension of min-cut,' in 2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) , (New Orleans, LA), pp. 3894-3898, IEEE, Mar. 2017.",
+      "text": "S. Sardellitti, S. Barbarossa, and P. Di Lorenzo, 'Graph Fourier Transform for directed graphs based on Lov\u00b4 asz extension of min-cut,' in 2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) , (New Orleans, LA), pp. 3894-3898, IEEE, Mar. 2017.",
+      "enumerated": true,
+      "marker": "[11]"
+    },
+    {
+      "self_ref": "#/texts/150",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.964,
+            "t": 357.2145351,
+            "r": 300.0222366000001,
+            "b": 332.44101536637163,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            207
+          ]
+        }
+      ],
+      "orig": "[12] R. Shafipour, A. Khodabakhsh, G. Mateos, and E. Nikolova, 'A Directed Graph Fourier Transform With Spread Frequency Components,' IEEE Transactions on Signal Processing , vol. 67, pp. 946-960, Feb. 2019.",
+      "text": "R. Shafipour, A. Khodabakhsh, G. Mateos, and E. Nikolova, 'A Directed Graph Fourier Transform With Spread Frequency Components,' IEEE Transactions on Signal Processing , vol. 67, pp. 946-960, Feb. 2019.",
+      "enumerated": true,
+      "marker": "[12]"
+    },
+    {
+      "self_ref": "#/texts/151",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.96400000000003,
+            "t": 330.22053509999995,
+            "r": 300.02215000000007,
+            "b": 278.5470153663716,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            406
+          ]
+        }
+      ],
+      "orig": "[13] S. Furutani, T. Shibahara, M. Akiyama, K. Hato, and M. Aida, 'Graph Signal Processing for Directed Graphs Based on the Hermitian Laplacian,' in Machine Learning and Knowledge Discovery in Databases (U. Brefeld, E. Fromont, A. Hotho, A. Knobbe, M. Maathuis, and C. Robardet, eds.), vol. 11906, pp. 447-463, Cham: Springer International Publishing, 2020. Series Title: Lecture Notes in Computer Science.",
+      "text": "S. Furutani, T. Shibahara, M. Akiyama, K. Hato, and M. Aida, 'Graph Signal Processing for Directed Graphs Based on the Hermitian Laplacian,' in Machine Learning and Knowledge Discovery in Databases (U. Brefeld, E. Fromont, A. Hotho, A. Knobbe, M. Maathuis, and C. Robardet, eds.), vol. 11906, pp. 447-463, Cham: Springer International Publishing, 2020. Series Title: Lecture Notes in Computer Science.",
+      "enumerated": true,
+      "marker": "[13]"
+    },
+    {
+      "self_ref": "#/texts/152",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.96400000000001,
+            "t": 276.3265351,
+            "r": 300.0221500000002,
+            "b": 251.55201536637162,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            168
+          ]
+        }
+      ],
+      "orig": "[14] B. Seifert and M. Puschel, 'Digraph Signal Processing With Generalized Boundary Conditions,' IEEE Transactions on Signal Processing , vol. 69, pp. 1422-1437, 2021.",
+      "text": "B. Seifert and M. Puschel, 'Digraph Signal Processing With Generalized Boundary Conditions,' IEEE Transactions on Signal Processing , vol. 69, pp. 1422-1437, 2021.",
+      "enumerated": true,
+      "marker": "[14]"
+    },
+    {
+      "self_ref": "#/texts/153",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.96400000000001,
+            "t": 249.33153509999988,
+            "r": 300.0259727,
+            "b": 224.55701536637162,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            158
+          ]
+        }
+      ],
+      "orig": "[15] J. Moro and F. M. Dopico, 'Low Rank Perturbation of Jordan Structure,' SIAM Journal on Matrix Analysis and Applications , vol. 25, pp. 495506, Jan. 2003.",
+      "text": "J. Moro and F. M. Dopico, 'Low Rank Perturbation of Jordan Structure,' SIAM Journal on Matrix Analysis and Applications , vol. 25, pp. 495506, Jan. 2003.",
+      "enumerated": true,
+      "marker": "[15]"
+    },
+    {
+      "self_ref": "#/texts/154",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.96400000000001,
+            "t": 222.33653509999988,
+            "r": 300.0243654000001,
+            "b": 197.5620153663715,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            196
+          ]
+        }
+      ],
+      "orig": "[16] S. V. Savchenko, 'On the Change in the Spectral Properties of a Matrix under Perturbations of Sufficiently Low Rank,' Functional Analysis and Its Applications , vol. 38, pp. 69-71, Jan. 2004.",
+      "text": "S. V. Savchenko, 'On the Change in the Spectral Properties of a Matrix under Perturbations of Sufficiently Low Rank,' Functional Analysis and Its Applications , vol. 38, pp. 69-71, Jan. 2004.",
+      "enumerated": true,
+      "marker": "[16]"
+    },
+    {
+      "self_ref": "#/texts/155",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.96400000000001,
+            "t": 195.47702679999986,
+            "r": 300.0194052,
+            "b": 179.53401536637148,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "[17] R. A. Horn and C. R. Johnson, Matrix Analysis . Cambridge University Press, 1 ed., Dec. 1985.",
+      "text": "R. A. Horn and C. R. Johnson, Matrix Analysis . Cambridge University Press, 1 ed., Dec. 1985.",
+      "enumerated": true,
+      "marker": "[17]"
+    },
+    {
+      "self_ref": "#/texts/156",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.963999999999984,
+            "t": 177.31353509999985,
+            "r": 300.02508710000006,
+            "b": 152.53901536637147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            197
+          ]
+        }
+      ],
+      "orig": "[18] A. Venkitaraman, S. Chatterjee, and P. H\u00a8 andel, 'On Hilbert transform, analytic signal, and modulation analysis for signals over graphs,' Signal Processing , vol. 156, pp. 106-115, Mar. 2019.",
+      "text": "A. Venkitaraman, S. Chatterjee, and P. H\u00a8 andel, 'On Hilbert transform, analytic signal, and modulation analysis for signals over graphs,' Signal Processing , vol. 156, pp. 106-115, Mar. 2019.",
+      "enumerated": true,
+      "marker": "[18]"
+    },
+    {
+      "self_ref": "#/texts/157",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.963999999999956,
+            "t": 150.45402679999984,
+            "r": 300.0259596999999,
+            "b": 134.51101536637145,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            126
+          ]
+        }
+      ],
+      "orig": "[19] S. L. Hahn, Hilbert transforms in signal processing . Artech House signal processing library, Boston: Artech House, 1996.",
+      "text": "S. L. Hahn, Hilbert transforms in signal processing . Artech House signal processing library, Boston: Artech House, 1996.",
+      "enumerated": true,
+      "marker": "[19]"
+    },
+    {
+      "self_ref": "#/texts/158",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.963999999999956,
+            "t": 132.42602679999982,
+            "r": 300.02098239999987,
+            "b": 116.48201536637146,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            103
+          ]
+        }
+      ],
+      "orig": "[20] J. G. Proakis and M. Salehi, Digital communications . Boston, Mass.: McGraw-Hill, 5. ed ed., 2008.",
+      "text": "J. G. Proakis and M. Salehi, Digital communications . Boston, Mass.: McGraw-Hill, 5. ed ed., 2008.",
+      "enumerated": true,
+      "marker": "[20]"
+    },
+    {
+      "self_ref": "#/texts/159",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.963999999999956,
+            "t": 114.26153509999983,
+            "r": 300.022525,
+            "b": 89.48801536637143,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            177
+          ]
+        }
+      ],
+      "orig": "[21] Y. Li, Y. Qiao, A. Wigderson, Y. Wigderson, and C. Zhang, 'Connections between graphs and matrix spaces,' Israel Journal of Mathematics , vol. 256, pp. 513-580, Sept. 2023.",
+      "text": "Y. Li, Y. Qiao, A. Wigderson, Y. Wigderson, and C. Zhang, 'Connections between graphs and matrix spaces,' Israel Journal of Mathematics , vol. 256, pp. 513-580, Sept. 2023.",
+      "enumerated": true,
+      "marker": "[21]"
+    },
+    {
+      "self_ref": "#/texts/160",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.963999999999984,
+            "t": 87.26653509999983,
+            "r": 300.02324059999995,
+            "b": 62.49301536637154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            158
+          ]
+        }
+      ],
+      "orig": "[22] J. Domingos and J. M. F. Moura, 'Graph Fourier Transform: A Stable Approximation,' IEEE Transactions on Signal Processing , vol. 68, pp. 4422-4437, 2020.",
+      "text": "J. Domingos and J. M. F. Moura, 'Graph Fourier Transform: A Stable Approximation,' IEEE Transactions on Signal Processing , vol. 68, pp. 4422-4437, 2020.",
+      "enumerated": true,
+      "marker": "[22]"
+    },
+    {
+      "self_ref": "#/texts/161",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.963999999999984,
+            "t": 60.40802679999979,
+            "r": 300.02252500000003,
+            "b": 44.46401536637154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            105
+          ]
+        }
+      ],
+      "orig": "[23] K. Itoh, 'Analysis of the phase unwrapping algorithm,' Applied Optics , vol. 21, p. 2470, July 1982.",
+      "text": "K. Itoh, 'Analysis of the phase unwrapping algorithm,' Applied Optics , vol. 21, p. 2470, July 1982.",
+      "enumerated": true,
+      "marker": "[23]"
+    },
+    {
+      "self_ref": "#/texts/162",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 311.97700000000003,
+            "t": 732.8860267999999,
+            "r": 563.0348492,
+            "b": 716.9430153663716,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            131
+          ]
+        }
+      ],
+      "orig": "[24] M. Felsberg and G. Sommer, 'The monogenic signal,' IEEE Transactions on Signal Processing , vol. 49, pp. 3136-3144, Dec. 2001.",
+      "text": "M. Felsberg and G. Sommer, 'The monogenic signal,' IEEE Transactions on Signal Processing , vol. 49, pp. 3136-3144, Dec. 2001.",
+      "enumerated": true,
+      "marker": "[24]"
+    },
+    {
+      "self_ref": "#/texts/163",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 311.977,
+            "t": 714.8175350999999,
+            "r": 563.0351499999999,
+            "b": 690.0430153663716,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            192
+          ]
+        }
+      ],
+      "orig": "[25] M. Unser, K. Balac, and D. V. D. Ville, 'The monogenic RieszLaplace wavelet transform,' in 2008 16th European Signal Processing Conference (EUSIPCO) , (Lausanne, Switzerland), IEEE, 2008.",
+      "text": "M. Unser, K. Balac, and D. V. D. Ville, 'The monogenic RieszLaplace wavelet transform,' in 2008 16th European Signal Processing Conference (EUSIPCO) , (Lausanne, Switzerland), IEEE, 2008.",
+      "enumerated": true,
+      "marker": "[25]"
+    },
+    {
+      "self_ref": "#/texts/164",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 311.977,
+            "t": 688.0540267999999,
+            "r": 563.0356508999997,
+            "b": 663.1440153663716,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            171
+          ]
+        }
+      ],
+      "orig": "[26] A. V. Oppenheim, A. S. Willsky, and S. H. Nawab, Signals & systems . Prentice-Hall signal processing series, Upper Saddle River, N.J: Prentice Hall, 2nd ed ed., 1997.",
+      "text": "A. V. Oppenheim, A. S. Willsky, and S. H. Nawab, Signals & systems . Prentice-Hall signal processing series, Upper Saddle River, N.J: Prentice Hall, 2nd ed ed., 1997.",
+      "enumerated": true,
+      "marker": "[26]"
+    },
+    {
+      "self_ref": "#/texts/165",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 311.977,
+            "t": 661.0195350999999,
+            "r": 563.0351499999999,
+            "b": 627.2790153663716,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            231
+          ]
+        }
+      ],
+      "orig": "[27] R. Singh, A. Chakraborty, and B. S. Manoj, 'Graph Fourier transform based on directed Laplacian,' in 2016 International Conference on Signal Processing and Communications (SPCOM) , (Bangalore, India), pp. 1-5, IEEE, June 2016.",
+      "text": "R. Singh, A. Chakraborty, and B. S. Manoj, 'Graph Fourier transform based on directed Laplacian,' in 2016 International Conference on Signal Processing and Communications (SPCOM) , (Bangalore, India), pp. 1-5, IEEE, June 2016.",
+      "enumerated": true,
+      "marker": "[27]"
+    },
+    {
+      "self_ref": "#/texts/166",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 311.977,
+            "t": 625.1535350999999,
+            "r": 563.0356621999999,
+            "b": 582.4470153663716,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            295
+          ]
+        }
+      ],
+      "orig": "[28] S. Kwak, L. Shimabukuro, and A. Ortega, 'Frequency Analysis and Filter Design for Directed Graphs with Polar Decomposition,' in ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) , (Seoul, Korea, Republic of), pp. 96619665, IEEE, Apr. 2024.",
+      "text": "S. Kwak, L. Shimabukuro, and A. Ortega, 'Frequency Analysis and Filter Design for Directed Graphs with Polar Decomposition,' in ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) , (Seoul, Korea, Republic of), pp. 96619665, IEEE, Apr. 2024.",
+      "enumerated": true,
+      "marker": "[28]"
+    },
+    {
+      "self_ref": "#/texts/167",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 311.977,
+            "t": 580.3225350999999,
+            "r": 563.0356508999998,
+            "b": 555.5480153663716,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            211
+          ]
+        }
+      ],
+      "orig": "[29] Z. Xiao, H. Fang, S. Tomasin, G. Mateos, and X. Wang, 'Joint Sampling and Reconstruction of Time-Varying Signals Over Directed Graphs,' IEEE Transactions on Signal Processing , vol. 71, pp. 2204-2219, 2023.",
+      "text": "Z. Xiao, H. Fang, S. Tomasin, G. Mateos, and X. Wang, 'Joint Sampling and Reconstruction of Time-Varying Signals Over Directed Graphs,' IEEE Transactions on Signal Processing , vol. 71, pp. 2204-2219, 2023.",
+      "enumerated": true,
+      "marker": "[29]"
+    },
+    {
+      "self_ref": "#/texts/168",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 311.977,
+            "t": 553.4225350999999,
+            "r": 563.0351499999996,
+            "b": 537.6150153663716,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            130
+          ]
+        }
+      ],
+      "orig": "[30] M. T. Taner, F. Koehler, and R. E. Sheriff, 'Complex seismic trace analysis,' GEOPHYSICS , vol. 44, pp. 1041-1063, June 1979.",
+      "text": "M. T. Taner, F. Koehler, and R. E. Sheriff, 'Complex seismic trace analysis,' GEOPHYSICS , vol. 44, pp. 1041-1063, June 1979.",
+      "enumerated": true,
+      "marker": "[30]"
+    },
+    {
+      "self_ref": "#/texts/169",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 311.977,
+            "t": 535.4905350999999,
+            "r": 563.0355249999999,
+            "b": 510.7160153663716,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            175
+          ]
+        }
+      ],
+      "orig": "[31] A. Bruns, 'Fourier-, Hilbertand wavelet-based signal analysis: are they really different approaches?,' Journal of Neuroscience Methods , vol. 137, pp. 321-332, Aug. 2004.",
+      "text": "A. Bruns, 'Fourier-, Hilbertand wavelet-based signal analysis: are they really different approaches?,' Journal of Neuroscience Methods , vol. 137, pp. 321-332, Aug. 2004.",
+      "enumerated": true,
+      "marker": "[31]"
+    },
+    {
+      "self_ref": "#/texts/170",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 311.97699999999986,
+            "t": 508.59153509999993,
+            "r": 563.0363834999998,
+            "b": 474.8510153663716,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            265
+          ]
+        }
+      ],
+      "orig": "[32] M. Le Van Quyen, J. Foucher, J.-P. Lachaux, E. Rodriguez, A. Lutz, J. Martinerie, and F. J. Varela, 'Comparison of Hilbert transform and wavelet methods for the analysis of neuronal synchrony,' Journal of Neuroscience Methods , vol. 111, pp. 83-98, Sept. 2001.",
+      "text": "M. Le Van Quyen, J. Foucher, J.-P. Lachaux, E. Rodriguez, A. Lutz, J. Martinerie, and F. J. Varela, 'Comparison of Hilbert transform and wavelet methods for the analysis of neuronal synchrony,' Journal of Neuroscience Methods , vol. 111, pp. 83-98, Sept. 2001.",
+      "enumerated": true,
+      "marker": "[32]"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 76.54234313964844,
+            "t": 725.2743377685547,
+            "r": 270.7868347167969,
+            "b": 495.5567932128906,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/50"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        },
+        {
+          "$ref": "#/texts/72"
+        },
+        {
+          "$ref": "#/texts/73"
+        },
+        {
+          "$ref": "#/texts/74"
+        },
+        {
+          "$ref": "#/texts/75"
+        },
+        {
+          "$ref": "#/texts/76"
+        },
+        {
+          "$ref": "#/texts/77"
+        },
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        },
+        {
+          "$ref": "#/texts/86"
+        },
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        },
+        {
+          "$ref": "#/texts/90"
+        },
+        {
+          "$ref": "#/texts/91"
+        },
+        {
+          "$ref": "#/texts/92"
+        },
+        {
+          "$ref": "#/texts/93"
+        },
+        {
+          "$ref": "#/texts/94"
+        },
+        {
+          "$ref": "#/texts/95"
+        },
+        {
+          "$ref": "#/texts/96"
+        },
+        {
+          "$ref": "#/texts/97"
+        },
+        {
+          "$ref": "#/texts/98"
+        },
+        {
+          "$ref": "#/texts/99"
+        },
+        {
+          "$ref": "#/texts/100"
+        },
+        {
+          "$ref": "#/texts/101"
+        },
+        {
+          "$ref": "#/texts/102"
+        },
+        {
+          "$ref": "#/texts/103"
+        },
+        {
+          "$ref": "#/texts/104"
+        },
+        {
+          "$ref": "#/texts/105"
+        },
+        {
+          "$ref": "#/texts/106"
+        },
+        {
+          "$ref": "#/texts/107"
+        },
+        {
+          "$ref": "#/texts/108"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 323.8227233886719,
+            "t": 727.9908218383789,
+            "r": 550.7163696289062,
+            "b": 496.1535339355469,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/64"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/116"
+        },
+        {
+          "$ref": "#/texts/117"
+        },
+        {
+          "$ref": "#/texts/118"
+        },
+        {
+          "$ref": "#/texts/119"
+        },
+        {
+          "$ref": "#/texts/120"
+        },
+        {
+          "$ref": "#/texts/121"
+        },
+        {
+          "$ref": "#/texts/122"
+        },
+        {
+          "$ref": "#/texts/123"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 56.435089111328125,
+            "t": 723.8348999023438,
+            "r": 557.3369750976562,
+            "b": 630.1687774658203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/116"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 5
+    }
+  }
+}

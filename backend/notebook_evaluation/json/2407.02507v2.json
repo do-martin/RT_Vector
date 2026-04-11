@@ -1,0 +1,3021 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "2407.02507v2",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 15494871802389030214,
+    "filename": "2407.02507v2.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/texts/81"
+      },
+      {
+        "$ref": "#/texts/82"
+      },
+      {
+        "$ref": "#/texts/83"
+      },
+      {
+        "$ref": "#/texts/84"
+      },
+      {
+        "$ref": "#/texts/85"
+      },
+      {
+        "$ref": "#/texts/86"
+      },
+      {
+        "$ref": "#/groups/4"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/27"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/29"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/32"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        },
+        {
+          "$ref": "#/texts/90"
+        },
+        {
+          "$ref": "#/texts/91"
+        },
+        {
+          "$ref": "#/texts/92"
+        },
+        {
+          "$ref": "#/texts/93"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 595.3,
+            "r": 36.206559297218156,
+            "b": 222.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "arXiv:2407.02507v2  [math.HO]  16 Feb 2025",
+      "text": "arXiv:2407.02507v2  [math.HO]  16 Feb 2025"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 152.748,
+            "t": 640.9413436,
+            "r": 459.25237030000005,
+            "b": 632.1965350743516,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "ON FOUNDATIONS FOR DEDUCTIVE MATHEMATICS",
+      "text": "ON FOUNDATIONS FOR DEDUCTIVE MATHEMATICS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 274.74699999999996,
+            "t": 609.6625783,
+            "r": 337.24932120999995,
+            "b": 602.6973080832853,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "FRANK QUINN",
+      "text": "FRANK QUINN"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 276.63199999999995,
+            "t": 566.6894558,
+            "r": 335.3692905399999,
+            "b": 557.9828898772334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "1. abstract",
+      "text": "1. abstract",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 126.67199999999993,
+            "t": 548.7574558,
+            "r": 485.3294687800001,
+            "b": 480.2748898772334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            452
+          ]
+        }
+      ],
+      "orig": "This article was motivated by the discovery of a potential new foundation for mainstream mathematics. The goals are to clarify the relationships between primitives, foundations, and deductive practice; to understand how to determine what is, or isn't, a foundation; and get clues as to how a foundation can be optimized for effective human use. For this we turn to history and professional practice of the subject. We have no asperations to Philosophy.",
+      "text": "This article was motivated by the discovery of a potential new foundation for mainstream mathematics. The goals are to clarify the relationships between primitives, foundations, and deductive practice; to understand how to determine what is, or isn't, a foundation; and get clues as to how a foundation can be optimized for effective human use. For this we turn to history and professional practice of the subject. We have no asperations to Philosophy."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 126.67199999999993,
+            "t": 477.0264558,
+            "r": 485.33157756,
+            "b": 336.81288987723354,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            933
+          ]
+        }
+      ],
+      "orig": "The first section gives a short abstract discussion, focusing on the significance of consistency. The next briefly describes foundations, explicit and implicit, at a few key periods in mathematical history. We see, for example, that at the primitive level human intuitions are essential, but can be problematic. We also see that traditional axiomatic set theories, Zermillo-Fraenkel-Choice (ZFC) in particular, are not quite consistent with mainstream practice. The final section sketches the proposed new foundation and gives the basic argument that it is uniquely qualified to be considered the foundation of mainstream deductive mathematics. The 'coherent limit axiom' characterizes the new theory among ZFC-like theories. This axiom plays a role in recursion, but is implicitly assumed in mainstream work so does not provide new leverage there. In principle it should settle set-theory questions such as the continuum hypothesis.",
+      "text": "The first section gives a short abstract discussion, focusing on the significance of consistency. The next briefly describes foundations, explicit and implicit, at a few key periods in mathematical history. We see, for example, that at the primitive level human intuitions are essential, but can be problematic. We also see that traditional axiomatic set theories, Zermillo-Fraenkel-Choice (ZFC) in particular, are not quite consistent with mainstream practice. The final section sketches the proposed new foundation and gives the basic argument that it is uniquely qualified to be considered the foundation of mainstream deductive mathematics. The 'coherent limit axiom' characterizes the new theory among ZFC-like theories. This axiom plays a role in recursion, but is implicitly assumed in mainstream work so does not provide new leverage there. In principle it should settle set-theory questions such as the continuum hypothesis."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 265.62699999999995,
+            "t": 325.1954558000001,
+            "r": 346.3756552399999,
+            "b": 316.48888987723353,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "2. Abstractions",
+      "text": "2. Abstractions",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 126.67199999999995,
+            "t": 307.2624558000001,
+            "r": 485.33157755999974,
+            "b": 274.64588987723357,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            211
+          ]
+        }
+      ],
+      "orig": "'Foundation' refers to a body of deductive practice, here mainstream deductive mathematics. Historically practice comes first. Foundations are a way to analyze the body of practice, particularly its consistency.",
+      "text": "'Foundation' refers to a body of deductive practice, here mainstream deductive mathematics. Historically practice comes first. Foundations are a way to analyze the body of practice, particularly its consistency."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 143.60899999999995,
+            "t": 269.3353436000001,
+            "r": 485.32385653999995,
+            "b": 248.64288987723353,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            123
+          ]
+        }
+      ],
+      "orig": "(1) A primitive is an object, hypotheses, or method of argument that is postulated rather than deduced from something else.",
+      "text": "A primitive is an object, hypotheses, or method of argument that is postulated rather than deduced from something else.",
+      "enumerated": true,
+      "marker": "(1)"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 143.60899999999992,
+            "t": 245.42434360000016,
+            "r": 485.3314313199996,
+            "b": 212.77788987723352,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            196
+          ]
+        }
+      ],
+      "orig": "(2) A primitive foundation is a collection of primitives that is complete in the sense that no other primitives are needed. Note that the methods of argument (the logic) is part of the foundation.",
+      "text": "A primitive foundation is a collection of primitives that is complete in the sense that no other primitives are needed. Note that the methods of argument (the logic) is part of the foundation.",
+      "enumerated": true,
+      "marker": "(2)"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 143.60899999999987,
+            "t": 209.55934360000003,
+            "r": 485.32753093999986,
+            "b": 188.86788987723344,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            127
+          ]
+        }
+      ],
+      "orig": "(3) A foundation is consistent if every chain of deductions that produces a contradiction can be shown to have a logical error.",
+      "text": "A foundation is consistent if every chain of deductions that produces a contradiction can be shown to have a logical error.",
+      "enumerated": true,
+      "marker": "(3)"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 126.67199999999983,
+            "t": 179.6713436,
+            "r": 485.3315775599998,
+            "b": 111.15888987723349,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            476
+          ]
+        }
+      ],
+      "orig": "2.1. About consistency. The operational view of consistency is 'complete reliability', in the sense that the outcome of an error-free argument will never be contradicted by the outcome of any other such argument. Moreover, the outcome will not introduce errors if used as an ingredient in further arguments. Arguments by contradiction for example, assume something, deduce a contradiction, and conclude that the thing assumed must be false. Success is sensitively dependent on",
+      "text": "2.1. About consistency. The operational view of consistency is 'complete reliability', in the sense that the outcome of an error-free argument will never be contradicted by the outcome of any other such argument. Moreover, the outcome will not introduce errors if used as an ingredient in further arguments. Arguments by contradiction for example, assume something, deduce a contradiction, and conclude that the thing assumed must be false. Success is sensitively dependent on"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 138.628,
+            "t": 98.32557829999996,
+            "r": 201.63451117000008,
+            "b": 91.3603080832853,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "Date : June 2024.",
+      "text": "Date : June 2024."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 304.014,
+            "t": 86.9401054,
+            "r": 307.9855791,
+            "b": 80.84552673256485,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 126.672,
+            "t": 694.6611054,
+            "r": 130.6435791,
+            "b": 688.5665267325649,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 276.94692929999997,
+            "t": 694.6611054,
+            "r": 335.0505387599999,
+            "b": 688.5665267325649,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "FRANK QUINN",
+      "text": "FRANK QUINN"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 126.672,
+            "t": 672.7924558000001,
+            "r": 485.32751324,
+            "b": 652.1298898772335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            116
+          ]
+        }
+      ],
+      "orig": "everything else used in the argument being completely reliable, and that the logic itself does not introduce errors.",
+      "text": "everything else used in the argument being completely reliable, and that the logic itself does not introduce errors."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 126.67199999999997,
+            "t": 648.8814558,
+            "r": 485.3315775599999,
+            "b": 556.4888898772332,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            618
+          ]
+        }
+      ],
+      "orig": "Consistency provides an internal criterion for correctness. In practice, however, it is far more important as a criterion for in correctness. In reasonably ambitious research programs, 95 percent or more of attempted proofs turn out to have flaws. Sometimes, with luck and persistence, these flaws can be corrected, and the attempts converge to a valid argument. Sometimes years of effort have to be abandoned as hopeless, or outright wrong. The payoff for this painful process is closure: even outrageously counterintuitive conclusions are accepted when the arguments are carefully checked and found to be error-free.",
+      "text": "Consistency provides an internal criterion for correctness. In practice, however, it is far more important as a criterion for in correctness. In reasonably ambitious research programs, 95 percent or more of attempted proofs turn out to have flaws. Sometimes, with luck and persistence, these flaws can be corrected, and the attempts converge to a valid argument. Sometimes years of effort have to be abandoned as hopeless, or outright wrong. The payoff for this painful process is closure: even outrageously counterintuitive conclusions are accepted when the arguments are carefully checked and found to be error-free."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 126.67199999999994,
+            "t": 545.9344557999998,
+            "r": 485.33257382000005,
+            "b": 441.5868898772332,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            733
+          ]
+        }
+      ],
+      "orig": "Empirical. G\u00a8 odel has shown that foundations generally cannot prove their own consistency. However, we can test consistency: make lots of deductions, and verify that any contradictions are accounted for by logical errors. Sometimes inconsistencies do not appear until work reaches a certain level of sophistication. Another wrinkle is that a foundation can be technically inconsistent but consistent in practice in the sense that methodology has evolved so as to steer people away from the inconsistencies. The main point is that empirical consistency is a property of a methodology rather than of a foundation. Explicit foundations are largely retrofits that record successful experience and narrow down potential sources of error.",
+      "text": "Empirical. G\u00a8 odel has shown that foundations generally cannot prove their own consistency. However, we can test consistency: make lots of deductions, and verify that any contradictions are accounted for by logical errors. Sometimes inconsistencies do not appear until work reaches a certain level of sophistication. Another wrinkle is that a foundation can be technically inconsistent but consistent in practice in the sense that methodology has evolved so as to steer people away from the inconsistencies. The main point is that empirical consistency is a property of a methodology rather than of a foundation. Explicit foundations are largely retrofits that record successful experience and narrow down potential sources of error."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 126.67199999999997,
+            "t": 431.0314557999998,
+            "r": 485.33257382,
+            "b": 350.59388987723327,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            513
+          ]
+        }
+      ],
+      "orig": "Global. Evidence for consistency applies to the development as a whole, not just individual results. In other sciences, and in mathematics when trying out new methodologies, experiment can give evidence that individual conclusions are reliable, within limits and independently of most other conclusions. Foundational consistency checks are global in that they support consistency of the whole development. This is the flip side of the fact that a single genuine failure would throw doubt on the whole development.",
+      "text": "Global. Evidence for consistency applies to the development as a whole, not just individual results. In other sciences, and in mathematics when trying out new methodologies, experiment can give evidence that individual conclusions are reliable, within limits and independently of most other conclusions. Foundational consistency checks are global in that they support consistency of the whole development. This is the flip side of the fact that a single genuine failure would throw doubt on the whole development."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 126.67199999999997,
+            "t": 340.0693435999998,
+            "r": 485.32973161999996,
+            "b": 319.37788987723326,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            90
+          ]
+        }
+      ],
+      "orig": "2.2. Definitions and axioms vs primitives. We clarify usage in the mathematical community.",
+      "text": "2.2. Definitions and axioms vs primitives. We clarify usage in the mathematical community.",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 126.67199999999991,
+            "t": 316.15934359999983,
+            "r": 485.32958504000015,
+            "b": 223.73688987723324,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            625
+          ]
+        }
+      ],
+      "orig": "Definitions are located inside a developed context, and usually consist of axioms that the things being defined should satisfy. Properties of these things are to be inferred from the axioms and more-basic ingredients. In particular, while intuition and intent can guide the formation of a definition they have no logical force. Indeed, first attempts at definitions typically fail to have intended properties. Major standard definitions are often the result of years of work to fix failures and consolidate partial successes, and should be thought of as distilled hard-won wisdom. They are certainly not arbitrary constructs.",
+      "text": "Definitions are located inside a developed context, and usually consist of axioms that the things being defined should satisfy. Properties of these things are to be inferred from the axioms and more-basic ingredients. In particular, while intuition and intent can guide the formation of a definition they have no logical force. Indeed, first attempts at definitions typically fail to have intended properties. Major standard definitions are often the result of years of work to fix failures and consolidate partial successes, and should be thought of as distilled hard-won wisdom. They are certainly not arbitrary constructs."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 126.6719999999999,
+            "t": 220.51834359999975,
+            "r": 485.33248179999975,
+            "b": 163.96088987723317,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            336
+          ]
+        }
+      ],
+      "orig": "Primitive objects, hypotheses, etc. are starting points for the logical context, not defined in terms of lower-level objects. Primitive hypotheses, in particular, are not axioms in the contemporary sense. Since properties cannot be inferred from lower-level material, they depend on heuristic ideas, syntax specifications, and examples.",
+      "text": "Primitive objects, hypotheses, etc. are starting points for the logical context, not defined in terms of lower-level objects. Primitive hypotheses, in particular, are not axioms in the contemporary sense. Since properties cannot be inferred from lower-level material, they depend on heuristic ideas, syntax specifications, and examples."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 126.6719999999999,
+            "t": 160.71245579999982,
+            "r": 485.33146130000006,
+            "b": 92.22988987723318,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            425
+          ]
+        }
+      ],
+      "orig": "For example, Euclid's description of points as 'things without width or length' is not a definition in the contemporary sense because 'width' and 'length' have not been given precise meaning. It succeeds as a primitive because this, filtered through physical experience, some pictures, and examples of usage, reliably evokes consistent understandings. Polygons are 'defined' because they are described in terms of primitives.",
+      "text": "For example, Euclid's description of points as 'things without width or length' is not a definition in the contemporary sense because 'width' and 'length' have not been given precise meaning. It succeeds as a primitive because this, filtered through physical experience, some pictures, and examples of usage, reliably evokes consistent understandings. Polygons are 'defined' because they are described in terms of primitives."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 200.663,
+            "t": 694.6611054,
+            "r": 411.3366163399997,
+            "b": 688.5665267325649,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "ON FOUNDATIONS FOR DEDUCTIVE MATHEMATICS",
+      "text": "ON FOUNDATIONS FOR DEDUCTIVE MATHEMATICS"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 481.3535683399997,
+            "t": 694.6611054,
+            "r": 485.3251474399997,
+            "b": 688.5665267325649,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 126.67200000000001,
+            "t": 672.7924558000001,
+            "r": 485.33058130000023,
+            "b": 640.1748898772335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            169
+          ]
+        }
+      ],
+      "orig": "We emphasize that consistency at the primitive level depends heavily on different users extracting functionally equivalent understandings. This has often been a problem.",
+      "text": "We emphasize that consistency at the primitive level depends heavily on different users extracting functionally equivalent understandings. This has often been a problem."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 126.67200000000001,
+            "t": 619.8203436,
+            "r": 485.3314360199999,
+            "b": 563.2638898772333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            403
+          ]
+        }
+      ],
+      "orig": "2.3. Deeper is better. In practice, definitions are often easier to learn and use with precision than are complicated primitives. For example, attempts to use the real numbers as a primitive were problematic. Now the reals are defined in terms of natural numbers, and natural numbers are defined using set theory. This approach has made full-precision understanding of the reals faster and more routine.",
+      "text": "2.3. Deeper is better. In practice, definitions are often easier to learn and use with precision than are complicated primitives. For example, attempts to use the real numbers as a primitive were problematic. Now the reals are defined in terms of natural numbers, and natural numbers are defined using set theory. This approach has made full-precision understanding of the reals faster and more routine.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 126.67200000000001,
+            "t": 560.0144557999998,
+            "r": 485.3315775599999,
+            "b": 455.6668898772332,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            709
+          ]
+        }
+      ],
+      "orig": "Curiously, another benefit of working several levels above the primitives is that it can filter out misunderstandings or ambiguities about the primitives. For instance, the traditional axiomatic approach to set theory takes 'sets' as primitives, and the primitive hypotheses proscribing their behavior are quite complicated. But these do not have to be understood in detail to get a completely solid description of the real numbers. The new approach to set theory has a similar advantage: the primitives (object generators) are several levels below sets, so sets are defined and their properties proved rather than hypothesized. This gives a more accessible, and slightly sharper, understanding of set theory.",
+      "text": "Curiously, another benefit of working several levels above the primitives is that it can filter out misunderstandings or ambiguities about the primitives. For instance, the traditional axiomatic approach to set theory takes 'sets' as primitives, and the primitive hypotheses proscribing their behavior are quite complicated. But these do not have to be understood in detail to get a completely solid description of the real numbers. The new approach to set theory has a similar advantage: the primitives (object generators) are several levels below sets, so sets are defined and their properties proved rather than hypothesized. This gives a more accessible, and slightly sharper, understanding of set theory."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 126.67200000000001,
+            "t": 435.31234359999974,
+            "r": 485.3305812999999,
+            "b": 390.7108898772332,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            281
+          ]
+        }
+      ],
+      "orig": "2.4. Other views. There is a vast literature, mostly Philosophical, about the nature and role of foundations. It is far from consistent, and while there are interesting insights, cf. [Maddy], some of it is pretty silly. It does not seem to be useful to try to sort through it here.",
+      "text": "2.4. Other views. There is a vast literature, mostly Philosophical, about the nature and role of foundations. It is far from consistent, and while there are interesting insights, cf. [Maddy], some of it is pretty silly. It does not seem to be useful to try to sort through it here.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 258.091,
+            "t": 363.1534557999998,
+            "r": 353.90709147999985,
+            "b": 354.4468898772332,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "3. Sketchy history",
+      "text": "3. Sketchy history",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 126.67200000000001,
+            "t": 345.2204557999998,
+            "r": 485.3305812999999,
+            "b": 288.69288987723326,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            374
+          ]
+        }
+      ],
+      "orig": "We draw lessons from a few key historical deveopments, mainly to provide perspective on what happened in the early twentieth century. The accounts are ideosyncratic, brief, and superficial, but sufficient for the purposes here. For a bit more detail I have found the essays in 'The Stanford Encyclopedia of Philosophy' to be helpful, for example [Bagaria] and [Ferreir\u00b4 os].",
+      "text": "We draw lessons from a few key historical deveopments, mainly to provide perspective on what happened in the early twentieth century. The accounts are ideosyncratic, brief, and superficial, but sufficient for the purposes here. For a bit more detail I have found the essays in 'The Stanford Encyclopedia of Philosophy' to be helpful, for example [Bagaria] and [Ferreir\u00b4 os]."
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 126.67199999999995,
+            "t": 268.3383435999998,
+            "r": 485.33242792,
+            "b": 92.22988987723318,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1153
+          ]
+        }
+      ],
+      "orig": "3.1. Ancient Greece. The first relatively explicit use of a foundation was in the geometry and number theory of ancient Greece. The primary significance at the time seems to have been its use as a metaphor for order in the natural world, not for its 'real-world' applications. Everyone could see, and be impressed by, genuine consistency coming from logic and innate understanding, as opposed to the chaotic array of beliefs due to cultural bias or religious or philosophical doctrine. The practical applications are pretty weak. To some extent this can be seen as a quantifier issue: for metaphors it is sufficient that the theory have some striking outcomes. Practical use requires ways to describe outcomes for all problems in appropriate settings. For example, clever geometric tricks can determine the area between a line and an arc of a circle in a few special cases. Calculus gives a description of every such area, and the appearence of transcendental functions in the solution shows that very few cases can be solved with ancient techniques. Nonetheless many people find the classical tricks more meaningful than routine but effective calculus.",
+      "text": "3.1. Ancient Greece. The first relatively explicit use of a foundation was in the geometry and number theory of ancient Greece. The primary significance at the time seems to have been its use as a metaphor for order in the natural world, not for its 'real-world' applications. Everyone could see, and be impressed by, genuine consistency coming from logic and innate understanding, as opposed to the chaotic array of beliefs due to cultural bias or religious or philosophical doctrine. The practical applications are pretty weak. To some extent this can be seen as a quantifier issue: for metaphors it is sufficient that the theory have some striking outcomes. Practical use requires ways to describe outcomes for all problems in appropriate settings. For example, clever geometric tricks can determine the area between a line and an arc of a circle in a few special cases. Calculus gives a description of every such area, and the appearence of transcendental functions in the solution shows that very few cases can be solved with ancient techniques. Nonetheless many people find the classical tricks more meaningful than routine but effective calculus.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 126.672,
+            "t": 694.6611054,
+            "r": 130.6435791,
+            "b": 688.5665267325649,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 276.94692929999997,
+            "t": 694.6611054,
+            "r": 335.0505387599999,
+            "b": 688.5665267325649,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "FRANK QUINN",
+      "text": "FRANK QUINN"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 126.672,
+            "t": 672.7924558000001,
+            "r": 485.3285887799998,
+            "b": 604.3098898772333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            439
+          ]
+        }
+      ],
+      "orig": "Meaningful vs effective. We expand on this last remark. It has been known for over fifty years that humans have an innate physics, and it is essentially Aristotlean. People therefore find Aristotlean physics comfortable and meaningful, and it was accepted for centuries even though it fails very simple consistency tests. In general, humans seem not to expect consistency, either internal or with reality, of the things we find meaningful.",
+      "text": "Meaningful vs effective. We expand on this last remark. It has been known for over fifty years that humans have an innate physics, and it is essentially Aristotlean. People therefore find Aristotlean physics comfortable and meaningful, and it was accepted for centuries even though it fails very simple consistency tests. In general, humans seem not to expect consistency, either internal or with reality, of the things we find meaningful."
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 126.67199999999998,
+            "t": 601.0614557999999,
+            "r": 485.3315775600001,
+            "b": 484.75788987723314,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            808
+          ]
+        }
+      ],
+      "orig": "The lesson for geometry is that Euclidean geometry is in large part an exploration of human visual perception and physical experience. The fact that it accurately reflects the structure of the plane is because our visual perception does, not because it is a direct exploration of the plane. Much of its power as a metaphor comes from this coincidence: it is comfortable because it matches our perceptions, and effective because in this case perception accurately reflects reality. Another lesson from Aristotlean physics is that outside of some areas in geometry our physical intuitions do not match reality very well. Approaching mathematics through direct perception seldom leads to effective internalization, but is attractive and comfortable enough that it remains a strong theme in elementary education.",
+      "text": "The lesson for geometry is that Euclidean geometry is in large part an exploration of human visual perception and physical experience. The fact that it accurately reflects the structure of the plane is because our visual perception does, not because it is a direct exploration of the plane. Much of its power as a metaphor comes from this coincidence: it is comfortable because it matches our perceptions, and effective because in this case perception accurately reflects reality. Another lesson from Aristotlean physics is that outside of some areas in geometry our physical intuitions do not match reality very well. Approaching mathematics through direct perception seldom leads to effective internalization, but is attractive and comfortable enough that it remains a strong theme in elementary education."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 126.67199999999997,
+            "t": 470.5803435999997,
+            "r": 485.3315775599997,
+            "b": 330.33688987723326,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            963
+          ]
+        }
+      ],
+      "orig": "3.2. Europe in the 1600s. The next major shift began in the early 1600s when Galileo, Kepler, and others showed that mathematics could be directly powerful in the world, not just a metaphor. Mathematical development became driven by the needs of physical models, and methodology evolved rapidly. For instance, there is a conflict between ratios and negative numbers that had inhibited use of negatives. This was resolved by replacing ratios with fractions. Compact algebraic notation replaced earlier discursive formulations. The ancient Greeks were justly proud of their resolution of 'multitudes' into natural numbers, and units indicating the things being counted, but the analogous resolution of 'magnitudes' into real numbers and units was finally accomplished only in the 1600s. By the time Newton, Leibnitz, and their contemporaries were active, the power of application-oriented mathematics was firmly established and core methodologies were taking shape.",
+      "text": "3.2. Europe in the 1600s. The next major shift began in the early 1600s when Galileo, Kepler, and others showed that mathematics could be directly powerful in the world, not just a metaphor. Mathematical development became driven by the needs of physical models, and methodology evolved rapidly. For instance, there is a conflict between ratios and negative numbers that had inhibited use of negatives. This was resolved by replacing ratios with fractions. Compact algebraic notation replaced earlier discursive formulations. The ancient Greeks were justly proud of their resolution of 'multitudes' into natural numbers, and units indicating the things being counted, but the analogous resolution of 'magnitudes' into real numbers and units was finally accomplished only in the 1600s. By the time Newton, Leibnitz, and their contemporaries were active, the power of application-oriented mathematics was firmly established and core methodologies were taking shape."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 126.67199999999991,
+            "t": 327.08845579999985,
+            "r": 485.33257381999977,
+            "b": 174.91988987723323,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1063
+          ]
+        }
+      ],
+      "orig": "Infinitesimals were often part of the foundational intuitions of the real numbers in this period. They worked quite well for a time, but eventually became problematic and had to be replaced by limits. We explain how this fits into the analysis here. Consider the truncated polynomial ring R [ \u03b4 ] / ( \u03b4 2 = 0). The implicit presumption was that a function f of a real variable should extend to this ring, and f [ x + y\u03b4 ] = f [ x ] + g [ x ] y\u03b4 where g is the derivative of f . This is true if f is given by a power series: simply plug the extended variables into the series. Infinitesimals thus worked as long as it was harmless to assume functions were piecewise analytic. But limits of analytic functions need not even be piecewise continuous, and continuous limits can be nowhere differentiable. When limits became important (eg. for Fourier and Laplace series) infinitesimals became untenable. The methodology had to evolve from one in which differentiability was assumed, to a more primitive approach in which differentiability had to be defined and proved.",
+      "text": "Infinitesimals were often part of the foundational intuitions of the real numbers in this period. They worked quite well for a time, but eventually became problematic and had to be replaced by limits. We explain how this fits into the analysis here. Consider the truncated polynomial ring R [ \u03b4 ] / ( \u03b4 2 = 0). The implicit presumption was that a function f of a real variable should extend to this ring, and f [ x + y\u03b4 ] = f [ x ] + g [ x ] y\u03b4 where g is the derivative of f . This is true if f is given by a power series: simply plug the extended variables into the series. Infinitesimals thus worked as long as it was harmless to assume functions were piecewise analytic. But limits of analytic functions need not even be piecewise continuous, and continuous limits can be nowhere differentiable. When limits became important (eg. for Fourier and Laplace series) infinitesimals became untenable. The methodology had to evolve from one in which differentiability was assumed, to a more primitive approach in which differentiability had to be defined and proved."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 126.6719999999999,
+            "t": 171.67145579999976,
+            "r": 485.3254837399997,
+            "b": 127.0988898772332,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            292
+          ]
+        }
+      ],
+      "orig": "In the 1960s Abraham Robinson showed infinitesimals can be used consistently if arguments are restricted to first-order logic. But this first-order logic constraint is strongly inconsistent with standard practice. This is a potential special-purpose tool, not an alternative general approach.",
+      "text": "In the 1960s Abraham Robinson showed infinitesimals can be used consistently if arguments are restricted to first-order logic. But this first-order logic constraint is strongly inconsistent with standard practice. This is a potential special-purpose tool, not an alternative general approach."
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 126.67199999999988,
+            "t": 112.92134359999977,
+            "r": 485.3274430799995,
+            "b": 92.22988987723318,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            161
+          ]
+        }
+      ],
+      "orig": "3.3. Mid to late 1800s. In this period it was still generally felt that real numbers should be understood through intuitions from physical experience, though, of",
+      "text": "3.3. Mid to late 1800s. In this period it was still generally felt that real numbers should be understood through intuitions from physical experience, though, of"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 200.663,
+            "t": 694.6611054,
+            "r": 411.3366163399997,
+            "b": 688.5665267325649,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "ON FOUNDATIONS FOR DEDUCTIVE MATHEMATICS",
+      "text": "ON FOUNDATIONS FOR DEDUCTIVE MATHEMATICS"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 481.3535683399997,
+            "t": 694.6611054,
+            "r": 485.3251474399997,
+            "b": 688.5665267325649,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 126.67200000000001,
+            "t": 672.7924558000001,
+            "r": 485.3315775599999,
+            "b": 580.3988898772333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            592
+          ]
+        }
+      ],
+      "orig": "course, this should not include earlier intuitions about infinitesimals. This became problematic as goals became more ambitious. People without sufficiently accurate intuitions had unreliable outcomes, and were reduced to appeals to authority ('Gauss did it so it must be ok') or were shut out of the game. From a foundational point of view, 'intuitive reals' became unsatisfactory as a primitive because it was not uniformly understood by different users. This is a bit different from problems with infinitesimals, which in the larger context are inconsistent even when correctly understood.",
+      "text": "course, this should not include earlier intuitions about infinitesimals. This became problematic as goals became more ambitious. People without sufficiently accurate intuitions had unreliable outcomes, and were reduced to appeals to authority ('Gauss did it so it must be ok') or were shut out of the game. From a foundational point of view, 'intuitive reals' became unsatisfactory as a primitive because it was not uniformly understood by different users. This is a bit different from problems with infinitesimals, which in the larger context are inconsistent even when correctly understood."
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 126.67200000000001,
+            "t": 577.1504557999998,
+            "r": 485.32958504000015,
+            "b": 484.75788987723314,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            598
+          ]
+        }
+      ],
+      "orig": "In the mid 1800s Dedekind rigorously described the reals in terms of natural numbers. This made them reliably accessible but didn't fully fix the difficulties, because the natural numbers had varying interpretations. Some intuitively-attractive ones lacked logical force. This was addressed by defining natural numbers using early versions of set theory. For human use, sets seemed to be effective starting points. By 1880 Dederkind was using set-theoretic methods and terminology, and the idea that mathematics could have a foundation in a theory of sets began to have traction; cf. [Ferreir\u00b4 os].",
+      "text": "In the mid 1800s Dedekind rigorously described the reals in terms of natural numbers. This made them reliably accessible but didn't fully fix the difficulties, because the natural numbers had varying interpretations. Some intuitively-attractive ones lacked logical force. This was addressed by defining natural numbers using early versions of set theory. For human use, sets seemed to be effective starting points. By 1880 Dederkind was using set-theoretic methods and terminology, and the idea that mathematics could have a foundation in a theory of sets began to have traction; cf. [Ferreir\u00b4 os]."
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 126.67200000000001,
+            "t": 481.5094557999997,
+            "r": 485.32958503999976,
+            "b": 436.93688987723317,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            258
+          ]
+        }
+      ],
+      "orig": "By 1900, foundation-oriented mathematicians were having good success with what we now know as na\u00a8 \u0131ve set theory. Coming from another direction, Frege, Cantor, and others clarified intuitive notions about set theory, and showed that it had its own substance.",
+      "text": "By 1900, foundation-oriented mathematicians were having good success with what we now know as na\u00a8 \u0131ve set theory. Coming from another direction, Frege, Cantor, and others clarified intuitive notions about set theory, and showed that it had its own substance."
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 126.67200000000001,
+            "t": 426.4123435999997,
+            "r": 485.3322596,
+            "b": 393.7658898772332,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            217
+          ]
+        }
+      ],
+      "orig": "3.4. Early 1900s. In 1902 Russell publicized his paradox showing na\u00a8 \u0131ve set theory to be inconsistent. Reactions were quite different in the mainstream and set-theory communities, and resulted in them drifting apart.",
+      "text": "3.4. Early 1900s. In 1902 Russell publicized his paradox showing na\u00a8 \u0131ve set theory to be inconsistent. Reactions were quite different in the mainstream and set-theory communities, and resulted in them drifting apart."
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 126.67200000000001,
+            "t": 383.2114557999997,
+            "r": 485.3305813,
+            "b": 326.6838898772332,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            381
+          ]
+        }
+      ],
+      "orig": "Mainstream community. By 1900 quite a few mathematicians had found na\u00a8 \u0131ve set theory to be effective and reliable, and many leading mathematicians were satisfied that all mainstream work could be derived from it. The response to Russell's paradox was to add the caution 'don't say 'set of all sets' '. This did not effect actual practice since nobody saw a need to do that anyway.",
+      "text": "Mainstream community. By 1900 quite a few mathematicians had found na\u00a8 \u0131ve set theory to be effective and reliable, and many leading mathematicians were satisfied that all mainstream work could be derived from it. The response to Russell's paradox was to add the caution 'don't say 'set of all sets' '. This did not effect actual practice since nobody saw a need to do that anyway."
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 126.67200000000001,
+            "t": 323.4354557999998,
+            "r": 485.3294687800001,
+            "b": 278.8628898772332,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            309
+          ]
+        }
+      ],
+      "orig": "By the 1920s much of the younger generation had embraced the set-theory foundation and the rigor it enables, and were extremely successful with it. The main set-theory concern of the period was that the axiom of Choice seemed too good to be true, not that there would be more problems with na\u00a8 \u0131ve set theory.",
+      "text": "By the 1920s much of the younger generation had embraced the set-theory foundation and the rigor it enables, and were extremely successful with it. The main set-theory concern of the period was that the axiom of Choice seemed too good to be true, not that there would be more problems with na\u00a8 \u0131ve set theory."
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 126.67200000000001,
+            "t": 268.3084557999998,
+            "r": 485.33058130000006,
+            "b": 235.69188987723317,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            255
+          ]
+        }
+      ],
+      "orig": "Set-theory community. The paradox seriously set back the study of sets as a subject. After a few more unsuccessful attempts they gave up trying to define sets directly, and instead began abstracting key properties (of na\u00a8 \u0131ve set theory) to use as axioms.",
+      "text": "Set-theory community. The paradox seriously set back the study of sets as a subject. After a few more unsuccessful attempts they gave up trying to define sets directly, and instead began abstracting key properties (of na\u00a8 \u0131ve set theory) to use as axioms."
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 126.67199999999983,
+            "t": 232.4434557999997,
+            "r": 485.33157756000014,
+            "b": 92.22988987723306,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            970
+          ]
+        }
+      ],
+      "orig": "In the next phase of the development, the notion of 'function' seemed problematic. A na\u00a8 \u0131ve function X \u2192 Y is 'an assignment of an element of Y to each element of X '. This does not qualify as a definition because 'assignment' is neither defined nor declared as a primitive. In fact this description of 'function' works well as a primitive, but the community choose not to follow this route. Instead a single function, the 'membership' operator was taken as a primitive. Specifically, an implementation (or 'model') of the axioms is a pair ( U, \u2208 ), where U is a 'universe' of possible elements, and the membership operator is a binary pairing \u2208 : U \u00d7 U \u2192 yes / no . In general, subcollections of U correspond to binary functions U \u2192 yes / no . The sets of the theory correspond to binary functions of the form (# \u2208 x ) for some x \u2208 U . Note that elements are used to parameterize sets. One source of confusion is that this parameterization is sometimes described as an",
+      "text": "In the next phase of the development, the notion of 'function' seemed problematic. A na\u00a8 \u0131ve function X \u2192 Y is 'an assignment of an element of Y to each element of X '. This does not qualify as a definition because 'assignment' is neither defined nor declared as a primitive. In fact this description of 'function' works well as a primitive, but the community choose not to follow this route. Instead a single function, the 'membership' operator was taken as a primitive. Specifically, an implementation (or 'model') of the axioms is a pair ( U, \u2208 ), where U is a 'universe' of possible elements, and the membership operator is a binary pairing \u2208 : U \u00d7 U \u2192 yes / no . In general, subcollections of U correspond to binary functions U \u2192 yes / no . The sets of the theory correspond to binary functions of the form (# \u2208 x ) for some x \u2208 U . Note that elements are used to parameterize sets. One source of confusion is that this parameterization is sometimes described as an"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 126.672,
+            "t": 694.6611054,
+            "r": 130.6435791,
+            "b": 688.5665267325649,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "6",
+      "text": "6"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 276.94692929999997,
+            "t": 694.6611054,
+            "r": 335.0505387599999,
+            "b": 688.5665267325649,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "FRANK QUINN",
+      "text": "FRANK QUINN"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 126.67199999999997,
+            "t": 672.7924558000001,
+            "r": 485.33163511999976,
+            "b": 616.2648898772334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            335
+          ]
+        }
+      ],
+      "orig": "identification: 'elements of sets are again sets'. This phrasing may be a hangover from 19th century philosophy. More general functions are then defined in terms of sets. Specifically, a function X \u2192 Y is a correspondence whose graph is a sub set of X \u00d7 Y . The standard forms of the axioms up to this point are mainly due to Zermillo.",
+      "text": "identification: 'elements of sets are again sets'. This phrasing may be a hangover from 19th century philosophy. More general functions are then defined in terms of sets. Specifically, a function X \u2192 Y is a correspondence whose graph is a sub set of X \u00d7 Y . The standard forms of the axioms up to this point are mainly due to Zermillo."
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 126.67199999999998,
+            "t": 613.0164557999999,
+            "r": 485.33157755999974,
+            "b": 520.6228898772331,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            652
+          ]
+        }
+      ],
+      "orig": "A problem with the Zermillo axioms is that they do not ensure there are enough functions to transact the basic business of set theory. Experimentation, drawing on a strong legacy of formal logic, revealed that functions obtained from set operations by first-order logic are sufficient to give workable rigorous set theories. Standard formulations of the logical hypotheses are mainly due to Fraenkel. Many variations have been considered, but after about 1920 the Zermillo-Fraenkel (ZF) axioms were widely accepted as standard. We will see, however, that while this solved a problem in set theory, it disconnected formal set theory from the mainstream.",
+      "text": "A problem with the Zermillo axioms is that they do not ensure there are enough functions to transact the basic business of set theory. Experimentation, drawing on a strong legacy of formal logic, revealed that functions obtained from set operations by first-order logic are sufficient to give workable rigorous set theories. Standard formulations of the logical hypotheses are mainly due to Fraenkel. Many variations have been considered, but after about 1920 the Zermillo-Fraenkel (ZF) axioms were widely accepted as standard. We will see, however, that while this solved a problem in set theory, it disconnected formal set theory from the mainstream."
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 126.67199999999998,
+            "t": 500.4683435999996,
+            "r": 485.33058130000006,
+            "b": 443.9108898772331,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            360
+          ]
+        }
+      ],
+      "orig": "3.5. Mid 1900s to early 2000s. Early in this period the axiom of Choice was accepted as well-tested, and included in standard formulations of both communities. Zermillo-Fraenkel-Choice became the 'gold standard' in the set-theory community, and na\u00a8 \u0131ve-with-choice (as always, with the set-of-sets constraint) remained the implicit standard for the mainstream.",
+      "text": "3.5. Mid 1900s to early 2000s. Early in this period the axiom of Choice was accepted as well-tested, and included in standard formulations of both communities. Zermillo-Fraenkel-Choice became the 'gold standard' in the set-theory community, and na\u00a8 \u0131ve-with-choice (as always, with the set-of-sets constraint) remained the implicit standard for the mainstream."
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 126.67200000000001,
+            "t": 423.7254557999997,
+            "r": 485.3315775599997,
+            "b": 355.2438898772332,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            431
+          ]
+        }
+      ],
+      "orig": "Mainstream community. Na\u00a8 \u0131ve set theory-as used in standard practice-enabled highly rigorous arguments of a depth unimaginable in the previous century. The consistency of na\u00a8 \u0131ve set theory-again, as used in standard practice-is extremely well tested. It is possibly our most solidly established empirical conclusion. There are some drawbacks, but there is no reason to accept any loss of functionality to address these drawbacks.",
+      "text": "Mainstream community. Na\u00a8 \u0131ve set theory-as used in standard practice-enabled highly rigorous arguments of a depth unimaginable in the previous century. The consistency of na\u00a8 \u0131ve set theory-again, as used in standard practice-is extremely well tested. It is possibly our most solidly established empirical conclusion. There are some drawbacks, but there is no reason to accept any loss of functionality to address these drawbacks."
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 126.67200000000001,
+            "t": 351.99445579999974,
+            "r": 485.33157755999974,
+            "b": 223.73688987723312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            851
+          ]
+        }
+      ],
+      "orig": "One drawback is that category theory does not fit comfortably in standard set theories. Categories were introduced essentially as bookkeeping devices to encode large-scale structures in algebraic topology and homological algebra. For these purposes ignoring set-theory mismatches seemed harmless. By the late 1900s delicate work with higher-order category theory and point-set properties of universal spaces needed more precision. There were proposals to use categories as a substitute for set theory, cf. [Marquis], [Maddy]. Grothendieck developed a variation, topos theory, initially as a setting for vigorous abstract algebraic geometry. As it matured this was also promoted as a substitute for set theory. Later Voevodsky proposed using his 'univalent foundation' as a setting for mathematics, citing its effectiveness for computer implementation.",
+      "text": "One drawback is that category theory does not fit comfortably in standard set theories. Categories were introduced essentially as bookkeeping devices to encode large-scale structures in algebraic topology and homological algebra. For these purposes ignoring set-theory mismatches seemed harmless. By the late 1900s delicate work with higher-order category theory and point-set properties of universal spaces needed more precision. There were proposals to use categories as a substitute for set theory, cf. [Marquis], [Maddy]. Grothendieck developed a variation, topos theory, initially as a setting for vigorous abstract algebraic geometry. As it matured this was also promoted as a substitute for set theory. Later Voevodsky proposed using his 'univalent foundation' as a setting for mathematics, citing its effectiveness for computer implementation."
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 126.67200000000001,
+            "t": 220.4874557999998,
+            "r": 485.3315775599998,
+            "b": 92.22988987723318,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            906
+          ]
+        }
+      ],
+      "orig": "These proposals reflect a misapprehension about foundations. We have stressed that the core job of a foundation is to give a distilled starting point that identifies key consistency checks, and to encode the results of such checks. To be effective a foundation should be minimal and as simple as possible. The proposals above are quite elaborate, and designed to display mathematical structure or make it more mechanically accessible. These are good things for applications but, as we saw with the real numbers, working directly with high-level concepts is likely to cause problems. The situation seems to be that for generations, set theory has provided such a rock-solid base for mainstream practice that we have forgotten what it is like to have to worry about the reliability of our tools. The proposals implicitly assume consistency will follow from our experience with set theory. Indeed many of them",
+      "text": "These proposals reflect a misapprehension about foundations. We have stressed that the core job of a foundation is to give a distilled starting point that identifies key consistency checks, and to encode the results of such checks. To be effective a foundation should be minimal and as simple as possible. The proposals above are quite elaborate, and designed to display mathematical structure or make it more mechanically accessible. These are good things for applications but, as we saw with the real numbers, working directly with high-level concepts is likely to cause problems. The situation seems to be that for generations, set theory has provided such a rock-solid base for mainstream practice that we have forgotten what it is like to have to worry about the reliability of our tools. The proposals implicitly assume consistency will follow from our experience with set theory. Indeed many of them"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 200.663,
+            "t": 694.6611054,
+            "r": 411.3366163399997,
+            "b": 688.5665267325649,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "ON FOUNDATIONS FOR DEDUCTIVE MATHEMATICS",
+      "text": "ON FOUNDATIONS FOR DEDUCTIVE MATHEMATICS"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 481.3535683399997,
+            "t": 694.6611054,
+            "r": 485.3251474399997,
+            "b": 688.5665267325649,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "7",
+      "text": "7"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 126.67200000000001,
+            "t": 672.7924558000001,
+            "r": 485.3295850400001,
+            "b": 652.1298898772335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            106
+          ]
+        }
+      ],
+      "orig": "implicitly depend on a background set theory, so implicitly presume consistency to be inherited from that.",
+      "text": "implicitly depend on a background set theory, so implicitly presume consistency to be inherited from that."
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 126.67200000000001,
+            "t": 648.8814558,
+            "r": 485.32559999999944,
+            "b": 628.2198898772334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            163
+          ]
+        }
+      ],
+      "orig": "The foundation described in the next section begins several levels below set theory. The lower-level environment seems to give an effective setting for categories.",
+      "text": "The foundation described in the next section begins several levels below set theory. The lower-level environment seems to give an effective setting for categories."
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 126.67200000000001,
+            "t": 616.7854558,
+            "r": 485.32958504000027,
+            "b": 548.3028898772333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            473
+          ]
+        }
+      ],
+      "orig": "Set-theory community. The ZFC axioms were found to be under-determined, and in 1963 Paul Cohen introduced Forcing as a systematic way to construct new models. A flowering of the subject ensued, with many thousands of pages devoted to showing a wide variety of hypotheses are consistent with, or independent of, the basic axioms. Deep results were found in other directions, PCF theory and large cardinal axioms to mention only two. See [Jech] for an extensive introduction.",
+      "text": "Set-theory community. The ZFC axioms were found to be under-determined, and in 1963 Paul Cohen introduced Forcing as a systematic way to construct new models. A flowering of the subject ensued, with many thousands of pages devoted to showing a wide variety of hypotheses are consistent with, or independent of, the basic axioms. Deep results were found in other directions, PCF theory and large cardinal axioms to mention only two. See [Jech] for an extensive introduction."
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 126.67199999999997,
+            "t": 545.0544557999998,
+            "r": 485.33253901999984,
+            "b": 333.10988987723334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1471
+          ]
+        }
+      ],
+      "orig": "However, these theories do not provide a foundation for mainstream practice. Sufficiency of na\u00a8 \u0131ve set theory was asserted around 1900, and this assertion does not apply to theories that require first-order logic. The general problem is described by the 'coherent limit axiom of [Quinn 1] but we illustrate it in an important special case.Recall that every real number in the unit interval has a base-2 decimal expansion that assigns either 0 or 1 to each natural number. This assignment can also be thought of as specifying a subcollection of N . The restriction of the assignment to any finite interval [0 , n ] of natural numbers is a function in any ZFC theory. Equivalently, the intersection of the subcollection with [0 , n ] is a subset in any ZFC theory. The full assignment is the limit of these restrictions, or equivalently the subcollection is the union of the intersections. However, there are ZFC models in which some of these limits are not functions in the model, or equivalently the union of the finite subsets is not a set in the model. The corresponding real numbers are missing from such theories. To insure a particular real number is in a particular model we would have to employ either special information about the model, or firstorder logic. This is an issue even for elementary calculus. But in the mainstream nobody addresses this. The conclusion is that ZFC is too restrictive to describe standard mathematical practice, even at basic levels.",
+      "text": "However, these theories do not provide a foundation for mainstream practice. Sufficiency of na\u00a8 \u0131ve set theory was asserted around 1900, and this assertion does not apply to theories that require first-order logic. The general problem is described by the 'coherent limit axiom of [Quinn 1] but we illustrate it in an important special case.Recall that every real number in the unit interval has a base-2 decimal expansion that assigns either 0 or 1 to each natural number. This assignment can also be thought of as specifying a subcollection of N . The restriction of the assignment to any finite interval [0 , n ] of natural numbers is a function in any ZFC theory. Equivalently, the intersection of the subcollection with [0 , n ] is a subset in any ZFC theory. The full assignment is the limit of these restrictions, or equivalently the subcollection is the union of the intersections. However, there are ZFC models in which some of these limits are not functions in the model, or equivalently the union of the finite subsets is not a set in the model. The corresponding real numbers are missing from such theories. To insure a particular real number is in a particular model we would have to employ either special information about the model, or firstorder logic. This is an issue even for elementary calculus. But in the mainstream nobody addresses this. The conclusion is that ZFC is too restrictive to describe standard mathematical practice, even at basic levels."
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 126.67199999999995,
+            "t": 329.86145579999993,
+            "r": 485.3294687800001,
+            "b": 297.24388987723336,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            184
+          ]
+        }
+      ],
+      "orig": "The insufficiency of ZFC does not seem to be a deep point. The fact that it went generally unremarked may be another instance of meaningfulness overshadowing concern for effectiveness.",
+      "text": "The insufficiency of ZFC does not seem to be a deep point. The fact that it went generally unremarked may be another instance of meaningfulness overshadowing concern for effectiveness."
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 250.95699999999994,
+            "t": 282.4724557999999,
+            "r": 361.04152719999985,
+            "b": 273.76588987723335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "4. Object generators",
+      "text": "4. Object generators",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 126.67199999999995,
+            "t": 264.5394557999999,
+            "r": 485.32648,
+            "b": 243.87788987723332,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            107
+          ]
+        }
+      ],
+      "orig": "We sketch the proposed new foundation; see [Quinn 1] for details, and [Quinn 2] for a guide to routine use.",
+      "text": "We sketch the proposed new foundation; see [Quinn 1] for details, and [Quinn 2] for a guide to routine use."
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 126.67199999999991,
+            "t": 232.4733435999999,
+            "r": 485.3287795999997,
+            "b": 175.91588987723333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            381
+          ]
+        }
+      ],
+      "orig": "4.1. Generators. The full story begins several levels below set theory, with 'object generators' and their morphisms. The intuition is that object generators 'generate objects', essentially like the 'object' primitive in category theory. If G is an object generator then X \u2208\u2208 G means ' X is a an object in G ', and generators are defined using the syntax ' X \u2208\u2208 G means ( \u00b7 \u00b7 \u00b7 )'.",
+      "text": "4.1. Generators. The full story begins several levels below set theory, with 'object generators' and their morphisms. The intuition is that object generators 'generate objects', essentially like the 'object' primitive in category theory. If G is an object generator then X \u2208\u2208 G means ' X is a an object in G ', and generators are defined using the syntax ' X \u2208\u2208 G means ( \u00b7 \u00b7 \u00b7 )'."
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 126.67199999999988,
+            "t": 172.66745579999986,
+            "r": 485.32958504,
+            "b": 92.22988987723329,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            539
+          ]
+        }
+      ],
+      "orig": "Essentially nothing else is included. Unlike sets, generators provide no way of identifying their own outputs, and no way of knowing if two outputs are the same. Further, while expected uses are for mathematical objects, for instance X \u2208\u2208 groups means ' X is a set with a group structure', nothing prevents silly examples, for instance X \u2208\u2208 G means ' X is a Tuesday in the month of May, 1917'. Rather than try to prevent such things we filter them out at a later stage. Note that few requirements means few opportunities for contradiction.",
+      "text": "Essentially nothing else is included. Unlike sets, generators provide no way of identifying their own outputs, and no way of knowing if two outputs are the same. Further, while expected uses are for mathematical objects, for instance X \u2208\u2208 groups means ' X is a set with a group structure', nothing prevents silly examples, for instance X \u2208\u2208 G means ' X is a Tuesday in the month of May, 1917'. Rather than try to prevent such things we filter them out at a later stage. Note that few requirements means few opportunities for contradiction."
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 126.672,
+            "t": 694.6611054,
+            "r": 130.6435791,
+            "b": 688.5665267325649,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "8",
+      "text": "8"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 276.94692929999997,
+            "t": 694.6611054,
+            "r": 335.0505387599999,
+            "b": 688.5665267325649,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "FRANK QUINN",
+      "text": "FRANK QUINN"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 126.67199999999997,
+            "t": 672.7924558000001,
+            "r": 485.32342679999994,
+            "b": 640.1748898772335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            177
+          ]
+        }
+      ],
+      "orig": "'Morphisms' of generators are essentially the same as 'functions' in na\u00a8 \u0131ve set theory: a morphism F : G \u2192 H is an assignment of an object F [ X ] \u2208\u2208 H to every object X \u2208\u2208 G .",
+      "text": "'Morphisms' of generators are essentially the same as 'functions' in na\u00a8 \u0131ve set theory: a morphism F : G \u2192 H is an assignment of an object F [ X ] \u2208\u2208 H to every object X \u2208\u2208 G ."
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 126.67199999999991,
+            "t": 628.4883436,
+            "r": 485.33204284,
+            "b": 571.9308898772333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            341
+          ]
+        }
+      ],
+      "orig": "4.2. Logic. The native logic of object generators is non-binary in the sense that we might assert that X,Y are the same, but in general there is no (yes, no)-valued function that can detect this. This logic is unfamiliar and somewhat complicated, and the first step toward set theory is to establish a sub-context that does use binary logic.",
+      "text": "4.2. Logic. The native logic of object generators is non-binary in the sense that we might assert that X,Y are the same, but in general there is no (yes, no)-valued function that can detect this. This logic is unfamiliar and somewhat complicated, and the first step toward set theory is to establish a sub-context that does use binary logic."
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 126.67199999999988,
+            "t": 568.7123435999998,
+            "r": 485.3286269799999,
+            "b": 500.19988987723315,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            473
+          ]
+        }
+      ],
+      "orig": "The key ingredients are binary functions : functions to an object generator with exactly two objects. We denote this by { yes , no } , or { 0 , 1 } . One of the primitive hypotheses (axioms) asserts the existence of a two-object generator. Standard binary logic applies to such functions. Incidently, these functions have no allowance for time dependence, so they cannot detect things in the physical world. This is how silly examples of object generators get filtered out.",
+      "text": "The key ingredients are binary functions : functions to an object generator with exactly two objects. We denote this by { yes , no } , or { 0 , 1 } . One of the primitive hypotheses (axioms) asserts the existence of a two-object generator. Standard binary logic applies to such functions. Incidently, these functions have no allowance for time dependence, so they cannot detect things in the physical world. This is how silly examples of object generators get filtered out."
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 126.67199999999985,
+            "t": 488.5133435999997,
+            "r": 485.3318334999999,
+            "b": 443.91088987723316,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            266
+          ]
+        }
+      ],
+      "orig": "4.3. Domains and sets. A logical domain is an object generator, say A , with a binary pairing A \u00d7 A \u2192 { yes , no } that returns 'yes' if the two elements are the same. The name 'logical domain' is supposed to suggest that these are natural settings for binary logic.",
+      "text": "4.3. Domains and sets. A logical domain is an object generator, say A , with a binary pairing A \u00d7 A \u2192 { yes , no } that returns 'yes' if the two elements are the same. The name 'logical domain' is supposed to suggest that these are natural settings for binary logic."
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 126.67199999999985,
+            "t": 440.66245579999975,
+            "r": 485.33176247999995,
+            "b": 360.22488987723324,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            578
+          ]
+        }
+      ],
+      "orig": "Quantification is the final ingredient. If A is a logical domain then the object generator whose objects are binary functions on A is called the 'powerset' of A , and is denoted by P [ A ]. The domain supports quantification if there is a binary function P [ A ] \u2192 { yes , no } that returns 'yes' if and only if the input is the empty (always-'no') function. In standard logic the empty-detecting operator is given by f \u21a6\u2192\u2200 x \u2208 A, ( f [ x ] = no ). The point is that if this one quantification expression is implemented by a binary function, then all quantifications over A are.",
+      "text": "Quantification is the final ingredient. If A is a logical domain then the object generator whose objects are binary functions on A is called the 'powerset' of A , and is denoted by P [ A ]. The domain supports quantification if there is a binary function P [ A ] \u2192 { yes , no } that returns 'yes' if and only if the input is the empty (always-'no') function. In standard logic the empty-detecting operator is given by f \u21a6\u2192\u2200 x \u2208 A, ( f [ x ] = no ). The point is that if this one quantification expression is implemented by a binary function, then all quantifications over A are."
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 126.67299999999982,
+            "t": 357.0063435999998,
+            "r": 485.3307023599998,
+            "b": 336.31488987723327,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            123
+          ]
+        }
+      ],
+      "orig": "Finally, sets ( relaxed sets, if distinctions are necessary) are defined to be logical domains that support quantification.",
+      "text": "Finally, sets ( relaxed sets, if distinctions are necessary) are defined to be logical domains that support quantification."
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 126.67299999999982,
+            "t": 324.62734359999985,
+            "r": 485.33158129999987,
+            "b": 256.1148898772333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            473
+          ]
+        }
+      ],
+      "orig": "4.4. Hypotheses. There are four primitive hypotheses. Three are standard: there is a 2-element set; the axiom of Choice; and the natural numbers support quantification. To clarify this last, the first two hypotheses suffice to construct the natural numbers, but do not imply that it supports quantification. This is equivalent to the standard Axiom of Infinity in ZFC. The final hypothesis asserts that if a logical domain supports quantification then so does its powerset.",
+      "text": "4.4. Hypotheses. There are four primitive hypotheses. Three are standard: there is a 2-element set; the axiom of Choice; and the natural numbers support quantification. To clarify this last, the first two hypotheses suffice to construct the natural numbers, but do not imply that it supports quantification. This is equivalent to the standard Axiom of Infinity in ZFC. The final hypothesis asserts that if a logical domain supports quantification then so does its powerset."
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 138.62799999999984,
+            "t": 252.8664557999998,
+            "r": 398.79631769999963,
+            "b": 244.15988987723335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "Note that ZFC has many more, and more complex, axioms.",
+      "text": "Note that ZFC has many more, and more complex, axioms."
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 126.67299999999985,
+            "t": 232.4733435999999,
+            "r": 485.3325775599998,
+            "b": 163.96088987723329,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            467
+          ]
+        }
+      ],
+      "orig": "4.5. Comparisons. We compare this theory, na\u00a8 \u0131ve set theory, ZFC axiomatic set theories, and standard mathematical practice. First, the '=' operator built into the logic of na\u00a8 \u0131ve and ZFC allows comparison of any two elements of any two sets. In relaxed set theory '=' is only defined for elements of a single set. Mathematical practice is modeled on na\u00a8 \u0131ve set theory so in principle a global '=' is available but, as far as the author can tell, it is never used.",
+      "text": "4.5. Comparisons. We compare this theory, na\u00a8 \u0131ve set theory, ZFC axiomatic set theories, and standard mathematical practice. First, the '=' operator built into the logic of na\u00a8 \u0131ve and ZFC allows comparison of any two elements of any two sets. In relaxed set theory '=' is only defined for elements of a single set. Mathematical practice is modeled on na\u00a8 \u0131ve set theory so in principle a global '=' is available but, as far as the author can tell, it is never used."
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 126.67299999999987,
+            "t": 160.71245579999982,
+            "r": 485.33158130000004,
+            "b": 92.22988987723329,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            459
+          ]
+        }
+      ],
+      "orig": "Functions are primitives in relaxed and na\u00a8 \u0131ve set theory; are described in the same way; and both are consistent with standard practice. In ZFC only the equality and membership functions are primitive. Functions obtained by first-order logical expressions are also functions in the theory. Beyond this, functions are defined to be correspondences whose graphs are subsets. As explained in the previous section, this is not consistent with standard practice.",
+      "text": "Functions are primitives in relaxed and na\u00a8 \u0131ve set theory; are described in the same way; and both are consistent with standard practice. In ZFC only the equality and membership functions are primitive. Functions obtained by first-order logical expressions are also functions in the theory. Beyond this, functions are defined to be correspondences whose graphs are subsets. As explained in the previous section, this is not consistent with standard practice."
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 200.663,
+            "t": 694.6611054,
+            "r": 411.3366163399997,
+            "b": 688.5665267325649,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "ON FOUNDATIONS FOR DEDUCTIVE MATHEMATICS",
+      "text": "ON FOUNDATIONS FOR DEDUCTIVE MATHEMATICS"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 481.3535683399997,
+            "t": 694.6611054,
+            "r": 485.3251474399997,
+            "b": 688.5665267325649,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "9",
+      "text": "9"
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 126.67200000000001,
+            "t": 672.7924558000001,
+            "r": 485.33257382,
+            "b": 544.5338898772332,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            912
+          ]
+        }
+      ],
+      "orig": "Finally, relaxed sets satisfy versions of the ZFC axioms. This is made precise in [Quinn 1] with the construction of an object that satisfies the ZFC-1 axioms, where '-1' means 'ignore first-order logical constraints'. As above, this makes sense because functions are taken as primitives. This construction turns out to be maximal so, in particular, all models of ZFC uniquely embed in this as transitive sub-models. The 'coherent limit axiom', a generalization of the real-number problem described at the end of the last section, is shown in [Quinn 1] to characterize this maximal theory. This axiom is routinely assumed in standard practice so standard practice, by default, takes place in relaxed set theory. We note that identifying the 'missing axiom' (G\u00a8 odel's phrase) does not lead to new mainstream methodology, but rather emphasizes the extra work that would be required to stay in a smaller ZFC model.",
+      "text": "Finally, relaxed sets satisfy versions of the ZFC axioms. This is made precise in [Quinn 1] with the construction of an object that satisfies the ZFC-1 axioms, where '-1' means 'ignore first-order logical constraints'. As above, this makes sense because functions are taken as primitives. This construction turns out to be maximal so, in particular, all models of ZFC uniquely embed in this as transitive sub-models. The 'coherent limit axiom', a generalization of the real-number problem described at the end of the last section, is shown in [Quinn 1] to characterize this maximal theory. This axiom is routinely assumed in standard practice so standard practice, by default, takes place in relaxed set theory. We note that identifying the 'missing axiom' (G\u00a8 odel's phrase) does not lead to new mainstream methodology, but rather emphasizes the extra work that would be required to stay in a smaller ZFC model."
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 126.67200000000001,
+            "t": 541.2854557999997,
+            "r": 485.32946878000035,
+            "b": 520.6228898772331,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            157
+          ]
+        }
+      ],
+      "orig": "The conclusion is that the relaxed set theory defined in [Quinn 1] is uniquely qualified to be a foundation consistent with mainstream mathematical practice.",
+      "text": "The conclusion is that the relaxed set theory defined in [Quinn 1] is uniquely qualified to be a foundation consistent with mainstream mathematical practice."
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 276.954,
+            "t": 507.32277639999967,
+            "r": 335.04791312000003,
+            "b": 502.20199999999966,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 126.672,
+            "t": 491.7055782999997,
+            "r": 485.32825402000003,
+            "b": 464.8143080832849,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            212
+          ]
+        }
+      ],
+      "orig": "[Bagaria] Joan Bagaria, Set Theory , The Stanford Encyclopedia of Philosophy (Winter 2023 Edition), Edward N. Zalta and Uri Nodelman (eds.), URL = https://plato.stanford.edu/archives/win2023/entries/set-theory/ .",
+      "text": "[Bagaria] Joan Bagaria, Set Theory , The Stanford Encyclopedia of Philosophy (Winter 2023 Edition), Edward N. Zalta and Uri Nodelman (eds.), URL = https://plato.stanford.edu/archives/win2023/entries/set-theory/ .",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 126.67199999999998,
+            "t": 461.81757829999964,
+            "r": 485.32824464,
+            "b": 434.9263080832849,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            252
+          ]
+        }
+      ],
+      "orig": "[Ferreir\u00b4 os] Jos\u00b4 e Ferreir\u00b4 os, The Early Development of Set Theory , The Stanford Encyclopedia of Philosophy (Summer 2023 Edition), Edward N. Zalta and Uri Nodelman (eds.), URL = https://plato.stanford.edu/archives/sum2023/entries/settheory-early/ .",
+      "text": "[Ferreir\u00b4 os] Jos\u00b4 e Ferreir\u00b4 os, The Early Development of Set Theory , The Stanford Encyclopedia of Philosophy (Summer 2023 Edition), Edward N. Zalta and Uri Nodelman (eds.), URL = https://plato.stanford.edu/archives/sum2023/entries/settheory-early/ .",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 126.67200000000001,
+            "t": 431.9295782999996,
+            "r": 485.33048504999994,
+            "b": 405.03830808328485,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            229
+          ]
+        }
+      ],
+      "orig": "[Marquis] Jean-Pierre Marquis, 'Category Theory', The Stanford Encyclopedia of Philosophy (Fall 2023 Edition), Edward N. Zalta and Uri Nodelman (eds.), URL = https://plato.stanford.edu/archives/fall2023/entries/category-theory/ .",
+      "text": "[Marquis] Jean-Pierre Marquis, 'Category Theory', The Stanford Encyclopedia of Philosophy (Fall 2023 Edition), Edward N. Zalta and Uri Nodelman (eds.), URL = https://plato.stanford.edu/archives/fall2023/entries/category-theory/ .",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 126.67200000000001,
+            "t": 402.04157829999957,
+            "r": 485.3287525200001,
+            "b": 385.11330808328483,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            137
+          ]
+        }
+      ],
+      "orig": "[Jech] Thomas J. Jech: Set theory - 3rd Millennium ed, revised and expanded. Springer monographs in mathematics (2002) ISBN 3-540-44085-2",
+      "text": "[Jech] Thomas J. Jech: Set theory - 3rd Millennium ed, revised and expanded. Springer monographs in mathematics (2002) ISBN 3-540-44085-2",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 126.67200000000004,
+            "t": 382.1155782999995,
+            "r": 485.3311381599997,
+            "b": 355.2253080832848,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            178
+          ]
+        }
+      ],
+      "orig": "[Maddy] Penelope Maddy What do we want a foundation to do? Comparing set-theoretic, category-theoretic, and univalent approaches Springer nature 2019, ebook ISBN 9783-030-15655-8",
+      "text": "[Maddy] Penelope Maddy What do we want a foundation to do? Comparing set-theoretic, category-theoretic, and univalent approaches Springer nature 2019, ebook ISBN 9783-030-15655-8",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 126.67199999999998,
+            "t": 352.2275782999995,
+            "r": 485.3309398399998,
+            "b": 335.3003080832848,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            130
+          ]
+        }
+      ],
+      "orig": "[Quinn 1] Frank Quinn, Object generators, relaxed sets, and a foundation for mathematics preprint 2023, http://arXiv.org2110.01489",
+      "text": "[Quinn 1] Frank Quinn, Object generators, relaxed sets, and a foundation for mathematics preprint 2023, http://arXiv.org2110.01489",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 126.67199999999998,
+            "t": 332.3025782999995,
+            "r": 485.32721848999995,
+            "b": 315.3753080832848,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            124
+          ]
+        }
+      ],
+      "orig": "[Quinn 2] Frank Quinn, Object generators, categories, and everyday set theory preprint 2023, http://arxiv.org/abs/2210.07280",
+      "text": "[Quinn 2] Frank Quinn, Object generators, categories, and everyday set theory preprint 2023, http://arxiv.org/abs/2210.07280",
+      "enumerated": false,
+      "marker": ""
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 7
+    },
+    "8": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 8
+    },
+    "9": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 9
+    }
+  }
+}

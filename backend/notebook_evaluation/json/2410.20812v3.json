@@ -1,0 +1,6573 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "2410.20812v3",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 11084187667195891321,
+    "filename": "2410.20812v3.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/86"
+      },
+      {
+        "$ref": "#/texts/87"
+      },
+      {
+        "$ref": "#/texts/88"
+      },
+      {
+        "$ref": "#/texts/89"
+      },
+      {
+        "$ref": "#/texts/90"
+      },
+      {
+        "$ref": "#/texts/91"
+      },
+      {
+        "$ref": "#/texts/92"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/98"
+      },
+      {
+        "$ref": "#/texts/99"
+      },
+      {
+        "$ref": "#/texts/100"
+      },
+      {
+        "$ref": "#/texts/101"
+      },
+      {
+        "$ref": "#/texts/102"
+      },
+      {
+        "$ref": "#/texts/103"
+      },
+      {
+        "$ref": "#/texts/104"
+      },
+      {
+        "$ref": "#/texts/105"
+      },
+      {
+        "$ref": "#/texts/106"
+      },
+      {
+        "$ref": "#/texts/107"
+      },
+      {
+        "$ref": "#/texts/108"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/texts/110"
+      },
+      {
+        "$ref": "#/texts/111"
+      },
+      {
+        "$ref": "#/texts/112"
+      },
+      {
+        "$ref": "#/texts/113"
+      },
+      {
+        "$ref": "#/texts/114"
+      },
+      {
+        "$ref": "#/texts/115"
+      },
+      {
+        "$ref": "#/texts/116"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/131"
+      },
+      {
+        "$ref": "#/texts/132"
+      },
+      {
+        "$ref": "#/texts/133"
+      },
+      {
+        "$ref": "#/texts/134"
+      },
+      {
+        "$ref": "#/texts/135"
+      },
+      {
+        "$ref": "#/texts/136"
+      },
+      {
+        "$ref": "#/texts/137"
+      },
+      {
+        "$ref": "#/texts/138"
+      },
+      {
+        "$ref": "#/texts/139"
+      },
+      {
+        "$ref": "#/groups/1"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/140"
+        },
+        {
+          "$ref": "#/texts/141"
+        },
+        {
+          "$ref": "#/texts/142"
+        },
+        {
+          "$ref": "#/texts/143"
+        },
+        {
+          "$ref": "#/texts/144"
+        },
+        {
+          "$ref": "#/texts/145"
+        },
+        {
+          "$ref": "#/texts/146"
+        },
+        {
+          "$ref": "#/texts/147"
+        },
+        {
+          "$ref": "#/texts/148"
+        },
+        {
+          "$ref": "#/texts/149"
+        },
+        {
+          "$ref": "#/texts/150"
+        },
+        {
+          "$ref": "#/texts/151"
+        },
+        {
+          "$ref": "#/texts/152"
+        },
+        {
+          "$ref": "#/texts/153"
+        },
+        {
+          "$ref": "#/texts/154"
+        },
+        {
+          "$ref": "#/texts/155"
+        },
+        {
+          "$ref": "#/texts/156"
+        },
+        {
+          "$ref": "#/texts/157"
+        },
+        {
+          "$ref": "#/texts/158"
+        },
+        {
+          "$ref": "#/texts/159"
+        },
+        {
+          "$ref": "#/texts/160"
+        },
+        {
+          "$ref": "#/texts/161"
+        },
+        {
+          "$ref": "#/texts/162"
+        },
+        {
+          "$ref": "#/texts/163"
+        },
+        {
+          "$ref": "#/texts/164"
+        },
+        {
+          "$ref": "#/texts/165"
+        },
+        {
+          "$ref": "#/texts/166"
+        },
+        {
+          "$ref": "#/texts/167"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 576.96,
+            "r": 36.206559297218156,
+            "b": 237.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "arXiv:2410.20812v3  [cs.CV]  7 Apr 2025",
+      "text": "arXiv:2410.20812v3  [cs.CV]  7 Apr 2025"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 67.966,
+            "t": 694.376088,
+            "r": 545.4566880000003,
+            "b": 669.6803632,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "FIDELITY-IMPOSED DISPLACEMENT EDITING FOR THE LEARN2REG 2024 SHG-BF CHALLENGE",
+      "text": "FIDELITY-IMPOSED DISPLACEMENT EDITING FOR THE LEARN2REG 2024 SHG-BF CHALLENGE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 157.411,
+            "t": 650.9455783000001,
+            "r": 458.99480000000005,
+            "b": 624.7986463999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            125
+          ]
+        }
+      ],
+      "orig": "Jiacheng Wang \u22c6 , Xiang Chen \u2020 , Renjiu Hu \u2021 , Rongguang Wang \u00a7 , Jiazheng Wang \u2020 , Min Liu \u2020 , Yaonan Wang \u2020 , Hang Zhang \u2021\u2217",
+      "text": "Jiacheng Wang \u22c6 , Xiang Chen \u2020 , Renjiu Hu \u2021 , Rongguang Wang \u00a7 , Jiazheng Wang \u2020 , Min Liu \u2020 , Yaonan Wang \u2020 , Hang Zhang \u2021\u2217"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 83.44,
+            "t": 608.8825783,
+            "r": 529.9791296000001,
+            "b": 596.621512679646,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            93
+          ]
+        }
+      ],
+      "orig": "\u22c6 Vanderbilt University, \u2020 Hunan University \u2021 Cornell University \u00a7 University of Pennsylvania",
+      "text": "\u22c6 Vanderbilt University, \u2020 Hunan University \u2021 Cornell University \u00a7 University of Pennsylvania"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 149.466,
+            "t": 566.921194,
+            "r": 203.16441400000005,
+            "b": 557.9648166000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "ABSTRACT",
+      "text": "ABSTRACT",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.42500000000001,
+            "t": 548.4276526,
+            "r": 298.2098220000001,
+            "b": 372.5037743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            862
+          ]
+        }
+      ],
+      "orig": "Co-examination of second-harmonic generation (SHG) and bright-field (BF) microscopy enables the differentiation of tissue components and collagen fibers, aiding the analysis of human breast and pancreatic cancer tissues. However, large discrepancies between SHG and BF images pose challenges for current learning-based registration models in aligning SHG to BF. In this paper, we propose a novel multi-modal registration framework that employs fidelity-imposed displacement editing to address these challenges. The framework integrates batch-wise contrastive learning, feature-based pre-alignment, and instance-level optimization. Experimental results from the Learn2Reg COMULISglobe SHG-BF Challenge validate the effectiveness of our method, securing the 1st place on the online leaderboard. Our code is available at https: //github.com/JackyWang22/Neon_ShgBf .",
+      "text": "Co-examination of second-harmonic generation (SHG) and bright-field (BF) microscopy enables the differentiation of tissue components and collagen fibers, aiding the analysis of human breast and pancreatic cancer tissues. However, large discrepancies between SHG and BF images pose challenges for current learning-based registration models in aligning SHG to BF. In this paper, we propose a novel multi-modal registration framework that employs fidelity-imposed displacement editing to address these challenges. The framework integrates batch-wise contrastive learning, feature-based pre-alignment, and instance-level optimization. Experimental results from the Learn2Reg COMULISglobe SHG-BF Challenge validate the effectiveness of our method, securing the 1st place on the online leaderboard. Our code is available at https: //github.com/JackyWang22/Neon_ShgBf ."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.42500000000004,
+            "t": 364.21519400000005,
+            "r": 298.20520100000016,
+            "b": 343.3197743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            82
+          ]
+        }
+      ],
+      "orig": "Index Terms -Second-harmonic generation, Image registration, Contrastive learning.",
+      "text": "Index Terms -Second-harmonic generation, Image registration, Contrastive learning."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 129.88900000000004,
+            "t": 323.00819400000006,
+            "r": 222.7404320000001,
+            "b": 314.05181660000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "1. INTRODUCTION",
+      "text": "1. INTRODUCTION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.42500000000004,
+            "t": 299.79765260000005,
+            "r": 298.20982200000014,
+            "b": 195.6047743929205,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            518
+          ]
+        }
+      ],
+      "orig": "Image registration is a fundamental task in medical imaging, crucial for aligning images from different modalities or time points. Second-harmonic generation (SHG) microscopy provides high-resolution images sensitive to collagen fibers, while bright-field (BF) microscopy with hematoxylin and eosin (H&E) staining highlights various tissue components [1, 2]. Accurate registration of SHG and BF images is essential for comprehensive cancer tissue analysis, offering deeper insights into tissue structure and pathology.",
+      "text": "Image registration is a fundamental task in medical imaging, crucial for aligning images from different modalities or time points. Second-harmonic generation (SHG) microscopy provides high-resolution images sensitive to collagen fibers, while bright-field (BF) microscopy with hematoxylin and eosin (H&E) staining highlights various tissue components [1, 2]. Accurate registration of SHG and BF images is essential for comprehensive cancer tissue analysis, offering deeper insights into tissue structure and pathology."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.42500000000004,
+            "t": 191.90965260000007,
+            "r": 298.20982200000003,
+            "b": 87.71577439292037,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            533
+          ]
+        }
+      ],
+      "orig": "SHG-BF registration presents two primary challenges. First, the two modalities differ significantly: SHG images emphasize collagen fibers, while BF images highlight stained tissue components, resulting in large visual discrepancies. Second, the sparse distribution of highlighted structures in SHG creates a severe foreground-background imbalance, making it difficult for learning-based methods, including convolutional neural networks [3, 4, 5, 6], vision transformers [7, 8], and keypoint-based methods [9], to perform effectively.",
+      "text": "SHG-BF registration presents two primary challenges. First, the two modalities differ significantly: SHG images emphasize collagen fibers, while BF images highlight stained tissue components, resulting in large visual discrepancies. Second, the sparse distribution of highlighted structures in SHG creates a severe foreground-background imbalance, making it difficult for learning-based methods, including convolutional neural networks [3, 4, 5, 6], vision transformers [7, 8], and keypoint-based methods [9], to perform effectively."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 65.285,
+            "t": 76.24941760000002,
+            "r": 204.9800090000001,
+            "b": 69.21301536637168,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "* Corresponding author. hz459@cornell.edu",
+      "text": "* Corresponding author. hz459@cornell.edu"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 315.213,
+            "t": 420.619194,
+            "r": 558.9881545999996,
+            "b": 375.8137743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            235
+          ]
+        }
+      ],
+      "orig": "Fig. 1 : Illustration of our proposed batch-wise noise contrastive estimation (B-NCE) loss, which aggregates pixellevel information across patches, compared to traditional InfoNCE loss that operates directly on patch-level information.",
+      "text": "Fig. 1 : Illustration of our proposed batch-wise noise contrastive estimation (B-NCE) loss, which aggregates pixellevel information across patches, compared to traditional InfoNCE loss that operates directly on patch-level information."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 451.40993612,
+            "t": 444.35590473930506,
+            "r": 459.848348949805,
+            "b": 439.5574626086533,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "neg",
+      "text": "neg"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 462.47256028799995,
+            "t": 466.5587463393051,
+            "r": 470.5760969449407,
+            "b": 461.76030420865334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "pos",
+      "text": "pos"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 440.710775136,
+            "t": 534.9675057065051,
+            "r": 448.8143117929407,
+            "b": 530.1690635758533,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "pos",
+      "text": "pos"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 472.18359480799995,
+            "t": 549.6693873065051,
+            "r": 480.6220076378049,
+            "b": 544.8709451758533,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "neg",
+      "text": "neg"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 365.8724303872,
+            "t": 564.9713457065051,
+            "r": 390.979826889312,
+            "b": 560.1729035758533,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "modality 1",
+      "text": "modality 1"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 366.1517619704,
+            "t": 439.7553159393051,
+            "r": 391.259154305312,
+            "b": 434.9568738086533,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "modality 2",
+      "text": "modality 2"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 502.32041015999994,
+            "t": 513.0163585986102,
+            "r": 526.7615357798871,
+            "b": 507.53242497003396,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "InfoNCE",
+      "text": "InfoNCE"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 506.73139136,
+            "t": 502.71504019861015,
+            "r": 526.6899443988965,
+            "b": 497.23110657003394,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "B-NCE",
+      "text": "B-NCE"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 415.02319588,
+            "t": 514.9166017986101,
+            "r": 443.97965060844336,
+            "b": 509.43266817003393,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "patch-wise",
+      "text": "patch-wise"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 415.236931568,
+            "t": 502.0149505986102,
+            "r": 436.957709299922,
+            "b": 496.5310169700339,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "stacked",
+      "text": "stacked"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 415.236931568,
+            "t": 493.61387539861016,
+            "r": 443.0994962964434,
+            "b": 488.12994177003395,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "pixel-wise",
+      "text": "pixel-wise"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 315.213,
+            "t": 330.26865260000005,
+            "r": 558.9879593999995,
+            "b": 297.8057743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            123
+          ]
+        }
+      ],
+      "orig": "To address these challenges, we propose a novel SHG-BF multimodal registration method with the following key contributions:",
+      "text": "To address these challenges, we propose a novel SHG-BF multimodal registration method with the following key contributions:"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 316.70700000000005,
+            "t": 284.48019400000004,
+            "r": 558.9971819999995,
+            "b": 251.62877439292038,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            166
+          ]
+        }
+      ],
+      "orig": "1. Batch-wise contrastive loss (B-NCE) : We introduce a batch-wise noise contrastive estimation loss to effectively capture shared features between SHG and BF images.",
+      "text": "Batch-wise contrastive loss (B-NCE) : We introduce a batch-wise noise contrastive estimation loss to effectively capture shared features between SHG and BF images.",
+      "enumerated": true,
+      "marker": "1."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 316.707,
+            "t": 248.614194,
+            "r": 558.9875651999996,
+            "b": 203.80877439292044,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            174
+          ]
+        }
+      ],
+      "orig": "2. Feature-based prealignment and instance optimization : A prealignment step using descriptor matching is followed by instance-level optimization to refine the registration.",
+      "text": "Feature-based prealignment and instance optimization : A prealignment step using descriptor matching is followed by instance-level optimization to refine the registration.",
+      "enumerated": true,
+      "marker": "2."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 316.707,
+            "t": 200.79419400000006,
+            "r": 558.9971819999995,
+            "b": 155.9877743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            205
+          ]
+        }
+      ],
+      "orig": "3. Flexible transition of similarity metrics : We combine local normalized cross-correlation (LNCC) and cross mutual information function (CMIF) as similarity metrics, balancing global and local alignment.",
+      "text": "Flexible transition of similarity metrics : We combine local normalized cross-correlation (LNCC) and cross mutual information function (CMIF) as similarity metrics, balancing global and local alignment.",
+      "enumerated": true,
+      "marker": "3."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 315.21299999999997,
+            "t": 142.2736526,
+            "r": 558.9878593999997,
+            "b": 61.98977439292037,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            353
+          ]
+        }
+      ],
+      "orig": "The novel contrastive learning loss addresses the modality gap, while the instance optimization overcomes the foreground-background imbalance. Quantitative and qualitative results demonstrate considerable improvements in registration accuracy and robustness, earning us 1st place on the online leaderboard of the Learn2Reg COMULISglobe SHG-BF Challenge.",
+      "text": "The novel contrastive learning loss addresses the modality gap, while the instance optimization overcomes the foreground-background imbalance. Quantitative and qualitative results demonstrate considerable improvements in registration accuracy and robustness, earning us 1st place on the online leaderboard of the Learn2Reg COMULISglobe SHG-BF Challenge."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.425,
+            "t": 575.291194,
+            "r": 298.2098220000001,
+            "b": 542.4407743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            148
+          ]
+        }
+      ],
+      "orig": "Fig. 2 : Overview of our proposed framework, which follows three main steps: feature extraction, XFeat feature matching, and ConvexAdam fine-tuning.",
+      "text": "Fig. 2 : Overview of our proposed framework, which follows three main steps: feature extraction, XFeat feature matching, and ConvexAdam fine-tuning."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 60.8911677227,
+            "t": 655.8830765710367,
+            "r": 75.76839232259528,
+            "b": 652.0432698272286,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Moving",
+      "text": "Moving"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 60.8911042691,
+            "t": 692.8130717710367,
+            "r": 71.973063475596,
+            "b": 688.9732650272288,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Fixed",
+      "text": "Fixed"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 123.956027174,
+            "t": 680.06603684,
+            "r": 140.878626392,
+            "b": 676.1518149963637,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Tiramisu",
+      "text": "Tiramisu"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 124.569411974,
+            "t": 674.45832494,
+            "r": 140.264659934,
+            "b": 670.3926470199361,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Feature",
+      "text": "Feature"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 122.060350874,
+            "t": 668.68404734,
+            "r": 142.783027562,
+            "b": 664.6183694199361,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Extraction",
+      "text": "Extraction"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 197.480771054,
+            "t": 682.28691284,
+            "r": 209.114671346,
+            "b": 678.3726909963636,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "XFeat",
+      "text": "XFeat"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 194.371544654,
+            "t": 676.74265454,
+            "r": 212.211207026,
+            "b": 672.6769766199361,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Keypoint",
+      "text": "Keypoint"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 193.81235980400004,
+            "t": 670.90492334,
+            "r": 212.77181958200003,
+            "b": 666.8392454199361,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Matching",
+      "text": "Matching"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 153.603399824,
+            "t": 717.6868856149366,
+            "r": 181.71730915099246,
+            "b": 713.8470788711286,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Feature Fixed",
+      "text": "Feature Fixed"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 151.70121953,
+            "t": 638.4333365710366,
+            "r": 183.61084371337057,
+            "b": 634.5935298272286,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Feature Moving",
+      "text": "Feature Moving"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 264.492663869,
+            "t": 661.5939005710367,
+            "r": 289.8311393016011,
+            "b": 657.7540938272286,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Initial Affine",
+      "text": "Initial Affine"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 266.33466899900003,
+            "t": 614.8285973710366,
+            "r": 295.5744830880087,
+            "b": 610.9887906272286,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Initial Warped",
+      "text": "Initial Warped"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 229.82899331,
+            "t": 616.99315844,
+            "r": 255.20884697,
+            "b": 613.0789365963637,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "ConvexAdam",
+      "text": "ConvexAdam"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 230.622136871,
+            "t": 611.4489001400001,
+            "r": 254.402008007,
+            "b": 607.3832222199362,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Refinement",
+      "text": "Refinement"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 234.589678967,
+            "t": 601.8840629710367,
+            "r": 251.0872176056452,
+            "b": 598.0442562272287,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Iterated",
+      "text": "Iterated"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 181.324294739,
+            "t": 597.5057645710366,
+            "r": 210.88502539490673,
+            "b": 593.6659578272286,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Displacement",
+      "text": "Displacement"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 191.11862228899997,
+            "t": 591.9218477710366,
+            "r": 201.36458035483722,
+            "b": 588.0820410272286,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Field",
+      "text": "Field"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 116.397910244,
+            "t": 604.4222069710366,
+            "r": 143.86414341847131,
+            "b": 600.5824002272286,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Final Warped",
+      "text": "Final Warped"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 58.437377352199995,
+            "t": 615.9073085710367,
+            "r": 74.71917376099778,
+            "b": 612.0675018272286,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Warped",
+      "text": "Warped"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 59.1525523022,
+            "t": 610.3233917710367,
+            "r": 74.02977690209528,
+            "b": 606.4835850272286,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Moving",
+      "text": "Moving"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 58.5656065022,
+            "t": 604.8029285710367,
+            "r": 74.60424343944058,
+            "b": 600.9631218272286,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Overlay",
+      "text": "Overlay"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 61.0363310522,
+            "t": 599.2190117710367,
+            "r": 72.118290258696,
+            "b": 595.3792050272286,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Fixed",
+      "text": "Fixed"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 217.26325046300002,
+            "t": 718.0041536149366,
+            "r": 257.46168674136106,
+            "b": 714.1643468711286,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "Matched Keypoints",
+      "text": "Matched Keypoints"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 169.191728468,
+            "t": 629.3594717710366,
+            "r": 188.87011660795815,
+            "b": 625.5196650272287,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Sampling",
+      "text": "Sampling"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 164.131303868,
+            "t": 623.7755549710366,
+            "r": 194.82716665667797,
+            "b": 619.9357482272287,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "+ Least Square",
+      "text": "+ Least Square"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 274.831529063,
+            "t": 691.0392792589216,
+            "r": 279.8073486639672,
+            "b": 686.6881213622311,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "\ud835\udcd0",
+      "text": "\ud835\udcd0"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 152.173922411,
+            "t": 599.9833632589216,
+            "r": 157.14974201196722,
+            "b": 595.632205362231,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "\ud835\udcd0",
+      "text": "\ud835\udcd0"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 163.66666666666666,
+            "t": 617.0,
+            "r": 166.0,
+            "b": 614.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "b",
+      "text": "b"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 147.66666666666666,
+            "t": 605.3333333333333,
+            "r": 150.0,
+            "b": 602.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 156.0,
+            "t": 605.6666666666667,
+            "r": 158.66666666666666,
+            "b": 602.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 128.45999999999998,
+            "t": 516.952194,
+            "r": 224.17069820000003,
+            "b": 507.99581659999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "2. RELATED WORK",
+      "text": "2. RELATED WORK",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.42499999999998,
+            "t": 493.78019399999994,
+            "r": 298.2098220000001,
+            "b": 377.24277439292035,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            544
+          ]
+        }
+      ],
+      "orig": "Classical methods. Traditional registration methods typically formulate the problem as an iterative energy optimization, employing similarity criteria such as LNCC, mean-squared error (MSE), or mutual information (MI). Approaches like ANTS [10] and ELASTIX [11] utilize gradient descent for optimization but are prone to local minima, particularly when displacements exceed feature scales. Discrete optimization techniques based on Markov Random Fields (MRF) [12] and local cost aggregation [13, 14] have been proposed to mitigate these issues.",
+      "text": "Classical methods. Traditional registration methods typically formulate the problem as an iterative energy optimization, employing similarity criteria such as LNCC, mean-squared error (MSE), or mutual information (MI). Approaches like ANTS [10] and ELASTIX [11] utilize gradient descent for optimization but are prone to local minima, particularly when displacements exceed feature scales. Discrete optimization techniques based on Markov Random Fields (MRF) [12] and local cost aggregation [13, 14] have been proposed to mitigate these issues."
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.42499999999998,
+            "t": 373.751194,
+            "r": 298.20982200000003,
+            "b": 281.1247743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            466
+          ]
+        }
+      ],
+      "orig": "Regression-Based Learning. Regression-based methods [15] train convolutional neural networks (ConvNets) to directly estimate the affine matrix. However, ConvNets lack inherent coordinate information, making affine matrix regression challenging. Vision transformers [7] and keypoint-based methods like KeyMorph [9] attempt to overcome these limitations by leveraging invariant feature representations, but still struggle with the high foreground-background imbalance.",
+      "text": "Regression-Based Learning. Regression-based methods [15] train convolutional neural networks (ConvNets) to directly estimate the affine matrix. However, ConvNets lack inherent coordinate information, making affine matrix regression challenging. Vision transformers [7] and keypoint-based methods like KeyMorph [9] attempt to overcome these limitations by leveraging invariant feature representations, but still struggle with the high foreground-background imbalance."
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.42499999999998,
+            "t": 277.633194,
+            "r": 298.2024165999999,
+            "b": 185.00677439292042,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            445
+          ]
+        }
+      ],
+      "orig": "Descriptor Matching Learning. Descriptor matching methods [16, 17, 18, 19] effectively address the high foregroundbackground imbalance by relying on feature descriptors and feature matching, utilizing both handcrafted and learningbased descriptors. Traditional RANSAC and modern graphand attention-based approaches [20] are commonly used for matching. However, these approaches lack a fidelity loss, leaving the output predictions unconstrained.",
+      "text": "Descriptor Matching Learning. Descriptor matching methods [16, 17, 18, 19] effectively address the high foregroundbackground imbalance by relying on feature descriptors and feature matching, utilizing both handcrafted and learningbased descriptors. Traditional RANSAC and modern graphand attention-based approaches [20] are commonly used for matching. However, these approaches lack a fidelity loss, leaving the output predictions unconstrained."
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 144.12599999999998,
+            "t": 172.64419399999997,
+            "r": 208.50432120000002,
+            "b": 163.68781660000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "3. METHODS",
+      "text": "3. METHODS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.42499999999998,
+            "t": 149.08265260000007,
+            "r": 298.20982200000003,
+            "b": 68.79977439292043,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            413
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 315.21299999999997,
+            "t": 716.5226526,
+            "r": 558.9878593999997,
+            "b": 648.1947743929202,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            414,
+            741
+          ]
+        }
+      ],
+      "orig": "Our proposed registration framework, illustrated in Fig. 2, consists of two main stages: a feature-based prealignment using contrastive representation learning and a test-time instance-level optimization for final registration. Initially, we learn a shared representation between SHG and BF images using our specially designed Batch-wise Noise Contrastive Estimation (B-NCE) loss. This shared latent space simpli- fies the multimodal registration problem into a monomodal one, making alignment more tractable. During inference, we refine the registration using ConvexAdam optimization, leveraging both cross-mutual information function (CMIF) and local normalized cross-correlation (LNCC) as similarity metrics to achieve accurate alignment.",
+      "text": "Our proposed registration framework, illustrated in Fig. 2, consists of two main stages: a feature-based prealignment using contrastive representation learning and a test-time instance-level optimization for final registration. Initially, we learn a shared representation between SHG and BF images using our specially designed Batch-wise Noise Contrastive Estimation (B-NCE) loss. This shared latent space simpli- fies the multimodal registration problem into a monomodal one, making alignment more tractable. During inference, we refine the registration using ConvexAdam optimization, leveraging both cross-mutual information function (CMIF) and local normalized cross-correlation (LNCC) as similarity metrics to achieve accurate alignment."
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 315.2129999999999,
+            "t": 646.6001053999998,
+            "r": 558.9945944000002,
+            "b": 575.6205267325645,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            348
+          ]
+        }
+      ],
+      "orig": "Let I A , I B \u2208 R 2 denote the fixed and moving images, respectively. Our goal is to construct affine transformations \u03a6( I A , I B ) for each image pair, mapping R 2 \u2192 R 2 . We aim to align the transformed moving image to the fixed image, such that \u03a6( I A , I B ) \u2299 I B \u223c I A where \u2299 denotes the spatial transformation of I B using \u03a6( I A , I B ) .",
+      "text": "Let I A , I B \u2208 R 2 denote the fixed and moving images, respectively. Our goal is to construct affine transformations \u03a6( I A , I B ) for each image pair, mapping R 2 \u2192 R 2 . We aim to align the transformed moving image to the fixed image, such that \u03a6( I A , I B ) \u2299 I B \u223c I A where \u2299 denotes the spatial transformation of I B using \u03a6( I A , I B ) ."
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 315.2130000000001,
+            "t": 558.3321939999996,
+            "r": 540.4972737999998,
+            "b": 549.3758165999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "3.1. Features prealignment with contrastive learning",
+      "text": "3.1. Features prealignment with contrastive learning",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 315.2130000000001,
+            "t": 539.1046525999997,
+            "r": 558.9878594,
+            "b": 470.77677439292006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            349
+          ]
+        }
+      ],
+      "orig": "Due to the significant differences between SHG and BF images, direct registration is challenging. To address this, we map both images into a common latent space where shared features can be effectively captured. We achieve this using contrastive representation learning with a specially designed Batch-wise Noise Contrastive Estimation (B-NCE) loss.",
+      "text": "Due to the significant differences between SHG and BF images, direct registration is challenging. To address this, we map both images into a common latent space where shared features can be effectively captured. We achieve this using contrastive representation learning with a specially designed Batch-wise Noise Contrastive Estimation (B-NCE) loss."
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 315.2130000000001,
+            "t": 467.2886525999997,
+            "r": 558.9936085999999,
+            "b": 398.9617743929201,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            319
+          ]
+        }
+      ],
+      "orig": "Inspired by CoMIR [21], we employ two identical Dense Tiramisu networks [22], D \u03b8 , to extract feature representations from I A and I B : C A = D \u03b8 ( I A ) and C B = D \u03b8 ( I B ) , where C A , C B \u2208 R H \u00d7 W \u00d7 C and C is the number of feature channels. And we demonstrated the trained features shown in Fig. 3 second row.",
+      "text": "Inspired by CoMIR [21], we employ two identical Dense Tiramisu networks [22], D \u03b8 , to extract feature representations from I A and I B : C A = D \u03b8 ( I A ) and C B = D \u03b8 ( I B ) , where C A , C B \u2208 R H \u00d7 W \u00d7 C and C is the number of feature channels. And we demonstrated the trained features shown in Fig. 3 second row."
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 315.2130000000001,
+            "t": 395.86219399999976,
+            "r": 558.9920542000002,
+            "b": 303.2357743929202,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            488
+          ]
+        }
+      ],
+      "orig": "Batch-wise noise contrastive estimation (B-NCE) loss. Our B-NCE loss is designed to enhance the network's ability to capture shared features between modalities by focusing on position-level similarities across the batch dimension. We extract patches from C A and C B of size p \u00d7 p , resulting in sets of patches { X k } and { Y k } for k = 1 , . . . , N , where N is the number of patches. To compute the loss, we consider the features at corresponding spatial locations across the batch:",
+      "text": "Batch-wise noise contrastive estimation (B-NCE) loss. Our B-NCE loss is designed to enhance the network's ability to capture shared features between modalities by focusing on position-level similarities across the batch dimension. We extract patches from C A and C B of size p \u00d7 p , resulting in sets of patches { X k } and { Y k } for k = 1 , . . . , N , where N is the number of patches. To compute the loss, we consider the features at corresponding spatial locations across the batch:"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 342.6570000000002,
+            "t": 292.0931053999998,
+            "r": 558.9923916000002,
+            "b": 279.42152673256464,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "x i,j = { X k ( i, j ) } N k =1 , y i,j = { Y k ( i, j ) } N k =1 , (1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 315.2130000000003,
+            "t": 267.9344557999998,
+            "r": 551.8518523999999,
+            "b": 259.0637743929201,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "where ( i, j ) indexes the spatial positions within each patch.",
+      "text": "where ( i, j ) indexes the spatial positions within each patch."
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 315.21300000000036,
+            "t": 255.57665259999987,
+            "r": 558.9879594000001,
+            "b": 235.06977439292018,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "Wedefine the similarity between features using the cosine similarity:",
+      "text": "Wedefine the similarity between features using the cosine similarity:"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 378.63700000000034,
+            "t": 233.6501053999998,
+            "r": 558.9923916,
+            "b": 207.77852673256484,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": "s ( x i,j , y i,j ) = x \u22a4 i,j y i,j \u2225 x i,j \u2225\u2225 y i,j \u2225 . (2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 330.1570000000001,
+            "t": 200.13465259999998,
+            "r": 505.8773387999996,
+            "b": 191.58277439292033,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "The B-NCE loss for each spatial position is:",
+      "text": "The B-NCE loss for each spatial position is:"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 350.3330000000001,
+            "t": 179.72734360000004,
+            "r": 558.9923916,
+            "b": 153.15452673256482,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            91
+          ]
+        }
+      ],
+      "orig": "L i,j B-NCE = -log exp( s ( x i,j , y i,j ) /\u03c4 ) \u2211 N k =1 exp( s ( x i,j , z k ) /\u03c4 ) , (3)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 315.213,
+            "t": 143.3983436000001,
+            "r": 557.86464872,
+            "b": 122.54277439292036,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": "where z k includes both positive and negative samples, and \u03c4 is a temperature parameter.",
+      "text": "where z k includes both positive and negative samples, and \u03c4 is a temperature parameter."
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 330.15700000000004,
+            "t": 119.05565260000003,
+            "r": 533.1748627999997,
+            "b": 110.50377439292038,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "The total loss is averaged over all spatial positions:",
+      "text": "The total loss is averaged over all spatial positions:"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 369.259,
+            "t": 98.28710539999997,
+            "r": 558.9923915999999,
+            "b": 66.9055267325648,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "L B-NCE = 1 H p W p H p \u2211 i =1 W p \u2211 j =1 L i,j B-NCE , (4)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 54.425,
+            "t": 575.573194,
+            "r": 298.20241999999996,
+            "b": 554.6777743929202,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            103
+          ]
+        }
+      ],
+      "orig": "Fig. 3 : XFeat feature detection/description/matching in SHG/BF images and the Tiramisu feature images.",
+      "text": "Fig. 3 : XFeat feature detection/description/matching in SHG/BF images and the Tiramisu feature images."
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 137.35607726,
+            "t": 717.1593011162203,
+            "r": 150.25757521287068,
+            "b": 712.6890393221126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Fixed",
+      "text": "Fixed"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 78.00298787,
+            "t": 717.1593011162203,
+            "r": 95.3228930549456,
+            "b": 712.6890393221126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Moving",
+      "text": "Moving"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 125.80111136000001,
+            "t": 653.1122740382203,
+            "r": 161.58907831287064,
+            "b": 648.6420122441127,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Tiramisu-Fixed",
+      "text": "Tiramisu-Fixed"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 66.447886538,
+            "t": 653.4816340382202,
+            "r": 106.65425764494559,
+            "b": 649.0113722441126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Tiramisu-Moving",
+      "text": "Tiramisu-Moving"
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 210.25761463999999,
+            "t": 717.3809171162203,
+            "r": 260.5820516262724,
+            "b": 712.9106553221127,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "Keypoints Alignment",
+      "text": "Keypoints Alignment"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 210.25761463999999,
+            "t": 653.1122740382203,
+            "r": 260.5820516262724,
+            "b": 648.6420122441127,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "Keypoints Alignment",
+      "text": "Keypoints Alignment"
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 54.425,
+            "t": 529.6684558,
+            "r": 286.6151094,
+            "b": 520.0385267325647,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "where H p and W p are the height and width of the patches.",
+      "text": "where H p and W p are the height and width of the patches."
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 54.42499999999998,
+            "t": 517.5114557999999,
+            "r": 298.20684859999994,
+            "b": 472.7747743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            224
+          ]
+        }
+      ],
+      "orig": "By minimizing L B-NCE, the network learns to bring corresponding features from I A and I B closer in the latent space while pushing apart non-corresponding features, effectively capturing shared structures across modalities.",
+      "text": "By minimizing L B-NCE, the network learns to bring corresponding features from I A and I B closer in the latent space while pushing apart non-corresponding features, effectively capturing shared structures across modalities."
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 54.42499999999998,
+            "t": 469.5571939999999,
+            "r": 298.2083285999999,
+            "b": 376.93077439292034,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            430
+          ]
+        }
+      ],
+      "orig": "Feature-based prealignment. With the learned representations C A and C B , we perform feature-based prealignment. We detect keypoints and extract descriptors using a method inspired by XFeat [23], adapted to our context. We match features between C A and C B (Fig. 3 second row) to compute an initial affine transformation \u03a6 init . We also demonstrated the matching keypoints in Fig. 3 in blue dots and connected with green lines.",
+      "text": "Feature-based prealignment. With the learned representations C A and C B , we perform feature-based prealignment. We detect keypoints and extract descriptors using a method inspired by XFeat [23], adapted to our context. We match features between C A and C B (Fig. 3 second row) to compute an initial affine transformation \u03a6 init . We also demonstrated the matching keypoints in Fig. 3 in blue dots and connected with green lines."
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 54.42499999999998,
+            "t": 372.179194,
+            "r": 212.2325840000001,
+            "b": 363.2228166,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "3.2. Test-time Instance Optimization",
+      "text": "3.2. Test-time Instance Optimization",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 54.42499999999998,
+            "t": 352.7256526,
+            "r": 298.2042773999999,
+            "b": 236.57777439292033,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            562
+          ]
+        }
+      ],
+      "orig": "To address misalignment caused by local contrast noise in contrastive feature mapping, we adopt the core principles of the ConvexAdam method [24], enabling flexible instance optimization between affine and deformable transformations. Unlike the original ConvexAdam, which optimizes flow parameters using hand-crafted features, our approach leverages learned features from the preceding stage and employs a multi-resolution pyramid across scales of 1 , 1 2 , 1 4 , 1 8 , 1 16 . This hierarchical setup allows for efficient alignment at both large and fine scales.",
+      "text": "To address misalignment caused by local contrast noise in contrastive feature mapping, we adopt the core principles of the ConvexAdam method [24], enabling flexible instance optimization between affine and deformable transformations. Unlike the original ConvexAdam, which optimizes flow parameters using hand-crafted features, our approach leverages learned features from the preceding stage and employs a multi-resolution pyramid across scales of 1 , 1 2 , 1 4 , 1 8 , 1 16 . This hierarchical setup allows for efficient alignment at both large and fine scales."
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 54.42499999999998,
+            "t": 232.97165259999997,
+            "r": 298.19995940000007,
+            "b": 116.82277439292034,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            558
+          ]
+        }
+      ],
+      "orig": "Following the prealignment, we generate displacement fields using a convolutional network. Displacements are assigned by evaluating patch similarity costs and identifying minimal cost positions. Smooth regularization is then applied through Gaussian smoothing, as described in [25]. Our fidelity loss combines Local Normalized Cross-Correlation (LNCC), which handles local similarities and addresses the foreground-background imbalance, with Cross Mutual Information Function (CMIF), which considers global intensity relationships to bridge the modality gap.",
+      "text": "Following the prealignment, we generate displacement fields using a convolutional network. Displacements are assigned by evaluating patch similarity costs and identifying minimal cost positions. Smooth regularization is then applied through Gaussian smoothing, as described in [25]. Our fidelity loss combines Local Normalized Cross-Correlation (LNCC), which handles local similarities and addresses the foreground-background imbalance, with Cross Mutual Information Function (CMIF), which considers global intensity relationships to bridge the modality gap."
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 54.42499999999998,
+            "t": 113.21765259999995,
+            "r": 298.1999594,
+            "b": 68.79977439292031,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            235
+          ]
+        }
+      ],
+      "orig": "Since the primary features in SHG images are sparsely distributed, we avoid using the deformation field directly. Instead, we sample displacements based on SHG intensity and perform least-squares analysis on these sparse displacements,",
+      "text": "Since the primary features in SHG images are sparsely distributed, we avoid using the deformation field directly. Instead, we sample displacements based on SHG intensity and perform least-squares analysis on these sparse displacements,"
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 315.213,
+            "t": 589.624194,
+            "r": 558.9963299999995,
+            "b": 544.8177743929202,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            194
+          ]
+        }
+      ],
+      "orig": "Fig. 4 : Qualitative results on the validation set. From left to right: warped BF image overlaid on SHG image, SHG image (fixed) shown in Virdis colormap, BF image (moving), and warped BF image.",
+      "text": "Fig. 4 : Qualitative results on the validation set. From left to right: warped BF image overlaid on SHG image, SHG image (fixed) shown in Virdis colormap, BF image (moving), and warped BF image."
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 403.3588585,
+            "t": 716.7582947117501,
+            "r": 416.4328524815,
+            "b": 709.0166135035,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "SHG",
+      "text": "SHG"
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 460.86511889999997,
+            "t": 716.7582947117501,
+            "r": 468.12383450699997,
+            "b": 709.0166135035,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "BF",
+      "text": "BF"
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 503.502994,
+            "t": 716.7302077410001,
+            "r": 535.009803478,
+            "b": 708.977322942,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Warped BF",
+      "text": "Warped BF"
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 344.14774375,
+            "t": 716.7302077410001,
+            "r": 366.530150725,
+            "b": 708.977322942,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Overlay",
+      "text": "Overlay"
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 315.213,
+            "t": 519.6876525999999,
+            "r": 558.9878593999998,
+            "b": 463.31477439292024,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            253
+          ]
+        }
+      ],
+      "orig": "resulting in an over-determined system of equations that we solve to obtain the final affine transformation. This approach allows for a smooth transition between deformable and affine transformations, enhancing the precision of the registration results.",
+      "text": "resulting in an over-determined system of equations that we solve to obtain the final affine transformation. This approach allows for a smooth transition between deformable and affine transformations, enhancing the precision of the registration results."
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 315.213,
+            "t": 445.1581939999999,
+            "r": 529.9269551999996,
+            "b": 436.2018165999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "3.3. Multimodal Similarities: Mutual Information",
+      "text": "3.3. Multimodal Similarities: Mutual Information",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 434.04600000000016,
+            "t": 390.3454557999999,
+            "r": 434.04600000000016,
+            "b": 381.7809140997332,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "\u0338",
+      "text": "\u0338"
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 315.213,
+            "t": 426.21145579999995,
+            "r": 558.9924346000004,
+            "b": 321.69877439292026,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            530
+          ]
+        }
+      ],
+      "orig": "We compute mutual information between fixed image I A \u2286 X A and moving image I B \u2286 X B based on cross-mutual information function (CMIF) [26, 27]. Given images I A and I B intersecting on I AB and I AB = \u2205 , we firstly cluster each image I A and I B into level sets A \u2208 Z and B \u2208 Z accordingly using K-means. For each level a and b from the level sets A and B , we compute the marginal and joint histogram entries separately, Then, based on the normalized histograms, we derive the marginal and joint Shannon entropies as follows,",
+      "text": "We compute mutual information between fixed image I A \u2286 X A and moving image I B \u2286 X B based on cross-mutual information function (CMIF) [26, 27]. Given images I A and I B intersecting on I AB and I AB = \u2205 , we firstly cluster each image I A and I B into level sets A \u2208 Z and B \u2208 Z accordingly using K-means. For each level a and b from the level sets A and B , we compute the marginal and joint histogram entries separately, Then, based on the normalized histograms, we derive the marginal and joint Shannon entropies as follows,"
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 368.32500000000016,
+            "t": 312.0121054,
+            "r": 558.9923915999999,
+            "b": 283.65752673256475,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "H A = -\u2211 a \u2208A I a A \u00b7 I B N AB log I a A \u00b7 I B N AB ; (5)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 368.991,
+            "t": 271.9061054,
+            "r": 558.9923915999999,
+            "b": 243.47352673256478,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "H B = -\u2211 b \u2208B I A \u00b7 I b B N AB log I A \u00b7 I b B N AB ; (6)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 357.12,
+            "t": 235.60410539999998,
+            "r": 558.9923915999999,
+            "b": 207.17152673256487,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "H AB = -\u2211 a \u2208A \u2211 b \u2208B I a A \u00b7 I b B N AB log I a A \u00b7 I b B N AB , (7)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 315.2129999999999,
+            "t": 199.6131054,
+            "r": 558.9969342,
+            "b": 140.5885267325648,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            261
+          ]
+        }
+      ],
+      "orig": "where I a A and I b B represent images where the pixel values equal to level set value a and b respectively; N AB is the number of total pixels in both image I A and I B . Finally, we can compute the mutual information using MI ( I A , I B ) = H A + H B -H AB .",
+      "text": "where I a A and I b B represent images where the pixel values equal to level set value a and b respectively; N AB is the number of total pixels in both image I A and I B . Finally, we can compute the mutual information using MI ( I A , I B ) = H A + H B -H AB ."
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 358.32300000000004,
+            "t": 131.037194,
+            "r": 515.8815189999998,
+            "b": 122.08081659999993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "4. EXPERIMENTS AND RESULTS",
+      "text": "4. EXPERIMENTS AND RESULTS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 315.213,
+            "t": 108.57319399999994,
+            "r": 368.2239945999999,
+            "b": 99.61681659999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "4.1. Dataset",
+      "text": "4.1. Dataset",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 315.213,
+            "t": 89.3066526,
+            "r": 558.9878593999996,
+            "b": 68.79977439292031,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            111
+          ]
+        }
+      ],
+      "orig": "We evaluated our method on the dataset from the Learn2Reg 2024 Challenge Task 3: COMULISglobe SHG-BF [1], which",
+      "text": "We evaluated our method on the dataset from the Learn2Reg 2024 Challenge Task 3: COMULISglobe SHG-BF [1], which"
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 54.425,
+            "t": 718.505194,
+            "r": 298.2073426,
+            "b": 673.6997743929202,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            200
+          ]
+        }
+      ],
+      "orig": "Table 1 : TRE comparison of teams on the Learn2Reg 2024 Challenge validation leaderboard. Rankings are based on a snapshot of the leaderboard as of Sep 20, 2024, excluding challenge organizer entries.",
+      "text": "Table 1 : TRE comparison of teams on the Learn2Reg 2024 Challenge validation leaderboard. Rankings are based on a snapshot of the leaderboard as of Sep 20, 2024, excluding challenge organizer entries."
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 54.425,
+            "t": 553.3786526,
+            "r": 298.209822,
+            "b": 461.1407743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            460
+          ]
+        }
+      ],
+      "orig": "includes 156 training, 10 validation, and 40 test cases of SHG and H&E-stained BF microscopy images of breast and pancreatic cancer tissues shown in Fig. 4. Acquired at the University of Wisconsin-Madison, these images present significant challenges due to differences in imaging modalities: SHG images emphasize collagen fibers, while BF images highlight H&E-stained tissue structures. Reliable expert annotations provide landmarks for validation and testing.",
+      "text": "includes 156 training, 10 validation, and 40 test cases of SHG and H&E-stained BF microscopy images of breast and pancreatic cancer tissues shown in Fig. 4. Acquired at the University of Wisconsin-Madison, these images present significant challenges due to differences in imaging modalities: SHG images emphasize collagen fibers, while BF images highlight H&E-stained tissue structures. Reliable expert annotations provide landmarks for validation and testing."
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 54.425,
+            "t": 442.557194,
+            "r": 260.29216640000004,
+            "b": 433.6008166,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "4.2. Data Preprocessing and Evaluation Metrics",
+      "text": "4.2. Data Preprocessing and Evaluation Metrics",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 54.425,
+            "t": 423.1436526,
+            "r": 298.20982200000003,
+            "b": 342.8607743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            404
+          ]
+        }
+      ],
+      "orig": "For preprocessing, we applied stochastic intensity transformations using B\u00b4 ezier curves [28] and random affine augmentations, including scaling, rotation, and shearing, to enhance the robustness of our model to intensity variations and geometric distortions. During validation and testing, we omitted stochastic augmentations but maintained normalization and intensity adjustments to ensure consistency.",
+      "text": "For preprocessing, we applied stochastic intensity transformations using B\u00b4 ezier curves [28] and random affine augmentations, including scaling, rotation, and shearing, to enhance the robustness of our model to intensity variations and geometric distortions. During validation and testing, we omitted stochastic augmentations but maintained normalization and intensity adjustments to ensure consistency."
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 54.425,
+            "t": 339.27565260000006,
+            "r": 298.20982200000014,
+            "b": 270.94777439292045,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            306
+          ]
+        }
+      ],
+      "orig": "We used the Learn2Reg 2024 Challenge metrics, primarily Target Registration Error (TRE), to measure registration accuracy. TRE calculates the average distance between matched landmarks in the fixed and moving images-lower values mean better alignment. Validation results are from the challenge leaderboard.",
+      "text": "We used the Learn2Reg 2024 Challenge metrics, primarily Target Registration Error (TRE), to measure registration accuracy. TRE calculates the average distance between matched landmarks in the fixed and moving images-lower values mean better alignment. Validation results are from the challenge leaderboard."
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 54.425,
+            "t": 252.3641940000001,
+            "r": 162.31995800000004,
+            "b": 243.40781660000016,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "4.3. Quantitative Results",
+      "text": "4.3. Quantitative Results",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 54.425,
+            "t": 232.95065260000013,
+            "r": 298.19985940000015,
+            "b": 164.6227743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            348
+          ]
+        }
+      ],
+      "orig": "Table 1 presents the performance of our method compared to top-performing methods from the challenge. Our approach achieved a mean TRE of 1.943 mm on the validation set, ranking first. Notably, our method demonstrated the lowest standard deviation (0.765 mm) among all submissions, indicating high robustness and consistency across different cases.",
+      "text": "Table 1 presents the performance of our method compared to top-performing methods from the challenge. Our approach achieved a mean TRE of 1.943 mm on the validation set, ranking first. Notably, our method demonstrated the lowest standard deviation (0.765 mm) among all submissions, indicating high robustness and consistency across different cases."
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 54.425,
+            "t": 161.03765260000011,
+            "r": 298.1999594000001,
+            "b": 68.79977439292043,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            474
+          ]
+        }
+      ],
+      "orig": "To evaluate the effectiveness of our proposed components, we conducted ablation studies summarized in Table 1 (second part). LNCC is less sensitive to local noise and effectively handled the sparse SHG features, reducing the TRE by approximately 60%. However, it is less capable of capturing global structure. In contrast, CMIF captures global structure better but is more sensitive to local noise introduced by the contrastive feature mapping, leading to worse results when",
+      "text": "To evaluate the effectiveness of our proposed components, we conducted ablation studies summarized in Table 1 (second part). LNCC is less sensitive to local noise and effectively handled the sparse SHG features, reducing the TRE by approximately 60%. However, it is less capable of capturing global structure. In contrast, CMIF captures global structure better but is more sensitive to local noise introduced by the contrastive feature mapping, leading to worse results when"
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 315.213,
+            "t": 620.213194,
+            "r": 558.9878593999995,
+            "b": 587.3627743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            156
+          ]
+        }
+      ],
+      "orig": "Fig. 5 : Impact of the number of optimization iterations on the mean TRE. Our method achieves consistent performance, with the best result at 30 iterations.",
+      "text": "Fig. 5 : Impact of the number of optimization iterations on the mean TRE. Our method achieves consistent performance, with the best result at 30 iterations."
+    },
+    {
+      "self_ref": "#/texts/118",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 390.00674464168344,
+            "t": 646.2591958,
+            "r": 396.42423904168345,
+            "b": 640.3815378,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "15",
+      "text": "15"
+    },
+    {
+      "self_ref": "#/texts/119",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 441.691455175,
+            "t": 646.2591958,
+            "r": 448.108949575,
+            "b": 640.3815378,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "30",
+      "text": "30"
+    },
+    {
+      "self_ref": "#/texts/120",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 493.3761657083165,
+            "t": 646.2591958,
+            "r": 499.7936601083165,
+            "b": 640.3815378,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "50",
+      "text": "50"
+    },
+    {
+      "self_ref": "#/texts/121",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 428.085181425,
+            "t": 639.69904837,
+            "r": 461.727584065,
+            "b": 631.47032717,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Iterations",
+      "text": "Iterations"
+    },
+    {
+      "self_ref": "#/texts/122",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 360.63274937499995,
+            "t": 655.9365922803122,
+            "r": 363.84149657499995,
+            "b": 650.0589342803122,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/123",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 360.63274937499995,
+            "t": 666.2445687189704,
+            "r": 363.84149657499995,
+            "b": 660.3669107189704,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/124",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 360.63274937499995,
+            "t": 676.552545157679,
+            "r": 363.84149657499995,
+            "b": 670.674887157679,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/125",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 360.63274937499995,
+            "t": 686.8605215963877,
+            "r": 363.84149657499995,
+            "b": 680.9828635963877,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/126",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 360.63274937499995,
+            "t": 697.1684980350964,
+            "r": 363.84149657499995,
+            "b": 691.2908400350964,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/127",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 350.5866210049999,
+            "t": 681.37340941,
+            "r": 358.8153422049999,
+            "b": 667.68477277,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "TRE",
+      "text": "TRE"
+    },
+    {
+      "self_ref": "#/texts/128",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 416.1407755333165,
+            "t": 708.918801367,
+            "r": 421.9679815333165,
+            "b": 703.041143367,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "ns",
+      "text": "ns"
+    },
+    {
+      "self_ref": "#/texts/129",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 467.8254860666834,
+            "t": 714.8878717417291,
+            "r": 473.6526920666834,
+            "b": 709.0102137417291,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "ns",
+      "text": "ns"
+    },
+    {
+      "self_ref": "#/texts/130",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 441.98313079999997,
+            "t": 720.8569421164583,
+            "r": 447.81033679999996,
+            "b": 714.9792841164583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "ns",
+      "text": "ns"
+    },
+    {
+      "self_ref": "#/texts/131",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 315.213,
+            "t": 561.7926526,
+            "r": 558.9878593999996,
+            "b": 505.42077439292024,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            292
+          ]
+        }
+      ],
+      "orig": "used alone. By combining LNCC with CMIF in our fidelity loss, we balanced local robustness and global alignment, reducing the TRE from 2.361 to 1.943. This demonstrates that our fidelity-imposed displacement editing enhances registration accuracy by integrating the strengths of both metrics.",
+      "text": "used alone. By combining LNCC with CMIF in our fidelity loss, we balanced local robustness and global alignment, reducing the TRE from 2.361 to 1.943. This demonstrates that our fidelity-imposed displacement editing enhances registration accuracy by integrating the strengths of both metrics."
+    },
+    {
+      "self_ref": "#/texts/132",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 315.213,
+            "t": 501.6936525999999,
+            "r": 558.9879593999996,
+            "b": 433.3657743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            336
+          ]
+        }
+      ],
+      "orig": "Additionally, we tested different iteration counts during(15, 30, and 50 iterations) using both CMIF and LNCC (Fig. 5). Our method consistently achieved low TRE values, with the best performance at 30 iterations (mean TREs of 2.759, 1.943, and 2.168, respectively). This indicates our approach's stability without extensive computation.",
+      "text": "Additionally, we tested different iteration counts during(15, 30, and 50 iterations) using both CMIF and LNCC (Fig. 5). Our method consistently achieved low TRE values, with the best performance at 30 iterations (mean TREs of 2.759, 1.943, and 2.168, respectively). This indicates our approach's stability without extensive computation."
+    },
+    {
+      "self_ref": "#/texts/133",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 315.213,
+            "t": 424.95919399999997,
+            "r": 417.0208093999998,
+            "b": 416.00281659999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "4.4. Qualitative Results",
+      "text": "4.4. Qualitative Results",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/134",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 315.213,
+            "t": 405.27565259999994,
+            "r": 558.9878593999998,
+            "b": 336.94777439292034,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            329
+          ]
+        }
+      ],
+      "orig": "Two validation examples are presented in Fig. 4. Despite significant structural differences due to the modality gap, our method successfully aligned the moving BF images to the fixed SHG images. The overlaid warped BF images show main structures aligned with minimal misalignment, demonstrating effective multimodal registration.",
+      "text": "Two validation examples are presented in Fig. 4. Despite significant structural differences due to the modality gap, our method successfully aligned the moving BF images to the fixed SHG images. The overlaid warped BF images show main structures aligned with minimal misalignment, demonstrating effective multimodal registration."
+    },
+    {
+      "self_ref": "#/texts/135",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 315.213,
+            "t": 333.2206526,
+            "r": 558.9879593999993,
+            "b": 276.8487743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            295
+          ]
+        }
+      ],
+      "orig": "Figure 3 shows feature matching with our learned representations. Despite large modality discrepancies, the features are visually similar, enabling robust matching. The sufficient matching pairs confirm the effectiveness of B-NCE loss in bridging the modality gap for feature-based prealignment.",
+      "text": "Figure 3 shows feature matching with our learned representations. Despite large modality discrepancies, the features are visually similar, enabling robust matching. The sufficient matching pairs confirm the effectiveness of B-NCE loss in bridging the modality gap for feature-based prealignment."
+    },
+    {
+      "self_ref": "#/texts/136",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 396.615,
+            "t": 256.36219400000004,
+            "r": 477.5910127999999,
+            "b": 247.4058166000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "5. CONCLUSION",
+      "text": "5. CONCLUSION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/137",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 315.213,
+            "t": 233.09265260000006,
+            "r": 558.9878593999998,
+            "b": 116.94377439292043,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            563
+          ]
+        }
+      ],
+      "orig": "In this paper, we propose a new affine registration framework that integrates a novel contrastive learning loss (B-NCE) with rich contextual information from modern neural networks inside fidelity-imposed iterative instance optimization. Our fidelity-imposed network editing framework overcomes modality gap between SHG and BF images, providing robust and accurate SHG-BF registration performance. Experimental results from the Learn2Reg COMULISglobe SHG-BF Challenge demonstrate the effectiveness of our approach, earning the 1st place on the online leaderboard.",
+      "text": "In this paper, we propose a new affine registration framework that integrates a novel contrastive learning loss (B-NCE) with rich contextual information from modern neural networks inside fidelity-imposed iterative instance optimization. Our fidelity-imposed network editing framework overcomes modality gap between SHG and BF images, providing robust and accurate SHG-BF registration performance. Experimental results from the Learn2Reg COMULISglobe SHG-BF Challenge demonstrate the effectiveness of our approach, earning the 1st place on the online leaderboard."
+    },
+    {
+      "self_ref": "#/texts/138",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 315.213,
+            "t": 113.60519399999998,
+            "r": 558.9900371999996,
+            "b": 68.79977439292043,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            218
+          ]
+        },
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 54.425,
+            "t": 716.5226526,
+            "r": 298.2092812,
+            "b": 672.1057743929202,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            219,
+            425
+          ]
+        }
+      ],
+      "orig": "Acknowledgment. This work is supported, in part, by the National Key Research and Development Program of China under Grant 2022YFE0134700, National Natural Science Foundation of China under Grant U22B2050 and 62425305, and the Science and Technology Program of Changsha under Grant kq2102009. Compliance with Ethical Standards. Ethical approval was not required as confirmed by the license attached with the open access data.",
+      "text": "Acknowledgment. This work is supported, in part, by the National Key Research and Development Program of China under Grant 2022YFE0134700, National Natural Science Foundation of China under Grant U22B2050 and 62425305, and the Science and Technology Program of Changsha under Grant kq2102009. Compliance with Ethical Standards. Ethical approval was not required as confirmed by the license attached with the open access data."
+    },
+    {
+      "self_ref": "#/texts/139",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 136.101,
+            "t": 651.8701939999999,
+            "r": 216.52906980000006,
+            "b": 642.9138165999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "6. REFERENCES",
+      "text": "6. REFERENCES",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/140",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 59.407,
+            "t": 628.6866525999999,
+            "r": 298.20055940000003,
+            "b": 596.2237743929202,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            137
+          ]
+        }
+      ],
+      "orig": "[1] Kevin Eliceiri et al., 'Multimodal biomedical dataset for evaluating registration methods (full-size tma cores),' Zenodo, Feb , 2021.",
+      "text": "Kevin Eliceiri et al., 'Multimodal biomedical dataset for evaluating registration methods (full-size tma cores),' Zenodo, Feb , 2021.",
+      "enumerated": true,
+      "marker": "[1]"
+    },
+    {
+      "self_ref": "#/texts/141",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 59.407,
+            "t": 583.7376525999998,
+            "r": 298.20983040000004,
+            "b": 539.32077439292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            211
+          ]
+        }
+      ],
+      "orig": "[2] Adib Keikhosravi et al., 'Intensity-based registration of bright-field and second-harmonic generation images of histopathology tissue sections,' Biomedical Optics Express , vol. 11, no. 1, pp. 160-173, 2019.",
+      "text": "Adib Keikhosravi et al., 'Intensity-based registration of bright-field and second-harmonic generation images of histopathology tissue sections,' Biomedical Optics Express , vol. 11, no. 1, pp. 160-173, 2019.",
+      "enumerated": true,
+      "marker": "[2]"
+    },
+    {
+      "self_ref": "#/texts/142",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 59.40699999999999,
+            "t": 526.8346525999997,
+            "r": 298.20983040000004,
+            "b": 494.37277439292006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            154
+          ]
+        }
+      ],
+      "orig": "[3] Hang Zhang et al., 'Memwarp: Discontinuitypreserving cardiac registration with memorized anatomical filters,' in MICCAI . Springer, 2024, pp. 671-681.",
+      "text": "Hang Zhang et al., 'Memwarp: Discontinuitypreserving cardiac registration with memorized anatomical filters,' in MICCAI . Springer, 2024, pp. 671-681.",
+      "enumerated": true,
+      "marker": "[3]"
+    },
+    {
+      "self_ref": "#/texts/143",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 59.40700000000001,
+            "t": 481.8866525999997,
+            "r": 298.20189099999993,
+            "b": 449.42377439292005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            148
+          ]
+        }
+      ],
+      "orig": "[4] Xiang Chen et al., 'Spatially covariant image registration with text prompts,' IEEE Transactions on Neural Networks and Learning Systems , 2024.",
+      "text": "Xiang Chen et al., 'Spatially covariant image registration with text prompts,' IEEE Transactions on Neural Networks and Learning Systems , 2024.",
+      "enumerated": true,
+      "marker": "[4]"
+    },
+    {
+      "self_ref": "#/texts/144",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 59.40700000000001,
+            "t": 436.9376525999997,
+            "r": 298.20983040000004,
+            "b": 404.4757743929201,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            155
+          ]
+        }
+      ],
+      "orig": "[5] Guha Balakrishnan et al., 'Voxelmorph: a learning framework for deformable medical image registration,' IEEE TMI , vol. 38, no. 8, pp. 1788-1800, 2019.",
+      "text": "Guha Balakrishnan et al., 'Voxelmorph: a learning framework for deformable medical image registration,' IEEE TMI , vol. 38, no. 8, pp. 1788-1800, 2019.",
+      "enumerated": true,
+      "marker": "[5]"
+    },
+    {
+      "self_ref": "#/texts/145",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 59.40700000000001,
+            "t": 392.15901679999973,
+            "r": 298.2097059999998,
+            "b": 371.4827743929201,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            81
+          ]
+        }
+      ],
+      "orig": "[6] Hang Zhang et al., 'Slicer networks,' arXiv preprint arXiv:2401.09833 , 2024.",
+      "text": "Hang Zhang et al., 'Slicer networks,' arXiv preprint arXiv:2401.09833 , 2024.",
+      "enumerated": true,
+      "marker": "[6]"
+    },
+    {
+      "self_ref": "#/texts/146",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 59.40700000000001,
+            "t": 358.9966525999997,
+            "r": 298.20055940000003,
+            "b": 326.5347743929201,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            142
+          ]
+        }
+      ],
+      "orig": "[7] Tony CW Mok and Albert Chung, 'Affine medical image registration with coarse-to-fine vision transformer,' in CVPR , 2022, pp. 20835-20844.",
+      "text": "Tony CW Mok and Albert Chung, 'Affine medical image registration with coarse-to-fine vision transformer,' in CVPR , 2022, pp. 20835-20844.",
+      "enumerated": true,
+      "marker": "[7]"
+    },
+    {
+      "self_ref": "#/texts/147",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 59.40700000000002,
+            "t": 314.04865259999974,
+            "r": 298.20746019999984,
+            "b": 281.5857743929201,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            145
+          ]
+        }
+      ],
+      "orig": "[8] Junyu Chen et al., 'Transmorph: Transformer for unsupervised medical image registration,' Medical image analysis , vol. 82, pp. 102615, 2022.",
+      "text": "Junyu Chen et al., 'Transmorph: Transformer for unsupervised medical image registration,' Medical image analysis , vol. 82, pp. 102615, 2022.",
+      "enumerated": true,
+      "marker": "[8]"
+    },
+    {
+      "self_ref": "#/texts/148",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 59.40700000000002,
+            "t": 269.0996525999997,
+            "r": 298.2005593999999,
+            "b": 236.63777439292005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            125
+          ]
+        }
+      ],
+      "orig": "[9] M Yu Evan et al., 'Keymorph: Robust multi-modal affine registration via unsupervised keypoint detection,' in MIDL , 2022.",
+      "text": "M Yu Evan et al., 'Keymorph: Robust multi-modal affine registration via unsupervised keypoint detection,' in MIDL , 2022.",
+      "enumerated": true,
+      "marker": "[9]"
+    },
+    {
+      "self_ref": "#/texts/149",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 54.425000000000026,
+            "t": 224.1516525999997,
+            "r": 298.20982199999986,
+            "b": 203.64477439292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            107
+          ]
+        }
+      ],
+      "orig": "[10] B B Avants et al., 'Advanced normalization tools (ants),' Insight j , vol. 2, no. 365, pp. 1-35, 2009.",
+      "text": "B B Avants et al., 'Advanced normalization tools (ants),' Insight j , vol. 2, no. 365, pp. 1-35, 2009.",
+      "enumerated": true,
+      "marker": "[10]"
+    },
+    {
+      "self_ref": "#/texts/150",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 54.425000000000026,
+            "t": 191.15865259999964,
+            "r": 298.20387379999994,
+            "b": 158.69677439292002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            139
+          ]
+        }
+      ],
+      "orig": "[11] Stefan Klein et al., 'Elastix: a toolbox for intensitybased medical image registration,' IEEE TMI , vol. 29, no. 1, pp. 196-205, 2009.",
+      "text": "Stefan Klein et al., 'Elastix: a toolbox for intensitybased medical image registration,' IEEE TMI , vol. 29, no. 1, pp. 196-205, 2009.",
+      "enumerated": true,
+      "marker": "[11]"
+    },
+    {
+      "self_ref": "#/texts/151",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 54.42499999999999,
+            "t": 146.21065259999966,
+            "r": 298.20465,
+            "b": 113.74777439292006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            154
+          ]
+        }
+      ],
+      "orig": "[12] Mattias P Heinrich et al., 'Mrf-based deformable registration and ventilation estimation of lung ct,' IEEE TMI , vol. 32, no. 7, pp. 1239-1248, 2013.",
+      "text": "Mattias P Heinrich et al., 'Mrf-based deformable registration and ventilation estimation of lung ct,' IEEE TMI , vol. 32, no. 7, pp. 1239-1248, 2013.",
+      "enumerated": true,
+      "marker": "[12]"
+    },
+    {
+      "self_ref": "#/texts/152",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 54.42499999999999,
+            "t": 101.2616525999997,
+            "r": 298.2098304,
+            "b": 68.79977439291997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            152
+          ]
+        }
+      ],
+      "orig": "[13] Mattias P Heinrich et al., 'Multi-modal multiatlas segmentation using discrete optimisation and selfsimilarities.,' ISBI , vol. 1390, pp. 27, 2015.",
+      "text": "Mattias P Heinrich et al., 'Multi-modal multiatlas segmentation using discrete optimisation and selfsimilarities.,' ISBI , vol. 1390, pp. 27, 2015.",
+      "enumerated": true,
+      "marker": "[13]"
+    },
+    {
+      "self_ref": "#/texts/153",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 315.21299999999997,
+            "t": 716.5226525999997,
+            "r": 558.988989,
+            "b": 696.01577439292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            112
+          ]
+        }
+      ],
+      "orig": "[14] Frank Steinbr\u00a8 ucker et al., 'Large displacement optical flow computation without warping,' in ICCV , 2009.",
+      "text": "Frank Steinbr\u00a8 ucker et al., 'Large displacement optical flow computation without warping,' in ICCV , 2009.",
+      "enumerated": true,
+      "marker": "[14]"
+    },
+    {
+      "self_ref": "#/texts/154",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 315.2129999999999,
+            "t": 685.8756525999996,
+            "r": 558.9878677999995,
+            "b": 653.4137743929199,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            156
+          ]
+        }
+      ],
+      "orig": "[15] Xu Chen et al., 'Learning unsupervised parameterspecific affine transformation for medical images registration,' in MICCAI . Springer, 2021, pp. 24-34.",
+      "text": "Xu Chen et al., 'Learning unsupervised parameterspecific affine transformation for medical images registration,' in MICCAI . Springer, 2021, pp. 24-34.",
+      "enumerated": true,
+      "marker": "[15]"
+    },
+    {
+      "self_ref": "#/texts/155",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 315.2129999999999,
+            "t": 643.2736525999995,
+            "r": 558.9951753999999,
+            "b": 610.8117743929198,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            137
+          ]
+        }
+      ],
+      "orig": "[16] Daniel DeTone et al., 'Superpoint: Self-supervised interest point detection and description,' in CVPR workshops , 2018, pp. 224-236.",
+      "text": "Daniel DeTone et al., 'Superpoint: Self-supervised interest point detection and description,' in CVPR workshops , 2018, pp. 224-236.",
+      "enumerated": true,
+      "marker": "[16]"
+    },
+    {
+      "self_ref": "#/texts/156",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 315.2129999999999,
+            "t": 600.6716525999994,
+            "r": 558.9885850000001,
+            "b": 580.1647743929198,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            112
+          ]
+        }
+      ],
+      "orig": "[17] Prune Truong et al., 'Glampoints: Greedily learned accurate match points,' in ICCV , 2019, pp. 10732-10741.",
+      "text": "Prune Truong et al., 'Glampoints: Greedily learned accurate match points,' in ICCV , 2019, pp. 10732-10741.",
+      "enumerated": true,
+      "marker": "[17]"
+    },
+    {
+      "self_ref": "#/texts/157",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 315.21299999999997,
+            "t": 570.0256525999994,
+            "r": 558.9916499999999,
+            "b": 537.5627743929197,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            132
+          ]
+        }
+      ],
+      "orig": "[18] Jiacheng Wang et al., 'Novel oct mosaicking pipeline with feature-and pixel-based registration,' in ISBI . IEEE, 2024, pp. 1-5.",
+      "text": "Jiacheng Wang et al., 'Novel oct mosaicking pipeline with feature-and pixel-based registration,' in ISBI . IEEE, 2024, pp. 1-5.",
+      "enumerated": true,
+      "marker": "[18]"
+    },
+    {
+      "self_ref": "#/texts/158",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 315.21299999999997,
+            "t": 527.4236525999993,
+            "r": 558.9918972,
+            "b": 494.96077439291963,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            143
+          ]
+        }
+      ],
+      "orig": "[19] Jiacheng Wang et al., 'Retinal ipa: Iterative keypoints alignment for multimodal retinal imaging,' arXiv preprint arXiv:2407.18362 , 2024.",
+      "text": "Jiacheng Wang et al., 'Retinal ipa: Iterative keypoints alignment for multimodal retinal imaging,' arXiv preprint arXiv:2407.18362 , 2024.",
+      "enumerated": true,
+      "marker": "[19]"
+    },
+    {
+      "self_ref": "#/texts/159",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 315.2130000000001,
+            "t": 484.8216525999993,
+            "r": 558.9957012000001,
+            "b": 452.35877439291966,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            130
+          ]
+        }
+      ],
+      "orig": "[20] Paul-Edouard Sarlin et al., 'Superglue: Learning feature matching with graph neural networks,' in CVPR , 2020, pp. 4938-4947.",
+      "text": "Paul-Edouard Sarlin et al., 'Superglue: Learning feature matching with graph neural networks,' in CVPR , 2020, pp. 4938-4947.",
+      "enumerated": true,
+      "marker": "[20]"
+    },
+    {
+      "self_ref": "#/texts/160",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 315.213,
+            "t": 442.21965259999934,
+            "r": 558.9926832000001,
+            "b": 397.8017743929197,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            185
+          ]
+        }
+      ],
+      "orig": "[21] Nicolas Pielawski et al., 'Comir: Contrastive multimodal image representation for registration,' Advances in neural information processing systems , vol. 33, pp. 18433-18444, 2020.",
+      "text": "Nicolas Pielawski et al., 'Comir: Contrastive multimodal image representation for registration,' Advances in neural information processing systems , vol. 33, pp. 18433-18444, 2020.",
+      "enumerated": true,
+      "marker": "[21]"
+    },
+    {
+      "self_ref": "#/texts/161",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 315.213,
+            "t": 387.6626525999994,
+            "r": 558.9907365999997,
+            "b": 355.1997743929197,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            155
+          ]
+        }
+      ],
+      "orig": "[22] Simon J\u00b4 egou et al., 'The one hundred layers tiramisu: Fully convolutional densenets for semantic segmentation,' in CVPR workshops , 2017, pp. 11-19.",
+      "text": "Simon J\u00b4 egou et al., 'The one hundred layers tiramisu: Fully convolutional densenets for semantic segmentation,' in CVPR workshops , 2017, pp. 11-19.",
+      "enumerated": true,
+      "marker": "[22]"
+    },
+    {
+      "self_ref": "#/texts/162",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 315.21299999999997,
+            "t": 345.0606525999994,
+            "r": 558.9878593999995,
+            "b": 324.55277439291973,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            106
+          ]
+        }
+      ],
+      "orig": "[23] Guilherme Potje et al., 'Xfeat: Accelerated features for lightweight image matching,' in CVPR , 2024.",
+      "text": "Guilherme Potje et al., 'Xfeat: Accelerated features for lightweight image matching,' in CVPR , 2024.",
+      "enumerated": true,
+      "marker": "[23]"
+    },
+    {
+      "self_ref": "#/texts/163",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 315.21299999999997,
+            "t": 314.4136525999994,
+            "r": 558.9878677999998,
+            "b": 281.95077439291975,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            157
+          ]
+        }
+      ],
+      "orig": "[24] Hanna Siebert et al., 'Fast 3d registration with accurate optimisation and little learning for learn2reg 2021,' in MICCAI . Springer, 2021, pp. 174-179.",
+      "text": "Hanna Siebert et al., 'Fast 3d registration with accurate optimisation and little learning for learn2reg 2021,' in MICCAI . Springer, 2021, pp. 174-179.",
+      "enumerated": true,
+      "marker": "[24]"
+    },
+    {
+      "self_ref": "#/texts/164",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 315.21299999999997,
+            "t": 271.81165259999943,
+            "r": 558.9926499999999,
+            "b": 239.3497743929198,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            145
+          ]
+        }
+      ],
+      "orig": "[25] Tom Vercauteren et al., 'Diffeomorphic demons: Efficient non-parametric image registration,' NeuroImage , vol. 45, no. 1, pp. S61-S72, 2009.",
+      "text": "Tom Vercauteren et al., 'Diffeomorphic demons: Efficient non-parametric image registration,' NeuroImage , vol. 45, no. 1, pp. S61-S72, 2009.",
+      "enumerated": true,
+      "marker": "[25]"
+    },
+    {
+      "self_ref": "#/texts/165",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 315.2129999999999,
+            "t": 229.20965259999946,
+            "r": 558.9968971999999,
+            "b": 184.7917743929197,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            189
+          ]
+        }
+      ],
+      "orig": "[26] Bernd Pompe et al., 'Using mutual information to measure coupling in the cardiorespiratory system,' IEEE Engineering in Medicine and Biology Magazine , vol. 17, no. 6, pp. 32-39, 1998.",
+      "text": "Bernd Pompe et al., 'Using mutual information to measure coupling in the cardiorespiratory system,' IEEE Engineering in Medicine and Biology Magazine , vol. 17, no. 6, pp. 32-39, 1998.",
+      "enumerated": true,
+      "marker": "[26]"
+    },
+    {
+      "self_ref": "#/texts/166",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 315.2129999999999,
+            "t": 176.96365259999948,
+            "r": 558.9955678,
+            "b": 130.2347743929197,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            211
+          ]
+        }
+      ],
+      "orig": "[27] Johan \u00a8 Ofverstedt et al., 'Fast computation of mutual information in the frequency domain with applications to global multimodal image alignment,' Pattern Recognition Letters , vol. 159, pp. 196-203, 2022.",
+      "text": "Johan \u00a8 Ofverstedt et al., 'Fast computation of mutual information in the frequency domain with applications to global multimodal image alignment,' Pattern Recognition Letters , vol. 159, pp. 196-203, 2022.",
+      "enumerated": true,
+      "marker": "[27]"
+    },
+    {
+      "self_ref": "#/texts/167",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 315.21299999999997,
+            "t": 120.09565259999943,
+            "r": 558.9961607999999,
+            "b": 75.67777439291979,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            194
+          ]
+        }
+      ],
+      "orig": "[28] Ken Kobayashi et al., 'B\u00b4 ezier simplex fitting: Describing pareto fronts of simplicial problems with small samples in multi-objective optimization,' in AAAI , 2019, vol. 33, pp. 2304-2313.",
+      "text": "Ken Kobayashi et al., 'B\u00b4 ezier simplex fitting: Describing pareto fronts of simplicial problems with small samples in multi-objective optimization,' in AAAI , 2019, vol. 33, pp. 2304-2313.",
+      "enumerated": true,
+      "marker": "[28]"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 344.88690185546875,
+            "t": 570.3662567138672,
+            "r": 531.4844360351562,
+            "b": 433.0775146484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/11"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        },
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        },
+        {
+          "$ref": "#/texts/47"
+        },
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 57.41935729980469,
+            "t": 719.7358474731445,
+            "r": 296.41302490234375,
+            "b": 587.096435546875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/28"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 55.49876022338867,
+            "t": 719.2664794921875,
+            "r": 294.940673828125,
+            "b": 590.7537689208984,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/79"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/93"
+        },
+        {
+          "$ref": "#/texts/94"
+        },
+        {
+          "$ref": "#/texts/95"
+        },
+        {
+          "$ref": "#/texts/96"
+        },
+        {
+          "$ref": "#/texts/97"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 327.14801025390625,
+            "t": 716.4499664306641,
+            "r": 546.217529296875,
+            "b": 601.1228332519531,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/93"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/117"
+        },
+        {
+          "$ref": "#/texts/118"
+        },
+        {
+          "$ref": "#/texts/119"
+        },
+        {
+          "$ref": "#/texts/120"
+        },
+        {
+          "$ref": "#/texts/121"
+        },
+        {
+          "$ref": "#/texts/122"
+        },
+        {
+          "$ref": "#/texts/123"
+        },
+        {
+          "$ref": "#/texts/124"
+        },
+        {
+          "$ref": "#/texts/125"
+        },
+        {
+          "$ref": "#/texts/126"
+        },
+        {
+          "$ref": "#/texts/127"
+        },
+        {
+          "$ref": "#/texts/128"
+        },
+        {
+          "$ref": "#/texts/129"
+        },
+        {
+          "$ref": "#/texts/130"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 350.2739562988281,
+            "t": 720.1037216186523,
+            "r": 523.1267700195312,
+            "b": 632.294189453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/117"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/109"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 61.07082748413086,
+            "t": 662.9044799804688,
+            "r": 290.6453552246094,
+            "b": 577.2169647216797,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/109"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 66.83776924,
+              "t": 133.27116315978196,
+              "r": 89.97235836449802,
+              "b": 139.65454160989248,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Method",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 175.75847862814604,
+              "t": 133.27116315978196,
+              "r": 207.77210967313604,
+              "b": 139.65454160989248,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "TRE (LM)",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 222.17638454750207,
+              "t": 133.27116315978196,
+              "r": 285.7946455439919,
+              "b": 139.65454160989248,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Best Validation Place",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 66.83776924,
+              "t": 142.491812949782,
+              "r": 105.46978161601001,
+              "b": 148.8751913998924,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Team VROC",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 170.285300358898,
+              "t": 142.25384867720595,
+              "r": 213.25064820549997,
+              "b": 148.8751913998924,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "2.620 \u00b1 1.206",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 247.36877578608394,
+              "t": 142.491812949782,
+              "r": 260.5906656810879,
+              "b": 148.8751913998924,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "36th",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 66.83776924,
+              "t": 151.41613002978204,
+              "r": 114.51242397389802,
+              "b": 157.79950847989244,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Team Yangzhao",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 170.285300358898,
+              "t": 151.178165757206,
+              "r": 213.25064820549997,
+              "b": 157.79950847989244,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "2.578 \u00b1 1.377",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 247.36877578608394,
+              "t": 151.41613002978204,
+              "r": 260.5906656810879,
+              "b": 157.79950847989244,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "34th",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 66.83776924,
+              "t": 160.33970067978203,
+              "r": 101.21617024371402,
+              "b": 166.72307912989254,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Team IWM",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 170.285300358898,
+              "t": 160.1017364072061,
+              "r": 213.25064820549997,
+              "b": 166.72307912989254,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "2.077 \u00b1 1.182",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 249.22787166558396,
+              "t": 160.33970067978203,
+              "r": 258.7315698015879,
+              "b": 166.72307912989254,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "8th",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 66.83776924,
+              "t": 169.26327132978213,
+              "r": 106.58523914371004,
+              "b": 175.64664977989253,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Team meeem",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 170.28530035889804,
+              "t": 169.02530705720596,
+              "r": 213.25064820549997,
+              "b": 175.64664977989253,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "2.032 \u00b1 1.026",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 249.23167189,
+              "t": 169.26327132978201,
+              "r": 258.7353700260039,
+              "b": 175.6466497798924,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "6th",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 66.83776924,
+              "t": 178.484667549782,
+              "r": 101.74415347349202,
+              "b": 184.8680459998925,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "XFeat Only",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 170.285300358898,
+              "t": 178.24670327720605,
+              "r": 213.25064820549997,
+              "b": 184.8680459998925,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "5.939 \u00b1 8.198",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 247.36877578608394,
+              "t": 178.484667549782,
+              "r": 260.5906656810879,
+              "b": 184.8680459998925,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "39th",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 66.83776924,
+              "t": 187.4082381997821,
+              "r": 132.37461718413402,
+              "b": 193.7916166498926,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "XFeat + Ours (CMIF)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 170.28530035889804,
+              "t": 187.17027392720604,
+              "r": 213.25064820549997,
+              "b": 193.7916166498926,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "9.128 \u00b1 1.211",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 247.36877578608394,
+              "t": 187.4082381997821,
+              "r": 260.5906656810879,
+              "b": 193.7916166498926,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "72th",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 66.83776924,
+              "t": 196.33180884978208,
+              "r": 134.02549432513004,
+              "b": 202.71518729989248,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "XFeat + Ours (LNCC)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 170.28530035889804,
+              "t": 196.09384457720603,
+              "r": 213.25064820549997,
+              "b": 202.71518729989248,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "2.361 \u00b1 0.812",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 247.36877578608394,
+              "t": 196.33180884978208,
+              "r": 260.5906656810879,
+              "b": 202.71518729989248,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "20th",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 66.83776924,
+              "t": 205.25537949978207,
+              "r": 161.36164013729805,
+              "b": 211.63875794989258,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "XFeat + Ours (LNCCC+CMIF)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 170.28475651000002,
+              "t": 204.96536054258002,
+              "r": 213.25064820550003,
+              "b": 211.65066932526202,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "1.943 \u00b1 0.765",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 249.64444767999998,
+              "t": 205.25537949978207,
+              "r": 258.32270724550597,
+              "b": 211.63875794989258,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "1st",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 9,
+        "num_cols": 3,
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 66.83776924,
+                "t": 133.27116315978196,
+                "r": 89.97235836449802,
+                "b": 139.65454160989248,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Method",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 175.75847862814604,
+                "t": 133.27116315978196,
+                "r": 207.77210967313604,
+                "b": 139.65454160989248,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "TRE (LM)",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 222.17638454750207,
+                "t": 133.27116315978196,
+                "r": 285.7946455439919,
+                "b": 139.65454160989248,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Best Validation Place",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 66.83776924,
+                "t": 142.491812949782,
+                "r": 105.46978161601001,
+                "b": 148.8751913998924,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Team VROC",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 170.285300358898,
+                "t": 142.25384867720595,
+                "r": 213.25064820549997,
+                "b": 148.8751913998924,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "2.620 \u00b1 1.206",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 247.36877578608394,
+                "t": 142.491812949782,
+                "r": 260.5906656810879,
+                "b": 148.8751913998924,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "36th",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 66.83776924,
+                "t": 151.41613002978204,
+                "r": 114.51242397389802,
+                "b": 157.79950847989244,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Team Yangzhao",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 170.285300358898,
+                "t": 151.178165757206,
+                "r": 213.25064820549997,
+                "b": 157.79950847989244,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "2.578 \u00b1 1.377",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 247.36877578608394,
+                "t": 151.41613002978204,
+                "r": 260.5906656810879,
+                "b": 157.79950847989244,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "34th",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 66.83776924,
+                "t": 160.33970067978203,
+                "r": 101.21617024371402,
+                "b": 166.72307912989254,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Team IWM",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 170.285300358898,
+                "t": 160.1017364072061,
+                "r": 213.25064820549997,
+                "b": 166.72307912989254,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "2.077 \u00b1 1.182",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 249.22787166558396,
+                "t": 160.33970067978203,
+                "r": 258.7315698015879,
+                "b": 166.72307912989254,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "8th",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 66.83776924,
+                "t": 169.26327132978213,
+                "r": 106.58523914371004,
+                "b": 175.64664977989253,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Team meeem",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 170.28530035889804,
+                "t": 169.02530705720596,
+                "r": 213.25064820549997,
+                "b": 175.64664977989253,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "2.032 \u00b1 1.026",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 249.23167189,
+                "t": 169.26327132978201,
+                "r": 258.7353700260039,
+                "b": 175.6466497798924,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "6th",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 66.83776924,
+                "t": 178.484667549782,
+                "r": 101.74415347349202,
+                "b": 184.8680459998925,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "XFeat Only",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 170.285300358898,
+                "t": 178.24670327720605,
+                "r": 213.25064820549997,
+                "b": 184.8680459998925,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "5.939 \u00b1 8.198",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 247.36877578608394,
+                "t": 178.484667549782,
+                "r": 260.5906656810879,
+                "b": 184.8680459998925,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "39th",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 66.83776924,
+                "t": 187.4082381997821,
+                "r": 132.37461718413402,
+                "b": 193.7916166498926,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "XFeat + Ours (CMIF)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 170.28530035889804,
+                "t": 187.17027392720604,
+                "r": 213.25064820549997,
+                "b": 193.7916166498926,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "9.128 \u00b1 1.211",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 247.36877578608394,
+                "t": 187.4082381997821,
+                "r": 260.5906656810879,
+                "b": 193.7916166498926,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "72th",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 66.83776924,
+                "t": 196.33180884978208,
+                "r": 134.02549432513004,
+                "b": 202.71518729989248,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "XFeat + Ours (LNCC)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 170.28530035889804,
+                "t": 196.09384457720603,
+                "r": 213.25064820549997,
+                "b": 202.71518729989248,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "2.361 \u00b1 0.812",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 247.36877578608394,
+                "t": 196.33180884978208,
+                "r": 260.5906656810879,
+                "b": 202.71518729989248,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "20th",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 66.83776924,
+                "t": 205.25537949978207,
+                "r": 161.36164013729805,
+                "b": 211.63875794989258,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "XFeat + Ours (LNCCC+CMIF)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 170.28475651000002,
+                "t": 204.96536054258002,
+                "r": 213.25064820550003,
+                "b": 211.65066932526202,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "1.943 \u00b1 0.765",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 249.64444767999998,
+                "t": 205.25537949978207,
+                "r": 258.32270724550597,
+                "b": 211.63875794989258,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "1st",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 5
+    }
+  }
+}

@@ -1,0 +1,6320 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "2403.05412v2",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 1789782766907833081,
+    "filename": "2403.05412v2.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/texts/81"
+      },
+      {
+        "$ref": "#/texts/82"
+      },
+      {
+        "$ref": "#/texts/83"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/85"
+      },
+      {
+        "$ref": "#/groups/5"
+      },
+      {
+        "$ref": "#/texts/88"
+      },
+      {
+        "$ref": "#/groups/6"
+      },
+      {
+        "$ref": "#/texts/90"
+      },
+      {
+        "$ref": "#/texts/91"
+      },
+      {
+        "$ref": "#/texts/92"
+      },
+      {
+        "$ref": "#/texts/93"
+      },
+      {
+        "$ref": "#/texts/94"
+      },
+      {
+        "$ref": "#/texts/95"
+      },
+      {
+        "$ref": "#/texts/96"
+      },
+      {
+        "$ref": "#/texts/97"
+      },
+      {
+        "$ref": "#/texts/98"
+      },
+      {
+        "$ref": "#/texts/99"
+      },
+      {
+        "$ref": "#/texts/100"
+      },
+      {
+        "$ref": "#/texts/101"
+      },
+      {
+        "$ref": "#/texts/102"
+      },
+      {
+        "$ref": "#/texts/103"
+      },
+      {
+        "$ref": "#/texts/104"
+      },
+      {
+        "$ref": "#/texts/105"
+      },
+      {
+        "$ref": "#/texts/106"
+      },
+      {
+        "$ref": "#/texts/107"
+      },
+      {
+        "$ref": "#/texts/108"
+      },
+      {
+        "$ref": "#/texts/109"
+      },
+      {
+        "$ref": "#/texts/110"
+      },
+      {
+        "$ref": "#/texts/111"
+      },
+      {
+        "$ref": "#/texts/112"
+      },
+      {
+        "$ref": "#/texts/113"
+      },
+      {
+        "$ref": "#/texts/114"
+      },
+      {
+        "$ref": "#/texts/115"
+      },
+      {
+        "$ref": "#/texts/116"
+      },
+      {
+        "$ref": "#/texts/117"
+      },
+      {
+        "$ref": "#/texts/118"
+      },
+      {
+        "$ref": "#/texts/119"
+      },
+      {
+        "$ref": "#/texts/120"
+      },
+      {
+        "$ref": "#/texts/121"
+      },
+      {
+        "$ref": "#/texts/122"
+      },
+      {
+        "$ref": "#/texts/123"
+      },
+      {
+        "$ref": "#/texts/124"
+      },
+      {
+        "$ref": "#/texts/125"
+      },
+      {
+        "$ref": "#/texts/126"
+      },
+      {
+        "$ref": "#/texts/127"
+      },
+      {
+        "$ref": "#/texts/128"
+      },
+      {
+        "$ref": "#/texts/129"
+      },
+      {
+        "$ref": "#/texts/130"
+      },
+      {
+        "$ref": "#/texts/131"
+      },
+      {
+        "$ref": "#/texts/132"
+      },
+      {
+        "$ref": "#/texts/133"
+      },
+      {
+        "$ref": "#/texts/134"
+      },
+      {
+        "$ref": "#/texts/135"
+      },
+      {
+        "$ref": "#/texts/136"
+      },
+      {
+        "$ref": "#/texts/137"
+      },
+      {
+        "$ref": "#/texts/138"
+      },
+      {
+        "$ref": "#/texts/139"
+      },
+      {
+        "$ref": "#/texts/140"
+      },
+      {
+        "$ref": "#/texts/141"
+      },
+      {
+        "$ref": "#/texts/142"
+      },
+      {
+        "$ref": "#/texts/143"
+      },
+      {
+        "$ref": "#/texts/144"
+      },
+      {
+        "$ref": "#/texts/145"
+      },
+      {
+        "$ref": "#/texts/146"
+      },
+      {
+        "$ref": "#/texts/147"
+      },
+      {
+        "$ref": "#/texts/148"
+      },
+      {
+        "$ref": "#/texts/149"
+      },
+      {
+        "$ref": "#/texts/150"
+      },
+      {
+        "$ref": "#/texts/151"
+      },
+      {
+        "$ref": "#/texts/152"
+      },
+      {
+        "$ref": "#/texts/153"
+      },
+      {
+        "$ref": "#/texts/154"
+      },
+      {
+        "$ref": "#/texts/155"
+      },
+      {
+        "$ref": "#/texts/156"
+      },
+      {
+        "$ref": "#/texts/157"
+      },
+      {
+        "$ref": "#/texts/158"
+      },
+      {
+        "$ref": "#/texts/159"
+      },
+      {
+        "$ref": "#/texts/160"
+      },
+      {
+        "$ref": "#/texts/161"
+      },
+      {
+        "$ref": "#/texts/162"
+      },
+      {
+        "$ref": "#/texts/163"
+      },
+      {
+        "$ref": "#/texts/164"
+      },
+      {
+        "$ref": "#/texts/165"
+      },
+      {
+        "$ref": "#/texts/166"
+      },
+      {
+        "$ref": "#/texts/167"
+      },
+      {
+        "$ref": "#/texts/168"
+      },
+      {
+        "$ref": "#/texts/169"
+      },
+      {
+        "$ref": "#/texts/170"
+      },
+      {
+        "$ref": "#/texts/171"
+      },
+      {
+        "$ref": "#/texts/172"
+      },
+      {
+        "$ref": "#/groups/7"
+      },
+      {
+        "$ref": "#/texts/193"
+      },
+      {
+        "$ref": "#/texts/194"
+      },
+      {
+        "$ref": "#/texts/195"
+      },
+      {
+        "$ref": "#/groups/8"
+      },
+      {
+        "$ref": "#/texts/196"
+      },
+      {
+        "$ref": "#/groups/9"
+      },
+      {
+        "$ref": "#/texts/197"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/34"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/39"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/46"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/84"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/86"
+        },
+        {
+          "$ref": "#/texts/87"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/89"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/173"
+        },
+        {
+          "$ref": "#/texts/174"
+        },
+        {
+          "$ref": "#/texts/175"
+        },
+        {
+          "$ref": "#/texts/176"
+        },
+        {
+          "$ref": "#/texts/177"
+        },
+        {
+          "$ref": "#/texts/178"
+        },
+        {
+          "$ref": "#/texts/179"
+        },
+        {
+          "$ref": "#/texts/180"
+        },
+        {
+          "$ref": "#/texts/181"
+        },
+        {
+          "$ref": "#/texts/182"
+        },
+        {
+          "$ref": "#/texts/183"
+        },
+        {
+          "$ref": "#/texts/184"
+        },
+        {
+          "$ref": "#/texts/185"
+        },
+        {
+          "$ref": "#/texts/186"
+        },
+        {
+          "$ref": "#/texts/187"
+        },
+        {
+          "$ref": "#/texts/188"
+        },
+        {
+          "$ref": "#/texts/189"
+        },
+        {
+          "$ref": "#/texts/190"
+        },
+        {
+          "$ref": "#/texts/191"
+        },
+        {
+          "$ref": "#/texts/192"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 610.3000000000001,
+            "r": 36.206559297218156,
+            "b": 247.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "arXiv:2403.05412v2  [math.OC]  9 Apr 2025",
+      "text": "arXiv:2403.05412v2  [math.OC]  9 Apr 2025",
+      "hyperlink": "http://arxiv.org/abs/2403.05412v2"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.7199,
+            "t": 692.9345518,
+            "r": 536.3238928181589,
+            "b": 669.2136358402857,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            90
+          ]
+        }
+      ],
+      "orig": "ON CLASSICAL SOLUTIONS AND CANONICAL TRANSFORMATIONS FOR HAMILTON-JACOBI-BELLMAN EQUATIONS",
+      "text": "ON CLASSICAL SOLUTIONS AND CANONICAL TRANSFORMATIONS FOR HAMILTON-JACOBI-BELLMAN EQUATIONS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 207.7199,
+            "t": 649.5000880800001,
+            "r": 404.3508672502477,
+            "b": 638.7800239733334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "MOHIT BANSIL AND ALP \u00b4 AR R. M \u00b4 ESZ \u00b4 AROS",
+      "text": "MOHIT BANSIL AND ALP \u00b4 AR R. M \u00b4 ESZ \u00b4 AROS"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 100.67976600000003,
+            "t": 619.25982808,
+            "r": 511.35931758803474,
+            "b": 588.7402239733334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            255
+          ]
+        }
+      ],
+      "orig": "Abstract. In this note we show how canonical transformations reveal hidden convexity properties for deterministic optimal control problems, which in turn result in global existence of C 1 , 1 loc solutions to first order Hamilton-Jacobi-Bellman equations.",
+      "text": "Abstract. In this note we show how canonical transformations reveal hidden convexity properties for deterministic optimal control problems, which in turn result in global existence of C 1 , 1 loc solutions to first order Hamilton-Jacobi-Bellman equations."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 261.95976600000006,
+            "t": 548.542125,
+            "r": 350.246986954534,
+            "b": 537.6330250000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "1. Introduction",
+      "text": "1. Introduction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 64.79966600000003,
+            "t": 530.49121744,
+            "r": 547.0146724273264,
+            "b": 505.23302500000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            175
+          ]
+        }
+      ],
+      "orig": "For given data H : R d \u00d7 R d \u2192 R and G : R d \u2192 R and time horizon T > 0 let us consider the following Cauchy problem associated with the Hamilton-Jacobi-Bellman (HJB) equation",
+      "text": "For given data H : R d \u00d7 R d \u2192 R and G : R d \u2192 R and time horizon T > 0 let us consider the following Cauchy problem associated with the Hamilton-Jacobi-Bellman (HJB) equation"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 64.79994600000003,
+            "t": 498.45134744,
+            "r": 421.9417267,
+            "b": 464.96769400000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            106
+          ]
+        }
+      ],
+      "orig": "(1.1) { \u2202 t u ( t, x ) + H ( x, \u2202 x u ) = 0 , ( t, x ) \u2208 (0 , T ) \u00d7 R d , u ( T, x ) = G ( x ) , x \u2208 R d .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 64.79999599999996,
+            "t": 464.81075854000005,
+            "r": 547.1788826549041,
+            "b": 426.51305500000007,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            294
+          ]
+        }
+      ],
+      "orig": "For convenience we will assume that H \u2208 C 2 ( R d \u00d7 R d ) and G \u2208 C 2 ( R d ), and the second derivatives of these functions are uniformly bounded. Suppose that H is convex in its second variable, so that this can be seen as the Legendre-Fenchel transform of a Lagrangian function, i.e. we have",
+      "text": "For convenience we will assume that H \u2208 C 2 ( R d \u00d7 R d ) and G \u2208 C 2 ( R d ), and the second derivatives of these functions are uniformly bounded. Suppose that H is convex in its second variable, so that this can be seen as the Legendre-Fenchel transform of a Lagrangian function, i.e. we have"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 64.80009599999994,
+            "t": 418.5819750000001,
+            "r": 384.38081669999985,
+            "b": 392.46877495000007,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "(1.2) H ( x, p ) = sup v \u2208 R d { p \u00b7 v -L ( x, -v ) } ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 64.7998559999998,
+            "t": 391.7306785400001,
+            "r": 547.2653108816759,
+            "b": 353.4329750000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            256
+          ]
+        }
+      ],
+      "orig": "for some L \u2208 C 2 ( R d \u00d7 R d ) given. For convenience, we also assume that L is convex in its second variable. In this case (1.1) corresponds to a variational problem. Indeed, it is well-known that under suitable assumptions we have that the value function",
+      "text": "for some L \u2208 C 2 ( R d \u00d7 R d ) given. For convenience, we also assume that L is convex in its second variable. In this case (1.1) corresponds to a variational problem. Indeed, it is well-known that under suitable assumptions we have that the value function"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 64.7998559999998,
+            "t": 347.2508174400001,
+            "r": 437.43231273637383,
+            "b": 314.10851495000014,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            102
+          ]
+        }
+      ],
+      "orig": "(1.3) u ( t, x ) := inf \u03b3 :[ t,T ] \u2192 R d : \u03b3 ( t )= x \u222b T t L ( \u03b3 ( s ) , \u02d9 \u03b3 ( s ))d s + G ( \u03b3 ( T ))",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 64.7995659999998,
+            "t": 311.7818450000001,
+            "r": 546.9492392003533,
+            "b": 287.9129450000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            195
+          ]
+        }
+      ],
+      "orig": "is the unique viscosity solution to (1.1). This solution is locally Lipschitz continuous and locally semi-concave with a linear modulus of continuity (cf. [CS04, Theorem 7.4.12, Theorem 7.4.14]).",
+      "text": "is the unique viscosity solution to (1.1). This solution is locally Lipschitz continuous and locally semi-concave with a linear modulus of continuity (cf. [CS04, Theorem 7.4.12, Theorem 7.4.14])."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 64.79946599999965,
+            "t": 279.86184500000013,
+            "r": 547.3621324454597,
+            "b": 204.03284499999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            567
+          ]
+        }
+      ],
+      "orig": "It is well-known, however, that the unique viscosity solution u in general develops singularities in finite time, even if H and G are smooth. Examples of finite time singularity formations can be constructed in a relatively straightforward way, see for instance [CS04, Example 1.3.4, Example 6.3.5] or [GM22, Appendix B.4]. More particularly, one can show that for instance for purely quadratic Hamiltonians H ( x, p ) = 1 2 | p | 2 a singularity of u must form in finite time, for any non-convex (and non-constant) G . This fact is documented in [GM23, Theorem 3.1].",
+      "text": "It is well-known, however, that the unique viscosity solution u in general develops singularities in finite time, even if H and G are smooth. Examples of finite time singularity formations can be constructed in a relatively straightforward way, see for instance [CS04, Example 1.3.4, Example 6.3.5] or [GM22, Appendix B.4]. More particularly, one can show that for instance for purely quadratic Hamiltonians H ( x, p ) = 1 2 | p | 2 a singularity of u must form in finite time, for any non-convex (and non-constant) G . This fact is documented in [GM23, Theorem 3.1]."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 64.79939999999999,
+            "t": 201.98174500000005,
+            "r": 547.2434929456925,
+            "b": 139.23264500000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            489
+          ]
+        }
+      ],
+      "orig": "Fine properties of sets of singularities of viscosity solutions have been studied extensively in the literature. Probably the first results on this topic were obtained in [CS87]. For a non-exhaustive list of further works dealing with singularities of solutions we refer the reader to [CS89,AC99,AC99,Yu06, CMS97,CY09,CF91,CF14] and to the review paper [CC21]. Singularity formation is equivalent to the non-uniqueness of optimal trajectories in the variational problem (1.3) (cf. [CS04]).",
+      "text": "Fine properties of sets of singularities of viscosity solutions have been studied extensively in the literature. Probably the first results on this topic were obtained in [CS87]. For a non-exhaustive list of further works dealing with singularities of solutions we refer the reader to [CS89,AC99,AC99,Yu06, CMS97,CY09,CF91,CF14] and to the review paper [CC21]. Singularity formation is equivalent to the non-uniqueness of optimal trajectories in the variational problem (1.3) (cf. [CS04])."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 64.79939999999999,
+            "t": 137.30154500000003,
+            "r": 547.297797454538,
+            "b": 79.16718400000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            433
+          ]
+        }
+      ],
+      "orig": "Therefore, if one is able to ensure uniqueness of optimizers in (1.3), this results in the differentiability of the value function, hence in the existence of a unique classical solution to (1.1). This is precisely the case if L is jointly convex and G is convex, when the dynamics in the control problem is linear. This implies that u ( t, \u00b7 ) inherits the convexity and thus it becomes a C 1 , 1 loc classical solution for arbitrary",
+      "text": "Therefore, if one is able to ensure uniqueness of optimizers in (1.3), this results in the differentiability of the value function, hence in the existence of a unique classical solution to (1.1). This is precisely the case if L is jointly convex and G is convex, when the dynamics in the control problem is linear. This implies that u ( t, \u00b7 ) inherits the convexity and thus it becomes a C 1 , 1 loc classical solution for arbitrary"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 88.6801,
+            "t": 71.52478499999995,
+            "r": 173.43593685295258,
+            "b": 62.56737137999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Date : April 10, 2025.",
+      "text": "Date : April 10, 2025."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 303.84029999999996,
+            "t": 58.49065854000003,
+            "r": 308.07242840999993,
+            "b": 50.903113820000044,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 64.8,
+            "t": 746.81065854,
+            "r": 69.03212841,
+            "b": 739.22311382,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 237.71950656,
+            "t": 748.8508885399999,
+            "r": 374.3022430123549,
+            "b": 739.22311382,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "M. BANSIL AND A.R. M \u00b4 ESZ \u00b4 AROS",
+      "text": "M. BANSIL AND A.R. M \u00b4 ESZ \u00b4 AROS"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 64.79970700000001,
+            "t": 725.421725,
+            "r": 547.123875145754,
+            "b": 701.5528250000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            186
+          ]
+        }
+      ],
+      "orig": "time horizon. This fact and related properties are classical and well documented in the literature, see for instance [CS04, Corollary 7.2.12] and [BE84,GR02,Goe05a,Goe05b,Roc70c,Roc70a].",
+      "text": "time horizon. This fact and related properties are classical and well documented in the literature, see for instance [CS04, Corollary 7.2.12] and [BE84,GR02,Goe05a,Goe05b,Roc70c,Roc70a]."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 64.79970700000001,
+            "t": 694.2217250000001,
+            "r": 547.4300349002419,
+            "b": 588.3261263500002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            730
+          ]
+        }
+      ],
+      "orig": "As evidenced by the aforementioned works, the global existence of classical solutions is more of an exception than the rule in the theory of HJB equations. To the best of our knowledge, beyond the fully convex regime described above, there are no alternative sufficient conditions on the data ( H,G ) (or ( L, G )) which would result in global in time classical well-posedness theory for (1.1) in the class C 1 , 1 loc . Both of the concrete situations of singularity formations mentioned above ([GM22, Appendix B.4] and [GM23, Theorem 3.1]) show precisely how semi-convexity estimates fail in general in finite time, hence this is a particular source of the failure of the global in time well-posedness in the class C 1 , 1 loc .",
+      "text": "As evidenced by the aforementioned works, the global existence of classical solutions is more of an exception than the rule in the theory of HJB equations. To the best of our knowledge, beyond the fully convex regime described above, there are no alternative sufficient conditions on the data ( H,G ) (or ( L, G )) which would result in global in time classical well-posedness theory for (1.1) in the class C 1 , 1 loc . Both of the concrete situations of singularity formations mentioned above ([GM22, Appendix B.4] and [GM23, Theorem 3.1]) show precisely how semi-convexity estimates fail in general in finite time, hence this is a particular source of the failure of the global in time well-posedness in the class C 1 , 1 loc ."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 64.80030699999975,
+            "t": 583.5817250000002,
+            "r": 547.3640357091598,
+            "b": 546.7526250000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            226
+          ]
+        }
+      ],
+      "orig": "In this manuscript we show that a special class of linear canonical transformations can reveal new global well-posedness theories. Let us describe the philosophy behind our approach. Let \u03b1 \u2208 R be given. Then the transformation",
+      "text": "In this manuscript we show that a special class of linear canonical transformations can reveal new global well-posedness theories. Let us describe the philosophy behind our approach. Let \u03b1 \u2208 R be given. Then the transformation"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 233.04030699999976,
+            "t": 541.1709174400003,
+            "r": 378.8722077999997,
+            "b": 520.5270640000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "R d \u00d7 R d /owner ( x, p ) \u21a6\u2192 ( x, p -\u03b1x )",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 64.80047699999972,
+            "t": 521.0617250000003,
+            "r": 547.1241095362197,
+            "b": 484.23262500000027,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            235
+          ]
+        }
+      ],
+      "orig": "is a so-called canonical transformation on the phase space, which preserves the structure of Hamilton's equations. Such transformations are well-known in classical mechanics (cf. [Arn89]). We will make use of the following definitions.",
+      "text": "is a so-called canonical transformation on the phase space, which preserves the structure of Hamilton's equations. Such transformations are well-known in classical mechanics (cf. [Arn89]). We will make use of the following definitions."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 64.80047699999972,
+            "t": 476.9015250000003,
+            "r": 365.5525677999997,
+            "b": 458.2469640000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "(1.4) H \u03b1 ( x, p ) := H ( x, p -\u03b1x )",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 64.79983699999968,
+            "t": 458.6617250000003,
+            "r": 82.37439709999968,
+            "b": 447.75262500000025,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "and",
+      "text": "and"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 64.79983699999968,
+            "t": 447.3708456000002,
+            "r": 362.42197070000003,
+            "b": 421.647104,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "(1.5) G \u03b1 ( x ) := G ( x ) + \u03b1 2 | x | 2 .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 64.80015000000003,
+            "t": 419.061865,
+            "r": 479.30280180886723,
+            "b": 408.152765,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            89
+          ]
+        }
+      ],
+      "orig": "Because of the nature of this transformation, we can state the first result of the paper.",
+      "text": "Because of the nature of this transformation, we can state the first result of the paper."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 64.79991999999982,
+            "t": 400.53086744,
+            "r": 547.1780262271998,
+            "b": 367.28740400000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            151
+          ]
+        }
+      ],
+      "orig": "Theorem 1.1. Let \u03b1 \u2208 R . Then u is a classical solution to (1.1) with data ( H,G ) in (0 , T ) \u00d7 R d , if and only if u \u03b1 : (0 , T ) \u00d7 R d , defined as",
+      "text": "Theorem 1.1. Let \u03b1 \u2208 R . Then u is a classical solution to (1.1) with data ( H,G ) in (0 , T ) \u00d7 R d , if and only if u \u03b1 : (0 , T ) \u00d7 R d , defined as"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 243.11967999999982,
+            "t": 371.89097560000005,
+            "r": 368.9015807,
+            "b": 346.287424,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "u \u03b1 ( t, x ) := u ( t, x ) + \u03b1 2 | x | 2 ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 64.79976000000005,
+            "t": 343.05078743999997,
+            "r": 375.74188069999997,
+            "b": 323.007324,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "is a classical solution to (1.1) on (0 , T ) \u00d7 R d with data ( H \u03b1 , G \u03b1 ) .",
+      "text": "is a classical solution to (1.1) on (0 , T ) \u00d7 R d with data ( H \u03b1 , G \u03b1 ) ."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 64.80005999999997,
+            "t": 321.861885,
+            "r": 547.2336897997844,
+            "b": 255.87258500000007,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            465
+          ]
+        }
+      ],
+      "orig": "This theorem has two immediate consequences. First, if we have a global well-posedness theory for (1.1) in the class C 1 , 1 loc with data ( H,G ), we obtain a whole one-parameter family of global well-posedness theories in C 1 , 1 loc with data ( H \u03b1 , G \u03b1 ) \u03b1 \u2208 R . Second, if we are able to find one real number \u03b1 \u2208 R such that (1.1) is globally well-posed for the data ( H \u03b1 , G \u03b1 ), then the original problem with data ( H,G ) must also be globally well-posed.",
+      "text": "This theorem has two immediate consequences. First, if we have a global well-posedness theory for (1.1) in the class C 1 , 1 loc with data ( H,G ), we obtain a whole one-parameter family of global well-posedness theories in C 1 , 1 loc with data ( H \u03b1 , G \u03b1 ) \u03b1 \u2208 R . Second, if we are able to find one real number \u03b1 \u2208 R such that (1.1) is globally well-posed for the data ( H \u03b1 , G \u03b1 ), then the original problem with data ( H,G ) must also be globally well-posed."
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 64.80108999999999,
+            "t": 253.82188500000007,
+            "r": 547.24438392689,
+            "b": 176.312585,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            614
+          ]
+        }
+      ],
+      "orig": "It turns out that this second consequence will be the one revealing genuine new global in time wellposedness theories for (1.1) in the class C 1 , 1 loc . Therefore, as our second main result (formulated in Theorem 3.4 below), we have identified sufficient conditions on ( H,G ) which imply that for some precise \u03b1 \u2208 R , the transformed data ( H \u03b1 , G \u03b1 ) (or the corresponding ( L \u03b1 , G \u03b1 )) fall into the well-known fully convex regime, and therefore this gives the global well-posedness of (1.1) in C 1 , 1 loc with the original data ( H,G ). A direct corollary of our main results can be summarized as follows.",
+      "text": "It turns out that this second consequence will be the one revealing genuine new global in time wellposedness theories for (1.1) in the class C 1 , 1 loc . Therefore, as our second main result (formulated in Theorem 3.4 below), we have identified sufficient conditions on ( H,G ) which imply that for some precise \u03b1 \u2208 R , the transformed data ( H \u03b1 , G \u03b1 ) (or the corresponding ( L \u03b1 , G \u03b1 )) fall into the well-known fully convex regime, and therefore this gives the global well-posedness of (1.1) in C 1 , 1 loc with the original data ( H,G ). A direct corollary of our main results can be summarized as follows."
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 64.8016399999998,
+            "t": 168.65047854,
+            "r": 547.0160177105364,
+            "b": 130.51602149999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            220
+          ]
+        }
+      ],
+      "orig": "Corollary 1.2. Let H : R d \u00d7 R d \u2192 R and G : R d \u2192 R be C 2 functions with uniformly bounded second order derivatives. Suppose furthermore that H ( x, \u00b7 ) is strongly convex, uniformly in x . Then, we have the following.",
+      "text": "Corollary 1.2. Let H : R d \u00d7 R d \u2192 R and G : R d \u2192 R be C 2 functions with uniformly bounded second order derivatives. Suppose furthermore that H ( x, \u00b7 ) is strongly convex, uniformly in x . Then, we have the following."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 81.60163999999979,
+            "t": 127.13047854000001,
+            "r": 547.0923965304489,
+            "b": 100.28600634999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            152
+          ]
+        }
+      ],
+      "orig": "(1) There exist a constant C > 0 depending only on \u2016 D 2 G \u2016 \u221e , \u2016 D 2 H \u2016 \u221e , and the lower bound on \u2202 pp H such that (1.1) with data ( \u02dc H,G ) , where",
+      "text": "There exist a constant C > 0 depending only on \u2016 D 2 G \u2016 \u221e , \u2016 D 2 H \u2016 \u221e , and the lower bound on \u2202 pp H such that (1.1) with data ( \u02dc H,G ) , where",
+      "enumerated": true,
+      "marker": "(1)"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 240.72173999999973,
+            "t": 95.18138499999998,
+            "r": 371.30297286362566,
+            "b": 73.76705400000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "\u02dc H ( x, p ) := H ( x, p ) + \u03b1x \u00b7 p,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 101.16215999999969,
+            "t": 75.77032854000004,
+            "r": 501.0996945999995,
+            "b": 54.326854000000026,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            100
+          ]
+        }
+      ],
+      "orig": "is globally well-posed in the class C 1 , 1 loc ([0 , T ] \u00d7 R d ) , for any T > 0 , whenever \u03b1 > C .",
+      "text": "is globally well-posed in the class C 1 , 1 loc ([0 , T ] \u00d7 R d ) , for any T > 0 , whenever \u03b1 > C ."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 206.88,
+            "t": 746.81065854,
+            "r": 405.1424990683562,
+            "b": 739.22311382,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "CLASSICAL SOLUTIONS FOR HJB EQUATIONS",
+      "text": "CLASSICAL SOLUTIONS FOR HJB EQUATIONS"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 542.9998977163561,
+            "t": 746.81065854,
+            "r": 547.2320261263561,
+            "b": 739.22311382,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 81.6,
+            "t": 726.89071854,
+            "r": 547.0907565304491,
+            "b": 700.0466363500001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            152
+          ]
+        }
+      ],
+      "orig": "(2) There exist a constant C > 0 depending only on \u2016 D 2 G \u2016 \u221e , \u2016 D 2 H \u2016 \u221e , and the lower bound on \u2202 pp H such that (1.1) with data ( \u02dc H,G ) , where",
+      "text": "There exist a constant C > 0 depending only on \u2016 D 2 G \u2016 \u221e , \u2016 D 2 H \u2016 \u221e , and the lower bound on \u2202 pp H such that (1.1) with data ( \u02dc H,G ) , where",
+      "enumerated": true,
+      "marker": "(2)"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 240.84001999999992,
+            "t": 693.4105985400001,
+            "r": 371.1819207,
+            "b": 665.847204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "\u02dc H ( x, p ) := H ( x, p ) -\u03b1 | x | 2 2 ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 101.1601,
+            "t": 661.97067854,
+            "r": 501.0976345999998,
+            "b": 640.527204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            100
+          ]
+        }
+      ],
+      "orig": "is globally well-posed in the class C 1 , 1 loc ([0 , T ] \u00d7 R d ) , for any T > 0 , whenever \u03b1 > C .",
+      "text": "is globally well-posed in the class C 1 , 1 loc ([0 , T ] \u00d7 R d ) , for any T > 0 , whenever \u03b1 > C ."
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 64.80000000000001,
+            "t": 638.541965,
+            "r": 547.1133780090107,
+            "b": 578.8470339999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            398
+          ]
+        }
+      ],
+      "orig": "Remark 1.3. We see that suitably modifying the existing data of a Hamilton-Jacobi-Bellman equation can 'convexify' the problem, and in turn this leads to a global in time classical well-posedness theory. Corollary 1.2 shows that this procedure can be done not only by adding the term ( x, p ) \u21a6\u2192-\u03b1 | x | 2 2 to the Hamiltonian, but also by adding ( x, p ) \u21a6\u2192 \u03b1x \u00b7 p to H , for a suitably chosen \u03b1 .",
+      "text": "Remark 1.3. We see that suitably modifying the existing data of a Hamilton-Jacobi-Bellman equation can 'convexify' the problem, and in turn this leads to a global in time classical well-posedness theory. Corollary 1.2 shows that this procedure can be done not only by adding the term ( x, p ) \u21a6\u2192-\u03b1 | x | 2 2 to the Hamiltonian, but also by adding ( x, p ) \u21a6\u2192 \u03b1x \u00b7 p to H , for a suitably chosen \u03b1 ."
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 64.7996599999999,
+            "t": 576.981695,
+            "r": 547.2548837911859,
+            "b": 449.55241500000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            944
+          ]
+        }
+      ],
+      "orig": "Remark 1.4. The attentive reader will notice that we are only using 'upper triangular' canonical transformations, i.e. transformations of the form ( x, p ) \u21a6\u2192 ( x, p -\u03b1x ). The reason for this is that in order for a system of ODEs (in the ( X s , P s ) unknowns) to be the characteristic equations of a HJB equation not only do they need to have a Hamiltonian system structure but the boundary conditions must be of a particular form. Specifically to preserve the structure of boundary condition X 0 = x 0 we need to have the transformation to be upper triangular. From here one could imagine taking a transform ( x, p ) \u21a6\u2192 ( x, p -Ax ) for some constant matrix A . In order to preserve the structure of the condition P T = \u2207 G ( X T ) (specifically that the right-hand side is the gradient of a function) we need that A is symmetric. The choice of A = \u03b1I is taken for simplicity and the same arguments should work with any symmetric matrix A .",
+      "text": "Remark 1.4. The attentive reader will notice that we are only using 'upper triangular' canonical transformations, i.e. transformations of the form ( x, p ) \u21a6\u2192 ( x, p -\u03b1x ). The reason for this is that in order for a system of ODEs (in the ( X s , P s ) unknowns) to be the characteristic equations of a HJB equation not only do they need to have a Hamiltonian system structure but the boundary conditions must be of a particular form. Specifically to preserve the structure of boundary condition X 0 = x 0 we need to have the transformation to be upper triangular. From here one could imagine taking a transform ( x, p ) \u21a6\u2192 ( x, p -Ax ) for some constant matrix A . In order to preserve the structure of the condition P T = \u2207 G ( X T ) (specifically that the right-hand side is the gradient of a function) we need that A is symmetric. The choice of A = \u03b1I is taken for simplicity and the same arguments should work with any symmetric matrix A ."
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 64.80005999999986,
+            "t": 439.94161500000007,
+            "r": 547.2421864903604,
+            "b": 364.23231500000014,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            543
+          ]
+        }
+      ],
+      "orig": "Remark 1.5. Although we illustrate this canonical transformation technique to obtain a classical global well-posedness theory for the HJB equation, the approach works exactly the same for any other features of HJB equations. For example, if one had a result on the structure of the shocks for a HJB equation with data ( H,G ) (e.g. for instance, the points of non-differentiability lie on a smooth curve) then the same result would hold for the transformed data ( H \u03b1 , G \u03b1 ) (in fact the non-differentiability points would be the exact same).",
+      "text": "Remark 1.5. Although we illustrate this canonical transformation technique to obtain a classical global well-posedness theory for the HJB equation, the approach works exactly the same for any other features of HJB equations. For example, if one had a result on the structure of the shocks for a HJB equation with data ( H,G ) (e.g. for instance, the points of non-differentiability lie on a smooth curve) then the same result would hold for the transformed data ( H \u03b1 , G \u03b1 ) (in fact the non-differentiability points would be the exact same)."
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 64.80036999999993,
+            "t": 354.62111500000015,
+            "r": 344.3026636965658,
+            "b": 343.7120150000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "We finish this introduction with some concluding remarks.",
+      "text": "We finish this introduction with some concluding remarks."
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 90.72026999999993,
+            "t": 338.42111500000016,
+            "r": 547.2434056360041,
+            "b": 288.6322150000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            303
+          ]
+        }
+      ],
+      "orig": "\u00b7 In this manuscript, for the simplicity of the exposition, we choose to consider only a simple class of linear canonical transformations of the form R d \u00d7 R d /owner ( x, p ) \u21a6\u2192 ( x, p -\u03b1x ). However, our approach would potentially work for a class of more general nonlinear transformations of the form",
+      "text": "In this manuscript, for the simplicity of the exposition, we choose to consider only a simple class of linear canonical transformations of the form R d \u00d7 R d /owner ( x, p ) \u21a6\u2192 ( x, p -\u03b1x ). However, our approach would potentially work for a class of more general nonlinear transformations of the form",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 222.72048999999993,
+            "t": 286.6505074400002,
+            "r": 389.0614006999999,
+            "b": 266.00665400000025,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "R d \u00d7 R d /owner ( x, p ) \u21a6\u2192 ( x, p -\u2207 \u03d5 ( x )) ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 101.15984999999989,
+            "t": 268.6505074400002,
+            "r": 547.1235460999459,
+            "b": 230.4321150000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            233
+          ]
+        }
+      ],
+      "orig": "for suitable potential functions \u03d5 : R d \u2192 R . While these extensions would not pose conceptual difficulties in our analysis, they would introduce heavy technical computations. Thus, we decided not to pursue these in this manuscript.",
+      "text": "for suitable potential functions \u03d5 : R d \u2192 R . While these extensions would not pose conceptual difficulties in our analysis, they would introduce heavy technical computations. Thus, we decided not to pursue these in this manuscript."
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 90.71964999999989,
+            "t": 228.38101500000016,
+            "r": 547.2542282328149,
+            "b": 178.59171500000025,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            341
+          ]
+        }
+      ],
+      "orig": "\u00b7 Our approach works using only a Hamiltonian perspective, therefore, in particular by working purely with Hamiltonian systems, we believe that similar results could be proven in the case of Hamiltonians which are not necessarily convex in the momentum variable. Again, for simplicity of the exposition, we do not pursue this direction here.",
+      "text": "Our approach works using only a Hamiltonian perspective, therefore, in particular by working purely with Hamiltonian systems, we believe that similar results could be proven in the case of Hamiltonians which are not necessarily convex in the momentum variable. Again, for simplicity of the exposition, we do not pursue this direction here.",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 90.71924999999987,
+            "t": 176.54101500000024,
+            "r": 547.2426156816522,
+            "b": 100.95171500000015,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            478
+          ]
+        }
+      ],
+      "orig": "\u00b7 Canonical transformations are well understood in the case of more general Hamiltonian systems on symplectic manifolds, as these are symplectomorphisms on the cotangent bundle (cf. [Arn89]). Although we consider only a simple Euclidean setting here, we suspect that our ideas could be potentially useful to study solutions of Hamilton-Jacobi-Bellman equations in more general geometric frameworks as well. Such studies would fall outside of the scope of the present manuscript.",
+      "text": "Canonical transformations are well understood in the case of more general Hamiltonian systems on symplectic manifolds, as these are symplectomorphisms on the cotangent bundle (cf. [Arn89]). Although we consider only a simple Euclidean setting here, we suspect that our ideas could be potentially useful to study solutions of Hamilton-Jacobi-Bellman equations in more general geometric frameworks as well. Such studies would fall outside of the scope of the present manuscript.",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 90.71884999999986,
+            "t": 98.90061500000024,
+            "r": 547.1451806454028,
+            "b": 62.071515000000204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            275
+          ]
+        }
+      ],
+      "orig": "\u00b7 It turns out that the canonical transformations considered in this manuscript reveal new deep well-posedness theories in a particular infinite dimensional setting, namely for the master equation in Mean Field Games. These results are detailed in our companion paper [BM24].",
+      "text": "It turns out that the canonical transformations considered in this manuscript reveal new deep well-posedness theories in a particular infinite dimensional setting, namely for the master equation in Mean Field Games. These results are detailed in our companion paper [BM24].",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 64.8,
+            "t": 746.81065854,
+            "r": 69.03212841,
+            "b": 739.22311382,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 237.71950656,
+            "t": 748.8508885399999,
+            "r": 374.3022430123549,
+            "b": 739.22311382,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "M. BANSIL AND A.R. M \u00b4 ESZ \u00b4 AROS",
+      "text": "M. BANSIL AND A.R. M \u00b4 ESZ \u00b4 AROS"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 64.79970700000001,
+            "t": 725.421725,
+            "r": 547.2439980549591,
+            "b": 688.5926250000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            281
+          ]
+        }
+      ],
+      "orig": "The rest of the paper contains two short sections. In Section 2, for pedagogical reasons, we detail the role of the specific canonical transformations from the Lagrangian perspective. Section 3 contains our main results, and this is written purely from the Hamiltonian perspective.",
+      "text": "The rest of the paper contains two short sections. In Section 2, for pedagogical reasons, we detail the role of the specific canonical transformations from the Lagrangian perspective. Section 3 contains our main results, and this is written purely from the Hamiltonian perspective."
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 92.03970700000002,
+            "t": 675.2619250000001,
+            "r": 519.927011500058,
+            "b": 652.0144437000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            84
+          ]
+        }
+      ],
+      "orig": "2. Canonical transformations and classical solutions from the Lagrangian perspective",
+      "text": "2. Canonical transformations and classical solutions from the Lagrangian perspective",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 64.80060700000001,
+            "t": 644.3305285400002,
+            "r": 408.33902274559995,
+            "b": 624.2073640000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "For t \u2208 (0 , T ), consider the functional F t : C 1 (( t, T ); R d ) \u2192 R defined as",
+      "text": "For t \u2208 (0 , T ), consider the functional F t : C 1 (( t, T ); R d ) \u2192 R defined as"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 210.12062699999993,
+            "t": 625.8910374400001,
+            "r": 401.6618476999999,
+            "b": 596.9665063500001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "F t ( \u03b3 ) := \u222b T t L ( \u03b3 ( x ) , \u02d9 \u03b3 ( s ))d s + G ( \u03b3 ( T )) .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 64.80102699999992,
+            "t": 592.941945,
+            "r": 322.8990194996632,
+            "b": 582.0328450000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "Furthermore, we define the set of admissible curves as",
+      "text": "Furthermore, we define the set of admissible curves as"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 64.80048699999986,
+            "t": 556.2220450000001,
+            "r": 206.858253526828,
+            "b": 545.3129450000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "Using this functional, one has",
+      "text": "Using this functional, one has"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 206.88102699999993,
+            "t": 576.53083854,
+            "r": 405.0223076999998,
+            "b": 555.807284,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "Adm t,x := { \u03b3 \u2208 C 1 (( t, T ); R d ) : \u03b3 ( t ) = x } .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 247.68048699999986,
+            "t": 542.541949,
+            "r": 364.2221276999999,
+            "b": 519.30843495,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "u ( t, x ) := inf \u03b3 \u2208 Adm t,x F t ( \u03b3 ) .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 64.79909699999985,
+            "t": 519.6220490000001,
+            "r": 547.3629209546739,
+            "b": 442.83284899999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            594
+          ]
+        }
+      ],
+      "orig": "Differentiability of solutions to (1.1) is deeply linked to the uniqueness of minimizers in the optimal control problem (1.3) (see for instance the discussions in [CS04, Example 1.3.4, Example 6.3.5] or [GM22, Appendix B.4]). In particular, it is well-known that the convexity of the functional \u03b3 \u21a6\u2192F ( \u03b3 ) would imply that u ( t, \u00b7 ) is convex, which in turn would further implies that u is a classical solution to (1.1) in the class C 1 , 1 loc ([0 , T ] \u00d7 R d ) (see [CS04, Theorem 7.4.13]). The convexity of \u03b3 \u21a6\u2192F ( \u03b3 ) can be guaranteed by the joint convexity of L and the convexity of G .",
+      "text": "Differentiability of solutions to (1.1) is deeply linked to the uniqueness of minimizers in the optimal control problem (1.3) (see for instance the discussions in [CS04, Example 1.3.4, Example 6.3.5] or [GM22, Appendix B.4]). In particular, it is well-known that the convexity of the functional \u03b3 \u21a6\u2192F ( \u03b3 ) would imply that u ( t, \u00b7 ) is convex, which in turn would further implies that u is a classical solution to (1.1) in the class C 1 , 1 loc ([0 , T ] \u00d7 R d ) (see [CS04, Theorem 7.4.13]). The convexity of \u03b3 \u21a6\u2192F ( \u03b3 ) can be guaranteed by the joint convexity of L and the convexity of G ."
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 64.79881699999987,
+            "t": 440.781749,
+            "r": 547.3530672786508,
+            "b": 416.912849,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            137
+          ]
+        }
+      ],
+      "orig": "However since the endpoint in the optimization problem, i.e. \u03b3 ( t ) = x , was fixed we could have just as well considered the functional",
+      "text": "However since the endpoint in the optimization problem, i.e. \u03b3 ( t ) = x , was fixed we could have just as well considered the functional"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 199.31965699999992,
+            "t": 416.4109856,
+            "r": 412.7020506999999,
+            "b": 390.687288,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "F t,\u03b1 ( \u03b3 ) := F t ( \u03b3 ) + \u03b1 2 | x | 2 = F t ( \u03b3 ) + \u03b1 2 | \u03b3 ( t ) | 2 ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 64.80022999999994,
+            "t": 387.981855,
+            "r": 307.3643464454651,
+            "b": 369.327294,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "for any \u03b1 \u2208 R . In this case, one would simply have",
+      "text": "for any \u03b1 \u2208 R . In this case, one would simply have"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 64.79983000000004,
+            "t": 374.5308656,
+            "r": 387.98165070000005,
+            "b": 344.34886494999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "u ( t, x ) + \u03b1 2 | x | 2 := inf \u03b3 \u2208 Adm t,x F t,\u03b1 ( \u03b3 ) . (2.1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 64.79983000000004,
+            "t": 342.98198899999994,
+            "r": 547.1237379182743,
+            "b": 319.2330889999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            139
+          ]
+        }
+      ],
+      "orig": "Following a standard idea in classical mechanics we rewrite this new term as the integral of its time derivative and an initial term to get",
+      "text": "Following a standard idea in classical mechanics we rewrite this new term as the integral of its time derivative and an initial term to get"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 139.31973000000005,
+            "t": 313.65140144,
+            "r": 472.472316736374,
+            "b": 253.40613635,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            211
+          ]
+        }
+      ],
+      "orig": "F t,\u03b1 ( \u03b3 ) = \u222b T t L ( \u03b3 ( x ) , \u02d9 \u03b3 ( s )) -d d s ( \u03b1 2 | \u03b3 ( s ) | 2 ) d s + \u03b1 2 | \u03b3 ( T ) | 2 + G ( \u03b3 ( T )) = \u222b T t L ( \u03b3 ( x ) , \u02d9 \u03b3 ( s )) -\u03b1 \u3008 \u03b3 ( s ) , \u02d9 \u03b3 ( s ) \u3009 d s + G ( \u03b3 ( T )) + \u03b1 2 | \u03b3 ( T ) | 2",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 64.79999000000004,
+            "t": 249.50150499999995,
+            "r": 323.3673134725902,
+            "b": 238.59240499999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 64.79997000000009,
+            "t": 212.90150500000004,
+            "r": 167.1273389091001,
+            "b": 201.99240499999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            56,
+            77
+          ]
+        }
+      ],
+      "orig": "Notice now that it is possible to not have convexity of but have convexity of",
+      "text": "Notice now that it is possible to not have convexity of but have convexity of"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 64.79987000000006,
+            "t": 183.26160500000003,
+            "r": 201.89444845442813,
+            "b": 164.6070440000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "for some \u03b1 \u2208 R , even though",
+      "text": "for some \u03b1 \u2208 R , even though"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 279.83999000000006,
+            "t": 231.261705,
+            "r": 332.0617907000001,
+            "b": 212.60714400000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "\u03b3 \u21a6\u2192F t ( \u03b3 ) ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 275.87997000000007,
+            "t": 199.22180500000002,
+            "r": 336.0216907,
+            "b": 180.56724400000007,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "\u03b3 \u21a6\u2192F t,\u03b1 ( \u03b3 ) ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 218.75999000000004,
+            "t": 164.90141300000005,
+            "r": 393.15238080000006,
+            "b": 141.78820495000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "inf \u03b3 \u2208 Adm t,x F t ( \u03b3 ) and inf \u03b3 \u2208 Adm t,x F t,\u03b1 ( \u03b3 )",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 64.79965000000004,
+            "t": 140.73056543999996,
+            "r": 547.1886144815481,
+            "b": 115.11276499999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            133
+          ]
+        }
+      ],
+      "orig": "are the same problems, in that the optimal values differ by the constant \u03b1 2 | x | 2 and in particular they have the same minimizers.",
+      "text": "are the same problems, in that the optimal values differ by the constant \u03b1 2 | x | 2 and in particular they have the same minimizers."
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 64.79975999999994,
+            "t": 113.06166499999995,
+            "r": 547.1674804091881,
+            "b": 54.32690400000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            332
+          ]
+        }
+      ],
+      "orig": "Therefore, it turns out that such transformations could reveal hidden convexity structures on the data, which were not straightforward in the original setting of the problem, and in particular (1.1) would be well-posed in the class C 1 , 1 loc ([0 , T ] \u00d7 R d ), if \u03b3 \u21a6\u2192F t,\u03b1 is convex even if we did not have convexity of \u03b3 \u21a6\u2192F t .",
+      "text": "Therefore, it turns out that such transformations could reveal hidden convexity structures on the data, which were not straightforward in the original setting of the problem, and in particular (1.1) would be well-posed in the class C 1 , 1 loc ([0 , T ] \u00d7 R d ), if \u03b3 \u21a6\u2192F t,\u03b1 is convex even if we did not have convexity of \u03b3 \u21a6\u2192F t ."
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 206.88,
+            "t": 746.81065854,
+            "r": 405.1424990683562,
+            "b": 739.22311382,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "CLASSICAL SOLUTIONS FOR HJB EQUATIONS",
+      "text": "CLASSICAL SOLUTIONS FOR HJB EQUATIONS"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 542.9998977163561,
+            "t": 746.81065854,
+            "r": 547.2320261263561,
+            "b": 739.22311382,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 64.79973000000001,
+            "t": 725.421725,
+            "r": 547.2548330363601,
+            "b": 675.6328250000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            313
+          ]
+        },
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 64.79971999999998,
+            "t": 657.8109174400001,
+            "r": 201.09789211832805,
+            "b": 637.7670640000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            314,
+            344
+          ]
+        }
+      ],
+      "orig": "We also have the opposite situation, i.e. when \u03b3 \u21a6\u2192F t is convex, yet \u03b3 \u21a6\u2192F t,\u03b1 is not convex. As the convexity properties of the functionals can be characterized by the convexity of the Lagrangian and final data, it is natural to define the following quantities. For \u03b1 \u2208 R , let L \u03b1 : R d \u00d7 R d \u2192 R be defined as and G \u03b1 : R d \u2192 R , defined as",
+      "text": "We also have the opposite situation, i.e. when \u03b3 \u21a6\u2192F t is convex, yet \u03b3 \u21a6\u2192F t,\u03b1 is not convex. As the convexity properties of the functionals can be characterized by the convexity of the Lagrangian and final data, it is natural to define the following quantities. For \u03b1 \u2208 R , let L \u03b1 : R d \u00d7 R d \u2192 R be defined as and G \u03b1 : R d \u2192 R , defined as"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 64.79968999999998,
+            "t": 635.9017250000002,
+            "r": 87.03243579999997,
+            "b": 624.9926250000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "(2.2)",
+      "text": "(2.2)"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 241.43973,
+            "t": 672.7419250000002,
+            "r": 370.0787244,
+            "b": 654.0873640000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "L \u03b1 ( x, v ) := L ( x, v ) -\u03b1x \u00b7 v",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 249.59969,
+            "t": 642.9710456000003,
+            "r": 362.42197070000003,
+            "b": 617.2471039999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "G \u03b1 ( x ) := G ( x ) + \u03b1 2 | x | 2 .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 64.80015000000003,
+            "t": 614.541865,
+            "r": 435.14104896364597,
+            "b": 603.6327650000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "Based on the previous discussion, we can formulate the following proposition.",
+      "text": "Based on the previous discussion, we can formulate the following proposition."
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 64.80015000000003,
+            "t": 594.1306555,
+            "r": 265.7782998543602,
+            "b": 583.8761015,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "Proposition 2.1. We have the following.",
+      "text": "Proposition 2.1. We have the following.",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 83.88025000000003,
+            "t": 580.2909574399999,
+            "r": 547.2102656,
+            "b": 541.34326382,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            252
+          ]
+        }
+      ],
+      "orig": "(i) Let G : R d \u2192 R be convex and let L : R d \u00d7 R d \u2192 R be jointly convex, and suppose furthermore that both G and L have bounded second derivatives. Then, there exists \u03b1 0 \u2208 R such that L \u03b1 is not jointly convex and G \u03b1 is not convex for any \u03b1 < \u03b1 0 .",
+      "text": "(i) Let G : R d \u2192 R be convex and let L : R d \u00d7 R d \u2192 R be jointly convex, and suppose furthermore that both G and L have bounded second derivatives. Then, there exists \u03b1 0 \u2208 R such that L \u03b1 is not jointly convex and G \u03b1 is not convex for any \u03b1 < \u03b1 0 .",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 64.79944999999998,
+            "t": 508.65105744000005,
+            "r": 547.1565728454,
+            "b": 475.6470040000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            221
+          ]
+        }
+      ],
+      "orig": "Proof. (i) Let f : R d \u00d7 R d \u2192 R defined as f ( v, x ) = v \u00b7 x . Direct computation yields that -1 is an eigenvalue of D 2 f (the eigenvector is the (1 , . . . , 1 , -1 , . . . , -1)). Indeed, we see that D 2 f ( x, y ) =",
+      "text": "Proof. (i) Let f : R d \u00d7 R d \u2192 R defined as f ( v, x ) = v \u00b7 x . Direct computation yields that -1 is an eigenvalue of D 2 f (the eigenvector is the (1 , . . . , 1 , -1 , . . . , -1)). Indeed, we see that D 2 f ( x, y ) ="
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 80.51962000000003,
+            "t": 541.5307674400001,
+            "r": 547.0586365165015,
+            "b": 508.52710400000007,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            171
+          ]
+        }
+      ],
+      "orig": "(ii) There exist L : R d \u00d7 R d \u2192 R not jointly convex and G : R d \u2192 R non-convex, such that there for a suitable \u03b1 \u2208 R , L \u03b1 becomes jointly convex and G \u03b1 becomes convex.",
+      "text": "(ii) There exist L : R d \u00d7 R d \u2192 R not jointly convex and G : R d \u2192 R non-convex, such that there for a suitable \u03b1 \u2208 R , L \u03b1 becomes jointly convex and G \u03b1 becomes convex.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 64.80025999999998,
+            "t": 482.35610400000013,
+            "r": 546.9820861907461,
+            "b": 456.1851031000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            116
+          ]
+        }
+      ],
+      "orig": "[ 0 d I d I d 0 d ] , where 0 d and I d stand for the zero matrix and the identity matrix in R d \u00d7 d , respectively.",
+      "text": "[ 0 d I d I d 0 d ] , where 0 d and I d stand for the zero matrix and the identity matrix in R d \u00d7 d , respectively.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 64.80040999999989,
+            "t": 455.81029854000013,
+            "r": 546.9824065909878,
+            "b": 422.72693400000014,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            182
+          ]
+        }
+      ],
+      "orig": "From here the claim follows. Hence for \u03b1 < \u02c6 \u03b1 0 := -\u2016 D 2 L \u2016 \u221e we have that L \u03b1 is not jointly convex. Now let \u03b1 0 := min { \u02c6 \u03b1 0 , -\u2016 \u2202 xx G \u2016 L \u221e } , and then the result follows.",
+      "text": "From here the claim follows. Hence for \u03b1 < \u02c6 \u03b1 0 := -\u2016 D 2 L \u2016 \u221e we have that L \u03b1 is not jointly convex. Now let \u03b1 0 := min { \u02c6 \u03b1 0 , -\u2016 \u2202 xx G \u2016 L \u221e } , and then the result follows."
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 64.79900000000009,
+            "t": 423.0216970000002,
+            "r": 547.1554807000001,
+            "b": 379.6279569500002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            305
+          ]
+        }
+      ],
+      "orig": "(ii) In the previous point we have constructed L \u03b1 and G \u03b1 that are non-convex, but L and G were convex. Now if we apply the same transformation on these new functions with constant -\u03b1 , i.e. ( L \u03b1 ) -\u03b1 and ( G \u03b1 ) -\u03b1 we get back to the original functions which were convex. The statement follows. /square",
+      "text": "(ii) In the previous point we have constructed L \u03b1 and G \u03b1 that are non-convex, but L and G were convex. Now if we apply the same transformation on these new functions with constant -\u03b1 , i.e. ( L \u03b1 ) -\u03b1 and ( G \u03b1 ) -\u03b1 we get back to the original functions which were convex. The statement follows. /square",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 64.7991100000001,
+            "t": 377.0615170000002,
+            "r": 547.12299514562,
+            "b": 352.52583835000024,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            159
+          ]
+        }
+      ],
+      "orig": "The transformations on L , as describe above, translate naturally to the Hamiltonian H . Indeed, we can see that H \u03b1 corresponding to L \u03b1 is defined as in 1.4.",
+      "text": "The transformations on L , as describe above, translate naturally to the Hamiltonian H . Indeed, we can see that H \u03b1 corresponding to L \u03b1 is defined as in 1.4."
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 64.79922000000005,
+            "t": 351.14151700000025,
+            "r": 547.2542874275763,
+            "b": 314.4324170000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            217
+          ]
+        }
+      ],
+      "orig": "It is important to notice that the previous transformation preserves the Hamiltonian structure and the HJB equation. This is what leads precisely to Theorem 1.1, whose proof is straightforward and we present it below.",
+      "text": "It is important to notice that the previous transformation preserves the Hamiltonian structure and the HJB equation. This is what leads precisely to Theorem 1.1, whose proof is straightforward and we present it below."
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 64.79822000000007,
+            "t": 305.30131700000027,
+            "r": 546.8604385366262,
+            "b": 281.43241700000027,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            129
+          ]
+        }
+      ],
+      "orig": "Proof of Theorem 1.1. This result readily follows from the representation formula (2.1). Alternatively, direct computation yields",
+      "text": "Proof of Theorem 1.1. This result readily follows from the representation formula (2.1). Alternatively, direct computation yields"
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 174.7182200000001,
+            "t": 273.9813170000002,
+            "r": 437.1798017000001,
+            "b": 262.4058383500003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "\u2202 t u \u03b1 ( t, x ) = \u2202 t u ( t, x ) and \u2202 x u \u03b1 ( t, x ) = \u2202 x u ( t, x ) + \u03b1x,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 120.95817000000008,
+            "t": 241.94141700000023,
+            "r": 491.0591107,
+            "b": 223.28685600000028,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            105
+          ]
+        }
+      ],
+      "orig": "-\u2202 t u \u03b1 ( t, x ) + H \u03b1 ( x, \u2202 x u \u03b1 ( t, x )) = -\u2202 t u ( t, x ) + H ( x, \u2202 x u ( t, x ) + \u03b1x -\u03b1x ) = 0 ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 263.0382900000001,
+            "t": 212.06131700000026,
+            "r": 348.86009070000006,
+            "b": 200.48583835000022,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "u \u03b1 ( T, x ) = G \u03b1 ( x ) .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 64.79797000000008,
+            "t": 255.62151700000027,
+            "r": 95.81238857260007,
+            "b": 244.7124170000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        },
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 64.79829000000007,
+            "t": 225.86131700000033,
+            "r": 82.37285010000006,
+            "b": 214.95221700000025,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            7,
+            10
+          ]
+        }
+      ],
+      "orig": "and so and",
+      "text": "and so and"
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 64.79827000000006,
+            "t": 195.98121700000024,
+            "r": 152.66017230910003,
+            "b": 185.07211700000028,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "The result follows.",
+      "text": "The result follows."
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 538.6782700000001,
+            "t": 195.29394370000023,
+            "r": 547.1546407000001,
+            "b": 187.79939200000024,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "/square",
+      "text": "/square"
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 64.79817000000014,
+            "t": 176.06131700000026,
+            "r": 547.1436399726524,
+            "b": 152.1920170000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            157
+          ]
+        }
+      ],
+      "orig": "Remark 2.2. Because of the representation formula (2.1), the previous result clearly holds true for viscosity solutions as well (cf. [CS04, Theorem 7.4.14]).",
+      "text": "Remark 2.2. Because of the representation formula (2.1), the previous result clearly holds true for viscosity solutions as well (cf. [CS04, Theorem 7.4.14])."
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 83.39817000000014,
+            "t": 138.7413170000002,
+            "r": 528.554588200065,
+            "b": 115.49383570000032,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            96
+          ]
+        }
+      ],
+      "orig": "3. Canonical transformations and classical solutions from the perspective of Hamiltonian systems",
+      "text": "3. Canonical transformations and classical solutions from the perspective of Hamiltonian systems",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 64.79807000000017,
+            "t": 106.34131700000023,
+            "r": 412.2190873637692,
+            "b": 95.43221700000026,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "Based on [Roc70b, Theorem 33.1], we can formulate the following result.",
+      "text": "Based on [Roc70b, Theorem 33.1], we can formulate the following result."
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 64.79764000000011,
+            "t": 87.57040944000028,
+            "r": 547.0995875091442,
+            "b": 54.32655600000021,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            185
+          ]
+        }
+      ],
+      "orig": "Lemma 3.1. H : R d \u00d7 R d \u2192 R , defined in (1.2) is concave-convex (i.e. H ( \u00b7 , p ) is convex for all p \u2208 R d and H ( x, \u00b7 ) is convex for all x \u2208 R d ) if and only L is jointly convex.",
+      "text": "Lemma 3.1. H : R d \u00d7 R d \u2192 R , defined in (1.2) is concave-convex (i.e. H ( \u00b7 , p ) is convex for all p \u2208 R d and H ( x, \u00b7 ) is convex for all x \u2208 R d ) if and only L is jointly convex."
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 64.8,
+            "t": 746.81065854,
+            "r": 69.03212841,
+            "b": 739.22311382,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "6",
+      "text": "6"
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 237.71950656,
+            "t": 748.8508885399999,
+            "r": 374.3022430123549,
+            "b": 739.22311382,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "M. BANSIL AND A.R. M \u00b4 ESZ \u00b4 AROS",
+      "text": "M. BANSIL AND A.R. M \u00b4 ESZ \u00b4 AROS"
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 64.7996070000001,
+            "t": 725.421725,
+            "r": 547.015497854612,
+            "b": 687.9926250000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            272
+          ]
+        }
+      ],
+      "orig": "From this lemma we see that the global existence of classical solutions to the Hamilton-Jacobi equation (1.1) in the class C 1 , 1 loc , from the Hamiltonian point of view, is intimately linked to the concave-convex properties of H and convexity of the final condition G .",
+      "text": "From this lemma we see that the global existence of classical solutions to the Hamilton-Jacobi equation (1.1) in the class C 1 , 1 loc , from the Hamiltonian point of view, is intimately linked to the concave-convex properties of H and convexity of the final condition G ."
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 64.79952700000013,
+            "t": 680.7377425000001,
+            "r": 455.7488057911312,
+            "b": 660.327264,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "Definition 3.2. For a square matrix A \u2208 R m \u00d7 m , we define the symmetric matrix",
+      "text": "Definition 3.2. For a square matrix A \u2208 R m \u00d7 m , we define the symmetric matrix"
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 257.75961700000016,
+            "t": 663.3818450000001,
+            "r": 354.26167069999997,
+            "b": 637.5927250000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "Re A := 1 2 ( A + A /latticetop ) .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 64.79942999999997,
+            "t": 635.1378025,
+            "r": 547.1124188183142,
+            "b": 609.5125850000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            129
+          ]
+        }
+      ],
+      "orig": "For a symmetric matrix A \u2208 R m \u00d7 m , we denote by \u03bb min ( A ) and \u03bb max ( A ) its smallest and largest eigenvalues, respectively.",
+      "text": "For a symmetric matrix A \u2208 R m \u00d7 m , we denote by \u03bb min ( A ) and \u03bb max ( A ) its smallest and largest eigenvalues, respectively."
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 64.79942999999997,
+            "t": 600.0108755,
+            "r": 193.5812161817501,
+            "b": 589.7563215,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "Lemma 3.3. Suppose that",
+      "text": "Lemma 3.3. Suppose that"
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 64.79942999999997,
+            "t": 584.33055854,
+            "r": 541.7012006999998,
+            "b": 555.6654631,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            157
+          ]
+        }
+      ],
+      "orig": "(3.1) ( w /latticetop Re \u2202 xp H ( x, p ) w ) 2 -( w /latticetop \u2202 pp H ( x, p ) w )( w /latticetop \u2202 xx H ( x, p ) w ) \u2265 0 , \u2200 w \u2208 R d , \u2200 x, p \u2208 R d \u00d7 R d .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 64.79937999999981,
+            "t": 555.8511454999999,
+            "r": 95.3775872999998,
+            "b": 533.7894699999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Define (3.2)",
+      "text": "Define (3.2)"
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 76.79937999999981,
+            "t": 532.3586956,
+            "r": 533.78470432,
+            "b": 493.72754138,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            222
+          ]
+        }
+      ],
+      "orig": "\u03b1 := inf ( x, p, w ) \u2208 R 3 d \u2016 w \u2016 = 1 w /latticetop Re \u2202 xp H ( x, p ) w + \u221a ( w /latticetop Re \u2202 xp H ( x, y ) w ) 2 -( w /latticetop \u2202 pp H ( x, p ) w )( w /latticetop \u2202 xx H ( x, p ) w ) w /latticetop \u2202 pp H ( x, p ) w",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 64.79980000000003,
+            "t": 485.77487069999995,
+            "r": 279.5343071544691,
+            "b": 458.18937999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "Suppose that x \u21a6\u2192 G ( x ) + \u03b1 | x | 2 2 is convex and (3.3)",
+      "text": "Suppose that x \u21a6\u2192 G ( x ) + \u03b1 | x | 2 2 is convex and (3.3)"
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 78.36000000000003,
+            "t": 456.7585856,
+            "r": 532.3443443199998,
+            "b": 416.20755138,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            220
+          ]
+        }
+      ],
+      "orig": "\u03b1 \u2265 sup ( x, p, w ) \u2208 R 3 d \u2016 w \u2016 = 1 w /latticetop Re \u2202 xp H ( x, p ) w -\u221a ( w /latticetop Re \u2202 xp H ( x, p ) w ) 2 -( w /latticetop \u2202 pp H ( x, p ) w )( w /latticetop \u2202 xx H ( x, p ) w ) w /latticetop \u2202 pp H ( x, p ) w",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 64.79956999999996,
+            "t": 408.65063854000005,
+            "r": 548.9561507,
+            "b": 380.912425,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            125
+          ]
+        }
+      ],
+      "orig": "Then the Hamilton-Jacobi equation (1.1) with data ( H,G ) is globally well-posed in the class C 1 , 1 loc ([0 , T ] \u00d7 R d ) .",
+      "text": "Then the Hamilton-Jacobi equation (1.1) with data ( H,G ) is globally well-posed in the class C 1 , 1 loc ([0 , T ] \u00d7 R d ) ."
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 64.79973000000001,
+            "t": 371.901625,
+            "r": 546.9814976998841,
+            "b": 340.04706400000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            195
+          ]
+        }
+      ],
+      "orig": "Proof. Using (1.4) and (2.2) we define H \u03b1 and G \u03b1 with the particular choice of \u03b1 given in the statement. We see that G \u03b1 is convex. Also, we compute for any w \u2208 R d and any ( x, p ) \u2208 R d \u00d7 R d",
+      "text": "Proof. Using (1.4) and (2.2) we define H \u03b1 and G \u03b1 with the particular choice of \u03b1 given in the statement. We see that G \u03b1 is convex. Also, we compute for any w \u2208 R d and any ( x, p ) \u2208 R d \u00d7 R d"
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 64.79971999999978,
+            "t": 321.141785,
+            "r": 547.243323836157,
+            "b": 297.272485,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            167
+          ]
+        }
+      ],
+      "orig": "This expression is a quadratic polynomial in \u03b1 with positive leading coefficient. The conditions of the theorem assure that this polynomial is non-positive at \u03b1 , i.e.",
+      "text": "This expression is a quadratic polynomial in \u03b1 with positive leading coefficient. The conditions of the theorem assure that this polynomial is non-positive at \u03b1 , i.e."
+    },
+    {
+      "self_ref": "#/texts/118",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 71.76002,
+            "t": 341.8575025,
+            "r": 539.7598264999998,
+            "b": 320.84702400000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            158
+          ]
+        }
+      ],
+      "orig": "w /latticetop \u2202 xx H \u03b1 ( x, p ) w = w /latticetop \u2202 xx H ( x, p -\u03b1x ) w -2 \u03b1w /latticetop Re( \u2202 xp H ( x, p -\u03b1x )) w + \u03b1 2 w /latticetop \u2202 pp H ( x, p -\u03b1x ) w",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/119",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 99.59887999999981,
+            "t": 291.2176025,
+            "r": 494.67286079999997,
+            "b": 262.88634634999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            170
+          ]
+        }
+      ],
+      "orig": "w /latticetop Re \u2202 xp H ( x, p ) w -\u221a ( w /latticetop Re \u2202 xp H ( x, p ) w ) 2 -( w /latticetop \u2202 pp H ( x, p ) w )( w /latticetop \u2202 xx H ( x, p ) w ) w \u2202 pp H ( x, p ) w",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/120",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 101.39995999999994,
+            "t": 259.461825,
+            "r": 513.6217807,
+            "b": 214.94181619999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            170
+          ]
+        }
+      ],
+      "orig": "\u2264 \u03b1 w /latticetop Re \u2202 xp H ( x, p ) w + \u221a ( w /latticetop Re \u2202 xp H ( x, p ) w ) 2 -( w /latticetop \u2202 pp H ( x, p ) w )( w /latticetop \u2202 xx H ( x, p ) w ) w \u2202 H x, p w ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/121",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 101.39995999999994,
+            "t": 275.3775025,
+            "r": 340.1126908,
+            "b": 212.94877495000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "/latticetop \u2264 /latticetop pp ( )",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/122",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 64.79996,
+            "t": 207.81108743999994,
+            "r": 267.74166069999995,
+            "b": 187.76762399999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "for all ( x, p ) \u2208 R d \u00d7 R d and for all w \u2208 R d .",
+      "text": "for all ( x, p ) \u2208 R d \u00d7 R d and for all w \u2208 R d ."
+    },
+    {
+      "self_ref": "#/texts/123",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 64.79982999999993,
+            "t": 193.4619849999999,
+            "r": 547.243680790846,
+            "b": 156.752885,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            261
+          ]
+        }
+      ],
+      "orig": "In particular H \u03b1 is concave in x . Furthermore, this particular transformation does not change the convexity of H \u03b1 in the p -variable, as \u2202 pp H \u03b1 ( x, p ) = \u2202 pp H ( x, p -\u03b1x ). The thesis of the lemma follows by Lemma 3.1 and [CS04, Theorem 7.4.13]. /square",
+      "text": "In particular H \u03b1 is concave in x . Furthermore, this particular transformation does not change the convexity of H \u03b1 in the p -variable, as \u2202 pp H \u03b1 ( x, p ) = \u2202 pp H ( x, p -\u03b1x ). The thesis of the lemma follows by Lemma 3.1 and [CS04, Theorem 7.4.13]. /square"
+    },
+    {
+      "self_ref": "#/texts/124",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 64.79982999999993,
+            "t": 147.50178499999993,
+            "r": 403.2218397637689,
+            "b": 136.59268499999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "As a consequence of this lemma, we can formulate the following result.",
+      "text": "As a consequence of this lemma, we can formulate the following result."
+    },
+    {
+      "self_ref": "#/texts/125",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 64.79982999999993,
+            "t": 127.09097550000001,
+            "r": 304.57089606348814,
+            "b": 116.83642149999991,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "Theorem 3.4. We define the following quantities",
+      "text": "Theorem 3.4. We define the following quantities"
+    },
+    {
+      "self_ref": "#/texts/126",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 215.0397299999999,
+            "t": 109.22208499999999,
+            "r": 392.07246229999,
+            "b": 90.86329381999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "\u03bb 0 := inf ( x,p ) R d R d \u03bb min (Re \u2202 xp H ( x, p ))",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/127",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 221.99963999999997,
+            "t": 82.46193499999993,
+            "r": 381.4470742598648,
+            "b": 56.228804949999926,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "\u03bb H := sup ( x,p ) \u2208 R d \u00d7 R d \u03bb max ( \u2202 xx H ( x, p",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/128",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 261.59944999999993,
+            "t": 108.85117559999992,
+            "r": 396.98146069999996,
+            "b": 71.55283499999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "\u2208 \u00d7 , ))",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/129",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 206.88,
+            "t": 746.81065854,
+            "r": 405.1424990683562,
+            "b": 739.22311382,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "CLASSICAL SOLUTIONS FOR HJB EQUATIONS",
+      "text": "CLASSICAL SOLUTIONS FOR HJB EQUATIONS"
+    },
+    {
+      "self_ref": "#/texts/130",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 542.9998977163561,
+            "t": 746.81065854,
+            "r": 547.2320261263561,
+            "b": 739.22311382,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "7",
+      "text": "7"
+    },
+    {
+      "self_ref": "#/texts/131",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 64.79999999999998,
+            "t": 724.9308155,
+            "r": 82.01455979999997,
+            "b": 714.6762615,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "and",
+      "text": "and"
+    },
+    {
+      "self_ref": "#/texts/132",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 64.79939000000002,
+            "t": 686.4108155,
+            "r": 124.58118163629997,
+            "b": 676.1562615,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Suppose that",
+      "text": "Suppose that"
+    },
+    {
+      "self_ref": "#/texts/133",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 241.67999999999998,
+            "t": 710.0619250000001,
+            "r": 370.3412107,
+            "b": 685.9885649500001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "\u03bb G := inf x \u2208 R d \u03bb min ( \u2202 xx G ( x )) .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/134",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 126.47949000000003,
+            "t": 668.236364,
+            "r": 485.42208069999987,
+            "b": 642.0654331,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            90
+          ]
+        }
+      ],
+      "orig": "\u03bb 2 0 \u2265 \u2016 \u2202 pp H \u2016 \u221e \u03bb H and that \u03bb 0 + \u221a \u03bb 2 0 -\u2016 \u2202 pp H \u2016 \u221e \u03bb H + \u2016 \u2202 pp H \u2016 \u221e \u03bb G \u2265 0 .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/135",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 64.80025999999987,
+            "t": 640.5817149999999,
+            "r": 547.2112055999997,
+            "b": 607.7669539999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            176
+          ]
+        }
+      ],
+      "orig": "Furthermore assume that either \u03bb H \u2264 0 or \u03bb 0 \u2265 0 . Then the Hamilton-Jacobi equation (1.1) is globally well-posed, for any T > 0 , in the class C 1 , 1 loc ([0 , T ] \u00d7 R d ) .",
+      "text": "Furthermore assume that either \u03bb H \u2264 0 or \u03bb 0 \u2265 0 . Then the Hamilton-Jacobi equation (1.1) is globally well-posed, for any T > 0 , in the class C 1 , 1 loc ([0 , T ] \u00d7 R d ) ."
+    },
+    {
+      "self_ref": "#/texts/136",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 98.51973999999967,
+            "t": 605.6617149999998,
+            "r": 498.50163034180656,
+            "b": 594.7526149999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            84
+          ]
+        }
+      ],
+      "orig": "We verify the assumptions of Lemma 3.3. First, let us consider the inequality (3.1).",
+      "text": "We verify the assumptions of Lemma 3.3. First, let us consider the inequality (3.1)."
+    },
+    {
+      "self_ref": "#/texts/137",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 64.79969999999963,
+            "t": 581.2574324999998,
+            "r": 547.1018560637258,
+            "b": 547.1672539999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            229
+          ]
+        },
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 64.79966999999954,
+            "t": 525.1417149999997,
+            "r": 153.03256440007766,
+            "b": 514.2326149999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            230,
+            248
+          ]
+        }
+      ],
+      "orig": "If \u03bb H > 0, but \u03bb 0 \u2265 0 we have the following. By definition of \u03bb 0 , w /latticetop Re \u2202 xp H ( x, p ) w \u2265 \u03bb 0 , for all ( x, p ) \u2208 R d \u00d7 R d and for all w \u2208 R d . Since the right-hand side is non-negative we can square to obtain which implies that",
+      "text": "If \u03bb H > 0, but \u03bb 0 \u2265 0 we have the following. By definition of \u03bb 0 , w /latticetop Re \u2202 xp H ( x, p ) w \u2265 \u03bb 0 , for all ( x, p ) \u2208 R d \u00d7 R d and for all w \u2208 R d . Since the right-hand side is non-negative we can square to obtain which implies that"
+    },
+    {
+      "self_ref": "#/texts/138",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 64.79959999999943,
+            "t": 485.0616149999998,
+            "r": 156.62126931799344,
+            "b": 474.15251499999977,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Thus, (3.1) follows.",
+      "text": "Thus, (3.1) follows."
+    },
+    {
+      "self_ref": "#/texts/139",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 64.79929999999939,
+            "t": 465.2616149999998,
+            "r": 547.1774926999105,
+            "b": 441.39231499999977,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            134
+          ]
+        }
+      ],
+      "orig": "We verify the other assumptions in the statement of Lemma 3.3. Let \u03b1 be defined as in (3.2). Just as before, we distinguish two cases.",
+      "text": "We verify the other assumptions in the statement of Lemma 3.3. Let \u03b1 be defined as in (3.2). Just as before, we distinguish two cases."
+    },
+    {
+      "self_ref": "#/texts/140",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 64.79929999999939,
+            "t": 439.3416149999998,
+            "r": 142.70119519999943,
+            "b": 420.6870539999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Case 1. \u03bb H \u2264 0.",
+      "text": "Case 1. \u03bb H \u2264 0."
+    },
+    {
+      "self_ref": "#/texts/141",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 84.83896999999926,
+            "t": 395.8572024999998,
+            "r": 527.1817807,
+            "b": 366.42838495,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            192
+          ]
+        }
+      ],
+      "orig": "\u03b1 \u2265 0 \u2265 w /latticetop Re \u2202 xp H ( x, p ) w -\u221a ( w /latticetop Re \u2202 xp H ( x, p ) w ) 2 -( w /latticetop \u2202 pp H ( x, p ) w )( w /latticetop \u2202 xx H ( x, p ) w ) w /latticetop \u2202 pp H ( x, p ) w ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/142",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 64.79914999999926,
+            "t": 428.1373324999998,
+            "r": 547.1009013635454,
+            "b": 394.04675399999985,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            162
+          ]
+        },
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 64.79995999999994,
+            "t": 359.73088744,
+            "r": 360.02138130879393,
+            "b": 339.687424,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            163,
+            233
+          ]
+        }
+      ],
+      "orig": "In this case we have that ( w /latticetop \u2202 pp H ( x, p ) w )( w /latticetop \u2202 xx H ( x, p ) w ) \u2264 0, for all ( x, p ) \u2208 R d \u00d7 R d and for all w \u2208 R d . Therefore for all ( x, p ) \u2208 R d \u00d7 R d and for all w \u2208 R d . This implies (3.3).",
+      "text": "In this case we have that ( w /latticetop \u2202 pp H ( x, p ) w )( w /latticetop \u2202 xx H ( x, p ) w ) \u2264 0, for all ( x, p ) \u2208 R d \u00d7 R d and for all w \u2208 R d . Therefore for all ( x, p ) \u2208 R d \u00d7 R d and for all w \u2208 R d . This implies (3.3)."
+    },
+    {
+      "self_ref": "#/texts/143",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 64.79983999999993,
+            "t": 346.461885,
+            "r": 168.52365661826,
+            "b": 335.552785,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Furthermore, we have",
+      "text": "Furthermore, we have"
+    },
+    {
+      "self_ref": "#/texts/144",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 78.23963999999994,
+            "t": 328.2382856,
+            "r": 532.4650243199999,
+            "b": 244.60731137999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            402
+          ]
+        }
+      ],
+      "orig": "\u03b1 = inf ( x, p, w ) \u2208 R 3 d \u2016 w \u2016 = 1 w /latticetop Re \u2202 xp H ( x, p ) w + \u221a ( w /latticetop Re \u2202 xp H ( x, y ) w ) 2 -( w /latticetop \u2202 pp H ( x, p ) w )( w /latticetop \u2202 xx H ( x, p ) w ) w /latticetop \u2202 pp H ( x, p ) w \u2265 inf ( x, p, w ) \u2208 R 3 d \u2016 w \u2016 = 1 w /latticetop Re \u2202 xp H ( x, p ) w + \u221a ( w /latticetop Re \u2202 xp H ( x, y ) w ) 2 -\u2016 \u2202 pp H \u2016 \u221e ( w /latticetop \u2202 xx H ( x, p ) w ) \u2016 \u2202 pp H \u2016 \u221e ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/145",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 64.79988,
+            "t": 235.61066854,
+            "r": 547.1567401999998,
+            "b": 194.91276500000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            193
+          ]
+        }
+      ],
+      "orig": "where in the last inequality we have used that the function f : { ( a, b, c ) : c \u2265 0 , b \u2264 0 , a 2 \u2265 bc } \u2192 R defined as f ( a, b, c ) = a + \u221a a 2 -bc c is decreasing in c . Continuing we have",
+      "text": "where in the last inequality we have used that the function f : { ( a, b, c ) : c \u2265 0 , b \u2264 0 , a 2 \u2265 bc } \u2192 R defined as f ( a, b, c ) = a + \u221a a 2 -bc c is decreasing in c . Continuing we have"
+    },
+    {
+      "self_ref": "#/texts/146",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 79.91978,
+            "t": 187.17731249999997,
+            "r": 530.6724908,
+            "b": 57.56746399999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            374
+          ]
+        }
+      ],
+      "orig": "\u03b1 \u2265 inf ( x, p, w ) \u2208 R 3 d \u2016 w \u2016 = 1 w /latticetop Re \u2202 xp H ( x, p ) w + \u221a ( w /latticetop Re \u2202 xp H ( x, y ) w ) 2 -\u2016 \u2202 pp H \u2016 \u221e ( w /latticetop \u2202 xx H ( x, p ) w ) \u2016 \u2202 pp H \u2016 \u221e \u2265 inf ( x, p, w ) \u2208 R 3 d \u2016 w \u2016 = 1 w /latticetop Re \u2202 xp H ( x, p ) w + \u221a ( w /latticetop Re \u2202 xp H ( x, y ) w ) 2 -\u2016 \u2202 pp H \u2016 \u221e \u03bb H \u2016 \u2202 pp H \u2016 \u221e \u2265 \u03bb 0 + \u221a \u03bb 2 0 -\u2016 \u2202 pp H \u2016 \u221e \u03bb H \u2016 \u2202 pp H \u2016 \u221e",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/147",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 64.79973999999964,
+            "t": 605.1708054999998,
+            "r": 275.1809967723407,
+            "b": 574.0469539999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "Proof. If \u03bb H \u2264 0 then (3.1) is fulfilled immediately.",
+      "text": "Proof. If \u03bb H \u2264 0 then (3.1) is fulfilled immediately."
+    },
+    {
+      "self_ref": "#/texts/148",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 203.15992999999958,
+            "t": 547.4175324999998,
+            "r": 408.86149069999954,
+            "b": 526.4070539999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "( w /latticetop Re \u2202 xp H ( x, p ) w ) 2 \u2265 \u03bb 2 0 \u2265 \u2016 \u2202 pp H \u2016 \u221e \u03bb H ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/149",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 163.43946999999952,
+            "t": 507.33743249999975,
+            "r": 448.3414206999994,
+            "b": 486.3269539999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            115
+          ]
+        }
+      ],
+      "orig": "( w /latticetop Re \u2202 xp H ( x, p ) w ) 2 \u2265 ( w /latticetop \u2202 pp H ( x, p ) w )( w /latticetop \u2202 xx H ( x, p ) w ) .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/150",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 64.8,
+            "t": 746.81065854,
+            "r": 69.03212841,
+            "b": 739.22311382,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "8",
+      "text": "8"
+    },
+    {
+      "self_ref": "#/texts/151",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 237.71950656,
+            "t": 748.8508885399999,
+            "r": 374.3022430123549,
+            "b": 739.22311382,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "M. BANSIL AND A.R. M \u00b4 ESZ \u00b4 AROS",
+      "text": "M. BANSIL AND A.R. M \u00b4 ESZ \u00b4 AROS"
+    },
+    {
+      "self_ref": "#/texts/152",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 64.79920699999997,
+            "t": 725.421725,
+            "r": 547.18921,
+            "b": 681.98311382,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            236
+          ]
+        }
+      ],
+      "orig": "where the last inequality is because the function f : { ( a, b ) : b \u2264 0 } \u2192 R defined as f ( a, b ) = a + \u221a a 2 -b is increasing in a . From this, by the assumptions of this theorem it follows that x \u21a6\u2192 G ( x ) + \u03b1 | x | 2 2 is convex.",
+      "text": "where the last inequality is because the function f : { ( a, b ) : b \u2264 0 } \u2192 R defined as f ( a, b ) = a + \u221a a 2 -b is increasing in a . From this, by the assumptions of this theorem it follows that x \u21a6\u2192 G ( x ) + \u03b1 | x | 2 2 is convex."
+    },
+    {
+      "self_ref": "#/texts/153",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 64.79982999999999,
+            "t": 675.621545,
+            "r": 547.069795796187,
+            "b": 644.0071839999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            119
+          ]
+        }
+      ],
+      "orig": "Case 2. \u03bb 0 \u2265 0. We notice that without loss of generality, we may assume also that the inequality \u03bb H \u2265 0 takes place.",
+      "text": "Case 2. \u03bb 0 \u2265 0. We notice that without loss of generality, we may assume also that the inequality \u03bb H \u2265 0 takes place."
+    },
+    {
+      "self_ref": "#/texts/154",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 64.79988999999999,
+            "t": 650.661745,
+            "r": 105.04356208181997,
+            "b": 639.752645,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "We have",
+      "text": "We have"
+    },
+    {
+      "self_ref": "#/texts/155",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 64.79956999999996,
+            "t": 634.83218,
+            "r": 85.34473402867035,
+            "b": 624.8695399999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "(3.4)",
+      "text": "(3.4)"
+    },
+    {
+      "self_ref": "#/texts/156",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 78.23969,
+            "t": 622.1182455999999,
+            "r": 532.4650243199999,
+            "b": 454.7158656,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            491
+          ]
+        }
+      ],
+      "orig": "\u03b1 = inf ( x, p, w ) \u2208 R 3 d \u2016 w \u2016 = 1 w /latticetop Re \u2202 xp H ( x, p ) w + \u221a ( w /latticetop Re \u2202 xp H ( x, y ) w ) 2 -( w /latticetop \u2202 pp H ( x, p ) w )( w /latticetop \u2202 xx H ( x, p ) w ) w /latticetop \u2202 pp H ( x, p ) w \u2265 inf ( x, p, w ) \u2208 R 3 d \u2016 w \u2016 = 1 \u03bb 0 + \u221a \u03bb 2 0 -( w /latticetop \u2202 pp H ( x, p ) w ) \u03bb H w /latticetop \u2202 pp H ( x, p ) w \u2265 inf ( x, p, w ) \u2208 R 3 d \u2016 w \u2016 = 1 \u03bb 0 + \u221a \u03bb 2 0 -\u2016 \u2202 pp H \u2016 \u221e \u03bb H w /latticetop \u2202 pp H ( x, p ) w \u2265 \u03bb 0 + \u221a \u03bb 2 0 -\u2016 \u2202 pp H \u2016 \u221e \u03bb H \u2016 \u2202 pp H \u2016 \u221e",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/157",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 64.79964000000007,
+            "t": 454.341885,
+            "r": 547.2437202002352,
+            "b": 430.472585,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            194
+          ]
+        }
+      ],
+      "orig": "where the last two inequalities follow from \u03bb H \u2265 0 and \u03bb 0 \u2265 0 respectively. We notice also that in the previous chain of inequalities all the quantities under the square root are non-negative.",
+      "text": "where the last two inequalities follow from \u03bb H \u2265 0 and \u03bb 0 \u2265 0 respectively. We notice also that in the previous chain of inequalities all the quantities under the square root are non-negative."
+    },
+    {
+      "self_ref": "#/texts/158",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 64.79964000000007,
+            "t": 429.676504,
+            "r": 547.2548079546199,
+            "b": 392.366964,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            149
+          ]
+        }
+      ],
+      "orig": "Furthermore, we see that \u03bb 0 + \u221a \u03bb 2 0 -\u2016 \u2202 pp H \u2016 \u221e \u03bb H + \u2016 \u2202 pp H \u2016 \u221e \u03bb G \u2265 0 implies that \u03b1 + \u03bb G \u2265 0 and so x \u21a6\u2192 G ( x ) + \u03b1 | x | 2 2 is convex.",
+      "text": "Furthermore, we see that \u03bb 0 + \u221a \u03bb 2 0 -\u2016 \u2202 pp H \u2016 \u221e \u03bb H + \u2016 \u2202 pp H \u2016 \u221e \u03bb G \u2265 0 implies that \u03b1 + \u03bb G \u2265 0 and so x \u21a6\u2192 G ( x ) + \u03b1 | x | 2 2 is convex."
+    },
+    {
+      "self_ref": "#/texts/159",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 64.80010000000001,
+            "t": 405.381805,
+            "r": 547.1783279000001,
+            "b": 372.272525,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            132
+          ]
+        }
+      ],
+      "orig": "Next note that the function f : { ( a, b ) : a, b \u2265 0 , a 2 \u2265 b } \u2192 R defined as f ( a, b ) = a -\u221a a 2 -b is decreasing in a . Hence",
+      "text": "Next note that the function f : { ( a, b ) : a, b \u2265 0 , a 2 \u2265 b } \u2192 R defined as f ( a, b ) = a -\u221a a 2 -b is decreasing in a . Hence"
+    },
+    {
+      "self_ref": "#/texts/160",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 64.79995999999994,
+            "t": 364.41725249999996,
+            "r": 514.7124707999999,
+            "b": 230.847264,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            441
+          ]
+        }
+      ],
+      "orig": "w /latticetop Re \u2202 xp H ( x, p ) w -\u221a ( w /latticetop Re \u2202 xp H ( x, p ) w ) 2 -( w /latticetop \u2202 pp H ( x, p ) w )( w /latticetop \u2202 xx H ( x, p ) w ) w /latticetop \u2202 pp H ( x, p ) w (3.5) \u2264 \u03bb 0 -\u221a \u03bb 2 0 -( w /latticetop \u2202 pp H ( x, p ) w )( w /latticetop \u2202 xx H ( x, p ) w ) w /latticetop \u2202 pp H ( x, p ) w \u2264 \u03bb 0 -\u221a \u03bb 2 0 -( w /latticetop \u2202 pp H ( x, p ) w ) \u03bb H w /latticetop \u2202 pp H ( x, p ) w \u2264 \u03bb 0 -\u221a \u03bb 2 0 -\u2016 \u2202 pp H \u2016 \u221e \u03bb H \u2016 \u2202 pp H \u2016 \u221e",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/161",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 64.80024000000003,
+            "t": 230.45092853999995,
+            "r": 547.2221407000001,
+            "b": 199.88642634999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            227
+          ]
+        }
+      ],
+      "orig": "where the last inequality follows from the fact that the function f : { ( a, b, c ) : a, b, c \u2265 0 , a 2 \u2265 bc } \u2192 R , defined as f ( a, b, c ) = a - \u221a a 2 -bc c is increasing in c . Combining (3.4) and (3.5) we can conclude that",
+      "text": "where the last inequality follows from the fact that the function f : { ( a, b, c ) : a, b, c \u2265 0 , a 2 \u2265 bc } \u2192 R , defined as f ( a, b, c ) = a - \u221a a 2 -bc c is increasing in c . Combining (3.4) and (3.5) we can conclude that"
+    },
+    {
+      "self_ref": "#/texts/162",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 76.79988,
+            "t": 193.59847560000003,
+            "r": 535.1991512799999,
+            "b": 152.92752137999992,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            222
+          ]
+        }
+      ],
+      "orig": "\u03b1 \u2265 sup ( x, p, w ) \u2208 R 3 d \u2016 w \u2016 = 1 w /latticetop Re \u2202 xp H ( x, p ) w -\u221a ( w /latticetop Re \u2202 xp H ( x, y ) w ) 2 -( w /latticetop \u2202 pp H ( x, p ) w )( w /latticetop \u2202 xx H ( x, p ) w ) w /latticetop \u2202 pp H ( x, p ) w ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/163",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 64.79949999999997,
+            "t": 143.90166499999998,
+            "r": 249.98130853622712,
+            "b": 132.992565,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "which completes the proof in this case.",
+      "text": "which completes the proof in this case."
+    },
+    {
+      "self_ref": "#/texts/164",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 64.79949999999997,
+            "t": 108.381665,
+            "r": 346.34127843613487,
+            "b": 97.47256500000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "From this theorem the proof of Corollary 1.2 is immediate.",
+      "text": "From this theorem the proof of Corollary 1.2 is immediate."
+    },
+    {
+      "self_ref": "#/texts/165",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 64.79929999999999,
+            "t": 85.941865,
+            "r": 547.2434242547563,
+            "b": 62.072565000000054,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            115
+          ]
+        }
+      ],
+      "orig": "Proof of Corollary 1.2. We see that if \u03b1 is large enough then the assumptions of Theorem 3.4 are satisfied. /square",
+      "text": "Proof of Corollary 1.2. We see that if \u03b1 is large enough then the assumptions of Theorem 3.4 are satisfied. /square"
+    },
+    {
+      "self_ref": "#/texts/166",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 538.6795,
+            "t": 130.2545917,
+            "r": 547.1558706999999,
+            "b": 122.76004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "/square",
+      "text": "/square"
+    },
+    {
+      "self_ref": "#/texts/167",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 206.88,
+            "t": 746.81065854,
+            "r": 405.1424990683562,
+            "b": 739.22311382,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "CLASSICAL SOLUTIONS FOR HJB EQUATIONS",
+      "text": "CLASSICAL SOLUTIONS FOR HJB EQUATIONS"
+    },
+    {
+      "self_ref": "#/texts/168",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 542.9998977163561,
+            "t": 746.81065854,
+            "r": 547.2320261263561,
+            "b": 739.22311382,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "9",
+      "text": "9"
+    },
+    {
+      "self_ref": "#/texts/169",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 64.79999999999998,
+            "t": 725.421725,
+            "r": 547.264208386959,
+            "b": 610.9526250000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            820
+          ]
+        }
+      ],
+      "orig": "Acknowledgements. The authors are grateful to Wilfrid Gangbo for valuable remarks and constructive comments. MB's work was supported by the National Science Foundation Graduate Research Fellowship under Grant No. DGE-1650604 and by the Air Force Office of Scientific Research under Award No. FA9550-18-1-0502. ARM has been partially supported by the EPSRC New Investigator Award 'Mean Field Games and Master equations' under award no. EP/X020320/1 and by the King Abdullah University of Science and Technology Research Funding (KRF) under award no. ORA2021-CRG10-4674.2. Both authors acknowledge the partial support of the Heilbronn Institute for Mathematical Research and the UKRI/EPSRC Additional Funding Programme for Mathematical Sciences through the focused research grant 'The master equation in Mean Field Games'.",
+      "text": "Acknowledgements. The authors are grateful to Wilfrid Gangbo for valuable remarks and constructive comments. MB's work was supported by the National Science Foundation Graduate Research Fellowship under Grant No. DGE-1650604 and by the Air Force Office of Scientific Research under Award No. FA9550-18-1-0502. ARM has been partially supported by the EPSRC New Investigator Award 'Mean Field Games and Master equations' under award no. EP/X020320/1 and by the King Abdullah University of Science and Technology Research Funding (KRF) under award no. ORA2021-CRG10-4674.2. Both authors acknowledge the partial support of the Heilbronn Institute for Mathematical Research and the UKRI/EPSRC Additional Funding Programme for Mathematical Sciences through the focused research grant 'The master equation in Mean Field Games'."
+    },
+    {
+      "self_ref": "#/texts/170",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 64.80000000000001,
+            "t": 595.1015250000002,
+            "r": 423.6216886178951,
+            "b": 584.1924250000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "Data Availability. We did not make use of or did not generate data sets.",
+      "text": "Data Availability. We did not make use of or did not generate data sets."
+    },
+    {
+      "self_ref": "#/texts/171",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 64.80000000000001,
+            "t": 568.4617250000001,
+            "r": 492.7417875090541,
+            "b": 557.5526250000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            89
+          ]
+        }
+      ],
+      "orig": "Conflict of interest. The authors declare that they do not have any conflict of interest.",
+      "text": "Conflict of interest. The authors declare that they do not have any conflict of interest."
+    },
+    {
+      "self_ref": "#/texts/172",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 274.20000000000005,
+            "t": 539.4107156000001,
+            "r": 338.10552285455805,
+            "b": 529.4943437000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/173",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 64.80000000000004,
+            "t": 520.8046850000001,
+            "r": 547.1356159680321,
+            "b": 500.92737138000007,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            162
+          ]
+        }
+      ],
+      "orig": "[AC99] P. Albano and P. Cannarsa. Structural properties of singularities of semiconcave functions. Ann. Scuola Norm. Sup. Pisa Cl. Sci. (4) , 28(4):719-740, 1999.",
+      "text": "[AC99] P. Albano and P. Cannarsa. Structural properties of singularities of semiconcave functions. Ann. Scuola Norm. Sup. Pisa Cl. Sci. (4) , 28(4):719-740, 1999.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/174",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 64.80020000000007,
+            "t": 499.3014872200001,
+            "r": 547.2668691744972,
+            "b": 468.1400239733334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            225
+          ]
+        }
+      ],
+      "orig": "[Arn89] V. I. Arnol \u2032 d. Mathematical methods of classical mechanics , volume 60 of Graduate Texts in Mathematics . Springer-Verlag, New York, second edition, 1989. Translated from the Russian by K. Vogtmann and A. Weinstein.",
+      "text": "[Arn89] V. I. Arnol \u2032 d. Mathematical methods of classical mechanics , volume 60 of Graduate Texts in Mathematics . Springer-Verlag, New York, second edition, 1989. Translated from the Russian by K. Vogtmann and A. Weinstein.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/175",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 64.80036000000005,
+            "t": 466.0848850000001,
+            "r": 547.2353783000002,
+            "b": 446.1799239733334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            136
+          ]
+        }
+      ],
+      "orig": "[BE84] M. Bardi and L. C. Evans. On Hopf's formulas for solutions of Hamilton-Jacobi equations. Nonlinear Anal. , 8(11):1373-1381, 1984.",
+      "text": "[BE84] M. Bardi and L. C. Evans. On Hopf's formulas for solutions of Hamilton-Jacobi equations. Nonlinear Anal. , 8(11):1373-1381, 1984.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/176",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 64.79996000000015,
+            "t": 443.81992808000007,
+            "r": 547.1506718729422,
+            "b": 424.2474713800001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            149
+          ]
+        }
+      ],
+      "orig": "[BM24] M. Bansil and A.R. M\u00b4 esz\u00b4 aros. Hidden monotonicity and canonical transformations for mean field games and master equations. preprint , 2024.",
+      "text": "[BM24] M. Bansil and A.R. M\u00b4 esz\u00b4 aros. Hidden monotonicity and canonical transformations for mean field games and master equations. preprint , 2024.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/177",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 64.80016000000018,
+            "t": 422.1650850000001,
+            "r": 546.8787213539011,
+            "b": 402.38002397333344,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            126
+          ]
+        }
+      ],
+      "orig": "[CC21] P. Cannarsa and W. Cheng. Singularities of solutions of Hamilton-Jacobi equations. Milan J. Math. , 89(1):187215, 2021.",
+      "text": "[CC21] P. Cannarsa and W. Cheng. Singularities of solutions of Hamilton-Jacobi equations. Milan J. Math. , 89(1):187215, 2021.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/178",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 64.79986000000024,
+            "t": 400.3248850000001,
+            "r": 547.1341806499994,
+            "b": 380.3276713800001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            151
+          ]
+        }
+      ],
+      "orig": "[CF91] P. Cannarsa and H. Frankowska. Some characterizations of optimal trajectories in control theory. SIAM J. Control Optim. , 29(6):1322-1347, 1991.",
+      "text": "[CF91] P. Cannarsa and H. Frankowska. Some characterizations of optimal trajectories in control theory. SIAM J. Control Optim. , 29(6):1322-1347, 1991.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/179",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 64.8000600000003,
+            "t": 378.0599280800001,
+            "r": 547.1156346325006,
+            "b": 358.4874713800001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            185
+          ]
+        }
+      ],
+      "orig": "[CF14] P. Cannarsa and H. Frankowska. From pointwise to local regularity for solutions of Hamilton-Jacobi equations. Calc. Var. Partial Differential Equations , 49(3-4):1061-1074, 2014.",
+      "text": "[CF14] P. Cannarsa and H. Frankowska. From pointwise to local regularity for solutions of Hamilton-Jacobi equations. Calc. Var. Partial Differential Equations , 49(3-4):1061-1074, 2014.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/180",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 64.80006000000026,
+            "t": 356.1002280800001,
+            "r": 546.995324930224,
+            "b": 336.5277713800001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            177
+          ]
+        }
+      ],
+      "orig": "[CMS97] P. Cannarsa, A. Mennucci, and C. Sinestrari. Regularity results for solutions of a class of Hamilton-Jacobi equations. Arch. Rational Mech. Anal. , 140(3):197-223, 1997.",
+      "text": "[CMS97] P. Cannarsa, A. Mennucci, and C. Sinestrari. Regularity results for solutions of a class of Hamilton-Jacobi equations. Arch. Rational Mech. Anal. , 140(3):197-223, 1997.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/181",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 64.79996000000028,
+            "t": 334.2600280800001,
+            "r": 547.2665452034366,
+            "b": 314.5676713800001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            166
+          ]
+        }
+      ],
+      "orig": "[CS87] P. Cannarsa and H.M. Soner. On the singularities of the viscosity solutions to Hamilton-Jacobi-Bellman equations. Indiana Univ. Math. J. , 36(3):501-524, 1987.",
+      "text": "[CS87] P. Cannarsa and H.M. Soner. On the singularities of the viscosity solutions to Hamilton-Jacobi-Bellman equations. Indiana Univ. Math. J. , 36(3):501-524, 1987.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/182",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 64.80016000000023,
+            "t": 312.3003280800001,
+            "r": 547.1515807276332,
+            "b": 292.7278713800001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            166
+          ]
+        }
+      ],
+      "orig": "[CS89] P. Cannarsa and H.M. Soner. Generalized one-sided estimates for solutions of Hamilton-Jacobi equations and applications. Nonlinear Anal. , 13(3):305-323, 1989.",
+      "text": "[CS89] P. Cannarsa and H.M. Soner. Generalized one-sided estimates for solutions of Hamilton-Jacobi equations and applications. Nonlinear Anal. , 13(3):305-323, 1989.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/183",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 64.80006000000023,
+            "t": 290.6450850000001,
+            "r": 547.1474286071256,
+            "b": 259.9405239733335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            237
+          ]
+        }
+      ],
+      "orig": "[CS04] P. Cannarsa and C. Sinestrari. Semiconcave functions, Hamilton-Jacobi equations, and optimal control , volume 58 of Progress in Nonlinear Differential Equations and their Applications . Birkh\u00a8 auser Boston, Inc., Boston, MA, 2004.",
+      "text": "[CS04] P. Cannarsa and C. Sinestrari. Semiconcave functions, Hamilton-Jacobi equations, and optimal control , volume 58 of Progress in Nonlinear Differential Equations and their Applications . Birkh\u00a8 auser Boston, Inc., Boston, MA, 2004.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/184",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 64.80056000000023,
+            "t": 257.88538500000016,
+            "r": 546.8801137175212,
+            "b": 237.98042397333347,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            123
+          ]
+        }
+      ],
+      "orig": "[CY09] P. Cannarsa and Y. Yu. Singular dynamics for semiconcave functions. J. Eur. Math. Soc. (JEMS) , 11(5):9991024, 2009.",
+      "text": "[CY09] P. Cannarsa and Y. Yu. Singular dynamics for semiconcave functions. J. Eur. Math. Soc. (JEMS) , 11(5):9991024, 2009.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/185",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 64.80056000000023,
+            "t": 235.62042808000012,
+            "r": 547.0584859736767,
+            "b": 216.04797138000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            196
+          ]
+        }
+      ],
+      "orig": "[GM22] W. Gangbo and A.R. M\u00b4 esz\u00b4 aros. Global well-posedness of master equations for deterministic displacement convex potential mean field games. Comm. Pure Appl. Math. , 75(12):2685-2801, 2022.",
+      "text": "[GM22] W. Gangbo and A.R. M\u00b4 esz\u00b4 aros. Global well-posedness of master equations for deterministic displacement convex potential mean field games. Comm. Pure Appl. Math. , 75(12):2685-2801, 2022.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/186",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 64.80056000000025,
+            "t": 213.96558500000015,
+            "r": 547.2370783000003,
+            "b": 194.1805239733335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            129
+          ]
+        }
+      ],
+      "orig": "[GM23] P.J. Graber and A.R. M\u00b4 esz\u00b4 aros. On monotonicity conditions for mean field games. J. Funct. Anal. , 285(9):110095, 2023.",
+      "text": "[GM23] P.J. Graber and A.R. M\u00b4 esz\u00b4 aros. On monotonicity conditions for mean field games. J. Funct. Anal. , 285(9):110095, 2023.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/187",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 64.80066000000032,
+            "t": 192.12538500000005,
+            "r": 546.8808535468011,
+            "b": 172.22082397333338,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            124
+          ]
+        }
+      ],
+      "orig": "[Goe05a] R. Goebel. Convex optimal control problems with smooth Hamiltonians. SIAM J. Control Optim. , 43(5):17871811, 2005.",
+      "text": "[Goe05a] R. Goebel. Convex optimal control problems with smooth Hamiltonians. SIAM J. Control Optim. , 43(5):17871811, 2005.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/188",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 64.8000600000003,
+            "t": 170.16568500000005,
+            "r": 547.1359000275837,
+            "b": 150.28797138000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            153
+          ]
+        }
+      ],
+      "orig": "[Goe05b] R. Goebel. Duality and uniqueness of convex solutions to stationary Hamilton-Jacobi equations. Trans. Amer. Math. Soc. , 357(6):2187-2203, 2005.",
+      "text": "[Goe05b] R. Goebel. Duality and uniqueness of convex solutions to stationary Hamilton-Jacobi equations. Trans. Amer. Math. Soc. , 357(6):2187-2203, 2005.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/189",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 64.80006000000024,
+            "t": 147.90072808000014,
+            "r": 547.1455833886831,
+            "b": 128.4209239733334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            202
+          ]
+        }
+      ],
+      "orig": "[GR02] R. Goebel and R. T. Rockafellar. Generalized conjugacy in Hamiltonian-Jacobi theory for fully convex Lagrangians. volume 9, pages 463-473. 2002. Special issue on optimization (Montpellier, 2000).",
+      "text": "[GR02] R. Goebel and R. T. Rockafellar. Generalized conjugacy in Hamiltonian-Jacobi theory for fully convex Lagrangians. volume 9, pages 463-473. 2002. Special issue on optimization (Montpellier, 2000).",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/190",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 64.80006000000026,
+            "t": 126.36578500000007,
+            "r": 547.1357072515918,
+            "b": 106.36817138000015,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            146
+          ]
+        }
+      ],
+      "orig": "[Roc70a] R. T. Rockafellar. Conjugate convex functions in optimal control and the calculus of variations. J. Math. Anal. Appl. , 32:174-222, 1970.",
+      "text": "[Roc70a] R. T. Rockafellar. Conjugate convex functions in optimal control and the calculus of variations. J. Math. Anal. Appl. , 32:174-222, 1970.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/191",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 64.80006000000023,
+            "t": 104.40568500000006,
+            "r": 547.2354690676111,
+            "b": 84.62102397333342,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            127
+          ]
+        }
+      ],
+      "orig": "[Roc70b] R.T. Rockafellar. Convex analysis . Princeton Mathematical Series. Princeton University Press, Princeton, N. J., 1970.",
+      "text": "[Roc70b] R.T. Rockafellar. Convex analysis . Princeton Mathematical Series. Princeton University Press, Princeton, N. J., 1970.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/192",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 64.80026000000025,
+            "t": 82.44558500000005,
+            "r": 546.8801154355632,
+            "b": 62.66092397333341,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            129
+          ]
+        }
+      ],
+      "orig": "[Roc70c] R.T. Rockafellar. Generalized Hamiltonian equations for convex problems of Lagrange. Pacific J. Math. , 33:411427, 1970.",
+      "text": "[Roc70c] R.T. Rockafellar. Generalized Hamiltonian equations for convex problems of Lagrange. Pacific J. Math. , 33:411427, 1970.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/193",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 64.8,
+            "t": 746.81065854,
+            "r": 73.2321279516713,
+            "b": 739.22311382,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "10",
+      "text": "10"
+    },
+    {
+      "self_ref": "#/texts/194",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 237.7200551426713,
+            "t": 748.8508885399999,
+            "r": 374.3022430123549,
+            "b": 739.22311382,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "M. BANSIL AND A.R. M \u00b4 ESZ \u00b4 AROS",
+      "text": "M. BANSIL AND A.R. M \u00b4 ESZ \u00b4 AROS"
+    },
+    {
+      "self_ref": "#/texts/195",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 64.79970700000001,
+            "t": 723.964685,
+            "r": 547.1350831249337,
+            "b": 704.08737138,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            170
+          ]
+        }
+      ],
+      "orig": "[Yu06] Y. Yu. A simple proof of the propagation of singularities for solutions of Hamilton-Jacobi equations. Ann. Sc. Norm. Super. Pisa Cl. Sci. (5) , 5(4):439-444, 2006.",
+      "text": "[Yu06] Y. Yu. A simple proof of the propagation of singularities for solutions of Hamilton-Jacobi equations. Ann. Sc. Norm. Super. Pisa Cl. Sci. (5) , 5(4):439-444, 2006."
+    },
+    {
+      "self_ref": "#/texts/196",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 76.79970699999998,
+            "t": 692.10012808,
+            "r": 490.5290894664485,
+            "b": 672.52767138,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            122
+          ]
+        }
+      ],
+      "orig": "Department of Mathematics, University of California, Los Angeles, CA 90095-1555, USA Email address : mbansil@math.ucla.edu",
+      "text": "Department of Mathematics, University of California, Los Angeles, CA 90095-1555, USA Email address : mbansil@math.ucla.edu"
+    },
+    {
+      "self_ref": "#/texts/197",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 76.799667,
+            "t": 662.58022808,
+            "r": 471.4785817626514,
+            "b": 643.00737138,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            123
+          ]
+        }
+      ],
+      "orig": "Department of Mathematical Sciences, University of Durham, Durham DH1 3LE, UK Email address : alpar.r.meszaros@durham.ac.uk",
+      "text": "Department of Mathematical Sciences, University of Durham, Durham DH1 3LE, UK Email address : alpar.r.meszaros@durham.ac.uk"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 7
+    },
+    "8": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 8
+    },
+    "9": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 9
+    },
+    "10": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 10
+    }
+  }
+}

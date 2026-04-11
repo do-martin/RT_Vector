@@ -1,0 +1,3138 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "2412.03227v2",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 14368116311640247267,
+    "filename": "2412.03227v2.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/texts/81"
+      },
+      {
+        "$ref": "#/texts/82"
+      },
+      {
+        "$ref": "#/texts/83"
+      },
+      {
+        "$ref": "#/texts/84"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/98"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/85"
+        },
+        {
+          "$ref": "#/texts/86"
+        },
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        },
+        {
+          "$ref": "#/texts/90"
+        },
+        {
+          "$ref": "#/texts/91"
+        },
+        {
+          "$ref": "#/texts/92"
+        },
+        {
+          "$ref": "#/texts/93"
+        },
+        {
+          "$ref": "#/texts/94"
+        },
+        {
+          "$ref": "#/texts/95"
+        },
+        {
+          "$ref": "#/texts/96"
+        },
+        {
+          "$ref": "#/texts/97"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 614.0600000000001,
+            "r": 36.206559297218156,
+            "b": 243.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "arXiv:2412.03227v2  [econ.GN]  28 Feb 2025",
+      "text": "arXiv:2412.03227v2  [econ.GN]  28 Feb 2025",
+      "hyperlink": "http://arxiv.org/abs/2412.03227v2"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 151.2,
+            "t": 708.2424948,
+            "r": 446.66486239930384,
+            "b": 689.6699373937322,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "Never-ending Search for Innovation",
+      "text": "Never-ending Search for Innovation",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 188.51989999999998,
+            "t": 666.6219126400001,
+            "r": 414.06121999999993,
+            "b": 621.4741850181297,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "Jean-Michel Benkert and Igor Letina \u2217 February 2025",
+      "text": "Jean-Michel Benkert and Igor Letina \u2217 February 2025"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 274.9197,
+            "t": 571.7474491000002,
+            "r": 322.48320155258193,
+            "b": 561.9292591000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Abstract",
+      "text": "Abstract",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 101.27969999999999,
+            "t": 548.2820946000002,
+            "r": 496.3035451137309,
+            "b": 471.02400450000016,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            400
+          ]
+        }
+      ],
+      "orig": "We provide a model of investment in innovation that is dynamic, features multiple heterogeneous research projects of which only one potentially leads to success, and in each period, the researcher chooses the set of projects to invest in. We show that if a search for innovation starts, it optimally does not end until the innovation is found-which will be never with a strictly positive probability.",
+      "text": "We provide a model of investment in innovation that is dynamic, features multiple heterogeneous research projects of which only one potentially leads to success, and in each period, the researcher chooses the set of projects to invest in. We show that if a search for innovation starts, it optimally does not end until the innovation is found-which will be never with a strictly positive probability."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 101.27969999999999,
+            "t": 447.06744910000015,
+            "r": 158.6208468678856,
+            "b": 437.24925910000013,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Keywords:",
+      "text": "Keywords:"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 163.4399,
+            "t": 447.12199460000016,
+            "r": 375.4444127793712,
+            "b": 437.1838045000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "Innovation, Optimal Search, Infinite Horizon",
+      "text": "Innovation, Optimal Search, Infinite Horizon"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 101.27969999999999,
+            "t": 427.3877491000001,
+            "r": 164.141480202955,
+            "b": 417.5695591000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "JEL Codes:",
+      "text": "JEL Codes:"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 168.95979999999997,
+            "t": 427.92229500000013,
+            "r": 214.01433450000002,
+            "b": 417.0131950000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "D 83 , O 31",
+      "text": "D 83 , O 31"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.00002999999998,
+            "t": 108.26129645000003,
+            "r": 525.8383015023076,
+            "b": 73.57920264000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            225
+          ]
+        }
+      ],
+      "orig": "\u2217 Benkert: Department of Economics, University of Bern. Letina: Department of Economics, University of Bern and CEPR. We thank Georg N\u00f6ldeke for very valuable comments and Martial Zurbriggen for excellent research assistance.",
+      "text": "\u2217 Benkert: Department of Economics, University of Bern. Letina: Department of Economics, University of Bern and CEPR. We thank Georg N\u00f6ldeke for very valuable comments and Martial Zurbriggen for excellent research assistance."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 295.92003,
+            "t": 55.15815520000001,
+            "r": 301.7661228,
+            "b": 43.19100000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.0,
+            "t": 760.1452108,
+            "r": 201.69376627932854,
+            "b": 744.6169199999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "1 Introduction",
+      "text": "1 Introduction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.0,
+            "t": 727.2781551999999,
+            "r": 525.7051954501119,
+            "b": 482.27100000000013,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1201
+          ]
+        }
+      ],
+      "orig": "In 1880, Alphonse Laveran discovered that malaria was caused by a parasite from the Plasmodium genus. This discovery immediately led to the next question: how was Plasmodium transmitted from one person to another? To answer such a question, researchers could design and conduct various experiments to test the many potential vectors, including transmission via soil, water, or a living host such as a bird or-which ultimately proved true-a mosquito (Desowitz, 1991). For example, researchers could expose healthy subjects to infected water to determine if the disease could be transmitted that way, or allow mosquitoes to feed on infected individuals and then examine the insects for the presence of the parasite. 1 There are countless experimental variations, such as the species of mosquito used, the time elapsed after infection before examination, the specific parts of the mosquito dissected, and the techniques employed to detect the parasite. Researchers, aiming to find the answer as efficiently as possible, would pursue the most promising and least costly experiments first, and move on to more challenging, expensive, or less likely experimental avenues if success initially proves elusive.",
+      "text": "In 1880, Alphonse Laveran discovered that malaria was caused by a parasite from the Plasmodium genus. This discovery immediately led to the next question: how was Plasmodium transmitted from one person to another? To answer such a question, researchers could design and conduct various experiments to test the many potential vectors, including transmission via soil, water, or a living host such as a bird or-which ultimately proved true-a mosquito (Desowitz, 1991). For example, researchers could expose healthy subjects to infected water to determine if the disease could be transmitted that way, or allow mosquitoes to feed on infected individuals and then examine the insects for the presence of the parasite. 1 There are countless experimental variations, such as the species of mosquito used, the time elapsed after infection before examination, the specific parts of the mosquito dissected, and the techniques employed to detect the parasite. Researchers, aiming to find the answer as efficiently as possible, would pursue the most promising and least costly experiments first, and move on to more challenging, expensive, or less likely experimental avenues if success initially proves elusive."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.00043999999997,
+            "t": 476.3580552000002,
+            "r": 525.7213147019265,
+            "b": 302.99040000000036,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            894
+          ]
+        }
+      ],
+      "orig": "The above example has two important features. First, given a set of potential vectors, discovering that one is not responsible for transmission is informative about the probability that a remaining vector is how the disease actually spreads. For instance, if the parasite is not found in the soil, the researcher may update her belief that the available methods are unable to detect the parasite, leading her to become more pessimistic about the probability of finding the parasite in, for example, water. At the same time, conditional on being able to detect the parasite and the parasite being present in one environment only, then failing to detect the parasite in soil increases the belief of the researcher that she will detect it in water. Second, the cost of testing different vectors varies greatly. For example, examining soil samples is cheap, while dissecting living hosts is costly.",
+      "text": "The above example has two important features. First, given a set of potential vectors, discovering that one is not responsible for transmission is informative about the probability that a remaining vector is how the disease actually spreads. For instance, if the parasite is not found in the soil, the researcher may update her belief that the available methods are unable to detect the parasite, leading her to become more pessimistic about the probability of finding the parasite in, for example, water. At the same time, conditional on being able to detect the parasite and the parasite being present in one environment only, then failing to detect the parasite in soil increases the belief of the researcher that she will detect it in water. Second, the cost of testing different vectors varies greatly. For example, examining soil samples is cheap, while dissecting living hosts is costly."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.00044000000003,
+            "t": 297.0774552000004,
+            "r": 525.6516203700736,
+            "b": 195.47040000000038,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            519
+          ]
+        }
+      ],
+      "orig": "We propose a model exhibiting both of the above features, informational externalities and heterogeneous projects. In doing so, we go beyond the existing literature and we find that, if the search starts, it does not end until the answer is found. In particular, the search will go on forever with strictly positive probability. This is in sharp contrast with the existing results in the literature, where the search tends to end in finite time even if the optimal search rule prescribes to continue searching forever. 2",
+      "text": "We propose a model exhibiting both of the above features, informational externalities and heterogeneous projects. In doing so, we go beyond the existing literature and we find that, if the search starts, it does not end until the answer is found. In particular, the search will go on forever with strictly positive probability. This is in sharp contrast with the existing results in the literature, where the search tends to end in finite time even if the optimal search rule prescribes to continue searching forever. 2"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 89.52054000000004,
+            "t": 189.43757520000042,
+            "r": 525.5345326393344,
+            "b": 177.47042000000033,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            87
+          ]
+        }
+      ],
+      "orig": "We study a model where the agent is faced with a set of research projects of which only",
+      "text": "We study a model where the agent is faced with a set of research projects of which only"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 71.99903,
+            "t": 168.02129645000002,
+            "r": 525.6224507185862,
+            "b": 145.33920264000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            123
+          ]
+        }
+      ],
+      "orig": "1 These are some of the experiments conducted by Ronald Ross, who in 1897 demonstrated that mosquitoes transmitted malaria.",
+      "text": "1 These are some of the experiments conducted by Ronald Ross, who in 1897 demonstrated that mosquitoes transmitted malaria."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 71.99905999999999,
+            "t": 144.14119645000005,
+            "r": 525.6844733691278,
+            "b": 73.57940264000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            508
+          ]
+        }
+      ],
+      "orig": "2 This holds true in the seminal search models (without informational externalities) such as McCall (1965) and Morgan (1983). See Lippman and McCall (1976) and Chade, Eeckhout, and Smith (2017) for surveys, or for more recent examples see Benkert, Letina, and N\u00f6ldeke (2018) and McCardle, Tsetlin, and Winkler (2018). In this class of models, even if the optimal search rule prescribes searching forever, the probability that search continues forever will converge to zero, thus ending search in finite time.",
+      "text": "2 This holds true in the seminal search models (without informational externalities) such as McCall (1965) and Morgan (1983). See Lippman and McCall (1976) and Chade, Eeckhout, and Smith (2017) for surveys, or for more recent examples see Benkert, Letina, and N\u00f6ldeke (2018) and McCardle, Tsetlin, and Winkler (2018). In this class of models, even if the optimal search rule prescribes searching forever, the probability that search continues forever will converge to zero, thus ending search in finite time."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 295.91905999999994,
+            "t": 55.15835519999996,
+            "r": 301.76515279999995,
+            "b": 43.19119999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.0,
+            "t": 757.0383552,
+            "r": 566.861666423296,
+            "b": 565.7906000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            943
+          ]
+        }
+      ],
+      "orig": "one has the potential to lead to the breakthrough. Importantly, our model features learning, as failure from one set of projects is informative about the chances that a success will be found in the remaining set. Our model is closely related to de Roos, Matros, Smirnov, and Wait (2018), who also consider a model where an agent searches in a set of research projects. Importantly, they assume that all projects are homogeneous, and that a successful project exists with certainty. When this is the case, then the optimal search prescribes that the entire set of available projects is examined in finite time, causing the search to also end in finite time. 3 We instead assume that projects are sufficiently heterogeneous, so that a rational agent optimally never examines the entire set of available projects. Paired with the possibility that no project could be successful, we obtain the contrasting result that optimal search may never end.",
+      "text": "one has the potential to lead to the breakthrough. Importantly, our model features learning, as failure from one set of projects is informative about the chances that a success will be found in the remaining set. Our model is closely related to de Roos, Matros, Smirnov, and Wait (2018), who also consider a model where an agent searches in a set of research projects. Importantly, they assume that all projects are homogeneous, and that a successful project exists with certainty. When this is the case, then the optimal search prescribes that the entire set of available projects is examined in finite time, causing the search to also end in finite time. 3 We instead assume that projects are sufficiently heterogeneous, so that a rational agent optimally never examines the entire set of available projects. Paired with the possibility that no project could be successful, we obtain the contrasting result that optimal search may never end."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 71.99990000000003,
+            "t": 559.8776552000002,
+            "r": 525.5861396122112,
+            "b": 440.39050000000015,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            604
+          ]
+        }
+      ],
+      "orig": "Heterogeneity of research project is not sufficient for the search to potentially remain active forever. This can be best seen in Weitzman (1979), who famously showed that optimal search ends-in finite time-when some reservation value is met. In Weitzman (1979), opening one box is not informative about the value of yet unopened boxes. Thus, after the agent has exhausted all the promising boxes, she stops. In contrast, Bayesian updating leads our agent to become more optimistic about the value of remaining projects, and, as we show, this causes the agent to never willingly abandon an active search.",
+      "text": "Heterogeneity of research project is not sufficient for the search to potentially remain active forever. This can be best seen in Weitzman (1979), who famously showed that optimal search ends-in finite time-when some reservation value is met. In Weitzman (1979), opening one box is not informative about the value of yet unopened boxes. Thus, after the agent has exhausted all the promising boxes, she stops. In contrast, Bayesian updating leads our agent to become more optimistic about the value of remaining projects, and, as we show, this causes the agent to never willingly abandon an active search."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 71.99990000000003,
+            "t": 434.3576552000002,
+            "r": 525.6435951903234,
+            "b": 207.2302000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1093
+          ]
+        }
+      ],
+      "orig": "It is instructive to compare our framework with the class of bandit models, which are often used to model dynamic innovation. In a standard bandit model, 4 the searcher faces a project (or an arm) with an unknown return. The project is either good, so that investing in it yields a success with some probability, or bad, so that any investment is wasted. In these models, the absence of a success is informative and leads to increasing pessimism: as failures accumulate, the searcher lowers her belief about the probability that she is facing a good project, until she becomes so pessimistic that she stops searching, which happens in finite time. Our model features (infinitely) many heterogeneous projects, and the structure of the model is such that becoming more pessimistic about one project necessarily leads the searcher to become more optimistic about the unexplored projects. This positive informational spillover across projects, together with project heterogeneity, generates a never-ending search in our model, while a standard bandit model results in search ending in finite time.",
+      "text": "It is instructive to compare our framework with the class of bandit models, which are often used to model dynamic innovation. In a standard bandit model, 4 the searcher faces a project (or an arm) with an unknown return. The project is either good, so that investing in it yields a success with some probability, or bad, so that any investment is wasted. In these models, the absence of a success is informative and leads to increasing pessimism: as failures accumulate, the searcher lowers her belief about the probability that she is facing a good project, until she becomes so pessimistic that she stops searching, which happens in finite time. Our model features (infinitely) many heterogeneous projects, and the structure of the model is such that becoming more pessimistic about one project necessarily leads the searcher to become more optimistic about the unexplored projects. This positive informational spillover across projects, together with project heterogeneity, generates a never-ending search in our model, while a standard bandit model results in search ending in finite time."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.00010000000003,
+            "t": 201.31765520000022,
+            "r": 525.6347504483327,
+            "b": 153.47040000000027,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            214
+          ]
+        }
+      ],
+      "orig": "In what follows, we formally introduce our model (Section 2), present our result on potentially never-ending search (Section 3), and conclude with a discussion of the result and its policy implications (Section 4).",
+      "text": "In what follows, we formally introduce our model (Section 2), present our result on potentially never-ending search (Section 3), and conclude with a discussion of the result and its policy implications (Section 4)."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.00003000000001,
+            "t": 142.70129644999997,
+            "r": 525.703468095317,
+            "b": 84.01920264,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            516
+          ]
+        }
+      ],
+      "orig": "3 Using a similar model as de Roos et al. (2018), Matros and Smirnov (2011) and Matros and Smirnov (2016) focus on the strategic interaction between multiple searchers. In extensions, they consider heterogeneous projects (in terms of success probabilities rather than costs) and allow for no successful project to exist. Nevertheless, they always conclude that search ends in finite time, contrasting with our findings. 4 As an example of such a model used in the context of innovation see Bergemann and Hege (2005).",
+      "text": "3 Using a similar model as de Roos et al. (2018), Matros and Smirnov (2011) and Matros and Smirnov (2016) focus on the strategic interaction between multiple searchers. In extensions, they consider heterogeneous projects (in terms of success probabilities rather than costs) and allow for no successful project to exist. Nevertheless, they always conclude that search ends in finite time, contrasting with our findings. 4 As an example of such a model used in the context of innovation see Bergemann and Hege (2005)."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 295.9203600000001,
+            "t": 55.15835519999996,
+            "r": 301.7664528000001,
+            "b": 43.19119999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.0,
+            "t": 760.1452108,
+            "r": 151.05786114904743,
+            "b": 744.6169199999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "2 Model",
+      "text": "2 Model",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.99998,
+            "t": 727.2781551999999,
+            "r": 525.6615050995713,
+            "b": 660.7470725,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            355
+          ]
+        }
+      ],
+      "orig": "There is a set of heterogeneous research projects J = [0 , 1) and a single agent searching for an innovation in J . In any period t = 1 , 2 , . . . , the agent can examine an arbitrary (measurable) set of projects S \u2286 J at the cost C ( S ) = \u222b S c ( j ) dj . We assume that c ( j ) is continuous, strictly increasing, and satisfies lim j \u2192 1 c ( j ) = \u221e .",
+      "text": "There is a set of heterogeneous research projects J = [0 , 1) and a single agent searching for an innovation in J . In any period t = 1 , 2 , . . . , the agent can examine an arbitrary (measurable) set of projects S \u2286 J at the cost C ( S ) = \u222b S c ( j ) dj . We assume that c ( j ) is continuous, strictly increasing, and satisfies lim j \u2192 1 c ( j ) = \u221e ."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.0001620000001,
+            "t": 655.8893144,
+            "r": 525.5410443742976,
+            "b": 589.791,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            359
+          ]
+        }
+      ],
+      "orig": "With probability p \u2208 (0 , 1) , the innovation is feasible , meaning that there is a single project \u02c6 j \u2208 J , which, if examined, will lead to a successful innovation of value v . Examining any other project leads to a dead end. We assume that any project j \u2208 J is equally likely to yield success. The future costs and payoffs are discounted by \u03b4 \u2208 (0 , 1) . 5",
+      "text": "With probability p \u2208 (0 , 1) , the innovation is feasible , meaning that there is a single project \u02c6 j \u2208 J , which, if examined, will lead to a successful innovation of value v . Examining any other project leads to a dead end. We assume that any project j \u2208 J is equally likely to yield success. The future costs and payoffs are discounted by \u03b4 \u2208 (0 , 1) . 5"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.00031200000006,
+            "t": 559.7450508000001,
+            "r": 267.64667455498187,
+            "b": 544.21676,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "3 Never-ending Search",
+      "text": "3 Never-ending Search",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.00031200000006,
+            "t": 526.8779952,
+            "r": 525.5364148994815,
+            "b": 442.3473125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            470
+          ]
+        }
+      ],
+      "orig": "An agent's search strategy \u03c3 = ( L 1 , L 2 , . . . ) consists of a sequence of (potentially empty) measurable sets L t \u2286 [0 , 1) \u222a \u2205 , t = 1 , 2 , . . . determining which projects will be examined in period t if previous periods did not yield success. We say that a search strategy \u03c3 is interval-based if the subsets L t are intervals. Moreover, we say that a search strategy is increasing-interval-based if the subsets L t are intervals such that sup L t = inf L t +1 .",
+      "text": "An agent's search strategy \u03c3 = ( L 1 , L 2 , . . . ) consists of a sequence of (potentially empty) measurable sets L t \u2286 [0 , 1) \u222a \u2205 , t = 1 , 2 , . . . determining which projects will be examined in period t if previous periods did not yield success. We say that a search strategy \u03c3 is interval-based if the subsets L t are intervals. Moreover, we say that a search strategy is increasing-interval-based if the subsets L t are intervals such that sup L t = inf L t +1 ."
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.00162199999988,
+            "t": 437.48915639999996,
+            "r": 525.6137925918462,
+            "b": 388.86606835,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            232
+          ]
+        }
+      ],
+      "orig": "Let S t := \u222a t \u2032 <t L t \u2032 and U t := [0 , 1) \\ S t . Thus, S t represents the set searched up to time t -1 , and U t is the set still unsearched when deciding at time t . Therefore, any optimal search in period t will occur in U t .",
+      "text": "Let S t := \u222a t \u2032 <t L t \u2032 and U t := [0 , 1) \\ S t . Thus, S t represents the set searched up to time t -1 , and U t is the set still unsearched when deciding at time t . Therefore, any optimal search in period t will occur in U t ."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.00002000000006,
+            "t": 385.3048136,
+            "r": 525.6251986116097,
+            "b": 298.9477525,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            429
+          ]
+        }
+      ],
+      "orig": "Let \u02c6 p \u03c3 ( t ) := Pr[ \u02c6 j \u2208 U t | \u02c6 j /negationslash\u2208 S t ] denote the agent's Bayesian posterior belief that success is feasible at time t when following the strategy \u03c3 , i.e., \u02c6 p \u03c3 ( t ) = \u00b5 ( U t ) p \u00b5 ( U t ) p +(1 -p ) , where \u00b5 denotes the Lebesgue measure. Then, we can write the agent's value function at time t , when S t has been searched so far and when searching according to strategy \u03c3 = ( L 1 , L 2 , . . . ) , as",
+      "text": "Let \u02c6 p \u03c3 ( t ) := Pr[ \u02c6 j \u2208 U t | \u02c6 j /negationslash\u2208 S t ] denote the agent's Bayesian posterior belief that success is feasible at time t when following the strategy \u03c3 , i.e., \u02c6 p \u03c3 ( t ) = \u00b5 ( U t ) p \u00b5 ( U t ) p +(1 -p ) , where \u00b5 denotes the Lebesgue measure. Then, we can write the agent's value function at time t , when S t has been searched so far and when searching according to strategy \u03c3 = ( L 1 , L 2 , . . . ) , as"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 101.28041000000016,
+            "t": 283.8979079999999,
+            "r": 471.35985919999996,
+            "b": 254.82642635000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            131
+          ]
+        }
+      ],
+      "orig": "V \u03c3 ( S t , t ) = \u02c6 p \u03c3 ( t ) \u00b5 ( L t ) \u00b5 ( U t ) v -C ( L t ) + \u03b4 ( 1 -\u02c6 p \u03c3 ( t ) \u00b5 ( L t ) \u00b5 ( U t ) ) V \u03c3 ( S t \u222a L t , t +1) .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 89.51999999999992,
+            "t": 240.07815519999997,
+            "r": 484.5835686403072,
+            "b": 228.111,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "We can now state our result, the proof of which is relegated to the appendix.",
+      "text": "We can now state our result, the proof of which is relegated to the appendix."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.00099999999992,
+            "t": 212.4894144,
+            "r": 525.6084782222079,
+            "b": 181.86632635,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            112
+          ]
+        }
+      ],
+      "orig": "Proposition 1 The optimal search strategy \u03c3 \u2217 is such that either L t = \u2205 for all t or \u00b5 ( L t ) > 0 for all t .",
+      "text": "Proposition 1 The optimal search strategy \u03c3 \u2217 is such that either L t = \u2205 for all t or \u00b5 ( L t ) > 0 for all t ."
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.00132999999977,
+            "t": 163.39805520000004,
+            "r": 525.644924748979,
+            "b": 115.5512,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            263
+          ]
+        }
+      ],
+      "orig": "Intuitively, there are two forces leading to the result. First, the informational externality of not finding the innovation induces the agent to continue searching. Second, the increasing costs of searching dampen the incentives to continue the search. The former",
+      "text": "Intuitively, there are two forces leading to the result. First, the informational externality of not finding the innovation induces the agent to continue searching. Second, the increasing costs of searching dampen the incentives to continue the search. The former"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 85.4398,
+            "t": 105.50129645000004,
+            "r": 386.05526714374787,
+            "b": 94.69930264000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "5 This is a dynamic version of the model introduced in Letina (2016).",
+      "text": "5 This is a dynamic version of the model introduced in Letina (2016)."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 295.91992999999997,
+            "t": 55.15835519999996,
+            "r": 301.7660228,
+            "b": 43.19119999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 72.0,
+            "t": 757.0383552,
+            "r": 525.6559982310912,
+            "b": 726.3873725,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            173
+          ]
+        }
+      ],
+      "orig": "effect ensures that the search continues, whereas the latter effect (and in particular the assumption that lim j \u2192 1 c ( j ) = \u221e ) prevents the search from being exhaustive.",
+      "text": "effect ensures that the search continues, whereas the latter effect (and in particular the assumption that lim j \u2192 1 c ( j ) = \u221e ) prevents the search from being exhaustive."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 71.99907000000002,
+            "t": 721.1582552,
+            "r": 525.6572492694272,
+            "b": 512.0304000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1030
+          ]
+        }
+      ],
+      "orig": "More specifically, if, contrary to our result, there were a final period T in which the search occurred, the agent would want to search all projects with a positive expected value in that period, implying that the marginal project would have an expected value of zero. Because of the increasing costs of search, that marginal project would have to be interior. However, if there was no success in period T , the belief that the marginal project will succeed would increase, implying a strictly positive expected value in the neighborhood of the marginal project. Thus, stopping the search could not be optimal. Further, as the remaining projects are increasingly costly to search, exhaustively searching all remaining projects and ending the search in finite time is never optimal. Hence, once started, the search only stops if the innovation is discovered. Since the innovation is not feasible with probability 1 -p > 0 , the search could continue forever with a strictly positive probability, leading to the following corollary.",
+      "text": "More specifically, if, contrary to our result, there were a final period T in which the search occurred, the agent would want to search all projects with a positive expected value in that period, implying that the marginal project would have an expected value of zero. Because of the increasing costs of search, that marginal project would have to be interior. However, if there was no success in period T , the belief that the marginal project will succeed would increase, implying a strictly positive expected value in the neighborhood of the marginal project. Thus, stopping the search could not be optimal. Further, as the remaining projects are increasingly costly to search, exhaustively searching all remaining projects and ending the search in finite time is never optimal. Hence, once started, the search only stops if the innovation is discovered. Since the innovation is not feasible with probability 1 -p > 0 , the search could continue forever with a strictly positive probability, leading to the following corollary."
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 71.99907000000002,
+            "t": 496.40881440000015,
+            "r": 525.5653228,
+            "b": 466.19060000000013,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            119
+          ]
+        }
+      ],
+      "orig": "Corollary 1 If any search is optimal, the probability of active search in any period t \u2265 1 is strictly above 1 -p > 0 .",
+      "text": "Corollary 1 If any search is optimal, the probability of active search in any period t \u2265 1 is strictly above 1 -p > 0 ."
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 71.99912999999998,
+            "t": 447.31795520000014,
+            "r": 525.6393119897856,
+            "b": 381.59060000000017,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            315
+          ]
+        }
+      ],
+      "orig": "This corollary highlights the distinction of our result relative to the existing literature, where even if the optimal strategy is to search forever, the search ends in finite time. In contrast, our result is not only about the optimal strategy mandating infinite search but that the actual search may last forever.",
+      "text": "This corollary highlights the distinction of our result relative to the existing literature, where even if the optimal strategy is to search forever, the search ends in finite time. In contrast, our result is not only about the optimal strategy mandating infinite search but that the actual search may last forever."
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 71.99902999999995,
+            "t": 375.5577552000002,
+            "r": 525.3904900333313,
+            "b": 345.7105000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            117
+          ]
+        }
+      ],
+      "orig": "Finally, for our results to be meaningful, we need to establish conditions under which some search is indeed optimal.",
+      "text": "Finally, for our results to be meaningful, we need to establish conditions under which some search is indeed optimal."
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 71.99902999999995,
+            "t": 329.4074680000002,
+            "r": 456.74703285875205,
+            "b": 318.12681226453356,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "Lemma 1 If pv > c (0) , it is optimal for the agent to engage in the search.",
+      "text": "Lemma 1 If pv > c (0) , it is optimal for the agent to engage in the search."
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 71.9994299999999,
+            "t": 298.87765520000016,
+            "r": 525.6431455375103,
+            "b": 215.27060000000017,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            444
+          ]
+        }
+      ],
+      "orig": "It is immediate that this condition ensures that the agent would rather search once than not search at all. 6 Intuitively, the agent compares the marginal benefit of searching the initial interval with the marginal cost of doing so. The condition ensures that the former exceeds the latter, so that search starts. However, by Proposition 1 we know that the agent would not cease searching after one period but continue until a success is found.",
+      "text": "It is immediate that this condition ensures that the agent would rather search once than not search at all. 6 Intuitively, the agent compares the marginal benefit of searching the initial interval with the marginal cost of doing so. The condition ensures that the former exceeds the latter, so that search starts. However, by Proposition 1 we know that the agent would not cease searching after one period but continue until a success is found."
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 71.99952999999988,
+            "t": 185.1044108000002,
+            "r": 188.6169875469095,
+            "b": 169.57612000000017,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "4 Conclusion",
+      "text": "4 Conclusion",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 71.99952999999988,
+            "t": 152.23775520000027,
+            "r": 525.6160050895103,
+            "b": 122.27060000000017,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            181
+          ]
+        }
+      ],
+      "orig": "At first glance, our result may seem counterintuitive: why would a rational agent be willing to keep (forever) searching for a prize of finite value at eventually unbounded marginal",
+      "text": "At first glance, our result may seem counterintuitive: why would a rational agent be willing to keep (forever) searching for a prize of finite value at eventually unbounded marginal"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 72.00038,
+            "t": 111.50129645000004,
+            "r": 525.8528711202817,
+            "b": 76.81920263999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            227
+          ]
+        }
+      ],
+      "orig": "6 In the one-period model, searching an interval of length q \u2217 is optimal if and only if pv = c ( q \u2217 ) . Hence, the condition in Lemma 1 yields q \u2217 > 0 , ensuring that the agent would rather search once than not search at all.",
+      "text": "6 In the one-period model, searching an interval of length q \u2217 is optimal if and only if pv = c ( q \u2217 ) . Hence, the condition in Lemma 1 yields q \u2217 > 0 , ensuring that the agent would rather search once than not search at all."
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 295.92038,
+            "t": 55.15835519999996,
+            "r": 301.76647280000003,
+            "b": 43.19119999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 71.9998,
+            "t": 757.0383552,
+            "r": 525.5732501104129,
+            "b": 673.4309000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            435
+          ]
+        }
+      ],
+      "orig": "costs? To reconcile our result with this (incomplete) intuition, we need to also consider the search intensity . Even as marginal costs increase, the agent can adapt the intensity of search so that actual search costs do not increase from period to period. Effectively, while active search may never end, the associated search intensity will converge to zero in the limit because of the unbounded increase in the marginal search costs.",
+      "text": "costs? To reconcile our result with this (incomplete) intuition, we need to also consider the search intensity . Even as marginal costs increase, the agent can adapt the intensity of search so that actual search costs do not increase from period to period. Effectively, while active search may never end, the associated search intensity will converge to zero in the limit because of the unbounded increase in the marginal search costs."
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 71.99880000000002,
+            "t": 667.3980552,
+            "r": 525.6492376710144,
+            "b": 386.5104000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1398
+          ]
+        }
+      ],
+      "orig": "This is not merely a technical point, but rather has an important policy implication for the question of when to optimally abandon a (research) project. McCardle et al. (2018) note that, in practice, search often lasts longer than what is perceived as optimal and suggest that one should set an 'alarm clock' to ensure a timely end to the search effort. However, our results indicate that such a policy may be short-sighted. What appears to be excessive search from an external perspective may in fact be optimal, as the agent internalizes the informational value of continued failures and adjusts search intensity accordingly. An outside decision-maker, who does not fully account for these learning dynamics, may wrongly conclude that search has gone on 'too long' and intervene prematurely. This is particularly relevant in environments with informational spillovers (so that failure today is informative of success chances tomorrow) and adjustable research intensity, which we would argue are more common than not in research. Moreover, our result suggests that the debate over whether research lasts 'too long' or stops 'too soon' is too simplistic. Rather than a binary choice, search intensity can decline over time while still continuing indefinitely. To address this empirically, our finding highlights the need to track not just whether research is ongoing, but how its intensity evolves.",
+      "text": "This is not merely a technical point, but rather has an important policy implication for the question of when to optimally abandon a (research) project. McCardle et al. (2018) note that, in practice, search often lasts longer than what is perceived as optimal and suggest that one should set an 'alarm clock' to ensure a timely end to the search effort. However, our results indicate that such a policy may be short-sighted. What appears to be excessive search from an external perspective may in fact be optimal, as the agent internalizes the informational value of continued failures and adjusts search intensity accordingly. An outside decision-maker, who does not fully account for these learning dynamics, may wrongly conclude that search has gone on 'too long' and intervene prematurely. This is particularly relevant in environments with informational spillovers (so that failure today is informative of success chances tomorrow) and adjustable research intensity, which we would argue are more common than not in research. Moreover, our result suggests that the debate over whether research lasts 'too long' or stops 'too soon' is too simplistic. Rather than a binary choice, search intensity can decline over time while still continuing indefinitely. To address this empirically, our finding highlights the need to track not just whether research is ongoing, but how its intensity evolves."
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 71.99900000000008,
+            "t": 380.59745520000024,
+            "r": 525.6023822071295,
+            "b": 314.8705000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            317
+          ]
+        }
+      ],
+      "orig": "In short, the main message of our paper is that external decision makers should exercise caution when recommending that a research project be abandoned. What might appear to be the stubbornness of a researcher unwilling to admit defeat could, in fact, be a rational response to the lessons learned from past failures.",
+      "text": "In short, the main message of our paper is that external decision makers should exercise caution when recommending that a research project be abandoned. What might appear to be the stubbornness of a researcher unwilling to admit defeat could, in fact, be a rational response to the lessons learned from past failures."
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 295.9190000000001,
+            "t": 55.157655200000136,
+            "r": 301.7650928000001,
+            "b": 43.190500000000156,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "6",
+      "text": "6"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 72.0,
+            "t": 760.1452108,
+            "r": 346.41647721749285,
+            "b": 744.6169199999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "Appendix: Proof of Proposition 1",
+      "text": "Appendix: Proof of Proposition 1",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 71.99964000000006,
+            "t": 727.07501149,
+            "r": 525.0149937052466,
+            "b": 697.6870322645332,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            182
+          ]
+        }
+      ],
+      "orig": "Lemma 2 The optimal search strategy \u03c3 \u2217 satisfies: there do not exist intervals L and L \u2032\u2032 with \u00b5 ( L ) , \u00b5 ( L \u2032\u2032 ) > 0 and inf L > sup L \u2032\u2032 such that L is searched and L \u2032\u2032 is not.",
+      "text": "Lemma 2 The optimal search strategy \u03c3 \u2217 satisfies: there do not exist intervals L and L \u2032\u2032 with \u00b5 ( L ) , \u00b5 ( L \u2032\u2032 ) > 0 and inf L > sup L \u2032\u2032 such that L is searched and L \u2032\u2032 is not."
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 71.99964000000006,
+            "t": 680.5980751999999,
+            "r": 525.6135344,
+            "b": 614.75082,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            305
+          ]
+        }
+      ],
+      "orig": "Proof: Suppose not. Then, there exists a set L , searched at some time t and a set L \u2032 , with inf L > sup L \u2032 and \u00b5 ( L \u2032 ) = \u00b5 ( L ) , that is never searched. As L is searched at time t , we can write L t = L \u222a S where S may be empty. Then, the value function at time t when searching according to \u03c3 \u2217 is",
+      "text": "Proof: Suppose not. Then, there exists a set L , searched at some time t and a set L \u2032 , with inf L > sup L \u2032 and \u00b5 ( L \u2032 ) = \u00b5 ( L ) , that is never searched. As L is searched at time t , we can write L t = L \u222a S where S may be empty. Then, the value function at time t when searching according to \u03c3 \u2217 is"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 101.28011000000011,
+            "t": 599.8486783999999,
+            "r": 442.5602892,
+            "b": 538.3864263500001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            146
+          ]
+        }
+      ],
+      "orig": "V \u03c3 \u2217 ( S t , t ) = \u02c6 p \u03c3 \u2217 ( t ) \u00b5 ( L \u222a S ) \u00b5 ( U t ) v -C ( L \u222a S ) + \u03b4 ( 1 -\u02c6 p \u03c3 \u2217 ( t ) \u00b5 ( L \u222a S ) \u00b5 ( U t ) ) V \u03c3 \u2217 ( S t \u222a L \u222a S, t +1) .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 71.99988999999994,
+            "t": 523.0385572,
+            "r": 525.0152816799999,
+            "b": 493.19134199999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            109
+          ]
+        }
+      ],
+      "orig": "Consider the alternative strategy \u03c3 \u2032 , coinciding with \u03c3 \u2217 except that L is replaced by L \u2032 at time t . Then",
+      "text": "Consider the alternative strategy \u03c3 \u2032 , coinciding with \u03c3 \u2217 except that L is replaced by L \u2032 at time t . Then"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 101.27998999999994,
+            "t": 480.6895904,
+            "r": 441.7205392,
+            "b": 419.22642635,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            154
+          ]
+        }
+      ],
+      "orig": "V \u03c3 \u2032 ( S t , t ) = \u02c6 p \u03c3 \u2032 ( t ) \u00b5 ( L \u2032 \u222a S ) \u00b5 ( U t ) v -C ( L \u2032 \u222a S ) + \u03b4 ( 1 -\u02c6 p \u03c3 \u2032 ( t ) \u00b5 ( L \u2032 \u222a S ) \u00b5 ( U t ) ) V \u03c3 \u2032 ( S t \u222a L \u2032 \u222a S, t +1) .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 72.00067999999999,
+            "t": 404.0093184,
+            "r": 378.5345965816575,
+            "b": 391.26632835,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "The difference in value functions V \u03c3 \u2032 ( S t , t ) -V \u03c3 \u2217 ( S t , t ) reads",
+      "text": "The difference in value functions V \u03c3 \u2032 ( S t , t ) -V \u03c3 \u2217 ( S t , t ) reads"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 101.2807499999999,
+            "t": 371.39491748999995,
+            "r": 479.86340745932813,
+            "b": 304.431204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            168
+          ]
+        }
+      ],
+      "orig": "C ( L \u222a S ) -C ( L \u2032 \u222a S ) + \u03b4 ( 1 -\u02c6 p \u03c3 ( t ) \u00b5 ( L \u2032 \u222a S ) \u00b5 ( U t ) ) ( V \u03c3 \u2032 ( S t \u222a L \u2032 \u222a S, t +1) -V \u03c3 \u2217 ( S t \u222a L \u222a S, t +1)) = C ( L \u222a S ) -C ( L \u2032 \u222a S ) > 0 .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 72.00064399999974,
+            "t": 283.63855920000015,
+            "r": 525.6128583999998,
+            "b": 182.03111200000012,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            502
+          ]
+        }
+      ],
+      "orig": "The equality obtains because the deviation from \u03c3 \u2217 to \u03c3 \u2032 entails no change in the posteriors, i.e., \u02c6 p \u03c3 \u2032 ( t \u2032 ) = \u02c6 p \u03c3 \u2217 ( t \u2032 ) for all t \u2032 , as the measures of the searched and unsearched sets are the same with both strategies. Hence, since the two strategies coincide for any t \u2032 > t , we have V \u03c3 \u2032 ( S t \u222a ( L \u2032 \u222a S ) , t +1) = V \u03c3 \u2217 ( S t \u222a ( L \u222a S ) , t +1) . Finally, the inequality follows from the fact that inf L > sup L \u2032 and c is increasing. This contradicts the optimality of \u03c3 \u2217 .",
+      "text": "The equality obtains because the deviation from \u03c3 \u2217 to \u03c3 \u2032 entails no change in the posteriors, i.e., \u02c6 p \u03c3 \u2032 ( t \u2032 ) = \u02c6 p \u03c3 \u2217 ( t \u2032 ) for all t \u2032 , as the measures of the searched and unsearched sets are the same with both strategies. Hence, since the two strategies coincide for any t \u2032 > t , we have V \u03c3 \u2032 ( S t \u222a ( L \u2032 \u222a S ) , t +1) = V \u03c3 \u2217 ( S t \u222a ( L \u222a S ) , t +1) . Finally, the inequality follows from the fact that inf L > sup L \u2032 and c is increasing. This contradicts the optimality of \u03c3 \u2217 ."
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 71.99964000000006,
+            "t": 167.39560149,
+            "r": 525.5867057446401,
+            "b": 120.16994199999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            202
+          ]
+        }
+      ],
+      "orig": "Lemma 3 The optimal search strategy \u03c3 \u2217 satisfies: there do not exist intervals L and L \u2032\u2032 with \u00b5 ( L ) , \u00b5 ( L \u2032\u2032 ) > 0 and sup L < inf L \u2032\u2032 such that L is searched at time t and L \u2032\u2032 at time t \u2032 < t .",
+      "text": "Lemma 3 The optimal search strategy \u03c3 \u2217 satisfies: there do not exist intervals L and L \u2032\u2032 with \u00b5 ( L ) , \u00b5 ( L \u2032\u2032 ) > 0 and sup L < inf L \u2032\u2032 such that L is searched at time t and L \u2032\u2032 at time t \u2032 < t ."
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 72.0001600000001,
+            "t": 102.91866520000008,
+            "r": 525.3863050444545,
+            "b": 73.07142999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            191
+          ]
+        }
+      ],
+      "orig": "Proof: Suppose not. Then, there exist sets L and L \u2032 that are searched at times t and t \u2032 with t > t \u2032 , sup L < inf L \u2032\u2032 and \u00b5 ( L \u2032 ) = \u00b5 ( L ) . Consider the alternative strategy \u03c3 \u2032 which",
+      "text": "Proof: Suppose not. Then, there exist sets L and L \u2032 that are searched at times t and t \u2032 with t > t \u2032 , sup L < inf L \u2032\u2032 and \u00b5 ( L \u2032 ) = \u00b5 ( L ) . Consider the alternative strategy \u03c3 \u2032 which"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 295.92087000000004,
+            "t": 55.15848519999997,
+            "r": 301.76696280000004,
+            "b": 43.191329999999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "7",
+      "text": "7"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 71.99981000000002,
+            "t": 757.0383552,
+            "r": 525.6122944,
+            "b": 637.5508040000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            641
+          ]
+        }
+      ],
+      "orig": "coincides with \u03c3 \u2217 except that L and L \u2032 are swapped at t and t \u2032 , respectively. Analogously to the proof of Lemma 2, the posterior beliefs and success probabilities induced by the two strategies are the same. Hence, the only difference in the value functions is induced by a change in the timing of the search costs. The swap reduces the search costs at t \u2032 by K , while increasing them by the same amount at t , but this increase is discounted by at least \u03b4 . Thus, the net reduction in costs is at least K -\u03b4K , implying V \u03c3 \u2032 ( S t , t ) -V \u03c3 \u2217 ( S t , t ) > 0 , contradicting the optimality of \u03c3 \u2217 . Lemmas 2 and 3 imply the following:",
+      "text": "coincides with \u03c3 \u2217 except that L and L \u2032 are swapped at t and t \u2032 , respectively. Analogously to the proof of Lemma 2, the posterior beliefs and success probabilities induced by the two strategies are the same. Hence, the only difference in the value functions is induced by a change in the timing of the search costs. The swap reduces the search costs at t \u2032 by K , while increasing them by the same amount at t , but this increase is discounted by at least \u03b4 . Thus, the net reduction in costs is at least K -\u03b4K , implying V \u03c3 \u2032 ( S t , t ) -V \u03c3 \u2217 ( S t , t ) > 0 , contradicting the optimality of \u03c3 \u2217 . Lemmas 2 and 3 imply the following:"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 72.0,
+            "t": 621.47533149,
+            "r": 445.44899708884503,
+            "b": 610.009832,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "Corollary 2 The optimal search strategy \u03c3 \u2217 is increasing-interval-based.",
+      "text": "Corollary 2 The optimal search strategy \u03c3 \u2217 is increasing-interval-based."
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 72.00028000000003,
+            "t": 590.7187552,
+            "r": 525.4225272801278,
+            "b": 560.0677725,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            155
+          ]
+        }
+      ],
+      "orig": "With this we can reinterpret the strategy \u03c3 = ( L 1 , L 2 , . . . ) as a collection of increasing intervals, i.e., [0 , l 1 ) , [ l 1 , l 2 ) and so forth.",
+      "text": "With this we can reinterpret the strategy \u03c3 = ( L 1 , L 2 , . . . ) as a collection of increasing intervals, i.e., [0 , l 1 ) , [ l 1 , l 2 ) and so forth."
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 72.00038000000012,
+            "t": 544.6753114900001,
+            "r": 525.5783020224001,
+            "b": 514.5064263500002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            137
+          ]
+        }
+      ],
+      "orig": "Lemma 4 The optimal search strategy \u03c3 \u2217 satisfies: if there exists a period t with \u00b5 ( L t ) = 0 , then \u00b5 ( L t \u2032 ) = 0 for all t \u2032 > t .",
+      "text": "Lemma 4 The optimal search strategy \u03c3 \u2217 satisfies: if there exists a period t with \u00b5 ( L t ) = 0 , then \u00b5 ( L t \u2032 ) = 0 for all t \u2032 > t ."
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 72.00037000000015,
+            "t": 496.1585572000001,
+            "r": 525.6204622581762,
+            "b": 375.7474165000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            704
+          ]
+        }
+      ],
+      "orig": "Proof: Suppose not. Then, there exists a period t with \u00b5 ( L t ) = 0 and a period t \u2032 > t with \u00b5 ( L t \u2032 ) > 0 . Consider the alternative strategy \u03c3 \u2032 which coincides with \u03c3 \u2217 except that for all s \u2265 t we replace L s by L s +1 . Then, V \u03c3 \u2032 ( S t , t ) = V \u03c3 \u2217 ( S t +1 , t + 1) and V \u03c3 \u2217 ( S t , t ) = \u03b4V \u03c3 \u2217 ( S t +1 , t +1) . Since stopping search yields a payoff of zero, it cannot be that V \u03c3 \u2217 ( S t \u2032\u2032 , t \u2032\u2032 ) < 0 for any t \u2032\u2032 . Additionally, since \u00b5 ( L t \u2032 ) > 0 , it must be that V \u03c3 \u2217 ( S t \u2032 , t \u2032 ) > 0 , since otherwise removing some subset from L \u2032 would strictly increase the payoff in t \u2032 . Thus, V \u03c3 \u2217 ( S t +1 , t +1) > 0 and since \u03b4 < 1 , then V \u03c3 \u2032 ( S t , t ) > V \u03c3 \u2217 ( S t , t ) .",
+      "text": "Proof: Suppose not. Then, there exists a period t with \u00b5 ( L t ) = 0 and a period t \u2032 > t with \u00b5 ( L t \u2032 ) > 0 . Consider the alternative strategy \u03c3 \u2032 which coincides with \u03c3 \u2217 except that for all s \u2265 t we replace L s by L s +1 . Then, V \u03c3 \u2032 ( S t , t ) = V \u03c3 \u2217 ( S t +1 , t + 1) and V \u03c3 \u2217 ( S t , t ) = \u03b4V \u03c3 \u2217 ( S t +1 , t +1) . Since stopping search yields a payoff of zero, it cannot be that V \u03c3 \u2217 ( S t \u2032\u2032 , t \u2032\u2032 ) < 0 for any t \u2032\u2032 . Additionally, since \u00b5 ( L t \u2032 ) > 0 , it must be that V \u03c3 \u2217 ( S t \u2032 , t \u2032 ) > 0 , since otherwise removing some subset from L \u2032 would strictly increase the payoff in t \u2032 . Thus, V \u03c3 \u2217 ( S t +1 , t +1) > 0 and since \u03b4 < 1 , then V \u03c3 \u2032 ( S t , t ) > V \u03c3 \u2217 ( S t , t ) ."
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 72.0,
+            "t": 356.4783552,
+            "r": 241.55766156526087,
+            "b": 344.5112,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "We can now prove Proposition 1.",
+      "text": "We can now prove Proposition 1."
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 71.99960000000004,
+            "t": 338.4783552,
+            "r": 525.6226163636225,
+            "b": 236.87130000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            472
+          ]
+        }
+      ],
+      "orig": "Proof: Lemma 4 implies that only three types of strategies can be optimal: 1) never search, 2) search in every period until time T > 0 (unless there's a success) and then not search anymore, 3) search in every period until there is a success. Thus, we only need to show that 2) cannot be optimal. Suppose there is a T > 0 such that the agent searches in every period t \u2264 T and then stops. Then, the agent's value function at time T , the last period of search, is given by",
+      "text": "Proof: Lemma 4 implies that only three types of strategies can be optimal: 1) never search, 2) search in every period until time T > 0 (unless there's a success) and then not search anymore, 3) search in every period until there is a success. Thus, we only need to show that 2) cannot be optimal. Suppose there is a T > 0 such that the agent searches in every period t \u2264 T and then stops. Then, the agent's value function at time T , the last period of search, is given by"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 101.27970000000005,
+            "t": 221.9695464,
+            "r": 365.39964920000006,
+            "b": 192.74747249999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            87
+          ]
+        }
+      ],
+      "orig": "V \u03c3 \u2217 ( S T , T ) = ( l T -l T -1 ) p (1 -l T -1 ) p +(1 -p ) v -C ([ l T -1 , l T )) ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 71.99979000000002,
+            "t": 177.67733650000002,
+            "r": 525.5998792,
+            "b": 144.42641634999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            212
+          ]
+        }
+      ],
+      "orig": "because V \u03c3 \u2217 ( S T \u222a [ l T -l T -1 ) , T + 1) = 0 and by Bayes' rule \u02c6 p \u03c3 \u2217 ( T ) = (1 -l T -1 ) p (1 -l T -1 ) p +(1 -p ) . Further, because it is optimal to search in period T , l T is implicitly defined by 7",
+      "text": "because V \u03c3 \u2217 ( S T \u222a [ l T -l T -1 ) , T + 1) = 0 and by Bayes' rule \u02c6 p \u03c3 \u2217 ( T ) = (1 -l T -1 ) p (1 -l T -1 ) p +(1 -p ) . Further, because it is optimal to search in period T , l T is implicitly defined by 7"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 102.48052000000007,
+            "t": 129.36789799999997,
+            "r": 525.5936034918657,
+            "b": 100.7074725,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "\u2202V \u03c3 \u2217 ( S t , T ) \u2202l T = 0 \u21d4 pv (1 -l T -1 ) p +(1 -p ) = c ( l T ) . (1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 85.4398,
+            "t": 90.74119644999996,
+            "r": 447.0143598708517,
+            "b": 79.81928263999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            89
+          ]
+        }
+      ],
+      "orig": "7 Observe that the value function is strictly concave in l T as c is strictly increasing.",
+      "text": "7 Observe that the value function is strictly concave in l T as c is strictly increasing."
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 295.92011,
+            "t": 55.158435199999985,
+            "r": 301.76620280000003,
+            "b": 43.191280000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "8",
+      "text": "8"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 71.99990000000003,
+            "t": 757.2894143999999,
+            "r": 525.6094513504255,
+            "b": 726.6663263500001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            153
+          ]
+        }
+      ],
+      "orig": "Since lim j \u2192 1 c ( j ) = \u221e and the LHS of equation (1) is finite, it cannot be optimal that l T = 1 and the interval [0 , 1) is searched in finite time.",
+      "text": "Since lim j \u2192 1 c ( j ) = \u221e and the LHS of equation (1) is finite, it cannot be optimal that l T = 1 and the interval [0 , 1) is searched in finite time."
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.00063,
+            "t": 721.1582552,
+            "r": 525.6181264497919,
+            "b": 672.6271725,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            235
+          ]
+        }
+      ],
+      "orig": "Thus, take l T < 1 and consider the agent's incentives in period T +1 . In particular, consider one more period of search before stopping forever. Then, the value function of searching a positive interval, i.e., setting l T +1 > l T is",
+      "text": "Thus, take l T < 1 and consider the agent's incentives in period T +1 . In particular, consider one more period of search before stopping forever. Then, the value function of searching a positive interval, i.e., setting l T +1 > l T is"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 101.28083000000001,
+            "t": 658.0307074399999,
+            "r": 376.8001341250561,
+            "b": 626.7061563499999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            90
+          ]
+        }
+      ],
+      "orig": "V \u03c3 \u2032 ( S T +1 , T +1) = ( l T +1 -l T ) pv (1 -l T ) p +(1 -p ) -\u222b l T +1 l T c ( j ) dj.",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.00024000000008,
+            "t": 613.1510274399999,
+            "r": 525.6433008193281,
+            "b": 581.3912,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            196
+          ]
+        }
+      ],
+      "orig": "For \u03c3 \u2217 to be optimal, we need to have pv (1 -l T ) p +(1 -p ) -c ( l T +1 ) < 0 , i.e., the marginal value of continuing search needs to be negative. Rearranging and using equation (1), we obtain",
+      "text": "For \u03c3 \u2217 to be optimal, we need to have pv (1 -l T ) p +(1 -p ) -c ( l T +1 ) < 0 , i.e., the marginal value of continuing search needs to be negative. Rearranging and using equation (1), we obtain"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 102.48,
+            "t": 565.8893444,
+            "r": 315.59995920000006,
+            "b": 536.5474725,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "pv c ( l T +1 ) < 1 -l T p \u21d4 c ( l T ) c ( l T +1 ) < 1 -l T p 1 -l T -1 p ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 71.99982000000006,
+            "t": 521.7291844,
+            "r": 525.649781761792,
+            "b": 455.75117,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            319
+          ]
+        }
+      ],
+      "orig": "which must hold for any l T +1 \u2208 ( l T , 1) . This is violated for l T +1 close enough to l T , as the LHS converges to 1 while the RHS is constant and strictly smaller than 1 as l T +1 approaches l T from above. Hence, there is an incentive to continue searching in period T +1 ; thus, stopping in T cannot be optimal.",
+      "text": "which must hold for any l T +1 \u2208 ( l T , 1) . This is violated for l T +1 close enough to l T , as the LHS converges to 1 while the RHS is constant and strictly smaller than 1 as l T +1 approaches l T from above. Hence, there is an incentive to continue searching in period T +1 ; thus, stopping in T cannot be optimal."
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 295.92,
+            "t": 55.15845520000005,
+            "r": 301.7660928,
+            "b": 43.191299999999956,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "9",
+      "text": "9"
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.0,
+            "t": 760.1452108,
+            "r": 158.4034121871381,
+            "b": 744.6169199999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.0,
+            "t": 727.2781551999999,
+            "r": 525.5127850448383,
+            "b": 697.4309,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            149
+          ]
+        }
+      ],
+      "orig": "Benkert, J.-M., I. Letina, and G. N\u00f6ldeke (2018): 'Optimal search from multiple distributions with infinite horizon,' Economics Letters , 164, 15-18.",
+      "text": "Benkert, J.-M., I. Letina, and G. N\u00f6ldeke (2018): 'Optimal search from multiple distributions with infinite horizon,' Economics Letters , 164, 15-18.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 71.99999999999994,
+            "t": 681.4382552,
+            "r": 525.5933904665088,
+            "b": 651.591,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            128
+          ]
+        }
+      ],
+      "orig": "Bergemann, D. and U. Hege (2005): 'The financing of innovation: Learning and stopping,' RAND Journal of Economics , 36, 719-752.",
+      "text": "Bergemann, D. and U. Hege (2005): 'The financing of innovation: Learning and stopping,' RAND Journal of Economics , 36, 719-752.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.00019999999995,
+            "t": 635.7179552,
+            "r": 525.4316698246145,
+            "b": 605.7508,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            149
+          ]
+        }
+      ],
+      "orig": "Chade, H., J. Eeckhout, and L. Smith (2017): 'Sorting through search and matching models in economics,' Journal of Economic Literature , 55, 493-544.",
+      "text": "Chade, H., J. Eeckhout, and L. Smith (2017): 'Sorting through search and matching models in economics,' Journal of Economic Literature , 55, 493-544.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 71.99919999999997,
+            "t": 589.8777552,
+            "r": 525.5166811675648,
+            "b": 559.9106,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            146
+          ]
+        }
+      ],
+      "orig": "de Roos, N., A. Matros, V. Smirnov, and A. Wait (2018): 'Shipwrecks and treasure hunters,' Journal of Economic Dynamics and Control , 90, 259-283.",
+      "text": "de Roos, N., A. Matros, V. Smirnov, and A. Wait (2018): 'Shipwrecks and treasure hunters,' Journal of Economic Dynamics and Control , 90, 259-283.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 71.99819999999994,
+            "t": 544.0379552,
+            "r": 525.7397746008575,
+            "b": 514.1907000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            141
+          ]
+        }
+      ],
+      "orig": "Desowitz, R. S. (1991): The Malaria Capers: More Tales of Parasites and People, Research and Reality , New York: W.W. Norton, chapters 11-13.",
+      "text": "Desowitz, R. S. (1991): The Malaria Capers: More Tales of Parasites and People, Research and Reality , New York: W.W. Norton, chapters 11-13.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 71.99809999999995,
+            "t": 498.1976552000001,
+            "r": 525.5459538629888,
+            "b": 468.35080000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            116
+          ]
+        }
+      ],
+      "orig": "Letina, I. (2016): 'The road not taken: competition and the R&D portfolio,' RAND Journal of Economics , 47, 433-460.",
+      "text": "Letina, I. (2016): 'The road not taken: competition and the R&D portfolio,' RAND Journal of Economics , 47, 433-460.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 71.99909999999996,
+            "t": 452.3577552000001,
+            "r": 524.4404784780288,
+            "b": 422.51050000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            112
+          ]
+        }
+      ],
+      "orig": "Lippman, S. A. and J. J. McCall (1976): 'The Economics of Job Search: A Survey,' Economic Inquiry , 14, 155-189.",
+      "text": "Lippman, S. A. and J. J. McCall (1976): 'The Economics of Job Search: A Survey,' Economic Inquiry , 14, 155-189.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 71.99929999999998,
+            "t": 406.63785520000005,
+            "r": 525.4350234789889,
+            "b": 376.6707,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            112
+          ]
+        }
+      ],
+      "orig": "Matros, A. and V. Smirnov (2011): 'Treasure game,' Economics Working Paper Series 2011-10, University of Sydney.",
+      "text": "Matros, A. and V. Smirnov (2011): 'Treasure game,' Economics Working Paper Series 2011-10, University of Sydney.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.00009999999997,
+            "t": 360.79765520000007,
+            "r": 475.30071731839996,
+            "b": 348.83050000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "---(2016): 'Duplicative search,' Games and Economic Behavior , 99, 1-22.",
+      "text": "---(2016): 'Duplicative search,' Games and Economic Behavior , 99, 1-22.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.00009999999997,
+            "t": 332.83785520000004,
+            "r": 524.4626321000447,
+            "b": 302.9906000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            115
+          ]
+        }
+      ],
+      "orig": "McCall, J. J. (1965): 'The economics of information and optimal stopping rules,' Journal of Business , 38, 300-317.",
+      "text": "McCall, J. J. (1965): 'The economics of information and optimal stopping rules,' Journal of Business , 38, 300-317.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.00029999999997,
+            "t": 286.9975552000001,
+            "r": 525.5437757579263,
+            "b": 257.15070000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            152
+          ]
+        }
+      ],
+      "orig": "McCardle, K. F., I. Tsetlin, and R. L. Winkler (2018): 'When to abandon a research project and search for a new one,' Operations Research , 66, 799-813.",
+      "text": "McCardle, K. F., I. Tsetlin, and R. L. Winkler (2018): 'When to abandon a research project and search for a new one,' Operations Research , 66, 799-813.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.00029999999998,
+            "t": 241.27765520000003,
+            "r": 525.717553030656,
+            "b": 211.31050000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            102
+          ]
+        }
+      ],
+      "orig": "Morgan, P. B. (1983): 'Search and optimal sample sizes,' The Review of Economic Studies , 50, 659-675.",
+      "text": "Morgan, P. B. (1983): 'Search and optimal sample sizes,' The Review of Economic Studies , 50, 659-675.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.00089999999996,
+            "t": 195.43785520000006,
+            "r": 525.6027389055998,
+            "b": 165.47070000000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            94
+          ]
+        }
+      ],
+      "orig": "Weitzman, M. L. (1979): 'Optimal search for the best alternative,' Econometrica , 47, 641-654.",
+      "text": "Weitzman, M. L. (1979): 'Optimal search for the best alternative,' Econometrica , 47, 641-654.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 292.92099999999994,
+            "t": 55.157855200000085,
+            "r": 304.64160358860795,
+            "b": 43.190700000000106,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "10",
+      "text": "10"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "page_no": 7
+    },
+    "8": {
+      "size": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "page_no": 8
+    },
+    "9": {
+      "size": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "page_no": 9
+    },
+    "10": {
+      "size": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "page_no": 10
+    }
+  }
+}

@@ -1,0 +1,3193 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "2407.02591v1",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 9002551542650285700,
+    "filename": "2407.02591v1.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/groups/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        },
+        {
+          "$ref": "#/texts/72"
+        },
+        {
+          "$ref": "#/texts/73"
+        },
+        {
+          "$ref": "#/texts/74"
+        },
+        {
+          "$ref": "#/texts/75"
+        },
+        {
+          "$ref": "#/texts/76"
+        },
+        {
+          "$ref": "#/texts/77"
+        },
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        },
+        {
+          "$ref": "#/texts/86"
+        },
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        },
+        {
+          "$ref": "#/texts/90"
+        },
+        {
+          "$ref": "#/texts/91"
+        },
+        {
+          "$ref": "#/texts/92"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 153.62,
+            "t": 624.28036,
+            "r": 468.67,
+            "b": 582.97264,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "Enabling Student Innovation through Virtual Reality Development",
+      "text": "Enabling Student Innovation through Virtual Reality Development",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 129.86,
+            "t": 555.1997200000001,
+            "r": 485.77,
+            "b": 480.71128,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            138
+          ]
+        }
+      ],
+      "orig": "Sherri Harms Department of Computer Science and Information Technology University of Nebraska at Kearney Kearney, NE 68849 harmssk@unk.edu",
+      "text": "Sherri Harms Department of Computer Science and Information Technology University of Nebraska at Kearney Kearney, NE 68849 harmssk@unk.edu"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 276.29,
+            "t": 407.23492,
+            "r": 339.82,
+            "b": 393.81062545454546,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Abstract",
+      "text": "Abstract",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.024,
+            "t": 362.606,
+            "r": 533.1399999999999,
+            "b": 297.07399999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            438
+          ]
+        }
+      ],
+      "orig": "It is clear, from the major press coverage that Virtual Reality (VR) development is garnering, that there is a huge amount of development interest in VR across multiple industries, including video streaming, gaming and simulated learning. Even though PC, web, and mobile are still the top platforms for software development, it is important for university computer science (CS) programs to expose students to VR as a development platform.",
+      "text": "It is clear, from the major press coverage that Virtual Reality (VR) development is garnering, that there is a huge amount of development interest in VR across multiple industries, including video streaming, gaming and simulated learning. Even though PC, web, and mobile are still the top platforms for software development, it is important for university computer science (CS) programs to expose students to VR as a development platform."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.024,
+            "t": 279.80600000000004,
+            "r": 535.2879999999999,
+            "b": 186.644,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            630
+          ]
+        }
+      ],
+      "orig": "Additionally, it is important for CS students to learn how to learn about new technologies, since change is constant in the CS field. CS curriculum changes happen much slower than the pace of technology adoption. As new technologies are introduced, CS faculty and students often learn together, especially in smaller CS programs. This paper describes how student-led VR projects are used, across the CS curriculum, as basic CS concepts are covered. The student-led VR projects are engaging, and promote learning and creativity. Additionally, each student project inspires more students to try their hand at VR development as well.",
+      "text": "Additionally, it is important for CS students to learn how to learn about new technologies, since change is constant in the CS field. CS curriculum changes happen much slower than the pace of technology adoption. As new technologies are introduced, CS faculty and students often learn together, especially in smaller CS programs. This paper describes how student-led VR projects are used, across the CS curriculum, as basic CS concepts are covered. The student-led VR projects are engaging, and promote learning and creativity. Additionally, each student project inspires more students to try their hand at VR development as well."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 129.86,
+            "t": 168.86971999999992,
+            "r": 485.77,
+            "b": 94.26527999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            138
+          ]
+        }
+      ],
+      "orig": "Sherri Harms Department of Computer Science and Information Technology University of Nebraska at Kearney Kearney, NE 68849 harmssk@unk.edu",
+      "text": "Sherri Harms Department of Computer Science and Information Technology University of Nebraska at Kearney Kearney, NE 68849 harmssk@unk.edu"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.024,
+            "t": 715.9049200000001,
+            "r": 175.01000000000002,
+            "b": 702.4806254545455,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "1 Introduction",
+      "text": "1 Introduction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.024,
+            "t": 687.1360000000001,
+            "r": 536.1019999999999,
+            "b": 594.0010909090909,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            631
+          ]
+        }
+      ],
+      "orig": "The Computer Science 2013 curriculum guidelines for undergraduate programs in computer science [1] state that ' all graduates of computer science programs should have been involved in at least one substantial project .' and ' graduates should realize that the computing field advances at a rapid pace, and graduates must possess a solid foundation that allows and encourages them to maintain relevant skills as the field evolves.' 'To develop this ability, students should be exposed to multiple programming languages, tools, paradigms, and technologies as well as the fundamental underlying principles throughout their education.'",
+      "text": "The Computer Science 2013 curriculum guidelines for undergraduate programs in computer science [1] state that ' all graduates of computer science programs should have been involved in at least one substantial project .' and ' graduates should realize that the computing field advances at a rapid pace, and graduates must possess a solid foundation that allows and encourages them to maintain relevant skills as the field evolves.' 'To develop this ability, students should be exposed to multiple programming languages, tools, paradigms, and technologies as well as the fundamental underlying principles throughout their education.'"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.024,
+            "t": 578.5360000000001,
+            "r": 532.0699999999997,
+            "b": 499.174,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            543
+          ]
+        }
+      ],
+      "orig": "There are many ways computer science programs meet these goals and expose students to new technologies in the curriculum. Many educators have developed special topic courses that employ new technologies or use a project-driven approach to engage and motivate students. Pragmatically, most departments are under pressure to reduce course delivery costs, but techniques to motivate all students usually increase costs because they require the development of new material, running multiple level classes, and offering differentiated material [2].",
+      "text": "There are many ways computer science programs meet these goals and expose students to new technologies in the curriculum. Many educators have developed special topic courses that employ new technologies or use a project-driven approach to engage and motivate students. Pragmatically, most departments are under pressure to reduce course delivery costs, but techniques to motivate all students usually increase costs because they require the development of new material, running multiple level classes, and offering differentiated material [2]."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.024,
+            "t": 483.71799999999996,
+            "r": 536.4339999999999,
+            "b": 431.9710909090909,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            315
+          ]
+        }
+      ],
+      "orig": "Denning and McGettrick [3] argue that computer science should be ' recentered around a theme on innovating '. They state that ' innovation can be learned and a spirit of innovation can permeate throughout our courses, starting from the first year and building up expertise in innovation through to the final year. '",
+      "text": "Denning and McGettrick [3] argue that computer science should be ' recentered around a theme on innovating '. They state that ' innovation can be learned and a spirit of innovation can permeate throughout our courses, starting from the first year and building up expertise in innovation through to the final year. '"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.024,
+            "t": 416.506,
+            "r": 531.46,
+            "b": 309.554,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            684
+          ]
+        }
+      ],
+      "orig": "One of the best ways to introduce creativity and innovation is through the use of project-based learning (PBL) [4]. Straub summarized: PBL can provide ancillary benefits such as improved student creativity, self-image, and motivation. It also has been shown to have workforce preparation, job placement, academic program retention, and knowledge retention benefits [4]. Student-led projects (SLPs) are a form of PBL which offer the greatest degree of flexibility for student participants. These types of projects may start in response to an external stimulus (such as a design competition or other program) or simply based on students' desire to learn more about or work with a topic.",
+      "text": "One of the best ways to introduce creativity and innovation is through the use of project-based learning (PBL) [4]. Straub summarized: PBL can provide ancillary benefits such as improved student creativity, self-image, and motivation. It also has been shown to have workforce preparation, job placement, academic program retention, and knowledge retention benefits [4]. Student-led projects (SLPs) are a form of PBL which offer the greatest degree of flexibility for student participants. These types of projects may start in response to an external stimulus (such as a design competition or other program) or simply based on students' desire to learn more about or work with a topic."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.024,
+            "t": 294.08599999999996,
+            "r": 536.9259999999999,
+            "b": 200.92399999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            579
+          ]
+        }
+      ],
+      "orig": "At the University of Nebraska at Kearney (UNK), the Computer Science and Information Technology (CSIT) programs utilize SLPs in many ways, across the CS curriculum, embedded within several conventional courses and as part of the senior design experience course [5]. As a small CS program, using SLPs allows students to work with new technologies, without having a specialized elective course on a topic. Using SLPs has instilled a culture of innovation and creativity embraced by the CS student body, where advanced students assist newer students as they embark on their journey.",
+      "text": "At the University of Nebraska at Kearney (UNK), the Computer Science and Information Technology (CSIT) programs utilize SLPs in many ways, across the CS curriculum, embedded within several conventional courses and as part of the senior design experience course [5]. As a small CS program, using SLPs allows students to work with new technologies, without having a specialized elective course on a topic. Using SLPs has instilled a culture of innovation and creativity embraced by the CS student body, where advanced students assist newer students as they embark on their journey."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.024,
+            "t": 183.86491999999998,
+            "r": 228.44,
+            "b": 170.4406254545454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "2 Virtual Reality (VR)",
+      "text": "2 Virtual Reality (VR)",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.024,
+            "t": 155.096,
+            "r": 542.436,
+            "b": 103.36400000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            333
+          ]
+        }
+      ],
+      "orig": "There is a huge amount of development interest in VR across multiple industries, including video streaming, gaming and simulated learning. Even though PC, web, and mobile are still the top platforms for software development, it is important for university computer science programs to expose students to VR as a development platform.",
+      "text": "There is a huge amount of development interest in VR across multiple industries, including video streaming, gaming and simulated learning. Even though PC, web, and mobile are still the top platforms for software development, it is important for university computer science programs to expose students to VR as a development platform."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.024,
+            "t": 717.496,
+            "r": 540.996,
+            "b": 665.764,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            381
+          ]
+        }
+      ],
+      "orig": "Using VR as a development platform requires students to use innovation, creativity, and problem solving skills. VR replicates an environment that simulates a physical presence in places in the real world or an imagined world, allowing the user to interact in that world. Virtual realities artificially create sensory experiences, which can include sight, touch, hearing, and smell.",
+      "text": "Using VR as a development platform requires students to use innovation, creativity, and problem solving skills. VR replicates an environment that simulates a physical presence in places in the real world or an imagined world, allowing the user to interact in that world. Virtual realities artificially create sensory experiences, which can include sight, touch, hearing, and smell."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.024,
+            "t": 650.296,
+            "r": 541.1259999999997,
+            "b": 543.3340000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            746
+          ]
+        }
+      ],
+      "orig": "VR replicates an environment that simulates a physical presence in the real world or an imagined world, allowing the user to interact in that world. Virtual realities artificially create sensory experiences, which can include sight, touch, hearing, and smell. The simulated environment can be similar to the real world in order to create a lifelike experience-for example, in simulations for pilot or combat training-or it can differ significantly from reality, such as in VR games. Most advances are being done in the entertainment industry, but many understand and realize the future and the importance of VR in many fields, especially in education, training and simulation, tourism, patient care, mental therapy, architecture and modeling [6].",
+      "text": "VR replicates an environment that simulates a physical presence in the real world or an imagined world, allowing the user to interact in that world. Virtual realities artificially create sensory experiences, which can include sight, touch, hearing, and smell. The simulated environment can be similar to the real world in order to create a lifelike experience-for example, in simulations for pilot or combat training-or it can differ significantly from reality, such as in VR games. Most advances are being done in the entertainment industry, but many understand and realize the future and the importance of VR in many fields, especially in education, training and simulation, tourism, patient care, mental therapy, architecture and modeling [6]."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.024,
+            "t": 527.8779999999999,
+            "r": 536.4240000000001,
+            "b": 434.734,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            603
+          ]
+        }
+      ],
+      "orig": "VR was introduced in 1950 when Morton Heilig first described his idea for an ' experience theatre ,' and it gained some media attention in the 1990s. Due to the expensive and timeintensive development cycle and poor graphics, VR fell into a hiatus until 2012, when Palmer Luckey introduced the Oculus Rift through a Kickstarter campaign [7]. Unexpectedly, the campaign raised more than $670,000 in its first 24 hours, and more than a million dollars within three days. Rift has received a great deal of industry and consumer attention for its high-quality resolution, low latency, and affordability [8].",
+      "text": "VR was introduced in 1950 when Morton Heilig first described his idea for an ' experience theatre ,' and it gained some media attention in the 1990s. Due to the expensive and timeintensive development cycle and poor graphics, VR fell into a hiatus until 2012, when Palmer Luckey introduced the Oculus Rift through a Kickstarter campaign [7]. Unexpectedly, the campaign raised more than $670,000 in its first 24 hours, and more than a million dollars within three days. Rift has received a great deal of industry and consumer attention for its high-quality resolution, low latency, and affordability [8]."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.024,
+            "t": 419.26599999999996,
+            "r": 543.1,
+            "b": 326.114,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            601
+          ]
+        }
+      ],
+      "orig": "In the three years since its introduction, Oculus has gone on to be acquired by Facebook for two billion dollars, forge partnerships with Microsoft and Samsung, widen its scope, and ultimately become the poster boy for VR [9]. Developer support for Oculus Rift and other virtual reality headsets is at an all-time high [10]. Oculus' momentum clearly demonstrates technology has reached a point, in terms of quality and price, where these devices can be made available to the public in an attractive format. And, more importantly, they demonstrate new possibilities that can spark our imagination [11].",
+      "text": "In the three years since its introduction, Oculus has gone on to be acquired by Facebook for two billion dollars, forge partnerships with Microsoft and Samsung, widen its scope, and ultimately become the poster boy for VR [9]. Developer support for Oculus Rift and other virtual reality headsets is at an all-time high [10]. Oculus' momentum clearly demonstrates technology has reached a point, in terms of quality and price, where these devices can be made available to the public in an attractive format. And, more importantly, they demonstrate new possibilities that can spark our imagination [11]."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.024,
+            "t": 310.64599999999996,
+            "r": 541.9099999999999,
+            "b": 245.11400000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            395
+          ]
+        }
+      ],
+      "orig": "The 2015 GDC survey [10] revealed that development of virtual reality (VR) titles has more than doubled among participating developers with 16 percent currently developing for VR. This is up from the 7 percent of developers were working on VR projects in last year's survey. Additionally, the looming launch of Oculus Rift, HTC Vive, and PlayStation VR has clearly begun to sway developers [10].",
+      "text": "The 2015 GDC survey [10] revealed that development of virtual reality (VR) titles has more than doubled among participating developers with 16 percent currently developing for VR. This is up from the 7 percent of developers were working on VR projects in last year's survey. Additionally, the looming launch of Oculus Rift, HTC Vive, and PlayStation VR has clearly begun to sway developers [10]."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.024,
+            "t": 229.61599999999999,
+            "r": 540.1059999999999,
+            "b": 177.88400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            367
+          ]
+        }
+      ],
+      "orig": "Developers are also pretty keen on VR being a long-term platform, with 75 percent stating it as a long-term sustainable business. Yet, GDC's survey shows that many developers don't see VR becoming commonplace until 2030 [9]. Last November, analysts at Sophic Capital predicted VR will reach a $7 billion market by 2018. Others estimate up to $62 billion by 2025 [11].",
+      "text": "Developers are also pretty keen on VR being a long-term platform, with 75 percent stating it as a long-term sustainable business. Yet, GDC's survey shows that many developers don't see VR becoming commonplace until 2030 [9]. Last November, analysts at Sophic Capital predicted VR will reach a $7 billion market by 2018. Others estimate up to $62 billion by 2025 [11]."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.024,
+            "t": 160.82492000000002,
+            "r": 425.05,
+            "b": 147.40062545454543,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "3 Use of VR Student-Led Projects in a CS program",
+      "text": "3 Use of VR Student-Led Projects in a CS program",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.024,
+            "t": 132.05600000000004,
+            "r": 533.1279999999998,
+            "b": 80.32799999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            368
+          ]
+        }
+      ],
+      "orig": "Given the newness of the hardware and software tools used for VR, it is hard for faculty and students to develop an accurate project management plan for successful implementation, especially for a projects that contribute heavily to a semester course grade. The fear of the unknown can prohibit from students from even considering a VR project, especially if 'easier,'",
+      "text": "Given the newness of the hardware and software tools used for VR, it is hard for faculty and students to develop an accurate project management plan for successful implementation, especially for a projects that contribute heavily to a semester course grade. The fear of the unknown can prohibit from students from even considering a VR project, especially if 'easier,'"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.024,
+            "t": 717.496,
+            "r": 532.8959999999998,
+            "b": 679.5640000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            230
+          ]
+        }
+      ],
+      "orig": "'safer' alternatives can be selected to meet the course requirements. Additionally, inexperience with VR tools can cause students who start a VR project to get overwhelmed and lose the confidence and drive to complete the project.",
+      "text": "'safer' alternatives can be selected to meet the course requirements. Additionally, inexperience with VR tools can cause students who start a VR project to get overwhelmed and lose the confidence and drive to complete the project."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.024,
+            "t": 664.096,
+            "r": 535.9099999999999,
+            "b": 598.5640000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            398
+          ]
+        }
+      ],
+      "orig": "For cutting edge student-led projects, such as VR projects, the risk of project failure is high. For students to be successful, risks must be managed. The key risks are with estimating the time projected to complete tasks; estimating task complexity; identifying required tasks; and identifying knowledge, skill and experience gaps of students (and faculty) related to developing for a VR platform.",
+      "text": "For cutting edge student-led projects, such as VR projects, the risk of project failure is high. For students to be successful, risks must be managed. The key risks are with estimating the time projected to complete tasks; estimating task complexity; identifying required tasks; and identifying knowledge, skill and experience gaps of students (and faculty) related to developing for a VR platform."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.024,
+            "t": 583.096,
+            "r": 538.156,
+            "b": 462.334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            847
+          ]
+        }
+      ],
+      "orig": "To mitigate the risks students are willing to take, students should be reassured that a failed project can still be a fully successful SLP. It is only by failing to try that the student's grade is a failure as well. Students need to be encouraged to try something fun, unusual and interesting even if they only get partway done. Instructors should provide sample projects from previous students that illustrate 'A' projects that were not fully functional when completed. Additionally, the complexity of the project should be a graded component. Thus, students who choose a more complex project will not be penalized when they do not get all of the project components implemented. Similar to Lewandowski et al. [12] and Romeike [13], this approach increases student willingness to tinker with something new, and establishes a culture of innovation.",
+      "text": "To mitigate the risks students are willing to take, students should be reassured that a failed project can still be a fully successful SLP. It is only by failing to try that the student's grade is a failure as well. Students need to be encouraged to try something fun, unusual and interesting even if they only get partway done. Instructors should provide sample projects from previous students that illustrate 'A' projects that were not fully functional when completed. Additionally, the complexity of the project should be a graded component. Thus, students who choose a more complex project will not be penalized when they do not get all of the project components implemented. Similar to Lewandowski et al. [12] and Romeike [13], this approach increases student willingness to tinker with something new, and establishes a culture of innovation."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.024,
+            "t": 446.866,
+            "r": 532.624,
+            "b": 367.51399999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            493
+          ]
+        }
+      ],
+      "orig": "Instructors who use SLPs in their courses need to explain that this is the time in a CS student's life to experiment and 'play' as they learn. Additionally, milestones should be used throughout the semester to help the students stay on track, and to provide plenty of graded components of the project. These components help students demonstrate their communication and other professional skills, and provide opportunities for them to manage their project and to reflect on the experience [14].",
+      "text": "Instructors who use SLPs in their courses need to explain that this is the time in a CS student's life to experiment and 'play' as they learn. Additionally, milestones should be used throughout the semester to help the students stay on track, and to provide plenty of graded components of the project. These components help students demonstrate their communication and other professional skills, and provide opportunities for them to manage their project and to reflect on the experience [14]."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.024,
+            "t": 352.046,
+            "r": 538.7979999999999,
+            "b": 286.51399999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            449
+          ]
+        }
+      ],
+      "orig": "For example, in the Artificial Intelligence (AI) class at UNK, as the semester project is explained, students must submit a brief proposal with basic ideas and resources they will be using. The instructor reviews these proposals to gage if the project is doable within the semester timeframe, and if the project meets the overall goal of the assignment. The proposal may need to be resubmitted numerous times before it is approved by the instructor.",
+      "text": "For example, in the Artificial Intelligence (AI) class at UNK, as the semester project is explained, students must submit a brief proposal with basic ideas and resources they will be using. The instructor reviews these proposals to gage if the project is doable within the semester timeframe, and if the project meets the overall goal of the assignment. The proposal may need to be resubmitted numerous times before it is approved by the instructor."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.024,
+            "t": 271.04600000000005,
+            "r": 530.8659999999999,
+            "b": 205.48400000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            404
+          ]
+        }
+      ],
+      "orig": "The projects that students propose must have some core features that demonstrate an understanding and implementation of the course material while at the same time leaving room for individual creativity. Students are not told which technology to use. They may choose from many different technologies, VR being one of the more popular one. Mobile app and game development are other common choices for SLPs.",
+      "text": "The projects that students propose must have some core features that demonstrate an understanding and implementation of the course material while at the same time leaving room for individual creativity. Students are not told which technology to use. They may choose from many different technologies, VR being one of the more popular one. Mobile app and game development are other common choices for SLPs."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.024,
+            "t": 190.01599999999996,
+            "r": 536.86,
+            "b": 138.284,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            317
+          ]
+        }
+      ],
+      "orig": "Students in the AI class give a background presentation to the class part-way through the semester. Students introduce the goals of their project, describe the foundational course material being implemented and describe the resources they are using in their project. Students give each other feedback and suggestions.",
+      "text": "Students in the AI class give a background presentation to the class part-way through the semester. Students introduce the goals of their project, describe the foundational course material being implemented and describe the resources they are using in their project. Students give each other feedback and suggestions."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.024,
+            "t": 122.81600000000003,
+            "r": 533.62,
+            "b": 84.88509090909088,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            275
+          ]
+        },
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 72.024,
+            "t": 717.5079999999999,
+            "r": 537.2839999999999,
+            "b": 665.764,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            276,
+            604
+          ]
+        }
+      ],
+      "orig": "AI students also keep a weekly blog to report on their progress. These provide opportunities for the instructor and other classmates to provide feedback and suggestions as the semester progresses. According to Makiaho [15], o ne of the most important reason that professional software engineering project fails is poor reporting of the project's status. Because of the poor reporting, the management does not know the state of the project and thus does not execute the right actions. Student software development projects can fail for same reason, thus blogging is a key component to the success of SLPs.",
+      "text": "AI students also keep a weekly blog to report on their progress. These provide opportunities for the instructor and other classmates to provide feedback and suggestions as the semester progresses. According to Makiaho [15], o ne of the most important reason that professional software engineering project fails is poor reporting of the project's status. Because of the poor reporting, the management does not know the state of the project and thus does not execute the right actions. Student software development projects can fail for same reason, thus blogging is a key component to the success of SLPs."
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 72.024,
+            "t": 650.296,
+            "r": 540.7099999999997,
+            "b": 529.534,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            824
+          ]
+        }
+      ],
+      "orig": "Blogging also provides students with a place for reflection and analysis. Students are required to submit at least one entry a week for the last five weeks of the semester, along with a final blog post during finals week. Blog posts should be well written and explain the project and the ongoing progress.  It should provide the background for the project and links or references for websites, articles, etc. that were used.  Screen shots or pictures are used to enhance the blog postings. Students are expected to explain the algorithms and data structures used, along with the experiments conducted.  They are also expected to explain lessons learned, discuss future enhancements that should be made, and future testing that should be performed. Thus, blogging becomes an important tool for developing student soft skills.",
+      "text": "Blogging also provides students with a place for reflection and analysis. Students are required to submit at least one entry a week for the last five weeks of the semester, along with a final blog post during finals week. Blog posts should be well written and explain the project and the ongoing progress.  It should provide the background for the project and links or references for websites, articles, etc. that were used.  Screen shots or pictures are used to enhance the blog postings. Students are expected to explain the algorithms and data structures used, along with the experiments conducted.  They are also expected to explain lessons learned, discuss future enhancements that should be made, and future testing that should be performed. Thus, blogging becomes an important tool for developing student soft skills."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 72.024,
+            "t": 514.078,
+            "r": 541.7859999999997,
+            "b": 462.334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            301
+          ]
+        }
+      ],
+      "orig": "Straub [16] found that a key risk mitigation factor was ' ensuring that project knowledge is documented in a known and accessible location. ' Students use code repositories to manage code. Together with the blog and internal code documentation, the project knowledge is well documented and accessible.",
+      "text": "Straub [16] found that a key risk mitigation factor was ' ensuring that project knowledge is documented in a known and accessible location. ' Students use code repositories to manage code. Together with the blog and internal code documentation, the project knowledge is well documented and accessible."
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 72.024,
+            "t": 446.866,
+            "r": 517.0199999999999,
+            "b": 395.13399999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            345
+          ]
+        }
+      ],
+      "orig": "At the end of the semester, AI students complete a code walk-through, a final project presentation, along with their final reflection blog post that also includes an executable download, a link to a video demonstrating the project, or some way for the viewer to see the project in action. (Rubrics for these outcomes are available upon request.)",
+      "text": "At the end of the semester, AI students complete a code walk-through, a final project presentation, along with their final reflection blog post that also includes an executable download, a link to a video demonstrating the project, or some way for the viewer to see the project in action. (Rubrics for these outcomes are available upon request.)"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 72.024,
+            "t": 379.64599999999996,
+            "r": 524.4120000000001,
+            "b": 327.914,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            296
+          ]
+        }
+      ],
+      "orig": "The final project presentations are given in a professional conference style. Business representatives, alumni, and the entire CS student body are invited to attend. This provides an opportunity for students to disseminating results, gain recognition, and develop their oral communication skills.",
+      "text": "The final project presentations are given in a professional conference style. Business representatives, alumni, and the entire CS student body are invited to attend. This provides an opportunity for students to disseminating results, gain recognition, and develop their oral communication skills."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 72.024,
+            "t": 310.85492,
+            "r": 394.78000000000003,
+            "b": 297.43062545454546,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "4 Sample Virtual Reality Student-Led Projects",
+      "text": "4 Sample Virtual Reality Student-Led Projects",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 72.024,
+            "t": 282.08599999999996,
+            "r": 541.3819999999997,
+            "b": 216.524,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            428
+          ]
+        }
+      ],
+      "orig": "Starting in 2014, the UNK CSIT department adopted VR resources and lab space for student projects. Using VR lab resources, CSIT students quickly became innovators in the VR world. Each new version of VR hardware and/or software and each new semester, brought opportunities for students to try new things and express their creativity. Additionally, each student project inspires more students to try their hand at VR development.",
+      "text": "Starting in 2014, the UNK CSIT department adopted VR resources and lab space for student projects. Using VR lab resources, CSIT students quickly became innovators in the VR world. Each new version of VR hardware and/or software and each new semester, brought opportunities for students to try new things and express their creativity. Additionally, each student project inspires more students to try their hand at VR development."
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 72.024,
+            "t": 201.05600000000004,
+            "r": 536.1819999999997,
+            "b": 149.32400000000007,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            342
+          ]
+        }
+      ],
+      "orig": "Through this entire process, the faculty have fostered student innovation, but have not been the information providers - students have relied on online resources and each other for information. The faculty have provided students with opportunities to learn from authentic experiences, and allowed students to explore what is relevant to them.",
+      "text": "Through this entire process, the faculty have fostered student innovation, but have not been the information providers - students have relied on online resources and each other for information. The faculty have provided students with opportunities to learn from authentic experiences, and allowed students to explore what is relevant to them."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 72.024,
+            "t": 133.856,
+            "r": 536.5,
+            "b": 82.12800000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            369
+          ]
+        },
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 72.024,
+            "t": 717.496,
+            "r": 494.94999999999993,
+            "b": 693.364,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            370,
+            501
+          ]
+        }
+      ],
+      "orig": "The first CSIT VR project was a snowboarding simulation completed in the spring of 2014 as Software Engineering SLP. It used the first generation Oculus Rift VR display for head tracking and display along with the Wii Balance Board [17], to control the in-game snowboard. It was developed with the Unity Engine [18], and used Blender [19] for 3D modeling. An image of a student using the snowboarding simulation is shown in Figure 1 on the left, and a video demonstration is available on YouTube [20].",
+      "text": "The first CSIT VR project was a snowboarding simulation completed in the spring of 2014 as Software Engineering SLP. It used the first generation Oculus Rift VR display for head tracking and display along with the Wii Balance Board [17], to control the in-game snowboard. It was developed with the Unity Engine [18], and used Blender [19] for 3D modeling. An image of a student using the snowboarding simulation is shown in Figure 1 on the left, and a video demonstration is available on YouTube [20]."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 72.024,
+            "t": 677.8960000000001,
+            "r": 540.2899999999997,
+            "b": 584.764,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            637
+          ]
+        }
+      ],
+      "orig": "In the spring of 2015, two students created VR projects in the Artificial Intelligence (AI) course, using the Oculus Rift Development Kit (DK) 2. The first was an 'robots versus humans' VR first person shooter game, [21] for the Oculus Rift KD2. A screen shot of this game is shown in Figure 1 on the right. It used the Unity Game Development Engine, along with TF3DM [22] and Turbo Squid [23] for 3D modeling. The most challenging aspect of the development process was making the robot have enough intelligence to target the human controlled player, but not enough intelligence that the human controlled character doesn't have a chance.",
+      "text": "In the spring of 2015, two students created VR projects in the Artificial Intelligence (AI) course, using the Oculus Rift Development Kit (DK) 2. The first was an 'robots versus humans' VR first person shooter game, [21] for the Oculus Rift KD2. A screen shot of this game is shown in Figure 1 on the right. It used the Unity Game Development Engine, along with TF3DM [22] and Turbo Squid [23] for 3D modeling. The most challenging aspect of the development process was making the robot have enough intelligence to target the human controlled player, but not enough intelligence that the human controlled character doesn't have a chance."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 175.82,
+            "t": 401.02599999999995,
+            "r": 439.18,
+            "b": 390.69399999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "Figure 1: Sample Virtual Reality Student Led Projects",
+      "text": "Figure 1: Sample Virtual Reality Student Led Projects"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 72.024,
+            "t": 375.20599999999996,
+            "r": 508.0339999999997,
+            "b": 323.474,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            351
+          ]
+        }
+      ],
+      "orig": "The second VR SLP created in the AI class, was a VR motorcycle racing game. The game involves a player surviving on a motorcycle while avoiding walls and an AI motorcyclist. Players wear the Oculus Rift DK2 headset to look and feel like they are actually riding a motorcycle. A video demonstration and explanation of the game is available online [24].",
+      "text": "The second VR SLP created in the AI class, was a VR motorcycle racing game. The game involves a player surviving on a motorcycle while avoiding walls and an AI motorcyclist. Players wear the Oculus Rift DK2 headset to look and feel like they are actually riding a motorcycle. A video demonstration and explanation of the game is available online [24]."
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 72.024,
+            "t": 308.006,
+            "r": 540.4059999999998,
+            "b": 187.24400000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            818
+          ]
+        }
+      ],
+      "orig": "The fall 2015 semester brought about more student-led VR projects. The student who created the motorcycle racing game in AI, set out to improve it in the Computer Graphics course. Unfortunately, innovating in the VR world has its challenges. As the game was ported to new Unity 5 engine, the motorcycle which worked perfectly in the previous version, now moved straight up instead of straight forward. This problem was quickly fixed. The ability for the human player to jump over walls was added and other adjustments to the environment were made. Allowing a SLP to continue multiple semesters encourages students to start a cutting edge VR project, as they know it is worth the initial effort and time investment, and it allows them to get deeper into the technology and practice the process of iterative development.",
+      "text": "The fall 2015 semester brought about more student-led VR projects. The student who created the motorcycle racing game in AI, set out to improve it in the Computer Graphics course. Unfortunately, innovating in the VR world has its challenges. As the game was ported to new Unity 5 engine, the motorcycle which worked perfectly in the previous version, now moved straight up instead of straight forward. This problem was quickly fixed. The ability for the human player to jump over walls was added and other adjustments to the environment were made. Allowing a SLP to continue multiple semesters encourages students to start a cutting edge VR project, as they know it is worth the initial effort and time investment, and it allows them to get deeper into the technology and practice the process of iterative development."
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 72.024,
+            "t": 171.77600000000007,
+            "r": 538.9559999999999,
+            "b": 78.64800000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            607
+          ]
+        }
+      ],
+      "orig": "In fall 2015, a team of two students created a VR project in their Senior Capstone course. This was a VR 3D boxing game for the Oculus Rift. It was built using Unity with Leap Motion, using Blender for the 3D modeling. The Leap Motion allows the VR system to 'see' the player's hands. Unfortunately, it only recognizes a hand when all five fingers were visible. This made it difficult to see the player's fist, as needed for their boxing game. Their game turned into more of a 'slapping' game. One of the students is shown in Figure 2 presenting the game at the CSIT Fall 2015 Project Demonstration Day [5].",
+      "text": "In fall 2015, a team of two students created a VR project in their Senior Capstone course. This was a VR 3D boxing game for the Oculus Rift. It was built using Unity with Leap Motion, using Blender for the 3D modeling. The Leap Motion allows the VR system to 'see' the player's hands. Unfortunately, it only recognizes a hand when all five fingers were visible. This made it difficult to see the player's fist, as needed for their boxing game. Their game turned into more of a 'slapping' game. One of the students is shown in Figure 2 presenting the game at the CSIT Fall 2015 Project Demonstration Day [5]."
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 137.66,
+            "t": 534.466,
+            "r": 513.46,
+            "b": 524.134,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "Figure 2: Sample Student Presentation on Virtual Reality Student Led Project",
+      "text": "Figure 2: Sample Student Presentation on Virtual Reality Student Led Project"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 425.6666666666667,
+            "t": 704.6666666666666,
+            "r": 461.3333333333333,
+            "b": 697.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Matt Lueck",
+      "text": "Matt Lueck"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 320.33333333333337,
+            "t": 666.3333333333334,
+            "r": 400.66666666666663,
+            "b": 644.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "LUNCH-",
+      "text": "LUNCH-"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 312.66666666666663,
+            "t": 620.3333333333333,
+            "r": 381.66666666666663,
+            "b": 612.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "Benjamin Bomberger",
+      "text": "Benjamin Bomberger"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 72.024,
+            "t": 507.07491999999996,
+            "r": 231.20000000000002,
+            "b": 493.65062545454543,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "5 Results & Discussion",
+      "text": "5 Results & Discussion",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 72.024,
+            "t": 478.306,
+            "r": 541.3639999999999,
+            "b": 371.354,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            690
+          ]
+        }
+      ],
+      "orig": "Using SLPs, including VR projects, within the context of a course, students are empowered with the opportunity to complete their own projects. Additionally, when lab time is given to work on these projects, the instructor is available to answer questions as they arise. This also helps the instructor make sure that the projects are on track to be completed. Students also tend to help one another as they learn something new. However, there is a limit to the number of SLPs that an instructor can manage. At UNK, it was found that using SLPs with a class of more than 30 students was hard to manage. Additionally, SLPs often require unique hardware/software purchases, which can be costly.",
+      "text": "Using SLPs, including VR projects, within the context of a course, students are empowered with the opportunity to complete their own projects. Additionally, when lab time is given to work on these projects, the instructor is available to answer questions as they arise. This also helps the instructor make sure that the projects are on track to be completed. Students also tend to help one another as they learn something new. However, there is a limit to the number of SLPs that an instructor can manage. At UNK, it was found that using SLPs with a class of more than 30 students was hard to manage. Additionally, SLPs often require unique hardware/software purchases, which can be costly."
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 72.024,
+            "t": 355.88599999999997,
+            "r": 525.3679999999999,
+            "b": 317.954,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            225
+          ]
+        }
+      ],
+      "orig": "Romeike [13] found, 'it was most rewarding for students to strive for good working software, based on self-chosen and meaningful tasks, even if the resulting products did not have any outside value.' We found similar results.",
+      "text": "Romeike [13] found, 'it was most rewarding for students to strive for good working software, based on self-chosen and meaningful tasks, even if the resulting products did not have any outside value.' We found similar results."
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 72.024,
+            "t": 302.498,
+            "r": 544.342,
+            "b": 181.7210909090909,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            807
+          ]
+        }
+      ],
+      "orig": "After completing SLPs, students in the AI class commented, ' Allowing students to choose their projects allowed passion to develop which is extremely useful .' 'I learn the best by doing things. I'm glad this class implemented major projects instead of tests to reinforce knowledge.' 'I like the inclusion of the final project.' Software Engineering students commented, ' Being able to pick a project that is interesting to us was great.' 'I think actually doing a software engineering project ourselves was a good idea.' Senior Capstone students commented, 'I loved getting to pick a project of interest to me and having a semester to work on it.' 'Picking a project is a great choice for students. Learned a lot.' 'Enjoyed having the freedom to choose our own projects.' 'Cool Beans!  This was cool/Fun! '",
+      "text": "After completing SLPs, students in the AI class commented, ' Allowing students to choose their projects allowed passion to develop which is extremely useful .' 'I learn the best by doing things. I'm glad this class implemented major projects instead of tests to reinforce knowledge.' 'I like the inclusion of the final project.' Software Engineering students commented, ' Being able to pick a project that is interesting to us was great.' 'I think actually doing a software engineering project ourselves was a good idea.' Senior Capstone students commented, 'I loved getting to pick a project of interest to me and having a semester to work on it.' 'Picking a project is a great choice for students. Learned a lot.' 'Enjoyed having the freedom to choose our own projects.' 'Cool Beans!  This was cool/Fun! '"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 72.024,
+            "t": 166.25599999999997,
+            "r": 533.8439999999999,
+            "b": 114.524,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            305
+          ]
+        }
+      ],
+      "orig": "There are many advantages and benefits to supporting SLPs. Similar to undergraduate research, academic departments benefit from the reflected glory of successful projects which can be reported on web sites and in news articles. Student successes in SLPs help encourage and motivate other students as well.",
+      "text": "There are many advantages and benefits to supporting SLPs. Similar to undergraduate research, academic departments benefit from the reflected glory of successful projects which can be reported on web sites and in news articles. Student successes in SLPs help encourage and motivate other students as well."
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 72.024,
+            "t": 99.05999999999995,
+            "r": 537.6599999999999,
+            "b": 74.928,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            186
+          ]
+        },
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 72.024,
+            "t": 717.496,
+            "r": 535.996,
+            "b": 679.5640000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            187,
+            447
+          ]
+        }
+      ],
+      "orig": "For example, the snowboarding VR project was presented to local businesses and CSIT students at the CSIT Spring 2014 Project Demonstration Day; and at outreach events for middle and high school students at the 2014 Nebraska Broadband Conference and the 2015 First Lego League Robotics Competition in Kearney, and the motorcycle racing game was presented at an IT Expo [25] for high school students in March 2016, as shown in Figure 3 on the right.",
+      "text": "For example, the snowboarding VR project was presented to local businesses and CSIT students at the CSIT Spring 2014 Project Demonstration Day; and at outreach events for middle and high school students at the 2014 Nebraska Broadband Conference and the 2015 First Lego League Robotics Competition in Kearney, and the motorcycle racing game was presented at an IT Expo [25] for high school students in March 2016, as shown in Figure 3 on the right."
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 72.024,
+            "t": 664.096,
+            "r": 528.3820000000001,
+            "b": 626.164,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            241
+          ]
+        }
+      ],
+      "orig": "The student who created the motorcycle racing game, Sam Middleton, is shown in Figure 3 on the left pitching his idea for a VR game development company. His idea won the 5th annual Central Nebraska business idea contest in October 2015 [26].",
+      "text": "The student who created the motorcycle racing game, Sam Middleton, is shown in Figure 3 on the left pitching his idea for a VR game development company. His idea won the 5th annual Central Nebraska business idea contest in October 2015 [26]."
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 115.7,
+            "t": 448.666,
+            "r": 499.42,
+            "b": 424.534,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            138
+          ]
+        }
+      ],
+      "orig": "Figure 3: a.)Student Pitching VR Game Development as a Business b.) High School Student Playing UNK CS Student's VR game at itx16.gips.org",
+      "text": "Figure 3: a.)Student Pitching VR Game Development as a Business b.) High School Student Playing UNK CS Student's VR game at itx16.gips.org"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 73.66666666666667,
+            "t": 488.0,
+            "r": 101.33333333333334,
+            "b": 483.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Finalist #3",
+      "text": "Finalist #3"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 492.0,
+            "t": 573.6666666666666,
+            "r": 528.3333333333334,
+            "b": 535.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "O",
+      "text": "O"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 431.33333333333337,
+            "t": 556.3333333333333,
+            "r": 475.33333333333337,
+            "b": 538.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Oculu",
+      "text": "Oculu"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 72.024,
+            "t": 409.078,
+            "r": 523.8120000000001,
+            "b": 371.1110909090909,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            251
+          ]
+        }
+      ],
+      "orig": "' With the rising market in virtual reality gaming, such a business would thrive in the coming years. And unlike the physical products of most businesses, games could be mass-produced cheaply through digital online marketplaces ,' said Middleton [26].",
+      "text": "' With the rising market in virtual reality gaming, such a business would thrive in the coming years. And unlike the physical products of most businesses, games could be mass-produced cheaply through digital online marketplaces ,' said Middleton [26]."
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 72.024,
+            "t": 355.65799999999996,
+            "r": 534.5539999999999,
+            "b": 331.51109090909085,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            186
+          ]
+        }
+      ],
+      "orig": "Middleton continued, ' As these virtual reality devices are created by Microsoft, Sony, Samsung and Google, there will be a high demand for software compatible with these devices ' [26].",
+      "text": "Middleton continued, ' As these virtual reality devices are created by Microsoft, Sony, Samsung and Google, there will be a high demand for software compatible with these devices ' [26]."
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 72.024,
+            "t": 316.046,
+            "r": 539.02,
+            "b": 278.11400000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            232
+          ]
+        }
+      ],
+      "orig": "Notice that he is the same student trying out the VR project three semesters earlier, on the left in Figure 1. This illustrates how the students who complete VR SLPs inspire and teach the younger students to also try VR development.",
+      "text": "Notice that he is the same student trying out the VR project three semesters earlier, on the left in Figure 1. This illustrates how the students who complete VR SLPs inspire and teach the younger students to also try VR development."
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 72.024,
+            "t": 261.05492000000004,
+            "r": 164.45000000000002,
+            "b": 247.63062545454545,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "6 Conclusion",
+      "text": "6 Conclusion",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 72.024,
+            "t": 232.25599999999997,
+            "r": 541.6399999999999,
+            "b": 180.524,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            353
+          ]
+        }
+      ],
+      "orig": "VR will be a major contributor to new technologies and innovations for years to come. The UNK CSIT Department plans to stay on the leading edge of this field, proving the tools and resources needed to inspire student creativity and innovation so they can be successful in their VR classroom projects - enabling them to be successful entrepreneurs in VR.",
+      "text": "VR will be a major contributor to new technologies and innovations for years to come. The UNK CSIT Department plans to stay on the leading edge of this field, proving the tools and resources needed to inspire student creativity and innovation so they can be successful in their VR classroom projects - enabling them to be successful entrepreneurs in VR."
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 72.024,
+            "t": 165.05600000000004,
+            "r": 542.78,
+            "b": 99.524,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            385
+          ]
+        }
+      ],
+      "orig": "Empowering students through the use of SLPs across the curriculum embodies the goals of the CS2013 curricula guideline. It is a holistic approach that goes beyond exposing students to technological facts. It helps students develop their verbal and written communication, time management, and problem solving skills. It helps students develop risk tolerance, innovation, and creativity.",
+      "text": "Empowering students through the use of SLPs across the curriculum embodies the goals of the CS2013 curricula guideline. It is a holistic approach that goes beyond exposing students to technological facts. It helps students develop their verbal and written communication, time management, and problem solving skills. It helps students develop risk tolerance, innovation, and creativity."
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.024,
+            "t": 715.9049200000001,
+            "r": 154.61,
+            "b": 702.4806254545455,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.024,
+            "t": 687.1360000000001,
+            "r": 431.77399999999983,
+            "b": 663.004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            123
+          ]
+        }
+      ],
+      "orig": "[1] Computer Science Curricula 2013, retrieved February 16, 2016 from http://www.acm.org/education/CS2013-final-report.pdf.",
+      "text": "Computer Science Curricula 2013, retrieved February 16, 2016 from http://www.acm.org/education/CS2013-final-report.pdf.",
+      "enumerated": true,
+      "marker": "[1]"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.024,
+            "t": 659.5360000000001,
+            "r": 533.74,
+            "b": 607.8040000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            317
+          ]
+        }
+      ],
+      "orig": "[2] J. Carter, D. Bouvier, R. Cardell-Oliver, et al., 2011. Motivating all our students? In Proceedings of the 16th annual conference reports on Innovation and technology in computer science education - working group reports (ITiCSE-WGR '11), Liz Adams an d Justin Joseph Jurgens (Eds.). ACM, New York, NY, USA, 1-18.",
+      "text": "J. Carter, D. Bouvier, R. Cardell-Oliver, et al., 2011. Motivating all our students? In Proceedings of the 16th annual conference reports on Innovation and technology in computer science education - working group reports (ITiCSE-WGR '11), Liz Adams an d Justin Joseph Jurgens (Eds.). ACM, New York, NY, USA, 1-18.",
+      "enumerated": true,
+      "marker": "[2]"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.024,
+            "t": 604.348,
+            "r": 539.38,
+            "b": 580.2040000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            115
+          ]
+        }
+      ],
+      "orig": "[3] P. J. Denning and A. McGettrick. 2005. Recentering computer science. Commun. ACM 48, 11 (November 2005), 15-19.",
+      "text": "P. J. Denning and A. McGettrick. 2005. Recentering computer science. Commun. ACM 48, 11 (November 2005), 15-19.",
+      "enumerated": true,
+      "marker": "[3]"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.024,
+            "t": 576.7479999999999,
+            "r": 541.042,
+            "b": 524.9710909090909,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            273
+          ]
+        }
+      ],
+      "orig": "[4] J. Straub. 2015. Involvement of Undergraduate Students in Research: A Comparison of Course Research Components, Paid Research Activities, Student-Led Projects and Independent / Directed Study Courses , In Proceedings of Midwest Instructional Computing Symposium , 2015,",
+      "text": "J. Straub. 2015. Involvement of Undergraduate Students in Research: A Comparison of Course Research Components, Paid Research Activities, Student-Led Projects and Independent / Directed Study Courses , In Proceedings of Midwest Instructional Computing Symposium , 2015,",
+      "enumerated": true,
+      "marker": "[4]"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 99.024,
+            "t": 521.5060000000001,
+            "r": 461.02,
+            "b": 511.17400000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "micsymposium.org/mics2015/ProceedingsMICS_2015/Straub_1A2_6.pdf.",
+      "text": "micsymposium.org/mics2015/ProceedingsMICS_2015/Straub_1A2_6.pdf.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.024,
+            "t": 507.70599999999996,
+            "r": 532.18,
+            "b": 469.774,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            196
+          ]
+        }
+      ],
+      "orig": "[5] University of Nebraska at Kearney Computer Science & Information Technology Department Student Projects, unk.edu/academics/csit/student_info/projects_research.php, retrieved February 15, 2016.",
+      "text": "University of Nebraska at Kearney Computer Science & Information Technology Department Student Projects, unk.edu/academics/csit/student_info/projects_research.php, retrieved February 15, 2016.",
+      "enumerated": true,
+      "marker": "[5]"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.024,
+            "t": 466.306,
+            "r": 524.0559999999999,
+            "b": 442.174,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            161
+          ]
+        }
+      ],
+      "orig": "[6] Five Amazing Non-Gaming Ways People Are Using Oculus Rift, makeuseof.com/tag/5amazing-non-gaming-ways-people-using-oculus-rift/, retrieved February 11, 2016.",
+      "text": "Five Amazing Non-Gaming Ways People Are Using Oculus Rift, makeuseof.com/tag/5amazing-non-gaming-ways-people-using-oculus-rift/, retrieved February 11, 2016.",
+      "enumerated": true,
+      "marker": "[6]"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.024,
+            "t": 438.70599999999996,
+            "r": 438.58,
+            "b": 428.37399999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "[7] Oculus Rift, https://www.oculus.com/en-us/, retrieved March 8, 2016.",
+      "text": "Oculus Rift, https://www.oculus.com/en-us/, retrieved March 8, 2016.",
+      "enumerated": true,
+      "marker": "[7]"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.024,
+            "t": 424.90599999999995,
+            "r": 538.06,
+            "b": 414.57399999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            91
+          ]
+        }
+      ],
+      "orig": "[8] J. Patel. 2015. Virtual reality device developments. XRDS 22, 1 (November 2015), 13-13.",
+      "text": "J. Patel. 2015. Virtual reality device developments. XRDS 22, 1 (November 2015), 13-13.",
+      "enumerated": true,
+      "marker": "[8]"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.024,
+            "t": 411.106,
+            "r": 538.216,
+            "b": 373.154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            259
+          ]
+        }
+      ],
+      "orig": "[9] Oculus Rift release date and pre-order price: Everything you need to know ahead of its April 2016 release, http://www.alphr.com/oculus-rift/1000834/oculus-rift-release-date-andpre-order-price-developers-are-loving-oculus-rift, retrieved February 11, 2016.",
+      "text": "Oculus Rift release date and pre-order price: Everything you need to know ahead of its April 2016 release, http://www.alphr.com/oculus-rift/1000834/oculus-rift-release-date-andpre-order-price-developers-are-loving-oculus-rift, retrieved February 11, 2016.",
+      "enumerated": true,
+      "marker": "[9]"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.024,
+            "t": 369.686,
+            "r": 382.27,
+            "b": 359.354,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "[10] Game Developer Conference News and Information Blog,",
+      "text": "Game Developer Conference News and Information Blog,",
+      "enumerated": true,
+      "marker": "[10]"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 99.024,
+            "t": 355.88599999999997,
+            "r": 515.14,
+            "b": 345.554,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            81
+          ]
+        }
+      ],
+      "orig": "gdconf.com/news/gdc_state_of_the_industry_most.html, retrieved February 11, 2016.",
+      "text": "gdconf.com/news/gdc_state_of_the_industry_most.html, retrieved February 11, 2016.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.024,
+            "t": 342.08599999999996,
+            "r": 496.4519999999998,
+            "b": 317.9510909090909,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            136
+          ]
+        }
+      ],
+      "orig": "[11] D. M. Plasencia. 2015. One step beyond virtual reality: connecting past and future developments. XRDS 22, 1 (November 2015), 18-23.",
+      "text": "D. M. Plasencia. 2015. One step beyond virtual reality: connecting past and future developments. XRDS 22, 1 (November 2015), 18-23.",
+      "enumerated": true,
+      "marker": "[11]"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.024,
+            "t": 314.486,
+            "r": 531.242,
+            "b": 276.55109090909093,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            238
+          ]
+        }
+      ],
+      "orig": "[12] G. Lewandowski, E. Johnson, and M. Goldweber. 2005. Fostering a creative interest in computer science. In Proceedings of the 36th SIGCSE technical symposium on Computer science education (SIGCSE '05). ACM, New York, NY, USA, 535-539.",
+      "text": "G. Lewandowski, E. Johnson, and M. Goldweber. 2005. Fostering a creative interest in computer science. In Proceedings of the 36th SIGCSE technical symposium on Computer science education (SIGCSE '05). ACM, New York, NY, USA, 535-539.",
+      "enumerated": true,
+      "marker": "[12]"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.024,
+            "t": 273.086,
+            "r": 524.5439999999999,
+            "b": 235.15109090909095,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            232
+          ]
+        }
+      ],
+      "orig": "[13] R. Romeike. 2008. Towards students' motivation and interest: teaching tips for applying creativity. In Proceedings of the 8th International Conference on Computing Education Research (Koli '08). ACM, New York, NY, USA, 113-114.",
+      "text": "R. Romeike. 2008. Towards students' motivation and interest: teaching tips for applying creativity. In Proceedings of the 8th International Conference on Computing Education Research (Koli '08). ACM, New York, NY, USA, 113-114.",
+      "enumerated": true,
+      "marker": "[13]"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.024,
+            "t": 231.65599999999995,
+            "r": 539.0499999999998,
+            "b": 179.92399999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            258
+          ]
+        }
+      ],
+      "orig": "[14] C.J. Lesko, Jr.. 2009. Building a framework for the senior capstone experience in an information computer technology program. In Proceedings of the 10th ACM conference on SIG-information technology education (SIGITE '09). ACM, New York, NY, USA, 245251.",
+      "text": "C.J. Lesko, Jr.. 2009. Building a framework for the senior capstone experience in an information computer technology program. In Proceedings of the 10th ACM conference on SIG-information technology education (SIGITE '09). ACM, New York, NY, USA, 245251.",
+      "enumerated": true,
+      "marker": "[14]"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.024,
+            "t": 176.45600000000002,
+            "r": 538.862,
+            "b": 124.72399999999993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            289
+          ]
+        }
+      ],
+      "orig": "[15] P. M\u00e4kiaho, T. Poranen, and A. Seppi. 2015. Software metrics in students' software development projects. In Proceedings of the 16th International Conference on Computer Systems and Technologies (CompSysTech '15), Boris Rachev and Angel Smrikarov (Eds.). ACM, New York, NY, USA, 75-82.",
+      "text": "P. M\u00e4kiaho, T. Poranen, and A. Seppi. 2015. Software metrics in students' software development projects. In Proceedings of the 16th International Conference on Computer Systems and Technologies (CompSysTech '15), Boris Rachev and Angel Smrikarov (Eds.). ACM, New York, NY, USA, 75-82.",
+      "enumerated": true,
+      "marker": "[15]"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.024,
+            "t": 121.25599999999997,
+            "r": 535.66,
+            "b": 83.32799999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            179
+          ]
+        }
+      ],
+      "orig": "[16] J. Straub, S. Kerlin. 2014. An Experiential Education Approach to Teaching Software Project Management; Proceedings of the Midwest Instruction and Computing Symposium ; 2014.",
+      "text": "J. Straub, S. Kerlin. 2014. An Experiential Education Approach to Teaching Software Project Management; Proceedings of the Midwest Instruction and Computing Symposium ; 2014.",
+      "enumerated": true,
+      "marker": "[16]"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.024,
+            "t": 703.696,
+            "r": 537.34,
+            "b": 679.5640000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            112
+          ]
+        }
+      ],
+      "orig": "[17] Wii Balance Board, http://www.nintendo.com/consumer/downloads/wiiBalanceBoard.pdf, retrieved March 8, 2016.",
+      "text": "Wii Balance Board, http://www.nintendo.com/consumer/downloads/wiiBalanceBoard.pdf, retrieved March 8, 2016.",
+      "enumerated": true,
+      "marker": "[17]"
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.024,
+            "t": 676.096,
+            "r": 394.39,
+            "b": 665.764,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "[18] Unity Engine, https://unity3d.com/, retrieved March 8, 2016.",
+      "text": "Unity Engine, https://unity3d.com/, retrieved March 8, 2016.",
+      "enumerated": true,
+      "marker": "[18]"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.024,
+            "t": 662.296,
+            "r": 503.38,
+            "b": 651.964,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            85
+          ]
+        }
+      ],
+      "orig": "[19] Blender 3D Modeling software, https://www.blender.org/, retrieved March 8, 2016.",
+      "text": "Blender 3D Modeling software, https://www.blender.org/, retrieved March 8, 2016.",
+      "enumerated": true,
+      "marker": "[19]"
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.024,
+            "t": 648.496,
+            "r": 508.78,
+            "b": 624.364,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            109
+          ]
+        }
+      ],
+      "orig": "[20] D. Russell, Slalom VR Spring 2014 Project, youtube.com/watch?v=KjTtZWYA04g, retrieved February 11, 2016.",
+      "text": "D. Russell, Slalom VR Spring 2014 Project, youtube.com/watch?v=KjTtZWYA04g, retrieved February 11, 2016.",
+      "enumerated": true,
+      "marker": "[20]"
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.024,
+            "t": 620.8960000000001,
+            "r": 538.8759999999999,
+            "b": 596.764,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            97
+          ]
+        }
+      ],
+      "orig": "[21] I. Lim, Robots Vs. Humans blog, robotsvshumansposts.tumblr.com, retrieved February 11, 2016.",
+      "text": "I. Lim, Robots Vs. Humans blog, robotsvshumansposts.tumblr.com, retrieved February 11, 2016.",
+      "enumerated": true,
+      "marker": "[21]"
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.024,
+            "t": 593.296,
+            "r": 468.34,
+            "b": 582.964,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "[22] TF3DM 3D Modeling software, http://tf3dm.com/, retrieved March 8, 2016.",
+      "text": "TF3DM 3D Modeling software, http://tf3dm.com/, retrieved March 8, 2016.",
+      "enumerated": true,
+      "marker": "[22]"
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.024,
+            "t": 579.496,
+            "r": 538.06,
+            "b": 569.164,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            90
+          ]
+        }
+      ],
+      "orig": "[23] TurboSquid 3D Modeling software, http://www.turbosquid.com/, retrieved March 8, 2016.",
+      "text": "TurboSquid 3D Modeling software, http://www.turbosquid.com/, retrieved March 8, 2016.",
+      "enumerated": true,
+      "marker": "[23]"
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.024,
+            "t": 565.696,
+            "r": 512.74,
+            "b": 541.534,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            148
+          ]
+        }
+      ],
+      "orig": "[24] S. Middleton, 2015 Central NE Business Idea Contest - Virtual Reality Video Game, youtube.com/watch?v=0M_B7mCIMy4, retrieved February 11, 2016.",
+      "text": "S. Middleton, 2015 Central NE Business Idea Contest - Virtual Reality Video Game, youtube.com/watch?v=0M_B7mCIMy4, retrieved February 11, 2016.",
+      "enumerated": true,
+      "marker": "[24]"
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.024,
+            "t": 538.066,
+            "r": 528.34,
+            "b": 527.734,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            92
+          ]
+        }
+      ],
+      "orig": "[25] Career Pathways Institute Info Tech Expo 2016, itx16.gips.org, retrieved March 8, 2016.",
+      "text": "Career Pathways Institute Info Tech Expo 2016, itx16.gips.org, retrieved March 8, 2016.",
+      "enumerated": true,
+      "marker": "[25]"
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.024,
+            "t": 524.2660000000001,
+            "r": 533.726,
+            "b": 486.334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            252
+          ]
+        }
+      ],
+      "orig": "[26] T. Gottula. 2015. UNK's Middleton wins Business Idea Contest with virtual reality game, UNK News, November 24, 2015, http://unknews.unk.edu/2015/11/24/unks-middletonwins-business-idea-contest-with-virtual-reality-game/ retrieved February 11, 2016.",
+      "text": "T. Gottula. 2015. UNK's Middleton wins Business Idea Contest with virtual reality game, UNK News, November 24, 2015, http://unknews.unk.edu/2015/11/24/unks-middletonwins-business-idea-contest-with-virtual-reality-game/ retrieved February 11, 2016.",
+      "enumerated": true,
+      "marker": "[26]"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/39"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 71.71231079101562,
+            "t": 571.6925048828125,
+            "r": 313.1927490234375,
+            "b": 417.4677734375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/39"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 319.08380126953125,
+            "t": 571.4901580810547,
+            "r": 538.304443359375,
+            "b": 417.38787841796875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 162.52505493164062,
+            "t": 719.778434753418,
+            "r": 484.8214111328125,
+            "b": 549.6323852539062,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/43"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 71.62703704833984,
+            "t": 613.5865783691406,
+            "r": 264.3539733886719,
+            "b": 464.1989440917969,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/54"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 289.6303405761719,
+            "t": 613.7242431640625,
+            "r": 540.6901245117188,
+            "b": 464.27838134765625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 7
+    },
+    "8": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 8
+    },
+    "9": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 9
+    },
+    "10": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 10
+    }
+  }
+}
