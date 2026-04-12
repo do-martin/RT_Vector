@@ -27,15 +27,15 @@ class ChunkingConfig:
 
 
 METHODS: dict[str, str] = {
-    "hybrid":        "Hybrid (Docling) – strukturbewusst",
-    "fixed":         "Feste Größe – nach Zeichenanzahl",
-    "sentence":      "Satzbasiert – einfach (Regex)",
-    "paragraph":     "Absatzbasiert – nach Absätzen",
-    "sliding":       "Gleitendes Fenster – mit Überlapp",
-    "recursive":     "Recursive Character – Standard (LangChain)",
-    "token":         "Token Splitter – nach Tokens (LangChain)",
-    "markdown":      "Markdown Header – nach Überschriften (LangChain)",
-    "sentence_nltk": "Satzbasiert NLTK – präzise Satzgrenzen (LangChain)",
+    "hybrid": "Hybrid (Docling) - strukturbewusst",
+    "fixed": "Feste Größe - nach Zeichenanzahl",
+    "sentence": "Satzbasiert - einfach (Regex)",
+    "paragraph": "Absatzbasiert - nach Absätzen",
+    "sliding": "Gleitendes Fenster - mit Überlapp",
+    "recursive": "Recursive Character - Standard (LangChain)",
+    "token": "Token Splitter - nach Tokens (LangChain)",
+    "markdown": "Markdown Header - nach Überschriften (LangChain)",
+    "sentence_nltk": "Satzbasiert NLTK - präzise Satzgrenzen (LangChain)",
 }
 
 
@@ -82,11 +82,14 @@ def _find_positions(chunks_text: list[str], full_text: str) -> list[dict[str, An
 
 # ── Built-in methods ──────────────────────────────────────────────────────────
 
+
 def chunk_hybrid(document, chunker) -> list[dict[str, Any]]:
     return _make([c.text for c in chunker.chunk(document)])
 
 
-def chunk_fixed(text: str, chunk_size: int = 1000, overlap: int = 150) -> list[dict[str, Any]]:
+def chunk_fixed(
+    text: str, chunk_size: int = 1000, overlap: int = 150
+) -> list[dict[str, Any]]:
     if chunk_size <= 0:
         raise ValueError("chunk_size must be > 0")
     overlap = max(0, min(overlap, chunk_size - 1))
@@ -116,7 +119,9 @@ def chunk_paragraph(text: str, paragraphs_per_chunk: int = 3) -> list[dict[str, 
     return _find_positions(groups, text)
 
 
-def chunk_sliding(text: str, window_size: int = 800, step_size: int = 400) -> list[dict[str, Any]]:
+def chunk_sliding(
+    text: str, window_size: int = 800, step_size: int = 400
+) -> list[dict[str, Any]]:
     if window_size <= 0 or step_size <= 0:
         raise ValueError("window_size and step_size must be > 0")
     slices: list[tuple[str, int]] = []
@@ -131,8 +136,12 @@ def chunk_sliding(text: str, window_size: int = 800, step_size: int = 400) -> li
 
 # ── LangChain methods ─────────────────────────────────────────────────────────
 
-def chunk_recursive(text: str, chunk_size: int = 1000, overlap: int = 150) -> list[dict[str, Any]]:
+
+def chunk_recursive(
+    text: str, chunk_size: int = 1000, overlap: int = 150
+) -> list[dict[str, Any]]:
     from langchain_text_splitters import RecursiveCharacterTextSplitter
+
     splitter = RecursiveCharacterTextSplitter(
         chunk_size=chunk_size,
         chunk_overlap=overlap,
@@ -148,8 +157,11 @@ def chunk_recursive(text: str, chunk_size: int = 1000, overlap: int = 150) -> li
     return result
 
 
-def chunk_token(text: str, chunk_size: int = 256, overlap: int = 32) -> list[dict[str, Any]]:
+def chunk_token(
+    text: str, chunk_size: int = 256, overlap: int = 32
+) -> list[dict[str, Any]]:
     from langchain_text_splitters import TokenTextSplitter
+
     splitter = TokenTextSplitter(
         chunk_size=chunk_size,
         chunk_overlap=overlap,
@@ -168,18 +180,28 @@ def chunk_token(text: str, chunk_size: int = 256, overlap: int = 32) -> list[dic
 def chunk_markdown(text: str) -> list[dict[str, Any]]:
     """Splits at # / ## / ### headers. full_text is rebuilt from chunks."""
     from langchain_text_splitters import MarkdownHeaderTextSplitter
+
     splitter = MarkdownHeaderTextSplitter(
         headers_to_split_on=[("#", "h1"), ("##", "h2"), ("###", "h3")],
         strip_headers=False,
     )
-    texts = [doc.page_content.strip() for doc in splitter.split_text(text) if doc.page_content.strip()]
+    texts = [
+        doc.page_content.strip()
+        for doc in splitter.split_text(text)
+        if doc.page_content.strip()
+    ]
     # Positions are not reliable for markdown (headers get injected) — use -1
     return [_chunk(i, t) for i, t in enumerate(texts)]
 
 
-def chunk_sentence_nltk(text: str, chunk_size: int = 1000, overlap: int = 100) -> list[dict[str, Any]]:
+def chunk_sentence_nltk(
+    text: str, chunk_size: int = 1000, overlap: int = 100
+) -> list[dict[str, Any]]:
     from langchain_text_splitters import NLTKTextSplitter
-    splitter = NLTKTextSplitter(chunk_size=chunk_size, chunk_overlap=overlap, add_start_index=True)
+
+    splitter = NLTKTextSplitter(
+        chunk_size=chunk_size, chunk_overlap=overlap, add_start_index=True
+    )
     result, idx = [], 0
     for doc in splitter.create_documents([text]):
         if doc.page_content.strip():
@@ -190,6 +212,7 @@ def chunk_sentence_nltk(text: str, chunk_size: int = 1000, overlap: int = 100) -
 
 
 # ── Dispatchers ───────────────────────────────────────────────────────────────
+
 
 def apply_chunker(
     method: str,

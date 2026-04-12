@@ -44,13 +44,13 @@ const ACCEPTED = [".pdf", ".docx", ".doc", ".txt", ".md"]
 
 const CHUNKING_METHODS = [
   // ── Built-in ────────────────────────────────────────────────────────────────
-  { value: "hybrid",        label: "Hybrid (Docling)",         description: "Strukturbewusst – empfohlen für PDFs/DOCX" },
+  { value: "hybrid",        label: "Hybrid (Docling)",         description: "Strukturbewusst - empfohlen für PDFs/DOCX" },
   { value: "fixed",         label: "Feste Größe",              description: "Feste Zeichenanzahl mit Überlapp" },
   { value: "sentence",      label: "Satzbasiert (Regex)",      description: "Einfache Satztrennung per Regex" },
   { value: "paragraph",     label: "Absatzbasiert",            description: "Gruppiert Absätze zu Chunks" },
   { value: "sliding",       label: "Gleitendes Fenster",       description: "Überlappende Fenster fixer Größe" },
   // ── LangChain ───────────────────────────────────────────────────────────────
-  { value: "recursive",     label: "Recursive Character",      description: "Standard – trennt an Absatz → Satz → Wort → Zeichen" },
+  { value: "recursive",     label: "Recursive Character",      description: "Standard - trennt an Absatz → Satz → Wort → Zeichen" },
   { value: "token",         label: "Token Splitter",           description: "Nach echten LLM-Tokens (tiktoken)" },
   { value: "markdown",      label: "Markdown Header",          description: "Teilt an # / ## / ### Überschriften" },
   { value: "sentence_nltk", label: "Satzbasiert (NLTK)",       description: "Präzise Satzgrenzen via NLTK" },
