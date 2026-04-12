@@ -21,12 +21,12 @@ backend/
 ├── chunkers.py              # Alle Chunking-Strategien
 ├── embeddings.py            # Embedding- und Reranker-Modell
 ├── llm.py                   # LLM-Streaming (OpenAI, Claude, Gemini, Azure, Ollama)
-├── agent.py                 # Agentic RAG (Planer + Tool-Loop)
+├── agent.py                 # Modular RAG Pipeline (Routing, Planung, HyDE, Evaluation, iteratives Retrieval)
 ├── crypto.py                # Verschlüsselung für gespeicherte API Keys
 ├── api/v1/
 │   ├── ingest.py            # POST /ingest — Dokument hochladen & verarbeiten
 │   ├── chat.py              # POST /chat — RAG-Chat (SSE-Stream)
-│   ├── agent.py             # POST /agent — Agenten-Chat (SSE-Stream)
+│   ├── agent.py             # POST /agent — Modular RAG Chat (SSE-Stream)
 │   ├── chunk_preview.py     # POST /chunk-preview — Chunking-Vorschau
 │   ├── documents.py         # GET/DELETE /documents
 │   ├── conversations.py     # GET/DELETE /conversations
@@ -45,13 +45,33 @@ backend/
 |---|---|---|
 | `POST` | `/api/v1/ingest` | Dokument hochladen, chunken und indizieren (SSE-Progress) |
 | `POST` | `/api/v1/chat` | RAG-Chat-Anfrage (SSE-Stream) |
-| `POST` | `/api/v1/agent` | Agenten-Chat mit Tool-Loop (SSE-Stream) |
+| `POST` | `/api/v1/agent` | Modular RAG Chat — dynamisches Routing, Planung, HyDE, Evaluation (SSE-Stream) |
 | `POST` | `/api/v1/chunk-preview` | Chunking-Vorschau ohne Speicherung |
 | `GET` | `/api/v1/documents` | Alle indizierten Dokumente auflisten |
 | `DELETE` | `/api/v1/documents/{id}` | Dokument löschen |
 | `GET` | `/api/v1/conversations` | Gesprächsverläufe auflisten |
 | `DELETE` | `/api/v1/conversations/{id}` | Gespräch löschen |
 | `GET/POST` | `/api/v1/settings` | LLM-Provider-Konfiguration lesen/schreiben |
+
+## Modular RAG Pipeline
+
+Der `/api/v1/agent`-Endpunkt führt eine mehrstufige Modular RAG Pipeline aus. Alle Parameter werden vom LLM dynamisch pro Anfrage bestimmt — keine fixen Werte.
+
+| Stufe | Modul | Beschreibung |
+|---|---|---|
+| 0 | **Query Router** | LLM klassifiziert Anfrage (`simple`/`complex`) und bestimmt `num_queries` und `top_k` vollständig selbst |
+| 1a | **Query Planner** | LLM generiert N diverse Sub-Queries (nur `complex`, timeout: 15s) |
+| 1b | **HyDE** | LLM generiert hypothetischen Dokumentenabschnitt als Vektor-Anker (nur `complex`, timeout: 8s) |
+| 2 | **Hybridsuche** | Vektor + BM25 Volltext parallel für alle Queries, RRF-Fusion |
+| 3 | **Reranking** | Cross-Encoder (`bge-reranker-base`) bewertet alle Kandidaten, Top-k |
+| 4 | **Retrieval Evaluator** | LLM prüft ob Kontext ausreicht (timeout: 10s, max. 2 Iterationen) |
+| 4b | **Iteratives Retrieval** | Bei unzureichendem Kontext: verfeinerte Query + erneute Suche + Merge |
+| 5 | **Synthese** | LLM streamt Antwort in Markdown-Formatierung mit Prompt-Injection-Schutz |
+
+**Simple path** (direkte Fragen): Stufen 1a/1b/4/4b entfallen — eine direkte Hybridsuche + Reranking.  
+**Complex path** (Analyse, Vergleich, Multi-Fragen): Alle Stufen aktiv, `num_queries` und `top_k` vom Router bestimmt.
+
+Der `/api/v1/chat`-Endpunkt ist eine schlankere Variante: feste Hybridsuche + Reranking ohne Routing und Evaluation.
 
 ## Unterstützte Chunking-Methoden
 

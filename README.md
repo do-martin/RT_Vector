@@ -15,7 +15,7 @@ Ein lokales RAG-System (Retrieval-Augmented Generation) zum Hochladen von Dokume
 │                                                         │
 │  Docling (PDF-Parser)   multilingual-e5-large           │
 │  9 Chunking-Methoden    bge-reranker-base                │
-│  5 LLM-Provider         Agentic RAG                     │
+│  5 LLM-Provider         Modular RAG                     │
 └────────────────────────┬────────────────────────────────┘
                          │
 ┌────────────────────────▼────────────────────────────────┐
@@ -42,7 +42,7 @@ Ein lokales RAG-System (Retrieval-Augmented Generation) zum Hochladen von Dokume
 - **Embeddings:** `intfloat/multilingual-e5-large` (1024 Dim.) mit Passage/Query-Präfix
 - **Reranking:** `BAAI/bge-reranker-base` für präzisere Ergebnisse
 - **5 LLM-Provider:** OpenAI, Anthropic Claude, Google Gemini, Azure OpenAI, Ollama
-- **Agentic RAG:** Planer generiert mehrere Suchanfragen, Hybridsuche + Reranking, dann Antwortgenerierung
+- **Modular RAG:** Dynamisches Routing, Query-Planung, HyDE, Hybridsuche, Reranking, Self-Evaluation und iteratives Retrieval
 - **Gesprächsverläufe:** Unterhaltungen werden gespeichert und können fortgesetzt werden
 
 ## Schnellstart
@@ -87,7 +87,7 @@ RT_Vector/
     ├── chunkers.py              # Alle Chunking-Strategien
     ├── embeddings.py            # Embedding- und Reranker-Modell
     ├── llm.py                   # LLM-Streaming je Provider
-    ├── agent.py                 # Agentic RAG Pipeline
+    ├── agent.py                 # Modular RAG Pipeline
     ├── api/v1/                  # REST-Endpunkte
     ├── db/                      # Datenbankzugriff
     └── notebook_evaluation/     # Chunking-Evaluierung (siehe notebook_evaluation/README.md)

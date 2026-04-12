@@ -19,9 +19,8 @@ class ChatMessage(BaseModel):
 class AgentRequest(BaseModel):
     question: str
     history: list[ChatMessage] = []
-    top_k: int = 5
-    num_queries: int = 3
     conversation_id: int | None = None
+    # top_k and num_queries are determined dynamically by the router LLM
 
 
 @router.post("/agent")
@@ -59,8 +58,6 @@ async def run_agent(request: Request, body: AgentRequest):
             pool=pool,
             provider=provider,
             config=config,
-            top_k=body.top_k,
-            num_queries=body.num_queries,
         ):
             yield event
             # Collect data for persistence without blocking the stream
@@ -76,6 +73,11 @@ async def run_agent(request: Request, body: AgentRequest):
                         collected_pipeline.append({
                             "stage": data.get("stage"),
                             "message": data.get("message"),
+                        })
+                    elif t == "routing":
+                        collected_pipeline.append({
+                            "stage": "routing",
+                            "message": f"{data.get('route', '?')}: {data.get('reason', '')}",
                         })
                     elif t == "queries":
                         collected_pipeline.append({

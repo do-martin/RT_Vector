@@ -214,6 +214,21 @@ export default function ChatPage() {
                 statusMessage: event.message,
                 pipeline: [...(m.pipeline ?? []), { stage: event.stage, message: event.message }],
               }))
+            } else if (event.type === "routing") {
+              const label = event.route === "simple" ? "Einfach" : "Komplex"
+              const detail = event.route === "simple"
+                ? `top_k=${event.top_k}`
+                : `${event.num_queries} Sub-Queries · top_k=${event.top_k}`
+              patch((m) => ({
+                ...m,
+                statusMessage: event.route === "simple"
+                  ? "Einfache Anfrage erkannt — direkte Suche…"
+                  : "Komplexe Anfrage erkannt — erweiterte Suche…",
+                pipeline: [...(m.pipeline ?? []), {
+                  stage: "routing",
+                  message: `${label}: ${event.reason} · ${detail}`,
+                }],
+              }))
             } else if (event.type === "queries") {
               patch((m) => ({
                 ...m,
@@ -365,10 +380,13 @@ export default function ChatPage() {
 // ── Message bubble ────────────────────────────────────────────────────────────
 
 const STAGE_LABELS: Record<string, string> = {
+  routing:    "Routing",
   planning:   "Planung",
   queries:    "Suchanfragen",
   searching:  "Hybridsuche",
   reranking:  "Reranking",
+  evaluating: "Kontextprüfung",
+  iterating:  "Verfeinerte Suche",
   generating: "Generierung",
 }
 
