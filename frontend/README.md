@@ -1,36 +1,101 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# RT-Vector Frontend
 
-## Getting Started
+Next.js-Frontend für das RT-Vector RAG-System. Bietet eine deutschsprachige Oberfläche zum Hochladen von Dokumenten, Konfigurieren von LLM-Providern und Chatten mit den indizierten Inhalten.
 
-First, run the development server:
+## Technischer Stack
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+| Komponente | Technologie |
+|---|---|
+| Framework | Next.js 16.2.1 (App Router) |
+| Sprache | TypeScript |
+| UI-Bibliothek | shadcn/ui + Radix UI |
+| Styling | Tailwind CSS v4 |
+| Icons | lucide-react |
+| Markdown | react-markdown + remark-gfm + rehype-highlight |
+
+## Seiten
+
+| Route | Beschreibung |
+|---|---|
+| `/` | Startseite mit Navigation zu Chat, Upload und Einstellungen |
+| `/chat` | RAG-Chat mit Gesprächsverlauf-Sidebar |
+| `/upload` | Dokumente hochladen und verwalten |
+| `/settings` | LLM-Provider konfigurieren |
+
+## Funktionen
+
+### Chat (`/chat`)
+- Agenten-basierter RAG-Chat mit SSE-Streaming
+- Gesprächs-Sidebar: Unterhaltungen anlegen, wechseln und löschen
+- Anzeige der Verarbeitungsschritte (Planung → Suchanfragen → Hybridsuche → Reranking → Generierung)
+- Quellenangaben mit Ähnlichkeitswert und Chunk-Vorschau
+- Markdown-Rendering mit Syntax-Highlighting und kopierbaren Code-Blöcken
+- Pre-flight-Check: Prüft vor dem ersten Chat ob Provider und Dokumente vorhanden sind
+
+### Upload (`/upload`)
+- Drag-and-Drop oder Dateiauswahl (PDF, DOCX, DOC, TXT, MD — max. 50 MB)
+- Wahl der Chunking-Methode mit passenden Parametern
+- **Chunk-Vorschau:** Alle 9 Methoden werden auf einmal berechnet und können ohne weiteren Request verglichen werden. Chunks werden im Originaltext farblich hervorgehoben — Klick auf einen Chunk im Text scrollt zur Chunk-Liste und umgekehrt.
+- Upload-Fortschritt mit Schritt-für-Schritt-Anzeige (Empfangen → Analysieren → Aufteilen → Embeddings → Speichern)
+- Dokumententabelle mit Chunk-Anzahl, Upload-Datum und Löschfunktion
+
+### Einstellungen (`/settings`)
+- Auswahl zwischen 5 LLM-Providern: OpenAI, Google Gemini, Anthropic Claude, Azure OpenAI, Ollama
+- Verbindungstest direkt aus der UI
+- API Keys werden verschlüsselt im Backend gespeichert und nie zurück an den Client gesendet
+
+## Projektstruktur
+
+```
+frontend/
+├── app/
+│   ├── layout.tsx           # Root-Layout mit Header
+│   ├── page.tsx             # Startseite
+│   ├── chat/page.tsx        # Chat-Seite
+│   ├── upload/page.tsx      # Upload-Seite
+│   └── settings/page.tsx    # Einstellungen
+├── components/
+│   ├── Header.tsx           # Globale Navigation
+│   ├── IngestProgress.tsx   # Upload-Fortschrittsanzeige
+│   └── ui/                  # shadcn/ui Komponenten
+├── lib/
+│   ├── ingest-context.tsx   # Globaler Upload-State (React Context)
+│   └── utils.ts             # Hilfsfunktionen (cn)
+└── public/                  # Statische Assets
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Entwicklung
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Mit Docker (empfohlen)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Das Frontend läuft als Teil des Root-`docker-compose.yml`:
 
-## Learn More
+```bash
+# Im Projektstamm ausführen
+docker compose up
+```
 
-To learn more about Next.js, take a look at the following resources:
+Die App ist erreichbar unter `http://localhost:3000`.  
+Webpack-Polling ist aktiviert — Codeänderungen werden sofort übernommen.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+> **Hinweis:** Turbopack ist im Docker-Setup deaktiviert (`NEXT_DISABLE_TURBOPACK=1`), da es unter Windows/Docker kein Hot-Reload via Polling unterstützt.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Lokal ohne Docker
 
-## Deploy on Vercel
+**Voraussetzungen:** Node.js 20+
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+```bash
+cd frontend
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+# Abhängigkeiten installieren
+npm install
+
+# Entwicklungsserver starten
+npm run dev
+```
+
+Die App ist erreichbar unter `http://localhost:3000`. Das Frontend erwartet das Backend unter `http://localhost:8000`.
+
+## API-Proxy
+
+Next.js leitet alle Anfragen unter `/api/*` an das Backend weiter. Im Docker-Setup geschieht das über die Umgebungsvariable `BACKEND_URL=http://backend:8000`, lokal direkt auf `http://localhost:8000`.
