@@ -50,7 +50,7 @@ Ein lokales RAG-System (Retrieval-Augmented Generation) zum Hochladen von Dokume
 **Voraussetzungen:** Docker Desktop
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/do-martin/RT_Vector
 cd RT_Vector
 docker compose up
 ```
