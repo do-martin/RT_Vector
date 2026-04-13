@@ -1,5 +1,4 @@
 services:
-
   # ── Next.js frontend (dev, hot-reload via polling) ──────────────────────
   app:
     build:
@@ -8,21 +7,15 @@ services:
     ports:
       - "3000:3000"
     volumes:
-      # Source code — Watchpack/Chokidar polling picks up changes immediately
       - ./frontend:/app
-      # Named volume overlays node_modules so the bind-mount above does not
-      # shadow the packages installed during the image build.
       - frontend_node_modules:/app/node_modules
+      - frontend_next:/app/.next
     environment:
       - NODE_ENV=development
       - NEXT_TELEMETRY_DISABLED=1
-      # Turbopack (default in Next.js 15+) does not support polling and breaks
-      # hot reload on Docker/Windows. Disable it to fall back to webpack.
       - NEXT_DISABLE_TURBOPACK=1
-      # Webpack polling — required when inotify events don't reach the container
       - WATCHPACK_POLLING=true
       - CHOKIDAR_USEPOLLING=true
-      # Used by the /api/* proxy routes (app/api/**) to reach the backend
       - BACKEND_URL=http://backend:8000
     depends_on:
       - backend
@@ -38,17 +31,12 @@ services:
     ports:
       - "8000:8000"
     volumes:
-      # Source code — uvicorn --reload watches for changes
       - ./backend:/app
-      # Sentence-transformer model cache — survives container restarts so
-      # the ~2.5 GB model is only downloaded once.
       - models_cache:/app/.model_cache
     environment:
       - DATABASE_URL=postgresql+psycopg://postgres:postgres@postgres:5432/rt_vector
       - SENTENCE_TRANSFORMERS_HOME=/app/.model_cache
       - ENCRYPTION_KEY=bw7ZX0A5TuyU1cT9yONuir7FIVFyeiefs5pnQC1ON4Q=
-      # Force watchfiles (used by uvicorn --reload) to poll instead of inotify
-      # Required on Windows Docker where inotify events may not propagate reliably
       - WATCHFILES_FORCE_POLLING=true
     depends_on:
       postgres:
@@ -75,6 +63,7 @@ services:
     restart: unless-stopped
 
 volumes:
-  postgres_data:        # persistent DB data
-  models_cache:         # sentence-transformer model files (~2.5 GB, download once)
-  frontend_node_modules: # node_modules layer overlay (prevents bind-mount shadowing)
+  postgres_data:
+  models_cache:
+  frontend_node_modules:
+  frontend_next:

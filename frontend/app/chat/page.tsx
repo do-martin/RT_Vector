@@ -130,7 +130,7 @@ export default function ChatPage() {
       const msgs: Array<{
         id: number; role: string; content: string
         sources: Source[] | null; pipeline: PipelineStep[] | null; created_at: string
-      }> = await fetch(`/api/conversations/${conv.id}/messages`).then((r) => r.json())
+      }> = await fetch(`/api/conversations/${conv.id}`).then((r) => r.json())
       setMessages(msgs.map((m) => ({
         id: String(m.id),
         role: m.role as "user" | "assistant",
