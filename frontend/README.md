@@ -25,7 +25,7 @@ Next.js-Frontend für das RT-Vector RAG-System. Bietet eine deutschsprachige Obe
 ## Funktionen
 
 ### Chat (`/chat`)
-- Agenten-basierter RAG-Chat mit SSE-Streaming
+- RAG-Chat mit SSE-Streaming
 - Gesprächs-Sidebar: Unterhaltungen anlegen, wechseln und löschen
 - Anzeige der Verarbeitungsschritte (Planung → Suchanfragen → Hybridsuche → Reranking → Generierung)
 - Quellenangaben mit Ähnlichkeitswert und Chunk-Vorschau

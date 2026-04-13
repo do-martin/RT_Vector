@@ -1,6 +1,6 @@
 # RT-Vector
 
-Ein lokales RAG-System (Retrieval-Augmented Generation) zum Hochladen von Dokumenten und Chatten mit deren Inhalt. Dokumente werden mit Docling geparst, in Chunks aufgeteilt, als Vektoren in PostgreSQL gespeichert und über einen agenten-basierten RAG-Prozess mit einem konfigurierbaren LLM beantwortet.
+Ein lokales RAG-System (Retrieval-Augmented Generation) zum Hochladen von Dokumenten und Chatten mit deren Inhalt. Dokumente werden mit Docling geparst, in Chunks aufgeteilt, als Vektoren in PostgreSQL gespeichert und über einen RAG-Prozess mit einem konfigurierbaren LLM beantwortet.
 
 ## Architektur
 
